@@ -8,9 +8,36 @@
 * El servidor solo contenía texto plano.<br>
 * El administrador procura mantener el servidor funcionando.<br> </p>
 
-<p align="left"> Después de un tiempo... <br>
+<p align="left"> Al existir un cambio de modelo y crecimiento del desarrollo web:  <br>
+
 * Nacen lenguajes en el servidor y empiezan a aparecer proceso para responder al cliente.<br>
-* El cliente empezó a mostrar cosas más atractivas y páginas web interactivas.<br> </p>
+* El cliente empezó a mostrar cosas más atractivas y páginas web interactivas.<br> 
+* Se deja atrás al Webmaster y se conforma un equipo de desarrollo (ya no es suficiente con una sola persona a cargo) - Desarrollador Backend - Desarrollador Frontend. <br>
+
+* El servidor es consumido por varias empresas y servicios. <br> 
+* Nuestro servicio comenzó a consumir otros servicios adicionales de terceros. <br>
+* Se vuelve crítico tener un servidor estable, para ello se crearon ambientes como por ejemplo: <br> 
+    * Ambiente de producción <br>  
+    * Ambientes de desarrollo <br>   
+    * Ambiente demo (Para un cliente especial) <br>
+
+En la actualidad:  <br>
+* Las empresas empiezan a vender servicios. <br> 
+    * Email <br> 
+    * Almacenamiento <br> 
+    * Tratamiento de imágenes, etc.<br>
+* Aparecen los Cloud providers para cambiar la forma de cobro, abaratando costos de utilización y la manera de escalar los servicios.<br> 
+* Aparecieron los microservicios para solucionar problemas de escalabilidad. - Estos son una pequeña parte de un gran servidor. </p>
+
+Desventajas: <br>
+* En la práctica se vuelve más caro utilizar Microservicios comparado con un sistema de un solo servidor (Monolito).
+* Aparece Docker y este nos permite tener nuestros microservicios dentro de un sitio aislado y configurarlo para consumir menos recursos de hardware y ahorrar en costos.
+
+
+
+    
+
+</p>
 
 <h2 align="left"> ¿Qué es DevOps? </h2>
 
