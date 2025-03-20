@@ -10,7 +10,10 @@
 
 <p align="left"> Después de un tiempo... <br>
 * Nacen lenguajes en el servidor y empiezan a aparecer proceso para responder al cliente.<br>
-* El cliente empezó a mostrar cosas más atractivas y páginas web interactivas.<br> </p>
+* El cliente empezó a mostrar cosas más atractivas y páginas web interactivas.<br> 
+* Se deja atrás al Webmaster y se conforma un equipo de desarrollo (ya no es suficiente con una sola persona a cargo) - Desarrollador Backend - Desarrollador Frontend. <br>
+* El servidor es consumido por varias empresas y servicios. <br> 
+* Nuestro servicio comenzó a consumir otros servicios adicionales de terceros. </p>
 
 <h2 align="left"> ¿Qué es DevOps? </h2>
 
