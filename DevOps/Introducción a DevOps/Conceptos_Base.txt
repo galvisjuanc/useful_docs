@@ -1,0 +1,38 @@
+Conceptos Base
+
+La web como era en un inicio:
+
+* El cliente muestra una página web con información estructurada.
+* Funcionaba de manera simple, el usuario solo podía leer.
+* El servidor solo contenía texto plano.
+* El administrador procura mantener el servidor funcionando.
+
+Al existir un cambio de modelo y crecimiento del desarrollo web:
+
+* Nacen lenguajes en el servidor y empiezan a aparecer proceso para responder al cliente.<br>
+* El cliente empezó a mostrar cosas más atractivas y páginas web interactivas.
+* Se deja atrás al Webmaster y se conforma un equipo de desarrollo (ya no es suficiente con una sola persona a cargo):
+    * Desarrollador Backend
+    * Desarrollador Frontend.
+
+* El servidor es consumido por varias empresas y servicios.
+* Nuestro servicio comenzó a consumir otros servicios adicionales de terceros.
+* Se vuelve crítico tener un servidor estable, para ello se crearon ambientes como por ejemplo: 
+    * Ambiente de producción 
+    * Ambientes de preproduccion 
+    * Ambientes de QA 
+    * Ambientes de desarrollo 
+    * Ambiente demo (Para un cliente especial) 
+* Desde un ambiente local, usando el control de versiones y un orquestador, se crea un ambiente de desarrollo. Este a su vez puede estar relacionado con ambientes de QA, Preproducción, Staging y finalmente el ambiente de producción que es el producto final que el cliente utiliza.
+
+En la actualidad: 
+* Las empresas empiezan a vender servicios.
+    * Email 
+    * Almacenamiento 
+    * Tratamiento de imágenes, etc.
+* Aparecen los Cloud providers para cambiar la forma de cobro, abaratando costos de utilización y la manera de escalar los servicios.
+* Aparecieron los microservicios para solucionar problemas de escalabilidad. - Estos son una pequeña parte de un gran servidor. 
+
+Desventajas: 
+* En la práctica se vuelve más caro utilizar Microservicios comparado con un sistema de un solo servidor (Monolito).
+* Aparece Docker y este nos permite tener nuestros microservicios dentro de un sitio aislado y configurarlo para consumir menos recursos de hardware y ahorrar en costos.
