@@ -18,6 +18,8 @@
 * Nuestro servicio comenzó a consumir otros servicios adicionales de terceros. <br>
 * Se vuelve crítico tener un servidor estable, para ello se crearon ambientes como por ejemplo: <br> 
     * Ambiente de producción <br>  
+    * Ambientes de preproduccion <br>   
+    * Ambientes de QA <br>   
     * Ambientes de desarrollo <br>   
     * Ambiente demo (Para un cliente especial) <br>
 
