@@ -22,6 +22,7 @@
     * Ambientes de QA <br>   
     * Ambientes de desarrollo <br>   
     * Ambiente demo (Para un cliente especial) <br>
+* Desde un ambiente local, usando el control de versiones y un orquestador, se crea un ambiente de desarrollo. Este a su vez puede estar relacionado con ambientes de QA, Preproducción, Staging y finalmente el ambiente de producción que es el producto final que el cliente utiliza.
 
 En la actualidad:  <br>
 * Las empresas empiezan a vender servicios. <br> 
