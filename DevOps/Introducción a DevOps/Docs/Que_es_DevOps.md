@@ -36,3 +36,8 @@ Sin embargo, en la realidad pueden surgir errores:
 Aquí es donde nace DevOps: como un conjunto de herramientas y técnicas que facilitan la transición del código desde los desarrolladores hasta el ambiente de producción de forma más segura y eficiente.</p>
 
 <h3>La evolución de DevOps</h3>
+
+<p align="left">Actualmente, DevOps ha evolucionado y se ha vuelto más complejo. Ahora, su función incluye:
+
+* La colaboración entre especialistas en DevOps y desarrolladores para mejorar la calidad y comprensión del código.
+* La negociación con los equipos de operaciones para implementar herramientas que permitan monitorear el software en tiempo real.</p>
