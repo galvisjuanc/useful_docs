@@ -50,4 +50,9 @@ Este profesional se encarga de adaptar los principios de DevOps a las necesidade
 
 <h3>SRE (Site Reliability Engineering)</h3>
 
-<p align="left">.</p>
+<p align="left">La cultura DevOps tiene varios campos importantes como: 
+
+* Plan
+    * Continuous Integration/Continuous Delivery or Deployment (CI/CD)
+* La negociación con los equipos de operaciones para implementar herramientas que permitan monitorear el software en tiempo real.<
+* </p>
