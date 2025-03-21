@@ -41,3 +41,9 @@ Aquí es donde nace DevOps: como un conjunto de herramientas y técnicas que fac
 
 * La colaboración entre especialistas en DevOps y desarrolladores para mejorar la calidad y comprensión del código.
 * La negociación con los equipos de operaciones para implementar herramientas que permitan monitorear el software en tiempo real.</p>
+
+<h3>El rol de DevOps en las empresas</h3>
+
+<p align="left">Aunque DevOps comenzó como un concepto cultural, las empresas lo han convertido en un rol específico: el especialista en DevOps.
+
+Este profesional se encarga de adaptar los principios de DevOps a las necesidades de la empresa, utilizando herramientas y metodologías para fomentar la mejora continua en el desarrollo de software.</p>
