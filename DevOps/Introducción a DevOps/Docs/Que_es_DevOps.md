@@ -54,5 +54,12 @@ Este profesional se encarga de adaptar los principios de DevOps a las necesidade
 
 * Plan
     * Continuous Integration/Continuous Delivery or Deployment (CI/CD)
-* La negociación con los equipos de operaciones para implementar herramientas que permitan monitorear el software en tiempo real.<
-* </p>
+* Code
+    * Version Control (Git)
+    * Source Code (Code Language)
+* Build
+    * Development
+    * Automation
+* Test
+    * Quality Control
+ </p>
