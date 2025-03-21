@@ -62,4 +62,15 @@ Este profesional se encarga de adaptar los principios de DevOps a las necesidade
     * Automation
 * Test
     * Quality Control
+* Release
+* Deploy
+    * Infrastructure as Code
+    * Provisioning
+    * Configuration Management
+* Operate
+    * Virtualization
+    * Containerization
+* Monitor
+    * Logging
+    * Visualizations
  </p>
