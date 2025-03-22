@@ -11,3 +11,5 @@ git push -u origin main
 git remote add origin https://github.com/galvisjuanc/useful_docs.git
 git branch -M main
 git push -u origin main
+
+Another branch must be created to push changes into the main branch. 
