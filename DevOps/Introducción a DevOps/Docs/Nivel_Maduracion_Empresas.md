@@ -8,7 +8,13 @@ Casos:
     * Evaluar el estado de la empresa
     * Crear un plan de mejora
     * Ejecutar ese plan
-    Convencer a los equipos de usar los cambios
+    * Convencer a los equipos de usar los cambios
+
+    Sin embargo, es posible que:
+    * No cuente con herramientas adecuadas.
+    * No tenga un equipo dedicado a la mejora continua.
+    * No comprenda los beneficios de incorporar ciertas prácticas.
+
 2. Empresa migrando a cloud: ya saben que existe DevOps y puede tener cosas incorporadas para mejorar continuamente
     * Ayudar a los equipos a migrar app, datos, infraestructura a la nube
 3. Empresa que necesita asegurar la calidad de software: implementar herramientas que mejoren ese proceso
