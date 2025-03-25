@@ -1,10 +1,21 @@
 <h2 align="left"> Nivel de Maduración de las empresas según DevOps </h2>
 
-<p align="left"> Es una cultura de mejora continua, nace ante la necesidad de alinear los objetivos de dos equipos (Equipo Desarrolladores, Equipo Operaciones) en búsqueda de un objetivo común que es tener una aplicación corriendo, se debe entender que cada equipo tiene objetivos y en muchos casos los objetivos específicos no están alineados, uno quiere implementar features mientras que el otro quiere mantener estable su entorno.
+<p align="left"> Las empresas son como seres vivos con características únicas que se crean a medida que la misma opera, que usa herramientas y que desarrolla técnicas
 
-Involucra herramientas y/o técnicas para mejorar los procesos de desarrollo
+Casos:
 
-Con el tiempo se transformó el concepto y de ser una cultura se convirtió en un rol.</p>
+1. Empresa iniciando en DevOps: no tiene herramientas ni equipo enfocado en mejora continua, en qué trabajaremos
+    * Evaluar el estado de la empresa
+    * Crear un plan de mejora
+    * Ejecutar ese plan
+    Convencer a los equipos de usar los cambios
+2. Empresa migrando a cloud: ya saben que existe DevOps y puede tener cosas incorporadas para mejorar continuamente
+    * Ayudar a los equipos a migrar app, datos, infraestructura a la nube
+3. Empresa que necesita asegurar la calidad de software: implementar herramientas que mejoren ese proceso
+    * Implementar herramientas que detengan el código antes que llegue a producción, si es que no cumple estándares
+4. Empresa inicia proyecto nuevo:
+    * Hablar con todos los equipos
+    * Listar necesidades para usar buenas prácticas</p>
 
 <h3>El origen de DevOps</h3>
 
