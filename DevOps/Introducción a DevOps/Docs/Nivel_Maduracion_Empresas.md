@@ -15,9 +15,16 @@ Casos:
     * Ejecutar ese plan
     * Convencer a los equipos de usar los cambios
 
-2. Empresa migrando a cloud: ya saben que existe DevOps y puede tener cosas incorporadas para mejorar continuamente
-    * Ayudar a los equipos a migrar app, datos, infraestructura a la nube
-3. Empresa que necesita asegurar la calidad de software: implementar herramientas que mejoren ese proceso
+2. Empresa migrando a cloud: Cuando una empresa decide migrar a la nube, ya tiene conocimiento sobre las prácticas de DevOps y posiblemente haya incorporado algunas. La motivación para esta migración suele ser mejorar su eficiencia y competitividad.
+    
+    La labor que se tendrá como DevOps será:
+    * Ayudar a los equipos en la migración de aplicaciones y datos.
+    * Crear una infraestructura en la nube que replique la red privada existente.
+    * Facilitar el proceso de migración sin interrumpir las operaciones.
+
+3. Empresa que necesita asegurar la calidad de software: Algunas empresas enfrentan problemas en la calidad de su software y buscan soluciones para asegurar que los productos entregados cumplan con estándares adecuados.
+
+    La labor que se tendrá como DevOps será:
     * Implementar herramientas que detengan el código antes que llegue a producción, si es que no cumple estándares
 4. Empresa inicia proyecto nuevo:
     * Hablar con todos los equipos
