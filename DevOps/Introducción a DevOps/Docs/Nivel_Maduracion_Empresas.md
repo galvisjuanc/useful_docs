@@ -28,7 +28,10 @@ Casos:
     * Implementar herramientas de control de calidad.
     * Configurar sistemas que bloqueen el código si no cumple con un nivel de calidad predefinido (por ejemplo, 80% o 90%).
     * Establecer estrategias para garantizar que los estándares se respeten en cada fase del desarrollo.
-    
-4. Empresa inicia proyecto nuevo:
-    * Hablar con todos los equipos
-    * Listar necesidades para usar buenas prácticas</p>
+
+4. Empresa inicia proyecto nuevo: En algunos casos, una empresa con recursos suficientes decide incorporar DevOps desde el inicio de un proyecto de software. Esto permite establecer buenas prácticas desde el comienzo.
+
+    La labor que se tendrá como DevOps será:
+    * Coordinar con todos los equipos desde la fase inicial.
+    * Seleccionar las mejores herramientas y metodologías.
+    * Diseñar procesos que aseguren calidad y eficiencia desde el inicio.</p>
