@@ -35,6 +35,4 @@
     * Uso de "Infraestructura como Código" para automatizar despliegues en la nube.
     * Trabajo con plataformas cloud como AWS, Azure o Google Cloud.
     
-    En este caso, como DevOps, te enfocarás en la automatización y optimización de la infraestructura.
-
-</p>
+    En este caso, como DevOps, te enfocarás en la automatización y optimización de la infraestructura.</p>
