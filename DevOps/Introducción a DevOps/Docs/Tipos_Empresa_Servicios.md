@@ -19,7 +19,14 @@
 
     Como DevOps, tendrás que adaptar herramientas y procesos para aplicaciones heterogéneas. Puede que tu responsabilidad se limite a un subconjunto de aplicaciones en lugar de todas las de la empresa.
 
-3.
+3.  Empresa que ofrece servicios DevOps: En este escenario, la empresa no desarrolla software propio, sino que ofrece servicios DevOps a clientes externos. Esto implica:
+
+    * Trabajo con diferentes clientes, cada uno con su propia tecnología y necesidades.
+    * Implementación de pipelines y despliegues en diversos entornos, como Java, Node.js u otros.
+    * Asesoramiento a clientes sobre herramientas y metodologías DevOps.
+    * Adaptabilidad constante, ya que cada cliente puede tener un nivel distinto de madurez en DevOps.
+
+    Como DevOps en este tipo de empresa, tu rol será muy dinámico y requerirá aprendizaje continuo.
 
 4. 
 
