@@ -19,7 +19,7 @@
 
     Como DevOps, tendrás que adaptar herramientas y procesos para aplicaciones heterogéneas. Puede que tu responsabilidad se limite a un subconjunto de aplicaciones en lugar de todas las de la empresa.
 
-3.  Empresa que ofrece servicios DevOps: En este escenario, la empresa no desarrolla software propio, sino que ofrece servicios DevOps a clientes externos. Esto implica:
+3. Empresa que ofrece servicios DevOps: En este escenario, la empresa no desarrolla software propio, sino que ofrece servicios DevOps a clientes externos. Esto implica:
 
     * Trabajo con diferentes clientes, cada uno con su propia tecnología y necesidades.
     * Implementación de pipelines y despliegues en diversos entornos, como Java, Node.js u otros.
@@ -28,6 +28,13 @@
 
     Como DevOps en este tipo de empresa, tu rol será muy dinámico y requerirá aprendizaje continuo.
 
-4. 
+4. Empresa especializada en infraestructura: Aquí, el enfoque no está en el desarrollo de software, sino en la gestión de infraestructura. Esto significa:
+
+    * Automatización de tareas de mantenimiento de hardware.
+    * Creación de respaldos y gestión de infraestructura.
+    * Uso de "Infraestructura como Código" para automatizar despliegues en la nube.
+    * Trabajo con plataformas cloud como AWS, Azure o Google Cloud.
+    
+    En este caso, como DevOps, te enfocarás en la automatización y optimización de la infraestructura.
 
 </p>
