@@ -10,6 +10,6 @@
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Introducci%C3%B3n%20a%20DevOps/Docs/Tareas_DevOps.md"> Tareas principales del rol de DevOps </a>
 
-<a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Introducci%C3%B3n%20a%20DevOps/Docs/Tipos_Empresa_Servicios.md"> Habilidades y Conocimientos </a>
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Introducci%C3%B3n%20a%20DevOps/Docs/Habilidades_Conocimientos.md"> Habilidades y Conocimientos </a>
 
-<a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Introducci%C3%B3n%20a%20DevOps/Docs/Tipos_Empresa_Servicios.md"> Ciclo de vida del software en DevOps </a>
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Introducci%C3%B3n%20a%20DevOps/Docs/Ciclo_de_Vida_Software_DevOps.md"> Ciclo de vida del software en DevOps </a>
