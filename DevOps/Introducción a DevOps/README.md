@@ -8,7 +8,7 @@
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Introducci%C3%B3n%20a%20DevOps/Docs/Tipos_Empresa_Servicios.md"> Tipos de empresa por servicios </a>
 
-<a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Introducci%C3%B3n%20a%20DevOps/Docs/Tipos_Empresa_Servicios.md"> Tareas principales del rol de DevOps </a>
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Introducci%C3%B3n%20a%20DevOps/Docs/Tareas_DevOps.md"> Tareas principales del rol de DevOps </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Introducci%C3%B3n%20a%20DevOps/Docs/Tipos_Empresa_Servicios.md"> Habilidades y Conocimientos </a>
 
