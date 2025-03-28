@@ -6,4 +6,23 @@
     * Sistema de carpetas
     * Gestión de paquetes
     * Gestión de variables de entorno
-    * Manipulación de archivos (copiar, mover, eliminar).</p>
+    * Manipulación de archivos (copiar, mover, eliminar).
+    
+* Saber programar en nivel básico (Python, Go, Scripting Bash)
+    * Ciclos
+    * Rutinas
+    * Declaración de variables
+    * Comandos de construcción en el lenguaje usado
+    * Leer logs de esos lenguajes
+    
+* Conocimientos de servicios web
+    * Protocolos
+    * Puertos
+    * Levantar aplicación web
+    * Pruebas
+* Servicios en la nube
+    * Crear VM
+    * Crear redes
+    * Gestión de permisos (entre servicios, a personas)
+    * Gestión de almacenamiento
+    * CLI de las nubes</p>
