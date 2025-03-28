@@ -25,4 +25,18 @@
     * Crear redes
     * Gestión de permisos (entre servicios, a personas)
     * Gestión de almacenamiento
-    * CLI de las nubes</p>
+    * CLI de las nubes
+
+* Docker para virtualización
+    * Comandos básicos (run, pull, build, push)
+        * Crear Dockerfiles
+        * Manipular Docker registry
+        * Leer logs de Docker
+    * Imágenes
+    * Contenedores
+* Procesos de despliegue
+    * Herramientas de orquestación
+    * Manipulación de ambientes y sus variables
+    * Leer logs
+
+</p>
