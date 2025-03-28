@@ -34,9 +34,21 @@
         * Leer logs de Docker
     * Imágenes
     * Contenedores
+
 * Procesos de despliegue
     * Herramientas de orquestación
     * Manipulación de ambientes y sus variables
     * Leer logs
+
+* Herramientas recomendadas
+    * Sistemas OS: Linux
+    * CI/CD: Jenkins
+    * Proveedor de nube: AWS
+    * Lenguaje scripting: Python
+    * Contenedores: Docker
+    * Orquestador de contenedores: Kubernetes
+    * Monitoreo: Prometheus
+    * Infraestructura como código: Terraform
+    * Control de versiones: Git
 
 </p>
