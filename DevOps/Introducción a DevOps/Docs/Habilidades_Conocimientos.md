@@ -49,6 +49,4 @@
     * Orquestador de contenedores: Kubernetes
     * Monitoreo: Prometheus
     * Infraestructura como código: Terraform
-    * Control de versiones: Git
-
-</p>
+    * Control de versiones: Git </p>
