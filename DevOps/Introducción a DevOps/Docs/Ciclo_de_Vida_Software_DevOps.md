@@ -1,3 +1,3 @@
 <h2 align="left"> Ciclo de vida del software en DevOps </h2>
 
-<p align="left"> Ciclo de vida </p>
+<p align="left"> El ciclo de vida del software es un conjunto de etapas teóricas que una aplicación pasa desde su concepción hasta su despliegue y operación. Este proceso es fundamental para asegurar que un software se desarrolle de manera efectiva y eficiente. Es importante recalcar que en la práctica, no todas las empresas implementan todas estas fases de manera estricta, pero conocerlas nos permite comprender mejor el proceso general. </p>
