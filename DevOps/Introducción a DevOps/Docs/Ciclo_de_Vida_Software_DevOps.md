@@ -13,4 +13,10 @@
 
 * Pruebas: La calidad del código se verifica mediante pruebas exhaustivas. El resultado es un reporte detallando lo que funciona y lo que no, y el artefacto probado avanza si cumple con los criterios de calidad.
 
+* Almacenamiento: En esta fase, el artefacto se guarda en un lugar seguro para su futura referencia o consumo por otras fases del ciclo de vida.
+
+* Despliegue: El artefacto es desplegado en algún entorno, ya sea una instancia virtual o en un servidor físico, para que esté disponible a los usuarios finales.
+
+* Mantenimiento de la infraestructura: Se construye y mantiene una infraestructura adecuada para soportar y operar el software desplegado.
+
 . </p>
