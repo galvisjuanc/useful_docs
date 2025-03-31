@@ -7,6 +7,7 @@
 <p align="left"> Cada fase del ciclo de vida del software tiene su propio equipo o equipos, entradas y salidas, lo que garantiza una transición fluida y coherente de una etapa a otra.
 
 * Planificación: En esta fase, los equipos discuten y coordinan qué se va a hacer y cómo se va a llevar a cabo. Las salidas de esta etapa suelen ser documentos y listas de tareas que guiarán el desarrollo futuro.
+
 * Codificación: Los desarrolladores toman las ideas y las transforman en código funcional. Las ideas son las entradas en esta etapa, y el código es el resultado final.
 
 * Construcción: Aquí se procesan automáticamente o manualmente los códigos para producir un artefacto, que puede ser un archivo compilado o un ejecutable listo para la siguiente fase.
