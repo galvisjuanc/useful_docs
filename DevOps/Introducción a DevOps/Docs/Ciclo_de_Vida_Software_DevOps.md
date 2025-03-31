@@ -17,6 +17,19 @@
 
 * Despliegue: El artefacto es desplegado en algún entorno, ya sea una instancia virtual o en un servidor físico, para que esté disponible a los usuarios finales.
 
-* Mantenimiento de la infraestructura: Se construye y mantiene una infraestructura adecuada para soportar y operar el software desplegado.
+* Mantenimiento de la infraestructura: Se construye y mantiene una infraestructura adecuada para soportar y operar el software desplegado. </p>
 
-. </p>
+<h3 align="left"> ¿Cuán flexible es el ciclo de vida del software? </h3>
+
+<p align="left"> El ciclo de vida del software es un marco teórico y su implementación varía de una empresa a otra. En organizaciones pequeñas, algunas fases pueden no estar presentes inicialmente. Por ejemplo, podrías encontrarte con un entorno donde el código se desarrolla y despliega rápidamente sin fases formales de liberación o pruebas detalladas. Sin embargo, la idea es que, con el tiempo, estas fases se incorporen para crear una línea de proceso más robusta. </p>
+
+<h3 align="left"> ¿Dónde se integran las pruebas en el ciclo de vida? </h3>
+
+<p align="left"> A pesar de que las pruebas aparecen como una fase en el ciclo de vida, deberían estar integradas en todas las etapas del desarrollo. Es recomendable realizar:
+
+* Pruebas unitarias: Después del desarrollo, se verifica cada unidad o componente.
+* Pruebas de integración: Aseguran que los componentes interactúan correctamente tras la compilación.
+* Análisis de seguridad: Evalúa si las credenciales o datos sensibles no están expuestos.
+* Pruebas de estrés: Durante el despliegue, se evalúa cómo el software gestiona la carga.
+
+El tipo de pruebas a realizar dependerá tanto del tipo de software que se desarrolla como de las necesidades propias de la empresa. </p>
