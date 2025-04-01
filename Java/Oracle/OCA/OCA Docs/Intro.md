@@ -12,3 +12,7 @@ Ejemplo de Examen OCA Java (para Java 8):
 * 1Z0-809: Java SE 8 Programmer II.
 * 1Z0-811: Java Foundations.
 * 1Z0-006: Oracle Database Foundations. </p>
+
+<h3>Contenido</h3>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Oracle/OCA/Descripcion_General.md">Descripcion General</a>
