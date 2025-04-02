@@ -48,3 +48,15 @@
 * Comparar construcciones de ciclos
 * Usar break and continue
 </p>
+
+<h3>Working with Methods and Encapsulation </h3>
+
+<p align="left">Para entender la programación orientada a objetos es importante: <br>
+
+* Crear métodos con argumentos y retornar valores; incluir sobrecarga de métodos.
+* Aplicar la palabra clave static para métodos y campos.
+* Crear y sobrecargar constructores; diferenciar entre constructores de usuario definidos y por defecto.
+* Aplicar modificadores de acceso.
+* Aplicar principios de encapsulación a una clase.
+* Determinar el efecto sobre referencia de objetos y valores primitivos cuando son pasados en métodos que cambian los valores.
+</p>
