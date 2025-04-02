@@ -19,3 +19,13 @@
 * Saber como leer o escribir campos de objetos. 
 * Explicar el ciclo de vida de un objeto (creación, "dereferenciación por reasignación" y recolección de basura.
 * Desarrollar código que use clases wrapper como Boolean, Double e Integer.</p>
+
+<h3>Using Operators and Decision Constructs</h3>
+
+<p align="left">Dentro de los operadores y sentencias de decisión, la idea es: <br>
+
+* Usar Operadores Java; usar parentesis para sobreeescribir el operador de precedencia.
+* Testear igualdad entre Strings y otros objetos usando == y equals()
+* Crear If y un If/Else y construir ternarios.
+* Usar una declaración switch.
+</p>
