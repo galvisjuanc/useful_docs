@@ -29,3 +29,22 @@
 * Crear If y un If/Else y construir ternarios.
 * Usar una declaración switch.
 </p>
+
+<h3>Creating and Using Arrays</h3>
+
+<p align="left">Arreglos de una y varias dimensiones: <br>
+
+* Declarar, instanciar, inicializar y usar un arreglo unidimensional.
+* Declarar, instanciar, inicializar y usar un arreglo multidimensional.
+</p>
+
+<h3>Using Loop Constructs</h3>
+
+<p align="left">Los ciclos y sus palabras claves: <br>
+
+* Crear y usar ciclos while
+* Crear y usar ciclos for, incluyendo el ciclo for mejorado (foreach)
+* Crear y usar ciclos do/while
+* Comparar construcciones de ciclos
+* Usar break and continue
+</p>
