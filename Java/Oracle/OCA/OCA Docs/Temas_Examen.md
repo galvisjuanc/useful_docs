@@ -16,4 +16,6 @@
 
 * Declarar e inicializar variables (incluyendo casteo de tipos de datos primitivos).
 * Diferenciar entre variables de referencia de objeto y variables primitivas. 
-* Saber como leer o escribir campos de objetos. </p>
+* Saber como leer o escribir campos de objetos. 
+* Explicar el ciclo de vida de un objeto (creación, "dereferenciación por reasignación" y recolección de basura.
+* Desarrollar código que use clases wrapper como Boolean, Double e Integer.</p>
