@@ -71,3 +71,14 @@
 * Usar super y this para acceder a objetos y a los constructores.
 * Usar clases abstractas e interfaces.
 </p>
+
+<h3>Working with Inheritance</h3>
+
+<p align="left">Manejar Excepciones:<br>
+
+* Diferenciar entre excepciones checked, excepciones unchecked y errores.
+* Crear un try-catch y determinar como las excepciones alteran el flujo de programa normal.
+* Describir las ventajas de manejar excepciones.
+* Crear e invocar un método que arroje una excepción.
+Reconocer clases de excepciones comúnes (como Null Pointer Exception, ArithmeticException, ArrayIndexOutOfBoundsException, ClassCastException).
+</p>
