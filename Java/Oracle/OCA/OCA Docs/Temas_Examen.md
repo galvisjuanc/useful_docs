@@ -93,3 +93,14 @@ Reconocer clases de excepciones comúnes (como Null Pointer Exception, Arithmeti
 * Declarar y usar un ArrayList de un tipo dado.
 * Escribir una expresión Lambda simple que consume una expresión de Predicado Lambda.
 </p>
+
+<h3>Assume the following:</h3>
+
+<p align="left">En los ejercicios hay que asumir que:<br>
+
+* Paquetes perdidos e importar declaraciones: Si el ejemplo del código no incluye lo mencionado (paquetes o librerias), y la pregunta no se refiere explicitamente a ésto, entonces se asume que el ejemplo del código está en el mismo paquete o que las librerías existen para soportar el ejemplo.
+* No hay archivo o camino del directorio para las clases: Si una pregunta no declara los nombres de los archivos o directorio de locaciones de clases, se asume entonces una de las siguientes explicaciones, cuando sea habilitarán el código para compilar y ejecutarse:
+    * Todas las clases están en un archivo.
+    * Cada clases está contenida en un archivo separado, y todos los archivos están en un directorio.
+* Breaks de linea no intencionados:   
+    </p>
