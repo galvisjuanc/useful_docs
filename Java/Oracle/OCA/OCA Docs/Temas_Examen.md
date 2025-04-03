@@ -60,3 +60,14 @@
 * Aplicar principios de encapsulación a una clase.
 * Determinar el efecto sobre referencia de objetos y valores primitivos cuando son pasados en métodos que cambian los valores.
 </p>
+
+<h3>Working with Inheritance</h3>
+
+<p align="left">Al trabajar con herencia, se necesitan varios campos a cubrir:<br>
+
+* Describir herencia y sus beneficios.
+* Desarrollar código que haga uso del polimorfismo; desarrollar código que sobreescriba métodos; diferenciar entre el tipo de una referencia y el tipo de un objeto.
+* Determinar cuando castear es necesario.
+* Usar super y this para acceder a objetos y a los constructores.
+* Usar clases abstractas e interfaces.
+</p>
