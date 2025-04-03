@@ -72,7 +72,7 @@
 * Usar clases abstractas e interfaces.
 </p>
 
-<h3>Working with Inheritance</h3>
+<h3>Handling Exceptions</h3>
 
 <p align="left">Manejar Excepciones:<br>
 
@@ -81,4 +81,15 @@
 * Describir las ventajas de manejar excepciones.
 * Crear e invocar un método que arroje una excepción.
 Reconocer clases de excepciones comúnes (como Null Pointer Exception, ArithmeticException, ArrayIndexOutOfBoundsException, ClassCastException).
+</p>
+
+<h3>Working with Selected classes from the Java API </h3>
+
+<p align="left">Clases selectas de la Java API como StringBuilder, FileWriter, etc:<br>
+
+* Manipular datos usando la clase StringBuilder y sus métodos.
+* Crear y manipular Strings.
+* Crear y manipular datos de calendario usando clases de java.time.LocalDateTime, java.time.LocalDate, java.time.LocalTime, java.time.format.DateTimeFormatter, java.time.Period.
+* Declarar y usar un ArrayList de un tipo dado.
+* Escribir una expresión Lambda simple que consume una expresión de Predicado Lambda.
 </p>
