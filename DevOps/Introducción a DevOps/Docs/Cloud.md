@@ -22,9 +22,11 @@ Estas responsabilidades suelen clasificarse en tres modelos principales: infraes
 
 * SaaS
     * Responsabilidades de la empresa en una nube publica usando SaaS: Datos y acceso.
-    * Responsabilidades del tercero: Solicitudes, Tiempo de Ejecución, Sistema Operativo, Máquina Virtual, Proceso, Redes, Almacenamiento.
+    * Responsabilidades del tercero: Solicitudes, Tiempo de Ejecución, Sistema Operativo, Máquina Virtual, Proceso, Redes, Almacenamiento.</p>
 
-Actualmente, dentro de varios proveedores de servicio, tenemos estos tres gigantes:
+<h3> Empresas de Servicios </h3>
+
+<p align="left"> 
 
 * Amazon Web Services:
     * IaaS : Elastic Compute Cloud (EC2)
@@ -55,7 +57,7 @@ Actualmente, dentro de varios proveedores de servicio, tenemos estos tres gigant
 
  </p>
 
-<h3> Desglose del Encabezados para Computador </h3>
+<h3> Descripción de servicios de computación </h3>
 
 <p align="left"> 
 
@@ -64,7 +66,7 @@ Actualmente, dentro de varios proveedores de servicio, tenemos estos tres gigant
 * CaaS (Container as a Service): Proporciona una plataforma para ejecutar contenedores, que son unidades de software independientes y portables.
 * FaaS (Functions as a Service): Permite ejecutar pequeños fragmentos de código (funciones) sin tener que gestionar servidores. </p>
 
-<h3 align="left"> Desglose del Encabezados para Datos </h3>
+<h3 align="left"> Descripción de servicios para  para Datos </h3>
 
 <p align="left"> 
 
