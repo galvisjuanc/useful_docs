@@ -17,5 +17,10 @@ Estas herramientas permiten que varios desarrolladores trabajen en los mismos ar
 * AWS GitCommit
 * Azure Repo
 
+Las anteriores plataformas tienen varias funcionalidades como:
+
+* GitHub, Bitbucket y GitLab han desarrollado servicios adicionales alrededor de Git.
+* GitLab se destaca por permitir despliegues automáticos y gestión de tareas dentro del sistema.
+* GCP Cloud Source Repositories, AWS GitCommit y Azure Repo son versiones adaptadas de Git para entornos en la nube.
 
  </p>
