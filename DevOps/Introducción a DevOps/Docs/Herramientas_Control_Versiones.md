@@ -1,6 +1,6 @@
-<h2 align="left"> Cloud </h2>
+<h2 align="left"> Herramientas de Control de Versiones </h2>
 
-<h3> Herramientas de Control de Versiones </h3>
+<h3> ¿Por qué son necesarias? </h3>
 
 <p align="left"> Cuando los desarrolladores escriben código y crean nuevas aplicaciones, necesitan un lugar donde almacenar y compartir ese código de manera centralizada. Aquí es donde entran en juego las herramientas de control de versiones.
 
