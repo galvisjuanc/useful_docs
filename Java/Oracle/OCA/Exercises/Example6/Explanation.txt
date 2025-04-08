@@ -1,0 +1,17 @@
+    System.out.println(Boolean.parseBoolean("true"));
+    System.out.println(new Boolean(null));
+    //System.out.println(new Boolean());
+    System.out.println(new Boolean("true"));
+    System.out.println(new Boolean("trUE"));
+
+First option will print a true.
+
+Second option will print false.
+
+Third option will not compile because Boolean class does not have a no-args constructor. Remember 
+that no other wrapper class has a no-args constructor eiter. So new Integer(), or new Long() will 
+also not compile.
+
+Case of the String parameter does not matter. As long as the String equals "true" after ignoring 
+the case, it will be parsed as true.  However, if you have extra spaces, for example, " true" or "true ", 
+it will be parsed as false.
