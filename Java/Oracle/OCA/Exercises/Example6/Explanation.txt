@@ -12,6 +12,10 @@ Third option will not compile because Boolean class does not have a no-args cons
 that no other wrapper class has a no-args constructor eiter. So new Integer(), or new Long() will 
 also not compile.
 
-Case of the String parameter does not matter. As long as the String equals "true" after ignoring 
+Fourth option: Case of the String parameter does not matter. As long as the String equals "true" after ignoring 
 the case, it will be parsed as true.  However, if you have extra spaces, for example, " true" or "true ", 
 it will be parsed as false.
+
+Fifth option: Case of the String parameter does not matter. As long as the String equals "true" after 
+ignoring the case, it will be parsed as true.  However, if you have extra spaces, for example, " true" 
+or "true ", it will be parsed as false.
