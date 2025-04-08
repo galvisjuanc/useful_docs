@@ -33,4 +33,11 @@ new Boolean("yes") proporciona un objeto booleano que representa "false".
 
 El constructor booleano se explica solo.
 
-2. 
+2. La clase Boolean tiene dos métodos estáticos helper para crear booleanos - parseBoolean y valueOf.
+El método Boolean.parseBoolean(String) returna un boolean primitivo y no un objeto Booleano (Nota - Esto es igual para otros 
+métodos como Integer.parseInt - que retornan valores primitivos y no objetos). El booleano retornado representa el valor true 
+si el argumento string no es nulo y es igual, ignorando mayúsculas, al string "true".
+
+El método Boolean.valueOf(String) y su versión sobrecargada, por otro lado, trabajan de manera muy similar pero retorna 
+una referencia a un objeto Boolean.TRUE o Boolean.FALSE. Observa que ellos no crean un nuevo objeto Booleano pero solo retornan 
+las constantes estáticas TRUE or FALSE definidas en su clase Boolean.
