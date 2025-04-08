@@ -19,3 +19,18 @@ it will be parsed as false.
 Fifth option: Case of the String parameter does not matter. As long as the String equals "true" after 
 ignoring the case, it will be parsed as true.  However, if you have extra spaces, for example, " true" 
 or "true ", it will be parsed as false.
+
+Sobre los booleanos:
+
+1. Tienen dos constructores: Boolean(String) y Boolean(boolean). El constructor de strings permite un objeto Boolean 
+representando el valor "true" si el argumento del string no es nulo y es igual, ignorando mayúsculas,al string "true".
+De otra manera, el valor sería falso.
+
+Ejemplos:
+
+new Boolean("True") proporciona un objeto booleano que representa "true".
+new Boolean("yes") proporciona un objeto booleano que representa "false".
+
+El constructor booleano se explica solo.
+
+2. 
