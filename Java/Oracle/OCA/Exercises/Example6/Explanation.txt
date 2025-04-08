@@ -41,3 +41,9 @@ si el argumento string no es nulo y es igual, ignorando mayúsculas, al string "
 El método Boolean.valueOf(String) y su versión sobrecargada, por otro lado, trabajan de manera muy similar pero retorna 
 una referencia a un objeto Boolean.TRUE o Boolean.FALSE. Observa que ellos no crean un nuevo objeto Booleano pero solo retornan 
 las constantes estáticas TRUE or FALSE definidas en su clase Boolean.
+
+3. Cuando se usa el operador de igualdad ( == ) con booleanos, si exactamente uno de los operandos es un objeto Boolean,
+es primero decodificado en un boolean primitivo y luego los dos son comparados. Si ambos son objetos wrapper Boolean, 
+entonces sus referencias son comparadas como en el caso de otros objetos. Por lo tanto, 
+
+new Boolean(true) == new Boolean (true) es falso, pero new Boolean(true) == Boolean.parseBoolean("true") is true.
