@@ -1,0 +1,19 @@
+You have written some Java code in MyFirstClass.java file. Which of the following commands will you use to compile and run it.
+(Assume that the code has no package declaration.)
+
+Select 1 best option:
+
+1. javac MyFirstClass.java
+javar MyFirstClass
+
+2. javap MyFirstClass.java
+javar MyFirstClass.java
+
+3. java MyFirstClass.java
+java MyFirstClass.class
+
+4. javac MyFirstClass.java
+javar MyFirstClass.java
+
+5. javac MyFirstClass.java
+java MyFirstClass
