@@ -21,6 +21,20 @@ java MyFirstClass
 
 ANSWER:
 
-Remember that java code must be written in a file with .java extension. If you have a public class in the code, the name of the file must be same as the name of that public class.
+Remember that java code must be written in a file with .java extension. If you have a public class in the code, 
+the name of the file must be same as the name of that public class.
 
-Compilation and execution of a Java program is two step process. You first need to compile a java file using a Java compiler. Oracle's JDK comes with a compiler. It is contained in the executable file named javac. You will find it in <jdk installation folder>/bin.
+Compilation and execution of a Java program is two step process. You first need to compile a java file using a Java compiler. 
+Oracle's JDK comes with a compiler. It is contained in the executable file named javac. 
+You will find it in <jdk installation folder>/bin.
+
+javac compiles the source code and generates bytecode in a new file with the same name as the source file but with 
+extension .class. By default, the class file in generated in the same folder but javac is capable of placing it 
+in a different folder if you use the -d flag. 
+[This is just FYI and not required for the exam. -d is a very important and useful flag and we recommend that you 
+read about it even if it is not required for the exam.]
+
+In second step, the Java virtual machine (JVM), aka Java interpreter is invoked to execute the .class file. 
+Oracle's JVM is contained in the executable file named java. It is also present in the same bin folder 
+of JDK installation. It takes the fully qualified name (i.e. name including package) of the class file 
+without extension as a argument.
