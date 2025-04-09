@@ -29,6 +29,10 @@ public class TestClassEx {
     public static void main(String[] args) {
         Flyer f = new Eagle("American Bald Eagle");
         System.out.println(f.getName());
+
+        System.out.println(((Eagle) f).name);
+
+        System.out.println(((Bird) f).name);
     }
     
 }
