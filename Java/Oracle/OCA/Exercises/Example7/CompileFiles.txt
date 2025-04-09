@@ -17,3 +17,10 @@ javar MyFirstClass.java
 
 5. javac MyFirstClass.java
 java MyFirstClass
+
+
+ANSWER:
+
+Remember that java code must be written in a file with .java extension. If you have a public class in the code, the name of the file must be same as the name of that public class.
+
+Compilation and execution of a Java program is two step process. You first need to compile a java file using a Java compiler. Oracle's JDK comes with a compiler. It is contained in the executable file named javac. You will find it in <jdk installation folder>/bin.
