@@ -34,3 +34,9 @@ miembro de campo del objeto CT. Idealmente, debería ser capaz de acceder al cam
 usando el nombre myValue, pero en este caso, el parámetro de método cubre el campo de miembro porque tiene el mismo nombre. 
 Así que usando this.myValue, está cambiando la variable de instancia myValue asignandole el valor contenido en la variable 
 local myValue, el cuál es 200. Así que si se imprime ct.myValue, se verá el número 200.
+
+Ahora, en el método showOne, hay dos variables accesibles con el mismo nombre myValue. Una es el parámetro del método y otro es el campo 
+del miembro del objeto ChangeTest. Así que usando se use myValue, de echo se usa el parámetro del método en vez del campo del miembro del objeto.
+
+Por lo tanto, cuando se hace myValue = myValue; se asigna el parámetro contenido en el parámetro del método a si mismo. No se está cambiando el campo 
+del miemrbo myValue. Así, cuando se imprime ese valor, se verá el 200.
