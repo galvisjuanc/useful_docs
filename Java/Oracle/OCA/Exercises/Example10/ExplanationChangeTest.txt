@@ -1,0 +1,27 @@
+Un par de conceptos importantes para el código:
+
+public class ChangeTest {
+    private int myValue = 0;
+
+    public void showOne(int myValue) {
+        myValue = myValue;
+    }
+
+    public void showTwo(int myValue) {
+        this.myValue = myValue;
+    }
+
+    public static void main(String[] args) {
+        ChangeTest ct = new ChangeTest();
+        ct.showTwo(200);
+        System.out.println(ct.myValue);
+
+        ct.showOne(100);
+        System.out.println(ct.myValue);
+    }  
+}
+
+1. Dentro de un método de instancia, se puede acceder al objeto actual de la misma clase usando 'this'. Por lo tanto, cuando se 
+accede a this.myValue, se accede al miembro instanciado myValue de la instancia de ChangeTest.
+
+2. 
