@@ -24,4 +24,7 @@ public class ChangeTest {
 1. Dentro de un método de instancia, se puede acceder al objeto actual de la misma clase usando 'this'. Por lo tanto, cuando se 
 accede a this.myValue, se accede al miembro instanciado myValue de la instancia de ChangeTest.
 
-2. 
+2. Si se declara una variable local (o parámetro de método) con el mismo nombre que el nombre de campo de la instancia, la variable local 
+"tapa o cubre" el miembro de campo. Idealmente, debería ser capaz de acceder al campo del miembro en el método directamente 
+usando el nombre del miembro (en este ejemplo, myValue). Sin embargo, debido al encubrimiento, cuando se use myValue, se refiere 
+a la variable local en vez del campo de la instancia.
