@@ -28,3 +28,9 @@ accede a this.myValue, se accede al miembro instanciado myValue de la instancia 
 "tapa o cubre" el miembro de campo. Idealmente, debería ser capaz de acceder al campo del miembro en el método directamente 
 usando el nombre del miembro (en este ejemplo, myValue). Sin embargo, debido al encubrimiento, cuando se use myValue, se refiere 
 a la variable local en vez del campo de la instancia.
+
+En el método shotTwo, hay dos variables accesibles con el mimsmo nombre myValue. Una es el parámetro de método y otra es el 
+miembro de campo del objeto CT. Idealmente, debería ser capaz de acceder al campo de miembro en el método directamente 
+usando el nombre myValue, pero en este caso, el parámetro de método cubre el campo de miembro porque tiene el mismo nombre. 
+Así que usando this.myValue, está cambiando la variable de instancia myValue asignandole el valor contenido en la variable 
+local myValue, el cuál es 200. Así que si se imprime ct.myValue, se verá el número 200.
