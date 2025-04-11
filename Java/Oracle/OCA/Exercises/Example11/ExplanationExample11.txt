@@ -27,3 +27,5 @@ public class TestClassExample {
 
 Evalua la respuesta que saldría. Los valores por defecto de variables primitivas sin inicializar y referencia de objetos se usan aquí. 
 Los booleanos se inicializan como falses, los tipo numéricos como 0 y las referencia de objetos como nulos.
+Los elementos de los arreglos son inicializados a los valores por defecto de sus tipos. Así que los elementos de un arreglo booleano son 
+inicializados como "false". Las variables int, char y float se inicializan como "0" y los objetos como nulos.
