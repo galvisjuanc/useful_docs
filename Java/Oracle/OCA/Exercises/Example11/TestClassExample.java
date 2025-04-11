@@ -16,7 +16,7 @@ public class TestClassExample {
         System.out.println(ch);
         System.out.println(ba[0]);
 
-        if ( b ) {
+        if ( !b ) {
             x = ( ch == ia[ch]);
         } 
         else x = ( ba[ch] = b);

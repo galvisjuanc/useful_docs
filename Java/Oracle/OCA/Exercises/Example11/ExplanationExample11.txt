@@ -29,3 +29,9 @@ Evalua la respuesta que saldría. Los valores por defecto de variables primitiva
 Los booleanos se inicializan como falses, los tipo numéricos como 0 y las referencia de objetos como nulos.
 Los elementos de los arreglos son inicializados a los valores por defecto de sus tipos. Así que los elementos de un arreglo booleano son 
 inicializados como "false". Las variables int, char y float se inicializan como "0" y los objetos como nulos.
+
+En este caso, b = false. Entonces la parte del else del if(b) es ejecutada.
+ch es un tipo numérico a su valor por defecto que es cero. Entonces x que era un valor false, para a ser lo que se guarde en el primer valor 
+del arreglo del booleano ba[ch]. Como b es false, y ese valor se guarda en la primera posición del arreglo, así que x para a ser false.
+
+ba[0] = false y reasigna ese valor a x. Por eso la respuesta es false false.
