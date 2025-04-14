@@ -1,0 +1,16 @@
+    class A {
+        public double m1(int a) {
+            return a*10/4-30;
+        }
+    }
+
+    class A2 extends A {
+        public double m1(int a) {
+            return a*10/4.0;
+        }
+    }
+
+
+1. int, int, no es una solución porque el a*10/4.0 genera un double, así que el método de la clase A2 no puede retornar un entero. Necesitaría un casteo: return (int) a*10/4.0.
+2. int, double. El tipo de retorno debe ser el mismo para sobreescribir y sobrecargar un método.
+3. double, double. El m1 de la clase A genera un entero, el cuál puede ser retornado como un doble sin ningún casteo.
