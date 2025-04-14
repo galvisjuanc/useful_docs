@@ -1,3 +1,5 @@
+using System;
+
 namespace Example_5
 {
     internal class Basics5
@@ -43,8 +45,6 @@ namespace Example_5
             Console.WriteLine("El decremento del valor 2 es: " + variable2);
 
             Console.ReadKey();
-
-
         }
     }
 }
