@@ -17,4 +17,8 @@
 4. double, int. El tipo de retorno debe ser el mismo para sobreescribir y sobrecargar un método.
 5. Nada, no son compatibles, no es la opción correcta.
 
+Notar que cuando un método retorna un objeto (opuesto a los primitivos, como en esta pregunta), el principio de covariante del retorno aplica. Significa que el método de sobrecarga 
+es permitido para retornar una subclase del tipo de retorno definido en el método sobreescrito. Entonces, si una clase base tiene un método public A m(); entonces la subclase es libre 
+de sobreescribir con public A1 m() solo si A1 hereda de A.
+
 
