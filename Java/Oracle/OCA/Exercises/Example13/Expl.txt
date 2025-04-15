@@ -28,3 +28,16 @@ public class TestClass {
 1. El método de prueba test del predicado retorna un booleano. Entonces todo lo que se necesita en el cuerpo de la expresión lambda es una expresión que retorne un booleano.
 isEmpty es un método válido del ArrayList, el cuál retorna true si no hay elementos en la lista. Por lo tanto, al.isEmpty() constituye un cuerpo válido para la expresión lambda.
 
+2. Se necesita colocar el parámetro lista de la expresión lambda en paréntesis, si se quiere usar ese tipo de parámetro. Por ejemplo:
+
+checkList(new ArrayList(), (ArrayList al) -> al.isEmpty());
+
+Se debe recordar que especificando el tipo de parámetro es opcional, como la opción 1, porque el compilador puede entender los tipos de parámetro mirando en la firma del método abstracto de cualquier
+interfaz funcionala (qaquí,a el método test del predicado).
+
+3. Se necesita poner el cuerpo dentro de llaves si se quiere usar el return. Por ejemplo:
+checkList(new ArrayList(), al -> {return al.size() == 0});
+
+4. El método add del ArrayList devuelve un booleano. Además, retorna true si la lista es alterada debido a la llamada del método add. En este caso, al.add("hello") en efecto 
+altera la lista porque un nuevo elemento es añadido a la lista.
+
