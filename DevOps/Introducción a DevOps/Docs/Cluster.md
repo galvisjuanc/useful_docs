@@ -30,6 +30,28 @@ Si observas la arquitectura de Kubernetes, notarás que en el centro hay un serv
 * Si deseas crear nuevos servicios, utilizas los archivos de configuración.
 * No puedes modificar los recursos directamente, sino que siempre debes comunicarte a través de Kubernetes.</p>
 
+<h3> AWS ECS </h3>
+
+<p align="left"> AWS ECS (Elastic Container Service) es un servicio de Amazon Web Services (AWS) que funciona de manera similar a Kubernetes, pero con algunas diferencias clave.</p>
+
+
+<h3> Diferencias entre AWS ECS y Kubernetes </h3>
+
+<p align="left"> 
+
+* Propiedad y desarrollo:
+    * Kubernetes es de código abierto y su comunidad contribuye a su desarrollo.
+    * AWS ECS es exclusivo de Amazon, por lo que solo AWS puede mejorar sus versiones.
+* Interacción con el sistema:
+    * En Kubernetes, te comunicas con el cluster directamente.
+    * En AWS ECS, te comunicas con la plataforma de AWS, no con el cluster en sí.
+* Uso de comandos:
+    * Kubernetes tiene un CLI especializado para interactuar con el cluster.
+    * AWS ECS no tiene su propio CLI, sino que se usa el CLI general de AWS.
+* Gestión de recursos:
+    * En Kubernetes, gestionas los recursos mediante el cluster.
+    * En AWS ECS, los recursos son parte de la infraestructura de AWS y se gestionan directamente en la nube de Amazon..</p>
+
 <h3> Clúster </h3>
 
 <p align="left"> Conjunto de nodos o máquinas que trabajan juntas como una unidad cohesiva. 
