@@ -2,11 +2,33 @@
 
 <h3> ¿Qué son los Clústeres y cómo han evolucionado? </h3>
 
-<p align="left"> </p>
+<p align="left"> Hoy en día, los clusters siguen existiendo, aunque funcionan de manera más eficiente. Para el usuario, parece que trabaja con una sola computadora, pero en realidad, el sistema administra múltiples recursos en segundo plano.
+
+Los dos clusters más conocidos actualmente son:
+
+* Kubernetes
+* AWS ECS</p>
 
 <h3> Kubernetes</h3>
 
-<p align="left"> Kubernetes es un "sistema de orquestación de contenedores", esto significa que se encarga de administrar y coordinar contenedores en un entorno. Además, proporciona herramientas y características para implementar, escalar y gestionar aplicaciones contenerizadas de manera eficiente.</p>
+<p align="left"> Kubernetes es un "sistema de orquestación de contenedores", esto significa que se encarga de administrar y coordinar contenedores en un entorno. Además, proporciona herramientas y características para implementar, escalar y gestionar aplicaciones contenerizadas de manera eficiente.
+
+Kubernetes es un software libre disponible en casi todas las plataformas en la nube (cloud). También puedes instalarlo en una máquina local. v
+
+Ventajas de Kubernetes
+* Al ser de código abierto, cuenta con una gran cantidad de complementos y mejoras creadas por la comunidad.
+* Es multicloud, por lo que se puede usar en diferentes proveedores de nube.
+* Ofrece dos formas de interacción:
+    * Archivos de configuración, donde defines las características y ajustes.
+    * CLI (Interfaz de Línea de Comandos), que permite interactuar con el cluster directamente.
+    
+Cómo funciona Kubernetes
+
+Si observas la arquitectura de Kubernetes, notarás que en el centro hay un servicio principal (representado como una caja azul en los diagramas). Este servicio actúa como intermediario entre el usuario y los recursos disponibles.
+
+* Para interactuar con Kubernetes, utilizas el CLI, enviando comandos específicos.
+* Si deseas crear nuevos servicios, utilizas los archivos de configuración.
+* No puedes modificar los recursos directamente, sino que siempre debes comunicarte a través de Kubernetes.</p>
 
 <h3> Clúster </h3>
 
