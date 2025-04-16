@@ -1,0 +1,22 @@
+public class LoopTest {
+    public static void main(String[] args) {
+        new LoopTest().printThem();
+    }
+
+    int k = 5;
+    public boolean checkIt(int k) {
+        return k--> 0 ? true : false; 
+    }
+
+    public void printThem() {
+        while(checkIt(k)) {
+            System.out.println(k);
+        }
+    }
+}
+
+1. Si no se hacen campos al loop test, tendrá un bucle infinito.
+2. Si se reemplaza la línea 13 por System.out.println(k--); se imprimirá desde el 5 y el valor de k irá disminuyendo 
+hasta que sea cero. Es la respuesta correcta.
+3. Si se reemplaza por System.out.println(--k); k empieza valuendo 4 e imprimirá del 4 hasta el 0.
+4. Si se reemplaza por while(checkIt(--k)), mostrará 4321.
