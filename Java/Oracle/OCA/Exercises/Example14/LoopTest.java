@@ -7,7 +7,7 @@ public class LoopTest {
 
     int k = 5;
     public boolean checkIt(int k) {
-        return k--> 0 ? true : false; 
+        return k-- > 0 ? true : false; 
     }
 
     public void printThem() {

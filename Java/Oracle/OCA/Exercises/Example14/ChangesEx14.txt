@@ -20,3 +20,15 @@ public class LoopTest {
 hasta que sea cero. Es la respuesta correcta.
 3. Si se reemplaza por System.out.println(--k); k empieza valuendo 4 e imprimirá del 4 hasta el 0.
 4. Si se reemplaza por while(checkIt(--k)), mostrará 4321.
+5. Si reemplaza por return this.k-->0?true:false; se mostrará 43210.
+
+Extendiendo la respuesta correcta 2.
+Si se observa que el parámetro k del método en checkIt cubre la variable instanciada k.
+Por lo tanto, cualquier cambio en k en checkIt no afectará la variable instanciada k.
+Para que el método checkIt acceda a la variable instanciada k, se necesita hacer this.k.
+
+k-- > 0 significa que primero compara el valor de k con 0, y luego lo va disminuyendo en una unidad. 
+Diferente a --k > 0, el cuál significa que primero le resta uno y compara después.
+
+En el método printThem, k se refiere a la variabla de la instancia. Se necesita reducir en 1 después de cada 
+iteración. Por lo tanto, la opción 2 resolverá el problema planteado.
