@@ -13,6 +13,8 @@ public class LoopTest {
     public void printThem() {
         while(checkIt(k)) {
             System.out.println(k--);
+            // This commented line will cause an infinite loop
+            //System.out.println(k);
         }
     }
 }
