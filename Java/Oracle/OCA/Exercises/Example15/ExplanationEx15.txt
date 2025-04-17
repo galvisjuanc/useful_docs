@@ -25,4 +25,7 @@ public class Discounter {
     }
 }
  declara variables locales coupon, offset y base pero no les asigna un valor.
- Incluso en el momento de la ejecución, se sabe que percent = 0 y así
+ Incluso en el momento de la ejecución, se sabe que percent = 0 y así, el if siempre entrará y
+ un valor será asignado a esas variables, pero el compilador no sabe eso porque el no toma esos 
+ valores de "variables" en la consideración mientras determina el flujo de control. Solo considera los 
+ valores constantes de tiempo de compilación.
