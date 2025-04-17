@@ -28,4 +28,10 @@ public class Discounter {
  Incluso en el momento de la ejecución, se sabe que percent = 0 y así, el if siempre entrará y
  un valor será asignado a esas variables, pero el compilador no sabe eso porque el no toma esos 
  valores de "variables" en la consideración mientras determina el flujo de control. Solo considera los 
- valores constantes de tiempo de compilación.
+ valores constantes de tiempo de compilación. Por lo tanto, en lo que concierne al compilador, las variables 
+ coupon - offset y base, pueden permanecer sin inicializar antes de que sean usadas.
+
+ Teniendo variables sin inicializar no es un problema. Así que no hay error en la línea 3.
+ Sin embargo, usarlas antes de que sean inicializadas si lo es, así que el problema es en la línea 5.
+
+ Teniendo percent como definida as final, el código hubiese funcionado e imprimiría 3000.0.

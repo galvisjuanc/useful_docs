@@ -1,7 +1,7 @@
 package Java.Oracle.OCA.Exercises.Example15;
 
 public class Discounter {
-    static double percent; // 1
+    static final double percent = 0; // 1
     int offset = 10, base = 50; //2
 
     public static double calc(double value) {
@@ -13,8 +13,8 @@ public class Discounter {
             base = 10;
         }
 
-        return 1;
-        //return coupon * offset * base * value / 100; //5
+        //return 1;
+        return coupon * offset * base * value / 100; //5
     }
 
     public static void main(String[] args) {
