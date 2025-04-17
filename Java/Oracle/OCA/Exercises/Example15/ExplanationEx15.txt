@@ -1,0 +1,28 @@
+Recordando que las variables de instancia y estáticas son asignadas automáticamente a un valor 
+aunque no se hayan inicializado explicitamente pero variables locales deben ser inicializadas 
+explicitamente antes de que sean usadas.
+
+Ahora bien, observando que el método calc
+
+public class Discounter {
+    static double percent; // 1
+    int offset = 10, base = 50; //2
+
+    public static double calc(double value) {
+        int coupon, offset, base; // 3
+        
+        if (percent < 10) { // 4
+            coupon = 15;
+            offset = 20;
+            base = 10;
+        }
+
+        return coupon * offset * base * value / 100; //5
+    }
+
+    public static void main(String[] args) {
+        System.out.println(calc(100));
+    }
+}
+ declara variables locales coupon, offset y base pero no les asigna un valor.
+ Incluso en el momento de la ejecución, se sabe que percent = 0 y así
