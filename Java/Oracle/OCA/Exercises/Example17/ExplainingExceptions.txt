@@ -23,3 +23,8 @@ class A {
 Cualquier excepción chequeada debe ser manejada bien usando un try block o el método que genera la excepción 
 debe declarar que lance esa excepción.
 
+En este caso, doA() declara que lance la excepción.
+doB() está llamando a doA() pero no está manejando la excepción generada por doA().
+Entonces, debe declararse esa excepción. Ahora, el método main() está llamando doB(), 
+el cuál genera una excepción (debido a una llamada a doA()). Por lo tanto, main() debe 
+también envolver la llamada doB() en un try block o declararse en su cláusula throws.
