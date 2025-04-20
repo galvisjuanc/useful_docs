@@ -1,4 +1,4 @@
-package Java.Oracle.OCA.Example16;
+package Java.Oracle.OCA.Exercises.Example16;
 
 public class TestClass {
     public static void main(String[] args) throws Exception{
