@@ -28,3 +28,6 @@ doB() está llamando a doA() pero no está manejando la excepción generada por 
 Entonces, debe declararse esa excepción. Ahora, el método main() está llamando doB(), 
 el cuál genera una excepción (debido a una llamada a doA()). Por lo tanto, main() debe 
 también envolver la llamada doB() en un try block o declararse en su cláusula throws.
+
+El método main (String[] args) es el último punto en tu programa donde cualquier excepción chequeada sin manejar 
+puede aparecer. Después de que esa excepción es lanzada al JVM y el JVM destruye el hilo.
