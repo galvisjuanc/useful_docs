@@ -20,4 +20,6 @@ class A {
  el cuál forzará la llamada a este método para bien declarar Excepción y lanzarla o colocar la llamada 
  en un try block.
 
+Cualquier excepción chequeada debe ser manejada bien usando un try block o el método que genera la excepción 
+debe declarar que lance esa excepción.
 
