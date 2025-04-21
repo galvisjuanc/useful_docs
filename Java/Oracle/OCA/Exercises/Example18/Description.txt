@@ -1,0 +1,7 @@
+Input value must be smaller than X
+
+Recuerda que un String una vez creado no puede ser cambiado. Por lo tanto, cuando se llama al método replace o concat sobre un String, un nuevo objeto String es creado.
+
+El viejo String permanece como está. Aquí, la primera llamada a concat reotnra un nuevo objeto String que contiene "Input values must be smaller than X y asignando eso de nuevo al msg.
+
+El String original referido por msg se perdió. No hay referencia a él de nuevo.
