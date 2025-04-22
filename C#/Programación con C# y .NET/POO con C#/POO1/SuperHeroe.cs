@@ -22,5 +22,15 @@ namespace POO1
                 Console.WriteLine($"{Nombre} está usando el super poder {itemPoder.Nombre}");
             }
         }
+
+        public string UsarPoderesSuper()
+        {
+            StringBuilder stringBuilder = new StringBuilder();
+            foreach (var superPoder in SuperPoderes) {
+                stringBuilder.AppendLine($"{Nombre} está usando el super poder {superPoder.Nombre}");
+            }
+
+            return stringBuilder.ToString();
+        }
     }
 }
