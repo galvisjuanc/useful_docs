@@ -1,0 +1,4 @@
+Un booleano no puede ser usado para un switch. Necesita un tipo entero, un enum o un String. Por eso el programa no compilaría.
+
+Las reglas para un switch son:
+1. Solo String, byte, char, short, int (y sus clases primitivas Byte, Character, Short and Integer), y enums pueden ser usados como tipos de una variable en un Switch. Los string son permitidos desde Java 7.
