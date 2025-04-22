@@ -2,3 +2,9 @@ Un booleano no puede ser usado para un switch. Necesita un tipo entero, un enum 
 
 Las reglas para un switch son:
 1. Solo String, byte, char, short, int (y sus clases primitivas Byte, Character, Short and Integer), y enums pueden ser usados como tipos de una variable en un Switch. Los string son permitidos desde Java 7.
+2. Las constantes de un case deben ser asignables a la variable switch. Por ejemplo, si la variable del switch es de tipo String, los labels del case deben ser String también.
+3. Las variables del switch deben ser lo vastante grandes para almacenar todos los posibles casos. Por ejemplo, si es de tipo char, entonces ninguna de las constantes de los case pueden 
+ser más grande  que 65535 porque supera el rango del char.
+4. Todos los labels de los case deberían tener constantes de tiempo de compilación. No se pueden tener variables como case labels.
+5. No pueden tener el mismo valor.
+6. Al menos un label default debe ser asociado con el switch.
