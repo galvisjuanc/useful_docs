@@ -15,6 +15,11 @@ namespace POO1
             superFuerza.Nombre = "Super Fuerza";
             superFuerza.Descripcion = "Habilidad para romper paredes facil";
             superFuerza.Nivel = NivelPoder.NivelTres;
+
+            var superSentido = new SuperPoder();
+            superSentido.Nombre = "Super Sentido";
+            superSentido.Descripcion = "Habilidad para detectar ataques enemigos multiples";
+            superSentido.Nivel = NivelPoder.NivelUno;
         }    
     }
 }
