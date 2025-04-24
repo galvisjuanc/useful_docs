@@ -16,4 +16,12 @@ Impleméntalo y, si es posible, realiza una demostración para evidenciar los be
 
 <p align="left"> Para aumentar la robustez del pipeline, considere añadir fases de pruebas y liberación. Aquí es donde el código, luego de ser construido, pasará por un riguroso proceso de pruebas antes de ser llevado a producción. Almacene los resultados en un servicio como AWS S3, lo que no solo ofrece un respaldo, sino que también facilita los rollbacks si fuese necesario.</p>
 
+<h3> ¿Cómo incrementamos la seguridad? </h3>
+
+<p align="left"> Uno de los principales objetivos es asegurar que las credenciales cruciales, como las de la base de datos, estén protegidas. Utilizar AWS Secret Management te permite almacenar estas credenciales de manera segura, evitando el acceso directo de individuos. Jenkins, en su fase final, integraría estas credenciales automáticamente al software.</p>
+
+<h3> ¿Cómo aprovechamos Docker en el pipeline? </h3>
+
+<p align="left"> Llevar tu pipeline al siguiente nivel podría implicar la contenedorización usando Docker. Aquí, el artefacto construido se coloca dentro de un contenedor Docker. Jenkins tomaría este Docker y lo registraría en AWS ECR. Adaptar tanto Jenkins como tu infraestructura final para trabajar con Docker puede ser complejo, pero ofrece un nivel de flexibilidad y consistencia mayor. </p>
+
 
