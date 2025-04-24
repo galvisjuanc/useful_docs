@@ -24,4 +24,22 @@ Impleméntalo y, si es posible, realiza una demostración para evidenciar los be
 
 <p align="left"> Llevar tu pipeline al siguiente nivel podría implicar la contenedorización usando Docker. Aquí, el artefacto construido se coloca dentro de un contenedor Docker. Jenkins tomaría este Docker y lo registraría en AWS ECR. Adaptar tanto Jenkins como tu infraestructura final para trabajar con Docker puede ser complejo, pero ofrece un nivel de flexibilidad y consistencia mayor. </p>
 
+<h3> ¿Cómo desplegamos en un clúster? </h3>
 
+<p align="left"> Si deseas escalar más allá de instancias individuales, podrías considerar un clúster de ECS en AWS o incluso Kubernetes. Este paso requiere:
+
+* Registrar un Task Definition y configurar un servicio para indicar al clúster cómo y qué levantar.
+* Adaptación a las capacidades específicas del clúster.</p>
+
+<h3> ¿Cuáles son los siguientes pasos para datos y seguridad? </h3>
+
+<p align="left"> La automatización no solo es clave para las aplicaciones, sino también para los datos. Puedes realizar lo siguiente:
+
+* Automatizar la carga de datos descargando scripts y ejecutándolos mediante una aplicación de migración de datos.
+* Integrar servicios de almacenamiento de secretos para asegurar que los datos de acceso a las bases de datos sean seguros y sean gestionados adecuadamente.</p>
+
+<h3> ¿Cómo adaptarse a diferentes herramientas en distintas empresas? </h3>
+
+<p align="left">  Recuerda, el éxito de tu automatización depende de tu habilidad para adaptarte a las herramientas y configuraciones específicas de cada empresa. Podrías encontrarte con GitLab en lugar de GitHub, o Bitbucket y distintas infraestructuras de despliegue, por lo que siempre es valioso estar abierto a aprender y ajustar tus estrategias.
+
+El camino al dominio del DevOps implica práctica continua y adaptación. Mantente motivado, aprende de la experiencia y fortalece tus habilidades para enfrentar cualquier reto tecnológico.</p>
