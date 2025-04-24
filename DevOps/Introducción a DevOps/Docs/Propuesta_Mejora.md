@@ -12,3 +12,8 @@ Impleméntalo y, si es posible, realiza una demostración para evidenciar los be
 
 </p>
 
+<h3> ¿Como se pueden añadir pruebas y versiones de liberación? </h3>
+
+<p align="left"> Para aumentar la robustez del pipeline, considere añadir fases de pruebas y liberación. Aquí es donde el código, luego de ser construido, pasará por un riguroso proceso de pruebas antes de ser llevado a producción. Almacene los resultados en un servicio como AWS S3, lo que no solo ofrece un respaldo, sino que también facilita los rollbacks si fuese necesario.</p>
+
+
