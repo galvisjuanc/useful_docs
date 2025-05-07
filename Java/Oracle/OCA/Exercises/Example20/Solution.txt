@@ -1,0 +1,20 @@
+¿Cuántos objetos son creados en el momento en que el método principal llega a su final?
+
+public class Noobs {
+    public Noobs(){
+        try{
+            throw new MyException();
+        }catch(Exception e){
+        }
+    }
+    public static void main(String[] args) {
+        Noobs a = new Noobs();
+        Noobs b = new Noobs();
+        Noobs c = a;
+    }
+}
+class MyException extends Exception{
+    
+}
+
+La solución son 4 objetos.
