@@ -17,5 +17,7 @@ namespace POO1WITHDOTNET.Models
                 return $"{Nombre} ({IdentidadSecreta})";
             } 
         }
+        public string IdentidadSecreta { get; set; }
+        public string Ciudad { get; set; }
     }
 }
