@@ -1,4 +1,4 @@
-namespace POO1WITHDOTNET.Models
+namespace POODOTNET.Models
 {
     internal class SuperHeroe : Heroe, ISuperHeroe
     {
