@@ -19,5 +19,8 @@ namespace POO1WITHDOTNET.Models
         }
         public string IdentidadSecreta { get; set; }
         public string Ciudad { get; set; }
+        public List<SuperPoder> SuperPoderes { get; set; }
+        public bool PuedeVolar { get; set; }
+        private string _Nombre;
     }
 }
