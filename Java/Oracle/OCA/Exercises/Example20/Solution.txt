@@ -18,3 +18,7 @@ class MyException extends Exception{
 }
 
 La solución son 4 objetos.
+
+Cuando un objeto Noobs es creado, un objeto MyException también es creado a la vez. Por lo tanto, son creados 4 objetos cuando se llega a la línea b.
+
+La línea Noobs c = a; solo asigna un objeto Noobs existente a c. No se crea ningún objeto.
