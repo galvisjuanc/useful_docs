@@ -22,5 +22,12 @@ namespace POO1WITHDOTNET.Models
         public List<SuperPoder> SuperPoderes { get; set; }
         public bool PuedeVolar { get; set; }
         private string _Nombre;
+
+        public SuperHeroe()
+        {
+            Id = 1;
+            SuperPoderes = new List<SuperPoder>();
+            PuedeVolar = false;
+        }
     }
 }
