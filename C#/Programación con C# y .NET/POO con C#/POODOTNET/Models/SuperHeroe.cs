@@ -48,5 +48,10 @@ namespace POODOTNET.Models
 
             return stringBuilder.ToString();
         }
+
+        public override string salvarElMundo()
+        {
+            return $"{NombreEIdentidadSecreta} ha salvado el mundo.";
+        }
     }
 }
