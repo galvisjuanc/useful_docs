@@ -37,5 +37,16 @@ namespace POODOTNET.Models
                 Console.WriteLine($"{NombreEIdentidadSecreta} está usando el super poder {itemPoder.Nombre}");
             }
         }
+
+        public string UsarPoderesSuper()
+        {
+            StringBuilder stringBuilder = new StringBuilder();
+            foreach (var superPoder in SuperPoderes)
+            {
+                stringBuilder.AppendLine($"{NombreEIdentidadSecreta} está usando el super poder {superPoder.Nombre}");
+            }
+
+            return stringBuilder.ToString();
+        }
     }
 }
