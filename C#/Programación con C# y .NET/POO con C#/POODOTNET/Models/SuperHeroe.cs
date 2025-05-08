@@ -29,5 +29,13 @@ namespace POODOTNET.Models
             SuperPoderes = new List<SuperPoder>();
             PuedeVolar = false;
         }
+
+        public void UsarSuperPoderes()
+        {
+            foreach (var itemPoder in SuperPoderes)
+            {
+                Console.WriteLine($"{NombreEIdentidadSecreta} está usando el super poder {itemPoder.Nombre}");
+            }
+        }
     }
 }
