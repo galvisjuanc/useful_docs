@@ -18,5 +18,8 @@ namespace POODOTNET
             Descripcion = "Capacidad para volar y planear en el aire.",
             Nivel = NivelPoder.NivelUno
         };
+
+        var superFuerza = new SuperPoder();
+        superFuerza.Nombre = "SuperFuerza";
     }    
 }
