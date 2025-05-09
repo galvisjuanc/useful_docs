@@ -24,6 +24,11 @@ namespace POODOTNET
         superFuerza.Descripcion = "Extremadamente fuerte. Destroza todo.";
         superFuerza.Nivel = NivelPoder.NivelDos;
 
-        
+        var regeneracion = new SuperPoder
+        {
+            Nombre = "Regeneracion",
+            Descripcion = "Recuperar el cuerpo sin dejar heridas",
+            Nivel = NivelPoder.NivelTres
+        };
     }    
 }
