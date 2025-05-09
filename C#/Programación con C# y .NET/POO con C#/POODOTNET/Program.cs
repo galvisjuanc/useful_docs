@@ -21,5 +21,9 @@ namespace POODOTNET
 
         var superFuerza = new SuperPoder();
         superFuerza.Nombre = "SuperFuerza";
+        superFuerza.Descripcion = "Extremadamente fuerte. Destroza todo.";
+        superFuerza.Nivel = NivelPoder.NivelDos;
+
+        
     }    
 }
