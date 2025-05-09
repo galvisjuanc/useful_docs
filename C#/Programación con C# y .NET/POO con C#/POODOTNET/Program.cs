@@ -1,7 +1,16 @@
-using POO1WITHDOTNET;
-using POO1WITHDOTNET.Models;
+using POODOTNET;
+using POODOTNET.Models;
 
-SuperHeroeRecord superHeroeRecord = new(1, "Superman", "Clark Kent");
-SuperHeroeRecord superHeroeRecord2 = new(1, "Superman", "Clark Kent");
+namespace POODOTNET
+{
+    internal class Program 
+    {
+        SuperHeroeRecord superHeroeRecord = new(1, "Superman", "Clark Kent");
+        SuperHeroeRecord superHeroeRecord2 = new(1, "Superman", "Clark Kent");
 
-Console.WriteLine(superHeroeRecord == superHeroeRecord2);
+        Console.WriteLine(superHeroeRecord == superHeroeRecord2);
+
+        var imprimirinfo = new ImprimirInfo();
+
+    }    
+}
