@@ -12,5 +12,11 @@ namespace POODOTNET
 
         var imprimirinfo = new ImprimirInfo();
 
+        var poderVolar = new SuperPoder
+        {
+            Nombre = "Volar",
+            Descripcion = "Capacidad para volar y planear en el aire.",
+            Nivel = NivelPoder.NivelUno
+        };
     }    
 }
