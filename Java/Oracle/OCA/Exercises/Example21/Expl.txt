@@ -1,0 +1,4 @@
+1. java.time.LocalDate.parse("2015-01-02");
+
+To create an instance of LocalDateTime, you need to use the methods in LocalDateTime class. 
+Methods in LocalDate class create LocalDate instances. Similarly, methods in LocalTime class create LocalTime instances.
