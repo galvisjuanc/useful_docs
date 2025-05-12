@@ -7,3 +7,6 @@ Methods in LocalDate class create LocalDate instances. Similarly, methods in Loc
 LocalDateTime requires date as well as time. 
 Here, you just have a date in the input so it will throw a java.time.format.DateTimeParseException.
 java.time.LocalDateTime.parse("2015-01-02T17:13:50"); would be valid.
+
+3. java.time.LocalDateTime.of(2015, 10, 1, 10, 10);
+Correct option.
