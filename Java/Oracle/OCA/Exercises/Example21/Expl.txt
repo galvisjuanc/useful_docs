@@ -10,3 +10,7 @@ java.time.LocalDateTime.parse("2015-01-02T17:13:50"); would be valid.
 
 3. java.time.LocalDateTime.of(2015, 10, 1, 10, 10);
 Correct option.
+
+4. java.time.LocalDateTime.of(2015, "January", 1, 10, 10);
+All parameters should be ints. For the month argument, 
+you can either pass the numbers 1 to 12  (and not 0 to 11) or use constants such as java.time.Month.JANUARY.
