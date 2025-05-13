@@ -6,3 +6,23 @@ The correct option is: 6 10
 6 10
 5 11
 
+public class Test{
+    public static void testInts(Integer obj, int var){
+        obj = var++;
+        obj++;
+    }
+    public static void main(String[] args) {
+        Integer val1 = new Integer(5);
+        int val2 = 9;
+        testInts(val1++, ++val2);
+        System.out.println(val1+" "+val2);
+    }
+} 
+
+There are multiple concepts at play here:
+1. All the wrapper objects are immutable. So when you do obj++, what actually happens is something like this:
+obj = new Integer( obj.intValue()  + 1);  
+
+Hay multiples conceptos aquí:
+1. Todos los objetos envueltos son inmutables. Entonces, cuando se hace un obj++, lo que sucede es algo así:
+obj = new Integer( obj.intValue() + 1)
