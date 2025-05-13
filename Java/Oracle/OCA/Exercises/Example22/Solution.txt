@@ -26,3 +26,17 @@ obj = new Integer( obj.intValue()  + 1);
 Hay multiples conceptos aquí:
 1. Todos los objetos envueltos son inmutables. Entonces, cuando se hace un obj++, lo que sucede es algo así:
 obj = new Integer( obj.intValue() + 1)
+
+2.val1++ uses post-increment operator, which implies that you note down the current value of val1, increment it, 
+and then pass the original noted down value to the method testInts. Thus, the reference value of Integer 5 is passed to testInts. 
+But val1 is set to point to a new Integer object containing 6.
+++val2 uses pre-increment operator, which implies that you first increment val2 and then pass the incremented value. 
+Therefore, val2 is incremented to 10 and then 10 is passed to the method testInts.
+
+2. val1++ usa operador post incremento, el cuál implica que se tome el valor actual de val1, incrementarlo y luego pasarlo al 
+valor original para el metodo testInts. Entonces el valor de referencia de Integer 5 es pasado a testInts.
+Pero val1 es seteado a apuntar a un nuevo Integer que vale 6.
+
+++val2 usa operador pre increment, el cual incrementa el valor de val2 y luego pasa ese valor.
+Por lo tanto, val2 es incrementado a 10 y luego 10 es pasado al método testInts.
+
