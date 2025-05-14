@@ -25,4 +25,5 @@ The correct answer is In Number.
 
 En este ejemplo, hay cuatro metodos probe sobrecargados pero no hay metodo probe que tome un parametro double. Sin embargo, un double será empaquertado dentro de 
 un Double y ésta extiende de la clase padre Number.
-Por lo tanto, un Double puede ser pasado al método que toma Number.
+Por lo tanto, un Double puede ser pasado al método que toma Number. Un Double puede también ser pasado a un método que toma Object, pero Number es más específico que Object 
+así que probe(Number) será llamado.
