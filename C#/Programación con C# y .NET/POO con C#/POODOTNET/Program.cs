@@ -62,5 +62,11 @@ namespace POODOTNET
 
         string accionHeroe = superman.SalvarLaTierra();
         Console.WriteLine(accionHeroe);
+
+        List<SuperPoder> poderesWolverine = new()
+        {
+            superFuerza,
+            regeneracion
+        };
     }    
 }
