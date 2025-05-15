@@ -55,5 +55,9 @@ namespace POODOTNET
             superFuerza,
             poderVolar
         };
+
+        superman.SuperPoderes = poderesSuperman;
+        string resultSuperPoderSuperman = superman.UsarPoderesSuper();
+        Console.WriteLine(resultSuperPoderSuperman);
     }    
 }
