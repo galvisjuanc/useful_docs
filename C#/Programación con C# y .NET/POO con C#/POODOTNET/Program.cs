@@ -68,5 +68,9 @@ namespace POODOTNET
             superFuerza,
             regeneracion
         };
+
+        wolverine.SuperPoderes = poderesWolverine;
+        string resultSuperPoderes = wolverine.UsarPoderesSuper();
+        Console.WriteLine(resultSuperPoderes);
     }    
 }
