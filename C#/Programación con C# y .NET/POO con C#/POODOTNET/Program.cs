@@ -38,5 +38,13 @@ namespace POODOTNET
             IdentidadSecreta = "Clark Kent",
             PuedeVolar = true
         };
+
+        var wolverine = new AntiHeroe
+        {
+            Id = 5,
+            Nombre = "Wolverine",
+            IdentidadSecreta = "Logan",
+            PuedeVolar = false
+        };
     }    
 }
