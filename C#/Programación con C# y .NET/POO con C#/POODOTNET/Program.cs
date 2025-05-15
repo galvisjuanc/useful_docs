@@ -30,5 +30,13 @@ namespace POODOTNET
             Descripcion = "Recuperar el cuerpo sin dejar heridas",
             Nivel = NivelPoder.NivelTres
         };
+
+        var superman = new SuperHeroe
+        {
+            Id = 1,
+            Nombre = "Superman",
+            IdentidadSecreta = "Clark Kent",
+            PuedeVolar = true
+        };
     }    
 }
