@@ -46,5 +46,8 @@ namespace POODOTNET
             IdentidadSecreta = "Logan",
             PuedeVolar = false
         };
+
+        imprimirinfo.ImprimirSuperHeroe(superman);
+        imprimirinfo.ImprimirSuperHeroe(wolverine);
     }    
 }
