@@ -49,5 +49,11 @@ namespace POODOTNET
 
         imprimirinfo.ImprimirSuperHeroe(superman);
         imprimirinfo.ImprimirSuperHeroe(wolverine);
+
+        List<SuperPoder> poderesSuperman = new ()
+        {
+            superFuerza,
+            poderVolar
+        };
     }    
 }
