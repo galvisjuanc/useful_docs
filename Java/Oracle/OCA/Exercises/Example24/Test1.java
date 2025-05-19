@@ -11,5 +11,8 @@ class Test1 {
         set.add(null);
         set.add(null);
         System.out.println(set.size());
+        for (String value : set) {
+            System.out.println(value + " ");
+        }
     }
 }
