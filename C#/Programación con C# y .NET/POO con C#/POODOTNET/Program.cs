@@ -78,5 +78,10 @@ namespace POODOTNET
         
         string resultGeneric = wolverine.salvarElMundo();
         Console.WriteLine(resultGeneric);
+
+        string resultNonAbstract = wolverine.SalvarLaTierra();
+        Console.WriteLine(resultNonAbstract);
+
+        
     }    
 }
