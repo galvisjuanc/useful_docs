@@ -3,7 +3,7 @@ using POODOTNET.Models;
 
 namespace POODOTNET
 {
-    internal class Program 
+    internal class Program
     {
         SuperHeroeRecord superHeroeRecord = new(1, "Superman", "Clark Kent");
         SuperHeroeRecord superHeroeRecord2 = new(1, "Superman", "Clark Kent");
@@ -50,7 +50,7 @@ namespace POODOTNET
         imprimirinfo.ImprimirSuperHeroe(superman);
         imprimirinfo.ImprimirSuperHeroe(wolverine);
 
-        List<SuperPoder> poderesSuperman = new ()
+        List<SuperPoder> poderesSuperman = new()
         {
             superFuerza,
             poderVolar
@@ -75,5 +75,8 @@ namespace POODOTNET
 
         string accionAntiHeroe = wolverine.RealizarAccionDeAntiHeroe("Ataca la policia sin vergüenza algunacd");
         Console.WriteLine(accionAntiHeroe);
+        
+        string resultGeneric = wolverine.salvarElMundo();
+        Console.WriteLine(resultGeneric);
     }    
 }
