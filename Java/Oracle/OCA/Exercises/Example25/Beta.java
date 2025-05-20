@@ -16,7 +16,8 @@ public class Beta extends Baap {
     public int h = 44;
     
     public int getH() {
-        System.out.println("Beta " + h); return h;
+        System.out.println("Beta " + h); 
+        return h;
     }
 
     public static void main(String[] args) {
