@@ -45,3 +45,15 @@ Impleméntalo y, si es posible, realiza una demostración para evidenciar los be
 <p align="left"> Recuerda, el éxito de tu automatización depende de tu habilidad para adaptarte a las herramientas y configuraciones específicas de cada empresa. Podrías encontrarte con GitLab en lugar de GitHub, o Bitbucket y distintas infraestructuras de despliegue, por lo que siempre es valioso estar abierto a aprender y ajustar tus estrategias.
 
 El camino al dominio del DevOps implica práctica continua y adaptación. Mantente motivado, aprende de la experiencia y fortalece tus habilidades para enfrentar cualquier reto tecnológico. </p>
+
+<h3 align="left"> Fases </h3>
+
+<p align="left"> La evolución de tener un servidor web y una base de datos a implementar DevOps y utilizar herramientas como Jenkins, orquestadores y pruebas se dividen en:
+
+* Fase de servidor web y base de datos estático: en esta fase, se tiene un servidor web que muestra una página web con información estructurada y una base de datos que almacena información estática. El administrador del sistema se encarga de mantener el servidor funcionando.
+
+* Fase de desarrollo dinámico: en esta fase, se comienzan a utilizar lenguajes en el servidor y aparecen procesos para responder al cliente. El cliente empieza a mostrar cosas más atractivas y páginas web interactivas. Se conforma un equipo de desarrollo compuesto por desarrolladores frontend y backend.
+
+* Fase de microservicios: en esta fase, se comienzan a utilizar microservicios para solucionar problemas de escalabilidad. Se utilizan herramientas como Docker para aislar los microservicios y reducir los costos de hardware.
+
+* Fase de DevOps: en esta fase, se implementa la cultura de DevOps para alinear los objetivos de los equipos de desarrollo y operaciones. Se utilizan herramientas como Jenkins para automatizar y mejorar los procesos de integración y entrega continua. Se utilizan orquestadores como Kubernetes (K8s) para automatizar la gestión y escalabilidad de los servicios y se utilizan herramientas de testing para asegurar la calidad del software. </p>
