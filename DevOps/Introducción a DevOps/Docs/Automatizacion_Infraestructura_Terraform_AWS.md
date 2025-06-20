@@ -44,3 +44,12 @@ Con esta guía, estarás listo para aventurarte en el mundo del despliegue autom
 <h3 align="left"> ¿Cómo se configura Terraform para integrar con AWS? </h3>
 
 <p align="left"> Configurar Terraform para trabajar con AWS es un paso crucial en el proceso de automatización de infraestructura. El primer paso es asegurarnos de que Terraform guarde el archivo tfstate en un bucket de S3 preexistente. Este bucket será el repositorio que almacenará el estado de nuestra infraestructura, por lo que será necesario crearlo en la consola de Amazon si aún no lo hemos hecho. </p>
+
+<h3 align="left"> ¿Cómo obtengo permisos y credenciales? </h3>
+
+<p align="left"> Para que Terraform pueda interactuar con AWS, necesitamos configurar nuestro entorno con las credenciales adecuadas. Debemos crear un usuario de Amazon con permisos de administrador y generar una "access key". Existen varias formas de almacenar estas credenciales de manera segura:
+
+* Archivo de configuración: Utilizar archivos de configuración dentro de un directorio AWS para guardar el access key y el secret key.
+* CLI de Amazon: Trabajar directamente con el CLI (Command Line Interface) de Amazon para manejar credenciales.
+
+Debemos evitar almacenar las credenciales directamente como parámetros dentro del archivo de configuración de Terraform debido a problemas de seguridad potenciales. Si lo hacemos por motivos de prueba, debemos recordar siempre eliminar esos datos sensibles posteriormente. </p>
