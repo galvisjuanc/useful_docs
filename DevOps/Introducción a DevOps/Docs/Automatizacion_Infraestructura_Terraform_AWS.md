@@ -77,3 +77,11 @@ Debemos evitar almacenar las credenciales directamente como parámetros dentro d
 <h3 align="left"> ¿Qué pasos siguen después de configurar los archivos? </h3>
 
 <p align="left"> Una vez configurados todos los archivos de Terraform y los servicios necesitan estar alineados para su correcta ejecución. Es importante asegurarse de que las credenciales estén listas y nuestra estructura de buckets de S3 configurada. </p>
+
+<h3 align="left"> ¿Cómo se orquesta toda la infraestructura con CodePipeline? </h3>
+
+<p align="left"> Para orquestar la infraestructura, utilizamos CodePipeline, que actúa como el controlador maestro que une varios pasos de ejecución:
+
+* Uso de estados: Cada paso o estado se refiere a una acción, como usar CodeCommit para acceder al código de Terraform.
+* Paso de atributos: Los inputs y outputs entre estados aseguran el flujo de datos necesarios.
+* Configuración en S3: Los artefactos generados se almacenan en buckets de S3, según la estructura de CodePipeline. </p>
