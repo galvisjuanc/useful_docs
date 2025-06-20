@@ -40,3 +40,7 @@ Estos comandos, cuando se integran en un pipeline automatizado mediante CodePipe
 
 Con esta guía, estarás listo para aventurarte en el mundo del despliegue automatizado de infraestructuras. Así que adelante, aplica estos conocimientos y comienza a optimizar tu proceso de gestión de infraestructura en la nube. </p>
 
+
+<h3 align="left"> ¿Cómo se configura Terraform para integrar con AWS? </h3>
+
+<p align="left"> Configurar Terraform para trabajar con AWS es un paso crucial en el proceso de automatización de infraestructura. El primer paso es asegurarnos de que Terraform guarde el archivo tfstate en un bucket de S3 preexistente. Este bucket será el repositorio que almacenará el estado de nuestra infraestructura, por lo que será necesario crearlo en la consola de Amazon si aún no lo hemos hecho. </p>
