@@ -67,3 +67,9 @@ Debemos evitar almacenar las credenciales directamente como parámetros dentro d
     * Quién asume el rol (en este caso, CodeBuild).
     * Las acciones y permisos específicos que se otorgarán. </p>
 
+<h3 align="left"> ¿Cómo se obtiene e integra una imagen de Docker? </h3>
+
+<p align="left"> Cuando una integración precisa utilizar una imagen de Docker, como es el caso del uso de una imagen pública desde Docker Hub, necesitamos conectarnos y usar credenciales específicas:
+
+* Credenciales de la cuenta de Docker se integran para facilitar la descarga de imágenes.
+* Asegurar que las credenciales están almacenadas en los archivos de configuración adecuados. </p>
