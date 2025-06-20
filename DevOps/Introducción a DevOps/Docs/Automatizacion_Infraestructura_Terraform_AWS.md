@@ -73,3 +73,7 @@ Debemos evitar almacenar las credenciales directamente como parámetros dentro d
 
 * Credenciales de la cuenta de Docker se integran para facilitar la descarga de imágenes.
 * Asegurar que las credenciales están almacenadas en los archivos de configuración adecuados. </p>
+
+<h3 align="left"> ¿Qué pasos siguen después de configurar los archivos? </h3>
+
+<p align="left"> Una vez configurados todos los archivos de Terraform y los servicios necesitan estar alineados para su correcta ejecución. Es importante asegurarse de que las credenciales estén listas y nuestra estructura de buckets de S3 configurada. </p>
