@@ -85,3 +85,24 @@ Debemos evitar almacenar las credenciales directamente como parámetros dentro d
 * Uso de estados: Cada paso o estado se refiere a una acción, como usar CodeCommit para acceder al código de Terraform.
 * Paso de atributos: Los inputs y outputs entre estados aseguran el flujo de datos necesarios.
 * Configuración en S3: Los artefactos generados se almacenan en buckets de S3, según la estructura de CodePipeline. </p>
+
+<h3 align="left"> ¿Cómo se ejecutan los comandos de Terraform?
+ </h3>
+
+<p align="left">Para ejecutar terraform y aplicar cambios a nuestra infraestructura, se utilizan comandos tales como terraform init, terraform plan y terraform apply:
+
+* Terraform init: Inicializa los directorios de trabajo y configura el entorno.
+* Terraform validate: Chequea que los archivos de configuración no contienen errores.
+* Terraform apply: Aplica los cambios planeados a infraestructura, puede incluir el flag auto-approve para evitar confirmaciones manuales.
+
+El uso confidencial de los logs generados durante la ejecución nos permite identificar errores y ajustar las configuraciones en caso de problemas.
+
+Ahora, para manejar códigos e impulsar cambios con Git:
+
+1. Clonar repositorios: Utilizar HTTPS para clonar los repositorios de CodeCommit.
+2.- Agregar y confirmar cambios: Con comandos git add . y git commit.
+3. Hacer push a la rama deseada: Con git push origin master logra sincronizar el trabajo local con el repositorio remoto.
+
+Una vez que Git actualiza el repositorio, CodePipeline tomará automáticamente los cambios y ejecutará los flujos predefinidos para aplicar la infraestructura en la nube.
+
+Al configurar y ejecutar todas estas herramientas y servicios, aseguramos una integración CI/CD efectiva, que facilita el despliegue automático y confiable de infraestructura. </p>
