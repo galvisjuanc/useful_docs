@@ -53,3 +53,17 @@ Con esta guía, estarás listo para aventurarte en el mundo del despliegue autom
 * CLI de Amazon: Trabajar directamente con el CLI (Command Line Interface) de Amazon para manejar credenciales.
 
 Debemos evitar almacenar las credenciales directamente como parámetros dentro del archivo de configuración de Terraform debido a problemas de seguridad potenciales. Si lo hacemos por motivos de prueba, debemos recordar siempre eliminar esos datos sensibles posteriormente. </p>
+
+<h3 align="left"> ¿Qué contienen los archivos Terraform usados? </h3>
+
+<p align="left"> Los archivos de Terraform son fundamentales para definir la infraestructura que se va a crear y gestionar. Cada archivo corresponde a un componente o conjunto de componentes dentro de nuestra arquitectura en la nube. </p>
+
+<h3 align="left"> ¿Cómo se configura CodeCommit y CodeBuild? </h3>
+
+<p align="left"> La configuración de CodeCommit y CodeBuild se realiza a través de sus respectivos archivos:
+
+* CodeCommit: Este archivo sencillo provoca la creación de un repositorio llamado repositorio de CICD usando CodeCommit.
+* CodeBuild: Define los roles y permisos necesarios. Es crucial especificar:
+    * Quién asume el rol (en este caso, CodeBuild).
+    * Las acciones y permisos específicos que se otorgarán. </p>
+
