@@ -8,8 +8,15 @@
 
 <p align="left"> Para lograr un despliegue exitoso de una aplicación Frontend, es necesario asegurar que cuentas con ciertos permisos y configuraciones básicas. Aquí te describimos brevemente los elementos esenciales:
 
-CodePipeline y CodeBuild: Ya deberías tener los permisos necesarios configurados en tu cuenta.
-Bitbucket: Servirá como repositorio de origen del código.
-S3: Servirá como alojamiento para los archivos de tu aplicación Angular.
-ARNs de Roles: Necesitas los ARNs específicos de los roles de CodePipeline y CodeBuild ya existentes. </p>
+* CodePipeline y CodeBuild: Ya deberías tener los permisos necesarios configurados en tu cuenta.
+* Bitbucket: Servirá como repositorio de origen del código.
+* S3: Servirá como alojamiento para los archivos de tu aplicación Angular.
+* ARNs de Roles: Necesitas los ARNs específicos de los roles de CodePipeline y CodeBuild ya existentes. </p>
 
+<h3 align="left"> ¿Cuál es el flujo de trabajo? </h3>
+
+<p align="left"> Para lograr un despliegue exitoso de una aplicación Frontend, es necesario asegurar que cuentas con ciertos permisos y configuraciones básicas. Aquí te describimos brevemente los elementos esenciales:
+
+1. Conexión de repositorio: Comienza obteniendo el código fuente desde Bitbucket.
+2. Construcción y empaquetado: Usa CodeBuild para ejecutar el comando npm run build, que compilará el código de Angular.
+3. Despliegue: Finalmente, los archivos resultantes serán subidos al bucket S3 de AWS para ser servidos como página web estática. </p>
