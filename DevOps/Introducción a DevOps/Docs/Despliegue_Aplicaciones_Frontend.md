@@ -55,3 +55,9 @@ Terraform es clave en la creación y manejo de recursos en tu cuenta de AWS de f
 * La fuente (en tu caso, Bitbucket).
 * Construcciones y permisos necesarios.
 * Configuración para almacenar los resultados en S3. </p>
+
+<h3 align="left"> Uso de Terraform dentro del CodePipeline </h3>
+
+<p align="left"> AToda la configuración del endpoint de despliegue y los permisos de conexión se gestionan reutilizando roles y recursos ya creados con Terraform. Dicho de otra manera, Terraform actúa como el "orquestador" de todo el proceso de infraestructura para asegurar que tu aplicación se despliegue correctamente cada vez que se realicen cambios en el código o configuraciones.
+
+El despliegue es un proceso dinámico y adaptable que requiere una interacción constante con los desarrolladores y el equipo de TI para asegurarse de que los comandos y configuraciones sean correctos. Con práctica y comunicación, este proceso se convertirá en una segunda naturaleza, permitiéndote centrarte en lo que realmente importa: ofrecer un producto de calidad. </p>
