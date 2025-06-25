@@ -82,8 +82,9 @@ git push origin master </code>
 
 <strong> Consejos para implementar serverless exitosamente </strong>
 
-Familiarízate con archivos .yaml, ya que son cruciales para definir funciones y servicios.
-Ser flexible con el lenguaje: Node.js y Python son populares, pero serverless puede adaptarse a diversas necesidades lingüísticas.
-Nota la importancia de los plugins y frameworks: Estos no solo simplifican los despliegues, sino que optimizan el tiempo de desarrollo y respuesta.
+* Familiarízate con archivos .yaml, ya que son cruciales para definir funciones y servicios.
+* Ser flexible con el lenguaje: Node.js y Python son populares, pero serverless puede adaptarse a diversas necesidades lingüísticas.
+* Nota la importancia de los plugins y frameworks: Estos no solo simplifican los despliegues, sino que optimizan el tiempo de desarrollo y respuesta.
+
 Experimenta por ti mismo la integración de Serverless en AWS. Desplegar tus propias aplicaciones se convierte en una experiencia educativa invaluable, y siguiendo esta guía, estarás bien encaminado para hacerlo sin dificultad. ¡Sigue avanzando y explora todas las posibilidades que el desarrollo serverless tiene para ofrecer!
  </p>
