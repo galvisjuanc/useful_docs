@@ -27,3 +27,38 @@ functions:
     handler: handler.hello</code>
 
  </p>
+
+ <h3 align="left"> ¿Cómo integrar Node.js y Python en serverless? </h3>
+
+<p align="left"> El framework Serverless permite trabajar con múltiples lenguajes, en este caso Node.js y Python. Ambos lenguajes mantienen una estructura similar en sus archivos buildspec.
+
+Para Node:
+
+<code> phases:
+  install:
+    runtime-versions:
+      nodejs: 14
+    commands:
+      - npm install
+      - npm install -g serverless
+  build:
+    commands:
+      - sls deploy </code>
+
+Para Python, además de las etapas estándar de instalación y despliegue, necesitas instalar un plugin adicional:
+
+<code> phases:
+  install:
+    runtime-versions:
+      python: 3.8
+    commands:
+      - pip install serverless
+      - pip install serverless-plugin
+  build:
+    commands:
+      - sls deploy </code>
+
+Notarás que los comandos principales para desplegar son similares, lo que facilita el manejo de distintos lenguajes en un entorno serverless.
+
+
+ </p>
