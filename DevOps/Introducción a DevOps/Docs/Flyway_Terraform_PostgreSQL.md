@@ -62,3 +62,20 @@ dockerhub_credential_arn="arn:aws:secretsmanager:your-region:123456789012:secret
 
 </p>
 
+<h3 align="left"> ¿Qué hacer en caso de errores durante el despliegue? </h3>
+
+<p align="left"> Un posible problema durante el despliegue puede ocurrir si un recurso, como el Secret Manager, ya existe o está en proceso de eliminación. En esos casos:
+
+* Revisar mensajes de error: Analiza los logs para identificar la causa exacta, como conflictos de nombre.
+* Cambiar el nombre de los recursos: Si un recurso no puede ser creado debido a un conflicto, modifica su identificador antes de intentar crear nuevamente.
+
+
+<code> resource "aws_secretsmanager_secret" "my_secret" {
+  name = "MySecretName-2"
+}
+</code>
+
+
+Implementar estas prácticas no solo garantiza la eficiencia en el manejo de bases de datos, sino que también eleva el nivel de seguridad y profesionalismo en la gestión de infraestructuras y despliegues automatizados. Con estas herramientas y configuraciones, puedes incrementar significativamente la eficiencia operativa y reducir potenciales errores humanos. ¡Continúa aprendiendo y mejora tus habilidades en el mundo del desarrollo y la gestión de datos!
+
+</p>
