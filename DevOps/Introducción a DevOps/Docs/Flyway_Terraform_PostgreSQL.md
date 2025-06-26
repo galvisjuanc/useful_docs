@@ -30,7 +30,7 @@ flyway.password=${DB_PASSWORD} </code>
 
  </p>
 
- <h3 align="left"> ¿Cómo se integra Terraform en el proceso? </h3>
+<h3 align="left"> ¿Cómo se integra Terraform en el proceso? </h3>
 
 <p align="left"> Terraform es una herramienta de infraestructura como código que te ayudará a crear y gestionar tu base de datos, así como a mantener tus credenciales seguras en conjunto con el AWS Secret Manager.
 
@@ -46,7 +46,19 @@ flyway.password=${DB_PASSWORD} </code>
 } 
 </code>
 
-* Gestión de credenciales: Las credenciales generadas se almacenan de forma segura en el AWS Secret Manager para que solo el sistema autorizado las use.
+* Gestión de credenciales: Las credenciales generadas se almacenan de forma segura en el AWS Secret Manager para que solo el sistema autorizado las use. </p>
 
+<h3 align="left"> ¿Cómo se maneja CI/CD para el despliegue? </h3>
 
- </p>
+<p align="left"> El uso de un pipeline de integración y entrega continua (CI/CD) automatiza el proceso de actualización y despliegue de tu base de datos.
+
+1. Integración con CodePipeline y CodeBuild: Estos servicios, junto con permisos adecuados del Docker Hub, permiten construir y desplegar la aplicación de manera eficiente.
+
+2. Configuración del pipeline: Asegúrate de que los archivos de variables estén correctamente configurados con las credenciales del Docker Hub y ARN necesarios.
+
+<code> name="your-pipeline-name"
+dockerhub_credential_arn="arn:aws:secretsmanager:your-region:123456789012:secret:your-credentials"
+</code>
+
+</p>
+
