@@ -11,3 +11,21 @@
 * Compatibilidad múltiple: Flyway es compatible con varias bases de datos, lo que permite una fácil migración entre ellas.
 * Automatización del despliegue: Permite insertar automáticamente tablas y datos dentro de tu RDS usando archivos SQL, facilitando la gestión de estructuras complejas. </p>
 
+<h3 align="left"> ¿Cuáles son los pasos para configurar Flyway? </h3>
+
+<p align="left"> Antes de comenzar a usar Flyway, es esencial preparar algunos componentes y configuraciones:
+
+1. Descargue archivos SQL: Incluya todos los scripts necesarios para la creación de tablas e inserción de datos.
+
+2. Configure Flyway: Necesitarás un archivo de configuración que defina parámetros como el host, usuario y contraseña, que se generarán automáticamente durante el tiempo de ejecución.
+
+3. Uso de Secret Manager y RDS de AWS: Para asegurar las credenciales.
+
+<code># Fragmento de un archivo de configuración de Flyway
+flyway.url=jdbc:postgresql://${HOST}:5432/${DB_NAME}
+
+flyway.user=${DB_USER}
+
+flyway.password=${DB_PASSWORD} </code>
+
+ </p>
