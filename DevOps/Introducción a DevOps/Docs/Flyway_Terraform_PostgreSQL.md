@@ -29,3 +29,24 @@ flyway.user=${DB_USER}
 flyway.password=${DB_PASSWORD} </code>
 
  </p>
+
+ <h3 align="left"> ¿Cómo se integra Terraform en el proceso? </h3>
+
+<p align="left"> Terraform es una herramienta de infraestructura como código que te ayudará a crear y gestionar tu base de datos, así como a mantener tus credenciales seguras en conjunto con el AWS Secret Manager.
+
+* Creación de base de datos: Usando Terraform, puedes crear una base de datos PostgreSQL en Amazon RDS con una contraseña aleatoria.
+
+<code> resource "aws_db_instance" "mydb" {
+  allocated_storage    = 20
+  engine               = "postgres"
+  instance_class       = "db.t2.micro"
+  name                 = "my_custom_db"
+  username             = "master_user"
+  password             = random_password.your_random_password.result
+} 
+</code>
+
+* Gestión de credenciales: Las credenciales generadas se almacenan de forma segura en el AWS Secret Manager para que solo el sistema autorizado las use.
+
+
+ </p>
