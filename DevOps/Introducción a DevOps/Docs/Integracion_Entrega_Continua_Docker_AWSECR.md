@@ -13,3 +13,11 @@
 * Continuous Delivery (CD): Se centra en la preparación de un artefacto para que esté listo para ser desplegado. En este caso, implica conservar el artefacto en una fase de release desde donde se pueda acceder para su posterior despliegue.
 
 * Continuous Deployment: Representa la fase en la que una aplicación se coloca y ejecuta en una instancia. Aunque no es el enfoque principal en esta guía, es importante mencionarlo como la evolución lógica de la entrega continua.</p>
+
+<h3 align="left"> ¿Cómo configurar un Dockerfile para un Microservicio en Java? </h3>
+
+<p align="left"> Para empezar, es vital contar con un Dockerfile adecuado. Este archivo es el que describe cómo se debe construir el entorno para tu aplicación Java. Los pasos básicos incluyen:
+
+1. Preparación del entorno Docker: Instrucciones que definen los pasos necesarios para compilar y ejecutar el proyecto en un contenedor Docker.
+2. Instrucciones de compilación: En este caso, utilizaréis comandos Maven como mvn clean install para construir el proyecto.
+3. Configuración del contenedor: Indicar cómo debe ejecutarse la aplicación una vez compilada.</p>
