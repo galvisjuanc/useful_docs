@@ -21,3 +21,19 @@
 1. Preparación del entorno Docker: Instrucciones que definen los pasos necesarios para compilar y ejecutar el proyecto en un contenedor Docker.
 2. Instrucciones de compilación: En este caso, utilizaréis comandos Maven como mvn clean install para construir el proyecto.
 3. Configuración del contenedor: Indicar cómo debe ejecutarse la aplicación una vez compilada.</p>
+
+<h3 align="left"> ¿Cómo usar AWS ECR para almacenar Imágenes Docker? </h3>
+
+<p align="left"> Una vez que tu aplicación esté empaquetada en una imagen Docker, debes almacenarla en un servicio confiable como AWS Elastic Container Registry (ECR). Siguiendo estos pasos:
+
+1. Creación de un Repositorio en ECR: Utilizando Terraform, puedes definir el recurso necesario en AWS y obtener la URI del repositorio.
+2. Configuración de permisos: Establecer permisos que permitan a tu infraestructura manipular los recursos de ECR.
+3. Subir Imágenes Docker: Usar docker push para enviar tu imagen Docker al ECR, asegurando que esté disponible para futuras implementaciones. </p>
+
+<h3 align="left"> ¿Cómo integrar Terraform con CodeBuild y CodePipeline? </h3>
+
+<p align="left"> Terraform es una excelente herramienta para gestionar la infraestructura como código. Combinada con servicios como AWS CodeBuild y CodePipeline, puedes lograr un sistema automatizado y eficiente:
+
+* Definición de recursos: Con archivos de Terraform, indica la creación de cada recurso que tu proyecto necesita.
+* Conexión con ECR: Pasar la URI del repositorio de ECR como variables de entorno en tus scripts de compilación y entrega.
+* Implementación automática: Usar las herramientas de CI/CD de AWS para ejecutar integraciones, construir imágenes, y almacenarlas en el registro.</p>
