@@ -37,3 +37,12 @@
 * Definición de recursos: Con archivos de Terraform, indica la creación de cada recurso que tu proyecto necesita.
 * Conexión con ECR: Pasar la URI del repositorio de ECR como variables de entorno en tus scripts de compilación y entrega.
 * Implementación automática: Usar las herramientas de CI/CD de AWS para ejecutar integraciones, construir imágenes, y almacenarlas en el registro.</p>
+
+<h3 align="left"> Prácticas Recomendables al Usar Infraestructura de Alquiler </h3>
+
+<p align="left"> Al trabajar en la nube, especialmente con servicios que pueden tener un costo adicional como los de AWS, es crucial ser consciente del uso de recursos:
+
+* Eliminación de Recursos no Utilizados: Al finalizar un proyecto o práctica, asegúrate de eliminar todos los recursos que ya no son necesarios para evitar cargos innecesarios.
+* Revisión constante: Monitoriza tu infraestructura y optimiza el uso de recursos para maximizar la eficiencia y minimizar costos.
+
+Este enfoque no solo te prepara para gestionar proyectos de desarrollo de software más grandes y complejos, sino que también optimiza tu flujo de trabajo, proporcionando un entorno más estable y confiable para desarrollar, probar y lanzar aplicaciones. ¡Continúa explorando y dominando estas herramientas para fortalecer tus habilidades en desarrollo backend!</p>
