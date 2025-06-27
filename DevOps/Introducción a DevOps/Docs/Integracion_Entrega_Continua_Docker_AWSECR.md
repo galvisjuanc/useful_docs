@@ -45,4 +45,4 @@
 * Eliminación de Recursos no Utilizados: Al finalizar un proyecto o práctica, asegúrate de eliminar todos los recursos que ya no son necesarios para evitar cargos innecesarios.
 * Revisión constante: Monitoriza tu infraestructura y optimiza el uso de recursos para maximizar la eficiencia y minimizar costos.
 
-Este enfoque no solo te prepara para gestionar proyectos de desarrollo de software más grandes y complejos, sino que también optimiza tu flujo de trabajo, proporcionando un entorno más estable y confiable para desarrollar, probar y lanzar aplicaciones. ¡Continúa explorando y dominando estas herramientas para fortalecer tus habilidades en desarrollo backend!</p>
+Este enfoque no solo te prepara para gestionar proyectos de desarrollo de software más grandes y complejos, sino que también optimiza tu flujo de trabajo, proporcionando un entorno más estable y confiable para desarrollar, probar y lanzar aplicaciones. ¡Continúa explorando y dominando estas herramientas para fortalecer tus habilidades en desarrollo backend! </p> 
