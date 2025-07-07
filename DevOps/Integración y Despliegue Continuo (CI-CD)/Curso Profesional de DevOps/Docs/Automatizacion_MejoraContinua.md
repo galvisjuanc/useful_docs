@@ -21,3 +21,12 @@ DevOps es una práctica moderna que integra a los desarrolladores de software co
 * Despliegue frecuente de cambios pequeños: Esto reduce la probabilidad de errores grandes, dado que los cambios son controlados y probados de manera inmediata.
 * Mejora de la relación empresa-cliente: Menos errores significan un servicio más confiable y una mejor reputación ante los clientes.
 * Reducción de llamadas de emergencia: Una correcta integración y automatización significa menos interrupciones a horas inadecuadas. </p>
+
+<h3 align="left"> ¿Por qué la colaboración es clave en DevOps? </h3>
+
+<p align="left"> Los resultados de adoptar una cultura DevOps incluyen:
+
+La colaboración es el núcleo de DevOps. Contrario a la creencia popular, DevOps no es solo una herramienta o un equipo dentro de la empresa, es un cambio cultural donde cada parte del negocio, desde los técnicos hasta el argumento más alto, se involucra en la automatización de todos los procesos relevantes.
+
+* Medición de productividad: Midiendo cuánto tiempo toma reparar un problema, desplegar un cambio o arreglar un incidente, las empresas pueden ajustar procesos y ganar eficiencia.
+* Desarrollo conjunto de herramientas: Los desarrolladores crean herramientas junto a los operadores para operar el código, facilitando soluciones más eficientes. </p>
