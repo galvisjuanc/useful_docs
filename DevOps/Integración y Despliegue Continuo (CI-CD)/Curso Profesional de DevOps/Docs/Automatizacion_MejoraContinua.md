@@ -13,3 +13,11 @@ DevOps es una práctica moderna que integra a los desarrolladores de software co
 * Automatización de procesos: Desde pruebas hasta despliegues, todo puede ser automatizado, permitiendo que las acciones se lleven a cabo constantemente y sin intervención humana, lo cual incrementa la productividad.
 
 * Colaboración efectiva: Desarrolladores y operadores trabajan conjuntamente para resolver problemas antes de que ocurran, garantizando que el servicio sea mantenido con alta disponibilidad. </p>
+
+<h3 align="left"> ¿Cuáles son los beneficios tangibles para las empresas? </h3>
+
+<p align="left"> Los resultados de adoptar una cultura DevOps incluyen:
+
+* Despliegue frecuente de cambios pequeños: Esto reduce la probabilidad de errores grandes, dado que los cambios son controlados y probados de manera inmediata.
+* Mejora de la relación empresa-cliente: Menos errores significan un servicio más confiable y una mejor reputación ante los clientes.
+* Reducción de llamadas de emergencia: Una correcta integración y automatización significa menos interrupciones a horas inadecuadas. </p>
