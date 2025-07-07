@@ -13,3 +13,19 @@ Un concepto importante y uno de los pilares fundamentales en DevOps es la automa
 <h3 align="left"> 👩‍💻 Audiocurso de Fundamentos de Arquitectura de Alta Ocurrencia 👩‍💻 </h3>
 
 <p align="left"> Contiene fundamentos sobre los tipos de escalamiento, SRE, arquitecturas de alta concurrencia, stateless y stateful, etc.</p>
+
+
+
+<h2 align="left"> 👩‍💻 Integración y Despliegue Continuo (CI/CD) 👩‍💻 </h2>
+
+<h3 align="left"> 👩‍💻 Curso de Introducción al Despliegue de Aplicaciones 👩‍💻 </h3>
+
+<p align="left"> Despliega aplicaciones front-end y back-end usando GitHub Pages, Heroku, Netlify y más. Aprende a conectar bases de datos con Mongo Atlas y ElephantSQL, y documenta APIs con Postman. Lleva tus proyectos hacia producción con confianza. </p>
+
+<h3 align="left"> 👩‍💻 Curso de Github Actions 👩‍💻 </h3>
+
+<p align="left"> TBD </p>
+
+<h3 align="left"> 👩‍💻 Curso Profesional de DevOps 👩‍💻 </h3>
+
+<p align="left"> Domina DevOps implementando ambientes homogéneos con Docker, automatizando procesos con Jenkins y gestionando deployments seguros. Aprende a monitorear métricas, manejar incidentes y asegurar calidad en cada despliegue de software. </p>
