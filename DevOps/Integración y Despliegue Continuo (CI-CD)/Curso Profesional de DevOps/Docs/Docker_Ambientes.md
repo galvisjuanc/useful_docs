@@ -15,4 +15,3 @@
 * La construcción de contenedores generó vulnerabilidades de seguridad.
 
 * Todas las operaciones de docker deben ser realizadas por un usuario con permisos root. </p>
-
