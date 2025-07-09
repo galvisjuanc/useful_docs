@@ -12,6 +12,6 @@
 
 * EXPOSE: Exponemos el puerto 3000
 
-CMD: Acá le decimos a Docker que ejecute este comando al momento de ejecutar nuestro container. En este caso correrá la aplicación.
+* CMD: Acá le decimos a Docker que ejecute este comando al momento de ejecutar nuestro container. En este caso correrá la aplicación.
 
 dockerignore: es casi igual al gitignore, pero para docker. </p>
