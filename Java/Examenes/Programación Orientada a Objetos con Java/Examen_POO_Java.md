@@ -49,24 +49,18 @@ Java 8 introdujo el concepto y otros lenguajes lo implementaron.  </strong>
 Para el gestor de configuración del sistema, asegurando una única fuente centralizada de configuraciones.
 
 23.  <strong>En un sistema bancario, ¿cuál es la principal ventaja de usar Generics para manejar diferentes tipos de cuentas? Mejora el rendimiento del sistema al optimizar automáticamente las operaciones con diferentes tipos de cuentas. </strong>
-24.
-¿Cuál es la principal ventaja de usar @BeforeEach en lugar de @BeforeAll al configurar pruebas en JUnit?
-Permite que cada prueba comience en un estado limpio y predecible, evitando interferencias entre pruebas.
-25.
-¿Cuál es el propósito principal de las pruebas de sistema en un proyecto Java como JavaBank?
-Validar que la aplicación completa funcione correctamente en un entorno similar al de producción
-26.
-¿Cuál es la principal ventaja de utilizar expresiones lambda con functional interfaces en el procesamiento de colecciones?
-Permiten filtrar, mapear y reducir colecciones de manera más concisa y declarativa
-27.
-En un sistema bancario, ¿cuál es la forma más eficiente de obtener todas las transacciones de depósito utilizando Stream API?
-Utilizar el método filter() con una expresión lambda que verifique si el tipo de transacción es DEPOSIT
-28.
-¿Cuál es la principal ventaja de usar la clase Optional en Java para manejar valores nulos?
-Permite manejar la presencia o ausencia de un valor de manera explícita, evitando errores de NullPointerException.
-29.
-En un sistema bancario con múltiples transacciones simultáneas, ¿qué problema podría ocurrir si no se implementa sincronización adecuada?
-Reducción del uso de memoria en el sistema durante operaciones concurrentes
-30.
-¿Cuál es la forma correcta de manejar excepciones en operaciones asíncronas con CompletableFuture?
-Utilizar el método exceptionally() para capturar la excepción y devolver un valor alternativo o mensaje de error. </p>
+
+24. ¿Cuál es la principal ventaja de usar @BeforeEach en lugar de @BeforeAll al configurar pruebas en JUnit?  <strong> Permite que cada prueba comience en un estado limpio y predecible, evitando interferencias entre pruebas.  </strong>
+
+25. ¿Cuál es el propósito principal de las pruebas de sistema en un proyecto Java como JavaBank? Validar que la aplicación completa funcione correctamente en un entorno similar al de producción
+
+26. ¿Cuál es la principal ventaja de utilizar expresiones lambda con functional interfaces en el procesamiento de colecciones? Permiten filtrar, mapear y reducir colecciones de manera más concisa y declarativa
+
+27. En un sistema bancario, ¿cuál es la forma más eficiente de obtener todas las transacciones de depósito utilizando Stream API? Utilizar el método filter() con una expresión lambda que verifique si el tipo de transacción es DEPOSIT
+
+28. ¿Cuál es la principal ventaja de usar la clase Optional en Java para manejar valores nulos? Permite manejar la presencia o ausencia de un valor de manera explícita, evitando errores de NullPointerException.
+
+29. <strong> En un sistema bancario con múltiples transacciones simultáneas, ¿qué problema podría ocurrir si no se implementa sincronización adecuada?
+Reducción del uso de memoria en el sistema durante operaciones concurrentes  </strong>
+
+30. ¿Cuál es la forma correcta de manejar excepciones en operaciones asíncronas con CompletableFuture? Utilizar el método exceptionally() para capturar la excepción y devolver un valor alternativo o mensaje de error. </p>
