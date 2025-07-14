@@ -12,3 +12,22 @@
 * Pruebas de integración: Evalúan la interacción entre diferentes módulos o sistemas.
 
 Tener esta estructura es esencial, así como mantener una visión a futuro en la que este directorio pueda crecer con el tiempo al incorporar más pruebas. </p>
+
+<h3 align="left"> Práctica recomendada al usar contenedores de software </h3>
+
+<p align="left"> El uso de contenedores facilita la replicación del entorno de desarrollo y producción, aspecto clave para asegurar la consistencia del software. Una práctica recomendada es ejecutar las pruebas utilizando los recursos dentro del contenedor, garantizando así que cualquier dependencia o framework esté presente y configurado. </p>
+
+<h3 align="left"> ¿Cómo configurar scripts de prueba en Node.js? </h3>
+
+<p align="left"> Para ilustrar cómo podrías implementar estas ideas, supongamos que trabajas con Node.js. Allí, es común definir scripts dentro del archivo package.json. Aquí es donde configuras la ejecución de tus pruebas, por ejemplo, usando Mocha, un popular framework de pruebas para Node.js.
+
+{
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.0"
+  }
+}
+
+</p>
