@@ -31,3 +31,15 @@ Tener esta estructura es esencial, así como mantener una visión a futuro en la
 }
 
 </p>
+
+<h3 align="left"> ¿Por qué es importante instalar dependencias de prueba en el contenedor? </h3>
+
+<p align="left"> Asegurarse de que el contenedor tenga todas las herramientas necesarias para ejecutar pruebas es vital. Esto es porque:
+
+* Consistencia: Todas las pruebas se ejecutarán bajo las mismas condiciones que el entorno de producción.
+* Eficiencia: No es necesario instalar dependencias cada vez que se ejecuta una prueba.
+* Repetibilidad: Se facilita la replicación del entorno por otros miembros del equipo o en distintos entornos.
+
+Implementar estos elementos te ayudará a desarrollar un entorno eficiente y productivo. ¡Sigue aprendiendo y perfeccionando tus habilidades, el mundo del desarrollo siempre tiene algo nuevo que ofrecer!
+
+</p>
