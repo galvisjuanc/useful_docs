@@ -7,3 +7,6 @@ Cada programador agrega grupos de cambios a la rama de código principal y estos
 
 <h3 align="left"> Continuous Delivery </h3>
 <p align="left">  Es una extensión de CI que autgomatiza todo el proceso de añadir código a la rama principal, de forma que se puede hacer deploy a producción en cualquier momento de forma manual y segura. </p>
+
+<h3 align="left"> Continuous Deployment </h3>
+<p align="left">  Va un paso más allá y el deploy también es automático. Los cambios se ven en minutos y recibes feedback de los clientes para iterar rápidamente. </p>
