@@ -2,3 +2,10 @@
 
 <h3 align="left"> ¿Cómo correr pruebas usando Docker y Jenkins? </h3>
 <p align="left">  En el emocionante mundo del despliegue y desarrollo de software, Docker y Jenkins son herramientas fundamentales que nos permiten automatizar procesos y gestionar nuestros proyectos de manera eficiente. A continuación, desglosaremos cómo utilizar Docker tanto localmente como en Jenkins para ejecutar pruebas automáticas y asegurar que nuestro código esté listo para producción. </p>
+
+<h3 align="left"> ¿Cómo correr pruebas localmente usando Docker? </h3>
+<p align="left">  Una vez tienes Docker instalado, es hora de ponerlo en movimiento para ejecutar pruebas:
+
+1. Construir la imagen de Docker: docker build -t mi_repositorio/webApp:tag .
+
+</p>
