@@ -11,7 +11,38 @@
 2. Ejecutar las pruebas: docker run -it mi_repositorio/webApp:tag npm test
 
 
-Este comando ejecutará las pruebas en el contenedor. El uso de npm test sobrescribe el comando definido en el Dockerfile, permitiéndote correr exactamente lo que necesitas.
+Este comando ejecutará las pruebas en el contenedor. El uso de npm test sobrescribe el comando definido en el Dockerfile, permitiéndote correr exactamente lo que necesitas. </p>
 
+<h3 align="left"> ¿Cómo integrar Docker con Jenkins para pruebas continuas? </h3>
 
-</p>
+<p align="left">  Jenkins permite la automatización de procesos a través de pipelines, los cuales detallan cada paso que debe ejecutar, desde construir la imagen hasta correr las pruebas.
+
+Definición del Jenkinsfile:
+
+<code>
+pipeline {
+    agent any
+    environment {
+        ARTIFACT_ID = "mi_repositorio/webApp:\${BUILD_NUMBER}"
+    }
+    stages {
+        stage('Build') {
+            steps {
+                script {
+                    docker.build(ARTIFACT_ID)
+                }
+            }
+        }
+        stage('Test') {
+            steps {
+                script {
+                    sh 'docker run mi_repositorio/webApp:tag npm test'
+                }
+            }
+        }
+    }
+}
+
+</code>
+
+ </p>
