@@ -45,4 +45,25 @@ pipeline {
 
 </code>
 
+</p>
+
+<h3 align="left"> ¿Por qué construir imágenes en Jenkins y no localmente?
+ </h3>
+<p align="left">  Construir imágenes en Jenkins asegura que el caché y las imágenes estén centralizadas. Jenkins se convierte en el punto de referencia para el estado de nuestro código, facilitando la colaboración y la transparencia entre los equipos.
+ </p>
+
+ <h3 align="left"> ¿Cómo configurar Jenkins para que ejecute los pasos definidos en Jenkinsfile? </h3>
+<p align="left">  
+
+1. Crear un nuevo proyecto en Jenkins:
+    
+    1.1 Selecciona "Pipeline Multibranch".
+    
+    1.2 Asocia el archivo Jenkinsfile al proyecto según lo explicado en el curso de Jenkins.
+
+2. Ejecutar el Pipeline:
+
+    2.1 Accede al proyecto.
+
+    2.2 Corre las etapas definidas verificando que todo funcione correctamente.
  </p>
