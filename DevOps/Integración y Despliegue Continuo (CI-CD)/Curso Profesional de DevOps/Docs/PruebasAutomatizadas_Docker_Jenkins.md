@@ -8,4 +8,10 @@
 
 1. Construir la imagen de Docker: docker build -t mi_repositorio/webApp:tag .
 
+2. Ejecutar las pruebas: docker run -it mi_repositorio/webApp:tag npm test
+
+
+Este comando ejecutará las pruebas en el contenedor. El uso de npm test sobrescribe el comando definido en el Dockerfile, permitiéndote correr exactamente lo que necesitas.
+
+
 </p>
