@@ -59,4 +59,18 @@ docker.withRegistry(''): Aquí se deja en blanco para usar el default que es Doc
 
 docker.image("${registry}:latest").push(): Esta línea sube la imagen a Docker Hub. Ya está etiquetada desde el build, de modo que no necesitas volver a hacerlo.
 
+</p>
+
+<h3 align="left"> ¿Qué aspectos importantes debemos considerar al almacenar imágenes en Docker Hub? </h3>
+
+<p align="left">  Al almacenar imágenes en un repositorio como Docker Hub, considera lo siguiente:
+
+* Seguridad: Aunque el método con token es sencillo, investiga otras alternativas más seguras para proteger tus credenciales.
+
+* Consistencia: Asegúrate de que todas las imágenes estén bien etiquetadas para evitar confusiones y facilitar los rollbacks si es necesario.
+
+* Disponibilidad: Almacenarlas de manera remota no solo las hace accesibles desde cualquier lugar, sino que también actúa como un respaldo en caso de fallos locales.
+
+Esto asegura que siempre tengas acceso a tus Artifacts aunque surjan problemas en tu entorno de Jenkins, proporcionando redundancia y permitiendo realizar rollbacks efectivos si es necesario. Con estos pasos realizados, estarás listo para realizar el deployment de tus imágenes de Docker en un entorno productivo desde Docker Hub.
+
  </p>
