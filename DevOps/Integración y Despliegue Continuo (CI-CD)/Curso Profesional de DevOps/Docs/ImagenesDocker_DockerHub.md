@@ -53,4 +53,8 @@
     
 </code>
 
+docker.withRegistry(''): Aquí se deja en blanco para usar el default que es Docker Hub. Si tienes otro repositorio, especifica la URL.
+
+docker.image("${registry}:latest").push(): Esta línea sube la imagen a Docker Hub. Ya está etiquetada desde el build, de modo que no necesitas volver a hacerlo.
+
  </p>
