@@ -18,3 +18,39 @@
     * Asigna un ID a estas credenciales, tal como 'DockerHub Credentials'. Asegúrate de recordar este ID para su uso en el código posterior.
 
  </p>
+
+ <h3 align="left"> ¿Cómo configuramos el Jenkins file para publicar la imagen?
+ </h3>
+<p align="left">  Una vez que Jenkins está configurado para interactuar con Docker Hub, debes ajustar el Jenkins file para que publique las imágenes cuando cumpla ciertas condiciones, como en ramas específicas de tu proyecto:
+
+<code> 
+
+    def registry = '<tu-repositorio>/mi-imagen'
+    def registryCredential = 'DockerHub Credentials'
+
+    pipeline {
+        agent any
+
+        stages {
+            stage('Build') {
+                steps {
+                    script {
+                        docker.build("${registry}:latest")
+                    }
+                }
+            }
+            stage('Push') {
+                steps {
+                    script {
+                        docker.withRegistry('', registryCredential) {
+                            docker.image("${registry}:latest").push()
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+</code>
+
+ </p>
