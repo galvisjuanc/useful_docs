@@ -6,3 +6,15 @@
 
  </p>
 
+<h3 align="left"> ¿Cómo podemos almacenar imágenes en Docker Hub? </h3>
+<p align="left">  Para empezar a almacenar imágenes en Docker Hub, lo primero que debes hacer es crear una cuenta. Esto se hace en hub.docker.com. Una vez que tengas tu cuenta, sigue estos pasos:
+
+1. Obtener un token de autenticación: Utiliza este token en tu consola de Docker. Este token actúa como una contraseña que te permitirá interactuar de manera segura con Docker Hub.
+
+2. Configurar Jenkins para usar Docker Hub: Es crucial que Jenkins pueda autenticar de manera segura y continua con Docker Hub. Para ello:
+    * Ve a la sección de Credentials en Jenkins.
+    * Navega a 'Jenkins' > 'Global Credentials'.
+    * Añade unas nuevas credenciales utilizando la opción de "user name with password". Aquí introduces tu nombre de usuario de Docker y el token como contraseña.
+    * Asigna un ID a estas credenciales, tal como 'DockerHub Credentials'. Asegúrate de recordar este ID para su uso en el código posterior.
+
+ </p>
