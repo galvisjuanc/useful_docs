@@ -29,3 +29,13 @@ A pesar del costo que algunas de estas herramientas puedan tener, su integració
 * Acceso a recursos internos: Al tener acceso a producción y a los repositorios, Jenkins garantiza un flujo de trabajo continuo y seguro. 
     
 </p>
+
+<h3 align="left"> Precauciones al integrar herramientas externas </h3>
+
+<p align="left"> Cuando se considera la integración de servicios de terceros con Jenkins u otras herramientas de CI/CD, es crucial ser cauteloso para proteger la integridad del código y la infraestructura:
+
+* Evaluar cuidadosamente las herramientas: Es importante revisar y seleccionar cuidadosamente las herramientas externas, considerando su estabilidad y políticas de seguridad.
+* Incluir evaluaciones en las RFCs (Request for Comments): Asegura que el uso de estas herramientas esté bien documentado y revisado por todas las partes involucradas en el proyecto.
+* Monitorear el acceso y permisos: Controlar los accesos que se otorgan a las herramientas externas para limitar riesgos potenciales de exposición.
+    
+</p>
