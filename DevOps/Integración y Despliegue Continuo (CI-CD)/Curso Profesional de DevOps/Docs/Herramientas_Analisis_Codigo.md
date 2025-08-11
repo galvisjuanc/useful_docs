@@ -17,3 +17,15 @@ A pesar del costo que algunas de estas herramientas puedan tener, su integració
 <h3 align="left"> ¿Cómo integrar Jenkins en el proceso de desarrollo? </h3>
 
 <p align="left"> Jenkins es una herramienta de CI/CD ampliamente utilizada que, al correr localmente, proporciona control total sobre la infraestructura y los datos de acceso. Al integrarse con otras herramientas, puede convertirse en una solución poderosa para automatizar los procesos de desarrollo. </p>
+
+<h3 align="left"> Ventajas de usar Jenkins localmente </h3>
+
+<p align="left"> Existen tres ventajas fundamentales: 
+
+* Control y seguridad: Al ejecutarse internamente, Jenkins evita la exposición innecesaria de datos sensibles a terceros, contrariamente a lo que puede suceder con herramientas que corren en la nube.
+
+* Flexibilidad y personalización: Jenkins soporta un gran número de plugins, lo que permite integraciones personalizadas según las necesidades específicas del proyecto.
+
+* Acceso a recursos internos: Al tener acceso a producción y a los repositorios, Jenkins garantiza un flujo de trabajo continuo y seguro. 
+    
+</p>
