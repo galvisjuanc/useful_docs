@@ -13,3 +13,7 @@ Simplificar el código: A través del análisis de complejidad, ofrecen sugerenc
 Mejorar la cobertura de código: Aunque no siempre es la mejor métrica, proporciona una visualización más clara del estado del proyecto.
 Obtención de métricas detalladas: Ayudan a evaluar y mejorar la calidad del código mediante reportes precisos y comprensibles.
 A pesar del costo que algunas de estas herramientas puedan tener, su integración puede traducirse en una mejora considerable en la calidad y eficiencia del desarrollo. </p>
+
+<h3 align="left"> ¿Cómo integrar Jenkins en el proceso de desarrollo? </h3>
+
+<p align="left"> Jenkins es una herramienta de CI/CD ampliamente utilizada que, al correr localmente, proporciona control total sobre la infraestructura y los datos de acceso. Al integrarse con otras herramientas, puede convertirse en una solución poderosa para automatizar los procesos de desarrollo. </p>
