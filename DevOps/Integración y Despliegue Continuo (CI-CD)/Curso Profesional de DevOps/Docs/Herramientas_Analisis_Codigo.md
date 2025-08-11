@@ -39,3 +39,15 @@ A pesar del costo que algunas de estas herramientas puedan tener, su integració
 * Monitorear el acceso y permisos: Controlar los accesos que se otorgan a las herramientas externas para limitar riesgos potenciales de exposición.
     
 </p>
+
+<h3 align="left"> Integraciones populares con Jenkins </h3>
+
+<p align="left"> Jenkins es compatible con diversas herramientas y servicios que pueden mejorar el flujo de trabajo de desarrollo:
+
+* CodeClimate y SonarQube: Para análisis avanzados de calidad de código.
+* Plugins de Jenkins: Para personalizar y mejorar las capacidades por defecto de Jenkins.
+* CircleCI y otros servicios CI/CD: Que permiten una mayor integración y automatización de procesos.
+
+Al optar por Jenkins y otros servicios CI/CD, la clave es encontrar un balance entre seguridad, funcionalidad y costo, asegurando siempre que las herramientas elegidas aporten valor al proceso de desarrollo y al equipo de ingeniería.
+    
+</p>
