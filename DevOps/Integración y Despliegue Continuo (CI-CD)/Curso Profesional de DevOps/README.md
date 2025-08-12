@@ -15,3 +15,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Integraci%C3%B3n%20y%20Despliegue%20Continuo%20(CI-CD)/Curso%20Profesional%20de%20DevOps/Docs/ImagenesDocker_DockerHub.md"> Publicación de Imagenes Docker en DockerHub con Jenkins </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Integraci%C3%B3n%20y%20Despliegue%20Continuo%20(CI-CD)/Curso%20Profesional%20de%20DevOps/Docs/Herramientas_Analisis_Codigo.md"> Integración de Herramientas de Análisis de Código con Jenkins </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Integraci%C3%B3n%20y%20Despliegue%20Continuo%20(CI-CD)/Curso%20Profesional%20de%20DevOps/Docs/AutomatizaStaging_Prod.md"> Deployments con Now en Jenkins: Automatiza Staging y Producción </a>
