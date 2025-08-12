@@ -50,3 +50,21 @@ Todo esto prepara el camino para crear un build job en Jenkins que se encargará
     4.2 Utilizar now -t token para decirle a Now qué credenciales usar e iniciar el proceso de deployment con un Docker file básico.
 
 Estos pasos nos permiten conectar la línea de producción automáticamente y garantizar que siempre estamos desplegando la última versión válida de nuestra aplicación.</p>
+
+<h4 align="left"> ¿Cómo se automatiza el deployment con Jenkins File? </h4>
+
+<p align="left"> Los Jenkins Files permiten definir la lógica de construcción y deployment en un pipeline de CI/CD, facilitando la ejecución automatizada bajo ciertas condiciones. Aquí se ejemplifica el proceso para automatizar el deployment a staging:
+
+1. Agendar Deployment a Staging: Configurar el pipeline para que sólo se activen deployments a staging cuando el build esté en el branch master y haya pasado los tests sin errores.
+
+2. Desencadenar el job de deployment:
+
+    2.1 Utiliza la función build para ejecutar el job de deployment creado, pasándole el Artifact ID.
+    2.2 Configura el parámetro wait: false para que no interfiera con la ejecución del CI, permitiendo que las pruebas sigan su curso sin necesidad de esperar que el deployment termine.
+
+3. Verificar y probar el nuevo deployment:
+
+    3.1 Realiza pruebas sobre la nueva URL generada por Now.
+    3.2 Asegúrate de que tu aplicación funciona correctamente antes de considerar el paso a producción.
+
+En resumen, esta estrategia permite que el deployment y las pruebas fluyan de manera independiente, asegurando la calidad y estabilidad de las actualizaciones de tu aplicación.</p>
