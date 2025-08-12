@@ -67,4 +67,6 @@ Estos pasos nos permiten conectar la línea de producción automáticamente y ga
     3.1 Realiza pruebas sobre la nueva URL generada por Now.
     3.2 Asegúrate de que tu aplicación funciona correctamente antes de considerar el paso a producción.
 
-En resumen, esta estrategia permite que el deployment y las pruebas fluyan de manera independiente, asegurando la calidad y estabilidad de las actualizaciones de tu aplicación.</p>
+En resumen, esta estrategia permite que el deployment y las pruebas fluyan de manera independiente, asegurando la calidad y estabilidad de las actualizaciones de tu aplicación.
+
+Al final del proceso, habrás configurado un flujo automático que cubre desde el build del código hasta su deployment y testeo en un entorno de staging, preparándote para pasos futuros hacia producción. Asegúrate de realizar pruebas exhaustivas antes de cualquier movimiento definitivo, y disfruta del poder de la automatización continua. ¡Ánimo, estás caminando por la senda del éxito en CI/CD! </p>
