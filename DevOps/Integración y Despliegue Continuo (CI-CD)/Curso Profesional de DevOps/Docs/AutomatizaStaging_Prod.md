@@ -26,3 +26,27 @@
 4. Instala el paquete global de Now, para que el binario esté disponible al usar NodeJS en nuestros builds.
 
 Todo esto prepara el camino para crear un build job en Jenkins que se encargará del proceso de deployment. </p>
+
+
+<h4 align="left"> ¿Cómo configurar un job para deployment en Jenkins? </h4>
+
+<p align="left"> La configuración de un job en Jenkins es clave para automatizar el proceso de deployment. Aquí están los pasos básicos:
+
+1. Crear el job: Llama a tu nuevo job algo como "deployed WebApp staging", donde "WebApp" es el nombre del repositorio y "staging" es el ambiente objetivo.
+
+2. Configurar los parámetros iniciales:
+    
+    2.1 Acepta un parámetro llamado "Artifact ID", que ya hemos generado previamente.
+    2.2 Limpia el workspace antes de empezar. Esta práctica ayuda a evitar conflictos con artefactos anteriores.
+
+3. Añadir credenciales y configuraciones necesarias:
+
+    3.1 Inyecta el now token configurado previamente.
+    3.2 Especifica el uso de Node con la versión que incluye Now como paquete global.
+
+4. Ejecutar scripts necesarios:
+
+    4.1 Usar un shell script para ejecutar el deployment.
+    4.2 Utilizar now -t token para decirle a Now qué credenciales usar e iniciar el proceso de deployment con un Docker file básico.
+
+Estos pasos nos permiten conectar la línea de producción automáticamente y garantizar que siempre estamos desplegando la última versión válida de nuestra aplicación.</p>
