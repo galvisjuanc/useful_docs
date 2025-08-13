@@ -10,6 +10,6 @@ El concepto final es lanzar a producción más frecuente y tener menos errores, 
 
 Hay varios tipos de Deployments:
 
-* Blue/Green: Tener dos tags del mismo código dándole update a una de ellas mientras la otra sirve el tráfico.
+* Blue/Green: Es tener dos stacks corriendo en producción, actualizar uno mientras el otro sirve el tráfico, y cuando la actualización del stack seleccionado termine y todo marche bien, el tráfico es redireccionado a ese stack actualizado, y el otro se vuelve pasivo esperando a por la próxima actualización. Esta es una muy buena práctica debido a que hace "inmutable" el despliegue; pues si hay errores los podremos detectar de forma inmediata y podríamos regresar al stack pasivo, que tiene el despliegue anterior de forma rápida y segura.
 * Canary: Este se puede usar en conjunto con otros tipos. Tenemos un pull de nodos y vamos a implementar algo nuevo pudiendo resultar riesgoso. Solo modifcamos uno de esos nodos.
 * Rolling: Es hacerle update a máquinas una por una. Son seguros ya que podemos monitorear el progreso.</p>
