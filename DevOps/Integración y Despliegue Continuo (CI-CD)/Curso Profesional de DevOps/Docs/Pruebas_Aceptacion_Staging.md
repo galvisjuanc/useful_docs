@@ -31,3 +31,12 @@ Esta prueba simple, aunque básica, es muy útil para ilustrar cómo comprobar s
 4. Manejo de errores: Si grep no encuentra el número 7, el build fallará. Esto parará todo el pipeline automáticamente en caso de que algo no funcione como debería.
 
  </p>
+
+
+<h3 align="left"> Simulación de un fallo </h3>
+
+<p align="left"> Para visualizar un error, podemos simplemente cambiar la expectativa del resultado de la suma a un número incorrecto. Cambiar el test a "34" en lugar de "7" permitirá ver cómo el sistema marca un error:
+
+<code> curl $resolveURL | grep 34 </code>
+
+Esto generará un "failure", y el sistema indicará el fallo visualmente, deteniendo cualquier proceso de despliegue adicional. </p>
