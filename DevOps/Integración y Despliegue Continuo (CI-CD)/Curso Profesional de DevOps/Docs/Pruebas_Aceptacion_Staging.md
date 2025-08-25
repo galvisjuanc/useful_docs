@@ -40,3 +40,9 @@ Esta prueba simple, aunque básica, es muy útil para ilustrar cómo comprobar s
 <code> curl $resolveURL | grep 34 </code>
 
 Esto generará un "failure", y el sistema indicará el fallo visualmente, deteniendo cualquier proceso de despliegue adicional. </p>
+
+<h3 align="left"> Importancia de las pruebas en el pipeline de CI/CD </h3>
+
+<p align="left"> La implementación de pruebas en el pipeline de Continuous Integration (CI)/Continuous Deployment (CD) es crítica. Si el código no pasa las pruebas, el pipeline se detiene, lo que evita que código defectuoso llegue a producción. Esto asegura que solo los candidatos viables lleguen al ambiente final y garantiza la calidad y estabilidad del sistema.
+
+Pruebas simples como estas crean una base para gestionar hipótesis y validar comportamientos esperados en un entorno que replica producción. A medida que avances en tus implementaciones, el objetivo será conectar todo esto para finalizar con un despliegue exitoso en producción. </p>
