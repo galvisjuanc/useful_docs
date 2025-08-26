@@ -11,3 +11,10 @@
 * Recibir el Artifact ID: Este es un identificador único que usarás en todos tus jobs.
 * Limpiar el workspace antes de cada build: Esto asegura que no quede residuo de builds anteriores.
 * Asociar el secreto de now token: Necesario si estás desplegando en now, o cualquier otro secreto específico de tu entorno de producción. </p>
+
+<h3 align="left"> ¿Cómo manejar el Artifact en Jenkins? </h3>
+
+<p align="left"> El uso del Artifact es fundamental para la integridad del despliegue:
+
+* Siempre se debe usar el mismo Artifact en todas las cadenas de jobs.
+* El Artifact puede ser un archivo Zip, la dirección de un paquete .deb, o la ruta a un repositorio, lo importante es que se mantenga constante y se pase adecuadamente entre los jobs. </p>
