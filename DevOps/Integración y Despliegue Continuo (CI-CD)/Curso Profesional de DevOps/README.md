@@ -19,3 +19,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Integraci%C3%B3n%20y%20Despliegue%20Continuo%20(CI-CD)/Curso%20Profesional%20de%20DevOps/Docs/AutomatizaStaging_Prod.md"> Deployments con Now en Jenkins: Automatiza Staging y Producción </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Integraci%C3%B3n%20y%20Despliegue%20Continuo%20(CI-CD)/Curso%20Profesional%20de%20DevOps/Docs/ImplementacionContinua_MetodosEfectivos.md"> Implementación Continua: Métodos y Estrategias Efectivas </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Integraci%C3%B3n%20y%20Despliegue%20Continuo%20(CI-CD)/Curso%20Profesional%20de%20DevOps/Docs/Pruebas_Aceptacion_Staging.md"> Pruebas de Aceptación en Despliegues Staging </a>
