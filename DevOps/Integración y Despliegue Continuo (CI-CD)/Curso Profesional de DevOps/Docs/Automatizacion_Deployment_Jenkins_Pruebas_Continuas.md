@@ -18,3 +18,12 @@
 
 * Siempre se debe usar el mismo Artifact en todas las cadenas de jobs.
 * El Artifact puede ser un archivo Zip, la dirección de un paquete .deb, o la ruta a un repositorio, lo importante es que se mantenga constante y se pase adecuadamente entre los jobs. </p>
+
+<h3 align="left"> ¿Es necesario ejecutar los acceptance tests en producción? </h3>
+
+<p align="left"> ¡Claro que sí! Aunque la infraestructura de staging debería ser casi idéntica a la de producción, hay diferencias inevitables, como en los parámetros de configuración de bases de datos. Por ello, los tests de aceptación deben ejecutarse tanto en staging como en producción para:
+
+* Detectar configuraciones o errores específicos del ambiente de producción.
+* Asegurar que el código funciona en todos los ambientes sin problemas.
+
+La ejecución continua de pruebas es parte de la integración continua y refuerza la confianza en el código antes de lanzarlo a producción.</p>
