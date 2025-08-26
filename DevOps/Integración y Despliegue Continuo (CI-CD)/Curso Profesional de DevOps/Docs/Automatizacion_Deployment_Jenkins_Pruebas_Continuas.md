@@ -27,3 +27,14 @@
 * Asegurar que el código funciona en todos los ambientes sin problemas.
 
 La ejecución continua de pruebas es parte de la integración continua y refuerza la confianza en el código antes de lanzarlo a producción.</p>
+
+<h3 align="left"> ¿Qué herramientas puedes usar para deployment? </h3>
+
+<p align="left"> El proceso descrito se implementó usando now, pero podría adaptarse utilizando otras herramientas como:
+
+* Spinnaker: Para orquestar despliegues complejos.
+* AWS ECS: Para manejar contenedores en la nube de Amazon.
+
+Lo fundamental, más allá de la herramienta, es asegurar que los despliegues se realicen de manera frecuente y que las pruebas sean ejecutadas continuamente en todos los ambientes.
+
+Adoptar este flujo otorga una mayor confianza al lanzar código a producción y permite una entrega más continua y fiable del software. </p>
