@@ -6,4 +6,27 @@
 
 * Responsabilidad directa: Los desarrolladores tienen una comprensión más profunda del código subyacente y pueden reaccionar de manera más eficiente.
 * Comunicación clara: Al involucrar al equipo original, se evitan distorsiones en la transferencia de información.
-* Mejora continua: Los incidentes se convierten en oportunidades de aprendizaje directo, lo que impulsa mejoras continuas y la calidad del software. </p>
+* Mejora continua: Los incidentes se convierten en oportunidades de aprendizaje directo, lo que impulsa mejoras continuas y la calidad del software. 
+
+Por ello, herramientas como PagerDuty resultan indispensables, ya que permiten gestionar alertas y notificaciones de manera efectiva, incluso activando escalaciones cuando el personal designado no responde.
+
+</p>
+
+<h3 align="left"> ¿Cómo responder adecuadamente a un incidente? </h3>
+
+<p align="left"> Responder a un incidente requiere de un proceso bien definido para asegurar que se maneje de manera eficiente y reducir al mínimo el impacto. Aquí te presentamos un enfoque paso a paso de cómo actuar cuando surge un incidente:
+
+1. Evaluación inicial (Triage):
+
+    * Determina el impacto del incidente. ¿Es crítico? Si el impacto es mínimo, podrías decidir resolverlo posteriormente.
+    * Abre un canal de comunicación con tu equipo para documentar cada paso y evitar repeticiones innecesarias.
+
+2. Notificación a clientes:
+
+    * Comunica el estado del incidente a tus clientes, incluso si es solo para informar que estás trabajando en ello.
+    * Las páginas de estado son vitales para ofrecer actualizaciones confiables y reducen la ansiedad de los usuarios.
+
+3. Documentación y proceso de mejoras:
+
+    * Lleva un timeline detallado de las acciones realizadas. Esto no solo será útil durante el incidente, sino para la fase de análisis post-incidente.
+    * No olvides documentar tanto las soluciones implementadas como las acciones futuras para evitar repetir los mismos errores. </p>
