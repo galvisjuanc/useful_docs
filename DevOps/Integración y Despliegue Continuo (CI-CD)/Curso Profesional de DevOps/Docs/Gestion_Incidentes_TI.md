@@ -6,4 +6,8 @@
 
 * Responsabilidad directa: Los desarrolladores tienen una comprensión más profunda del código subyacente y pueden reaccionar de manera más eficiente.
 * Comunicación clara: Al involucrar al equipo original, se evitan distorsiones en la transferencia de información.
-* Mejora continua: Los incidentes se convierten en oportunidades de aprendizaje directo, lo que impulsa mejoras continuas y la calidad del software. </p>
+* Mejora continua: Los incidentes se convierten en oportunidades de aprendizaje directo, lo que impulsa mejoras continuas y la calidad del software. 
+
+Por ello, herramientas como PagerDuty resultan indispensables, ya que permiten gestionar alertas y notificaciones de manera efectiva, incluso activando escalaciones cuando el personal designado no responde.
+
+</p>
