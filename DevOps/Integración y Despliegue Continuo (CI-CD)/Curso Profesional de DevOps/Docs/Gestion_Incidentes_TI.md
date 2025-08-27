@@ -30,3 +30,17 @@ Por ello, herramientas como PagerDuty resultan indispensables, ya que permiten g
 
     * Lleva un timeline detallado de las acciones realizadas. Esto no solo será útil durante el incidente, sino para la fase de análisis post-incidente.
     * No olvides documentar tanto las soluciones implementadas como las acciones futuras para evitar repetir los mismos errores. </p>
+
+
+<h3 align="left"> ¿Por qué es importante escribir un postmortem? </h3>
+
+<p align="left"> Un postmortem no es simplemente una revisión de un incidente; es una oportunidad valiosa para aprender y mejorar. Consiste en realizar un análisis exhaustivo de qué salió mal, por qué ocurrió y cómo prevenirlo en el futuro. Aquí te presentamos los elementos esenciales de un postmortem eficaz:
+
+* Explicación detallada: ¿Qué salió mal y por qué?
+* Identificación de fallos previos: ¿Cómo podrías haber identificado el problema antes?
+* Plan de acción: ¿Qué medidas se implementarán para prevenir futuros eventos similares?
+* Educación organizacional: Compartir el postmortem internamente asegura que todos los equipos aprendan de la experiencia y fortalece la cultura de prevención.
+
+Pagder Duty ofrece excelentes recursos y ejemplos sobre cómo estructurar un postmortem. Además, compañías como Outzettle publican incidentes significativos, ofreciendo contexto técnico y disculpándose con los clientes, lo que refuerza la confianza en su compromiso con la mejora continua.
+
+Dado que las empresas están en constante crecimiento y evolución, la documentación interna se vuelve crucial para que cualquier lección aprendida esté fácilmente disponible para nuevos miembros del equipo, asegurando que los errores no se repitan. Así que, aunque redactar un postmortem puede parecer tedioso, es una inversión en inteligencia organizacional y una herramienta poderosa para evitar que tu teléfono suene otra vez por la misma razón. </p>
