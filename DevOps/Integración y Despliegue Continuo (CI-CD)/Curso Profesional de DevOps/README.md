@@ -25,3 +25,6 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Integraci%C3%B3n%20y%20Despliegue%20Continuo%20(CI-CD)/Curso%20Profesional%20de%20DevOps/Docs/Automatizacion_Deployment_Jenkins_Pruebas_Continuas.md"> Automatización de Deployments con Jenkins y Pruebas Continuas </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Integraci%C3%B3n%20y%20Despliegue%20Continuo%20(CI-CD)/Curso%20Profesional%20de%20DevOps/Docs/Gestion_Incidentes_TI.md"> Gestión de Incidentes y Comunicación Efectiva en TI </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/DevOps/Integraci%C3%B3n%20y%20Despliegue%20Continuo%20(CI-CD)/Curso%20Profesional%20de%20DevOps/Docs/Ingenieria_Confiabilidad_Sitio.md"> Ingeniería de Confiabilidad del Sitio: Conceptos y Prácticas Clave
+ </a>
