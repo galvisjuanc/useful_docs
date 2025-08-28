@@ -2,6 +2,6 @@
 
 <h3 align="left"> Site Reliability Engineering </h3>
 
-<p align="left"> 
+<p align="left"> Como yo como compañía o empresa puedo medir que mi producto esté bien. Los indicadores SLO y SLI permiten medir el éxito.
 
 </p>
