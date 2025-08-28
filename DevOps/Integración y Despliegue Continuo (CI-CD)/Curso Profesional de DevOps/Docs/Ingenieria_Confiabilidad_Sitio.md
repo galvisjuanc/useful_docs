@@ -8,4 +8,7 @@
 
 * SLO (Service Level Objectives): Es la métrica de lo que se mide. Por ejemplo, si se está midiendo latencia, el objetivo puede ser que la latencia sea menor de 50ms en un espacio de 5 minutos todo el mes.
 
+Con implementaciones como estas, nos aseguramos de enviar a producción siempre software de calidad; de manera que si se hace un despliegue a producción y se rompe una métrica, podemos hacer rollback a una versión estable, revisar qué está sucediendo con la nueva versión y trabajar en resolver el problema.
+
+
 </p>
