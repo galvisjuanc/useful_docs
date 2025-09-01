@@ -6,6 +6,9 @@
 
 * El tiempo de respuesta. Esto es muy importante, para brindarle una mejor experiencia a nuestros usuarios.
 
+Páginas de third-parties para evaluar un sitio:
 
+1. Pingdom - www.pingdom.com 
+2. Apex Software - https://apex.sh
 
  </p>
