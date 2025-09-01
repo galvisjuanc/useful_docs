@@ -2,4 +2,6 @@
 
 <p align="left"> Si tenemos un servicio público (un API o un sitio web) lo primero que el público va a mirar es si funciona o no, si está "arriba" o si está caído. ¿Cómo debemos medir esto? Obviamente podemos monitorearlo internamente, que nuestra infraestructura permanezca constantemente haciendo peticiones al servicio para verificar su estado; sin embargo, esto no es 100% fiable porque si se cae nuestra infraestructura, no tendríamos manera de verificar el estado de nuestro servicio. Lo recomendado para medir el uptime, es decir, si estamos arriba o no, como un indicator de SLO/SLI, es utilizar un third-party one (proveedor externo) para finalmente medir nuestra métrica de manera interna y de manera pública. Hay gran variedad para escoger un servicio con estas características, y unos de ellos son Pingdom y Ping de Apex sh. Ambos despliegan infraestructuras en todas las partes del mundo, y desde dichas infraestructuras realizan las peticiones a nuestro servicio. Con uno de estos servicios, estaríamos probando:
 
+* Que a nivel de DNS mundialmente nuestro servicio esté funcionando correctamente (un servicio podría estar funcionando en un país pero no en otro por problemas de DNS).
+
  </p>
