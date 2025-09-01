@@ -4,4 +4,11 @@
 
 * Que a nivel de DNS mundialmente nuestro servicio esté funcionando correctamente (un servicio podría estar funcionando en un país pero no en otro por problemas de DNS).
 
+* El tiempo de respuesta. Esto es muy importante, para brindarle una mejor experiencia a nuestros usuarios.
+
+Páginas de third-parties para evaluar un sitio:
+
+1. Pingdom - www.pingdom.com 
+2. Apex Software - https://apex.sh
+
  </p>
