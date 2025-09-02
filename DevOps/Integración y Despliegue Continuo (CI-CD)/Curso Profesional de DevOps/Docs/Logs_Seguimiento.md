@@ -8,6 +8,6 @@ Un Exception es un error que no está manejado en nuestro código. Si esto llega
 
 Hay varias soluciones para Exception Tracking, una de ellas es Sentry. Sentry nos permite enviar un Exception hacia ellos y establecer reglas (si hay un error de cierta severidad, por ejemplo, se nos notificará a través de nuestro teléfono móvil; o si es un error leve, se crea una historia de usuario en el Backlog de Sentry y nos llega un mensaje a Slack, el cual podremos ver en jornada laboral sin ninguna prisa). El objetivo es que lo que llegue a Sentry debe tener nuestra atención por encima de lo que esté reportado en los logs, porque son fallas que directa o indirectamente afectan a la plataforma en producción.
 
-
+https://sentry.io/
 
 </p>
