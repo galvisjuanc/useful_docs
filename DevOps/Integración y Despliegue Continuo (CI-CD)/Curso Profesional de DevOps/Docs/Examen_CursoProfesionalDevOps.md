@@ -16,44 +16,20 @@
 
 7. Según los conceptos de Site Realiability Engineering (SRE) ¿cuántas veces debo hacer deploy al día? <strong> Es relativo a cuánto margen de error tenemos disponible para usar. </strong>
 
-8.
-Antes de hacer merge en master, y tener seguridad de que el código es el adecuado, ¿qué debe ocurrir?
+8. Antes de hacer merge en master, y tener seguridad de que el código es el adecuado, ¿qué debe ocurrir? <strong> Algún compañero debió verificarlo y el CI debió retornar exitosamente. </strong>
 
-Algún compañero debió verificarlo y el CI debió retornar exitosamente.
+9. Si fallan los acceptance tests luego de un deployment a production ¿qué debes hacer? <strong> Verificar si realmente es una falla y empezar a “rollback” a una versión previa. </strong>
 
-9.
-Si fallan los acceptance tests luego de un deployment a production ¿qué debes hacer?
+10. Histogram es la representación gráfica la métrica que debo usar para medir latencia. <strong> Verdadero. </strong>
 
-Verificar si realmente es una falla y empezar a “rollback” a una versión previa.
+11. Log level fatal es ideal para notificar que el servicio comenzó a aceptar conexiones. <strong> Falso. </strong>
 
-10.
-Histogram es la representación gráfica la métrica que debo usar para medir latencia.
+12. Los vendors pueden recibir cualquier tipo de data que les envíes. <i> Verdadero.</i>
 
-Verdadero.
+13. Code coverage 100% garantiza que no habrá problemas de producción. <i> Verdadero. </i>
 
-11.
-Log level fatal es ideal para notificar que el servicio comenzó a aceptar conexiones.
+14. Para asegurarnos de que nuestras dependencias no cambien sin nuestro consentimiento, no podemos solamente depender de los layers de docker. <strong> Verdadero. </strong>
 
-Falso.
-
-12.
-Los vendors pueden recibir cualquier tipo de data que les envíes.
-
-Verdadero.
-
-13.
-Code coverage 100% garantiza que no habrá problemas de producción.
-
-Verdadero.
-
-14.
-Para asegurarnos de que nuestras dependencias no cambien sin nuestro consentimiento, no podemos solamente depender de los layers de docker.
-
-Verdadero.
-
-15.
-Los artefactos que utilizamos para describir el código que corre en producción deben poder reproducirse desde 0.
-
-Verdadero.
+15. Los artefactos que utilizamos para describir el código que corre en producción deben poder reproducirse desde 0. <strong> Verdadero. </strong>
 
 </p>
