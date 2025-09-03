@@ -24,3 +24,8 @@
 * Seguimiento de excepciones: Al identificar y rastrear errores, podemos reaccionar y resolver problemas más rápidamente, minimizando tiempos de inactividad y mejorando la experiencia del usuario final.
 * Mejora continua: Las herramientas de monitoreo no solo nos ayudan a solucionar problemas, sino también a identificar oportunidades para mejorar nuestros sistemas. </p>
 
+<h3 align="left"> ¿Qué hacer cuando las cosas salen mal? </h3>
+<p align="left">  La gestión de incidentes es un elemento esencial en la producción de software. Aprender de los incidentes, tanto buenos como malos, es crucial para evitar la repetición de errores y fortalecer nuestros procesos.
+
+* Respuesta a incidentes: Desarrollamos un protocolo claro para responder a incidentes, asegurando que todos los miembros del equipo sepan actuar rápidamente cuando surgen problemas.
+* Aprendizaje continuo: Es vital aprender de cada incidente. Evaluamos cada situación para identificar causas raíz y ajustes necesarios en procesos o herramientas. </p>
