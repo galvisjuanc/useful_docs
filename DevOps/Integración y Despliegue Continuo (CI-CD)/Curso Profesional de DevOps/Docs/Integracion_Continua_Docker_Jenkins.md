@@ -8,3 +8,12 @@
 
  </p>
 
+ <h3 align="left"> ¿Cómo mejoramos nuestro flujo con integración continua usando Jenkins? </h3>
+<p align="left">  Una parte vital de la integración continua (CI) es la automatización. Jenkins, como servidor de automatización, nos proporciona una plataforma flexible para orquestar tareas automatizadas como pruebas y despliegues. En este curso, aprendimos a integrar y expandir nuestras capacidades de CI con esta poderosa herramienta.
+
+* Automatización de pruebas: Implementamos pruebas unitarias e integración dentro de Jenkins, lo cual allana el camino para un desarrollo más seguro y fiable.
+* Optimización de procesos: A través de Jenkins, podemos incorporar múltiples herramientas que enriquecen el proceso de integración continua, brindando informes detallados y análisis de resultados de pruebas.
+* Despliegue seguro: Desplegamos a entornos de staging y producción de manera controlada, siempre acompañando los despliegues con las pruebas apropiadas para validar nuestro código.
+
+ </p>
+
