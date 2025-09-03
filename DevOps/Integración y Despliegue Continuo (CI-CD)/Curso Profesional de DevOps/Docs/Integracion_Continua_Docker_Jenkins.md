@@ -6,9 +6,9 @@
 * Consistencia de entornos: Al crear una imagen que se ejecuta igual localmente y en producción, evitamos comportamientos inesperados que podrían surgir debido a diferencias de entorno.
 * Facilidad de pruebas: Al usar Docker, disponemos del mismo espacio de pruebas que en producción, lo que facilita identificar problemas antes de que se desplieguen en producción.
 
- </p>
+</p>
 
- <h3 align="left"> ¿Cómo mejoramos nuestro flujo con integración continua usando Jenkins? </h3>
+<h3 align="left"> ¿Cómo mejoramos nuestro flujo con integración continua usando Jenkins? </h3>
 <p align="left">  Una parte vital de la integración continua (CI) es la automatización. Jenkins, como servidor de automatización, nos proporciona una plataforma flexible para orquestar tareas automatizadas como pruebas y despliegues. En este curso, aprendimos a integrar y expandir nuestras capacidades de CI con esta poderosa herramienta.
 
 * Automatización de pruebas: Implementamos pruebas unitarias e integración dentro de Jenkins, lo cual allana el camino para un desarrollo más seguro y fiable.
@@ -16,4 +16,11 @@
 * Despliegue seguro: Desplegamos a entornos de staging y producción de manera controlada, siempre acompañando los despliegues con las pruebas apropiadas para validar nuestro código.
 
  </p>
+
+<h3 align="left"> ¿Cómo nos ayudan las métricas y el seguimiento de excepciones? </h3>
+<p align="left">  Uno de los aspectos que garantiza la calidad continua del software es el monitoreo y la recolección de métricas. Capturar el rendimiento y los problemas en tiempo real nos brinda insights clave sobre el estado de nuestras aplicaciones en producción.
+
+* Métricas de rendimiento: Vigilar constantemente nuestras métricas nos permite asegurar que cumplimos con los SLA y los estándares de calidad acordados.
+* Seguimiento de excepciones: Al identificar y rastrear errores, podemos reaccionar y resolver problemas más rápidamente, minimizando tiempos de inactividad y mejorando la experiencia del usuario final.
+* Mejora continua: Las herramientas de monitoreo no solo nos ayudan a solucionar problemas, sino también a identificar oportunidades para mejorar nuestros sistemas. </p>
 
