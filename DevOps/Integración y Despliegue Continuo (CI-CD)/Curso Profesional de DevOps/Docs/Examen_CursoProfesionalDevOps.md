@@ -2,7 +2,7 @@
 
 <p align="left">  
 
-1. ¿Por qué es importante tener vendor lock in de dependencias? <i> Porque se instalan más rapido. </i>
+1. ¿Por qué es importante tener vendor lock in de dependencias? <strong> Porque puede haber un breaking change en un patch. </strong>
 
 2. ¿Cómo podríamos inspeccionar si nuestras dependencias son seguras? <strong> Utilizando un vendor o herramienta que las verifique contra una base de datos de dependencias. </strong>
 
