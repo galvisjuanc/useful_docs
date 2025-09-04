@@ -26,7 +26,7 @@
 
 12. Los vendors pueden recibir cualquier tipo de data que les envíes. <i> Verdadero. </i> <strong> Falso </strong>
 
-13. Code coverage 100% garantiza que no habrá problemas de producción. <i> Verdadero. </i>
+13. Code coverage 100% garantiza que no habrá problemas de producción. <strong> Falso. </strong>
 
 14. Para asegurarnos de que nuestras dependencias no cambien sin nuestro consentimiento, no podemos solamente depender de los layers de docker. <strong> Verdadero. </strong>
 
