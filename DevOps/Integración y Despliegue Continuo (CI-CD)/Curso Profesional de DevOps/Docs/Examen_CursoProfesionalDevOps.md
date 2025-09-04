@@ -24,7 +24,7 @@
 
 11. Log level fatal es ideal para notificar que el servicio comenzó a aceptar conexiones. <strong> Falso. </strong>
 
-12. Los vendors pueden recibir cualquier tipo de data que les envíes. <i> Verdadero.</i>
+12. Los vendors pueden recibir cualquier tipo de data que les envíes. <i> Verdadero. </i> <strong> Falso </strong>
 
 13. Code coverage 100% garantiza que no habrá problemas de producción. <i> Verdadero. </i>
 
