@@ -12,7 +12,7 @@
 
 5. Now hace un rolling deployment. <strong> Falso. </strong>
 
-6. Si quisieras probar un nuevo feature de la página web con un % del tráfico por un tiempo, ¿cuál estrategia utilizarías? <i> Blue green deployment. Rolling Deployment </i>
+6. Si quisieras probar un nuevo feature de la página web con un % del tráfico por un tiempo, ¿cuál estrategia utilizarías? <i> Blue green deployment. Canary Deployment </i>
 
 7. Según los conceptos de Site Realiability Engineering (SRE) ¿cuántas veces debo hacer deploy al día? <strong> Es relativo a cuánto margen de error tenemos disponible para usar. </strong>
 
