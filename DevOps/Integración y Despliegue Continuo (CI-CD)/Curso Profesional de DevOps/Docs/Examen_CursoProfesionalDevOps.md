@@ -31,5 +31,4 @@
 14. Para asegurarnos de que nuestras dependencias no cambien sin nuestro consentimiento, no podemos solamente depender de los layers de docker. <strong> Verdadero. </strong>
 
 15. Los artefactos que utilizamos para describir el código que corre en producción deben poder reproducirse desde 0. <strong> Verdadero. </strong>
-
 </p>
