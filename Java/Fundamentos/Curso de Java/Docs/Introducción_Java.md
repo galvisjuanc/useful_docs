@@ -1,0 +1,3 @@
+<h2 align="left"> Introducción a Java </h2>
+
+<p align="left"> Java es un lenguaje de programación que continúa demostrando su relevancia y poder en el mundo tecnológico actual. A pesar de las críticas y los nuevos lenguajes que emergen constantemente, Java mantiene su posición como uno de los más utilizados por desarrolladores alrededor del mundo, sustentando sistemas críticos y productos de alta demanda. Su versatilidad le permite ser la base tanto de aplicaciones bancarias como de videojuegos populares, consolidándolo como una herramienta fundamental para cualquier programador. </p>
