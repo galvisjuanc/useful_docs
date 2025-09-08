@@ -17,3 +17,16 @@
 * Para practicar y aprender, la Community Edition es suficiente y sin costo.
 * Elige el instalador adecuado según tu sistema operativo y sigue los pasos para instalarlo.
 * Al abrir IntelliJ por primera vez, tendrás la opción de crear un nuevo proyecto y descargar el JDK desde el mismo editor. </p>
+
+<h3> ¿Cómo crear tu primer proyecto en IntelliJ IDEA con Java 21? </h3>
+
+<p align="left"> 
+
+Dentro de IntelliJ IDEA sigue estos pasos:
+
+* Haz clic en "Nuevo proyecto".
+* Escribe el nombre de tu proyecto (ejemplo: Java platzi).
+* Selecciona la ubicación en tu computadora donde estará el proyecto.
+* En "JDK" selecciona la versión 21; si no aparece, haz clic en "Download JDK" y escoge la versión 21.
+* Puedes elegir entre distintas variantes del JDK: Temurin, Amazon, JetBrains, SAP. Todas funcionan igual si son versión 21.
+* Una vez configurado, pulsa en "Create" o "Crear" para generar el proyecto. </p>
