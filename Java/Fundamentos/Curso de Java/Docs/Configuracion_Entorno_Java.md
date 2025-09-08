@@ -30,3 +30,15 @@ Dentro de IntelliJ IDEA sigue estos pasos:
 * En "JDK" selecciona la versión 21; si no aparece, haz clic en "Download JDK" y escoge la versión 21.
 * Puedes elegir entre distintas variantes del JDK: Temurin, Amazon, JetBrains, SAP. Todas funcionan igual si son versión 21.
 * Una vez configurado, pulsa en "Create" o "Crear" para generar el proyecto. </p>
+
+<h3> ¿Qué estructura inicial tiene un proyecto Java en IntelliJ IDEA? </h3>
+
+<p align="left"> 
+
+Después de crear el proyecto, observarás:
+
+* Carpeta SRC o Sources, destinada al código fuente.
+* Archivo .gitignore, generado automáticamente por IntelliJ, útil para ignorar archivos al compartir tu código en repositorios.
+* Zona de edición donde aparecerán los archivos que vayas creando.
+
+Con todo listo y configurado, ahora tienes el entorno preparado para comenzar a programar en Java y realizar tus primeras pruebas. ¿Cuál fue tu experiencia instalando Java y configurando IntelliJ IDEA? Cuéntanos en los comentarios. </p>
