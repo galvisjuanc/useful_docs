@@ -12,3 +12,11 @@ Java, que en 2025 cumplirá 30 años, continúa siendo uno de los lenguajes de p
 * Escalabilidad: Potencia productos de alto tráfico como Amazon y Netflix, demostrando su capacidad para manejar operaciones masivas.
 
 Un hecho sorprendente es que Java fue el lenguaje utilizado para desarrollar Minecraft, uno de los videojuegos más exitosos de la historia, lo que evidencia su flexibilidad para adaptarse a diferentes contextos de desarrollo. </p>
+
+<h3> ¿Cómo aprender Java desde cero de manera efectiva? </h3>
+
+<p align="left"> Si has tenido experiencias negativas con Java o has escuchado que es un lenguaje complejo, este curso ofrece una aproximación diferente. El enfoque está diseñado para construir:
+
+* Bases sólidas que te permitan comprender los fundamentos del lenguaje.
+* Buenas prácticas desde el inicio para desarrollar código limpio y eficiente.
+* Experiencia práctica a través de un proyecto guía entretenido y relevante. </p>
