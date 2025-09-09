@@ -10,7 +10,17 @@
 
 <p align="left"> El secreto de Java está en la Java Virtual Machine (JVM). A diferencia de otros lenguajes, que generan código específico para cada sistema operativo, Java usa la JVM como capa intermedia. Así, el código fuente se compila a un archivo .class en un lenguaje intermedio llamado byte code, que es multiplataforma. Luego, la JVM traduce este byte code en instrucciones específicas para el sistema operativo, ya sea Windows, Mac, Linux o hasta dispositivos embebidos como neveras y tostadoras.
 
-Todo lo que necesitas para ejecutar aplicaciones Java es el Java Runtime Environment (JRE), que incluye la JVM. El Java Development Kit (JDK), por su parte, integra el JRE y además herramientas para escribir, compilar y construir programas. </p>
+Todo lo que necesitas para ejecutar aplicaciones Java es el Java Runtime Environment (JRE), que incluye la JVM. El Java Development Kit (JDK), por su parte, integra el JRE y además herramientas para escribir, compilar y construir programas. 
+
+Resumiendo:
+
+1. Se escribe el código fuente en un archivo .java.
+2. El compilador transforma el código en bytecode (.class)
+3. La JVM (Java Virtual Machine) lee el archivo de bytecode.
+4. La JVM traduce el bytecode a instrucciones nativas del sistema operativo.
+5. La aplicación se ejecuta en el dispositivo.
+
+</p>
 
 <h3> ¿Cómo crear tu primer programa Hola Mundo en Java? </h3>
 
