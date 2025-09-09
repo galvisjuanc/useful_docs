@@ -23,3 +23,10 @@ Java permite que herramientas como IntelliJ IDEA agilicen la escritura de códig
 <code> System.out.println("¡Hola, mundo! 🧑‍💻"); </code>
 
 Pulsando el botón de ejecución (play), verás el mensaje en la consola. Usar atajos como SOUT hace que programar sea más ágil y menos propenso a errores.</p>
+
+<h3> ¿Por qué es importante comprender paquetes y convenciones en Java? </h3>
+
+<p align="left"> Pulsando el botón de ejecución (play), verás el mensaje en la consola. Usar atajos como SOUT hace que programar sea más ágil y menos propenso a errores.
+
+¿Por qué es importante comprender paquetes y convenciones en Java?
+Organizar el código en paquetes siguiendo patrones claros mejora la legibilidad y mantenimiento. Los nombres de paquetes deben estar en minúscula y utilizar puntos como separadores. Escoger nombres significativos ayuda a identificar rápidamente la funcionalidad de cada parte del proyecto. </p>
