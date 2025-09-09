@@ -48,3 +48,13 @@ Pulsando el botón de ejecución (play), verás el mensaje en la consola. Usar a
 
 ¿Por qué es importante comprender paquetes y convenciones en Java?
 Organizar el código en paquetes siguiendo patrones claros mejora la legibilidad y mantenimiento. Los nombres de paquetes deben estar en minúscula y utilizar puntos como separadores. Escoger nombres significativos ayuda a identificar rápidamente la funcionalidad de cada parte del proyecto. </p>
+
+<hr>
+
+<h3> 🚀 What is the JVM? </h3>
+
+<p align="left"> The JVM (Java Virtual Machine) is the engine that runs Java programs. Think of it like a translator + bodyguard for your code. It:
+
+* Takes your compiled Java code (.class files = bytecode)
+* Translates it into machine code your CPU understands
+* Runs it, manages memory, and handles safety (e.g., catching exceptions, doing garbage collection) </p>
