@@ -87,3 +87,16 @@ Organizar el código en paquetes siguiendo patrones claros mejora la legibilidad
 * Cross-platform: Same .class file runs on Windows, macOS, Linux, etc.
 
 </p>
+
+<h3> 🧩 Bonus: Not Just Java </h3>
+
+<p> 
+
+The JVM can run other languages too, like:
+
+* Kotlin
+* Scala
+* Groovy
+* Clojure
+
+</p>
