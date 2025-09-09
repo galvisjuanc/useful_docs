@@ -58,3 +58,17 @@ Organizar el código en paquetes siguiendo patrones claros mejora la legibilidad
 * Takes your compiled Java code (.class files = bytecode)
 * Translates it into machine code your CPU understands
 * Runs it, manages memory, and handles safety (e.g., catching exceptions, doing garbage collection) </p>
+
+<h3> ⚙️ How It Works – Step by Step </h3>
+
+1. You write Java code → HelloWorld.java
+2. The Java compiler (javac) compiles it → Into bytecode (HelloWorld.class) Bytecode is platform-independent — works on any OS.
+3. The JVM loads the bytecode JVM reads the .class file.
+4. Bytecode is executed by the JVM
+    * Either interpreted line-by-line
+    * Or compiled at runtime to native machine code via JIT (Just-In-Time compiler)
+5. JVM handles runtime stuff like:
+    * Memory management (via garbage collection 🗑️)
+    * Threading
+    * Security
+    * Exception handling
