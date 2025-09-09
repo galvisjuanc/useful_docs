@@ -22,6 +22,14 @@ Resumiendo:
 
 </p>
 
+<h3> ¿Qué contiene el JDK? </h3>
+
+<p align="left"> El JDK está compuesto del JRE y las herramientas de desarrollo (Compilador). Todo esto son las herramientas necesarias para escribir, compilar y construir un programa.
+
+El JRE es el Java Runtime Environment es lo que se requiere para ejecutar aplicaciones Java. Este incluye el JVM que es quien realmente corre el programa.
+
+</p>
+
 <h3> ¿Cómo crear tu primer programa Hola Mundo en Java? </h3>
 
 <p align="left"> El primer paso práctico es crear un paquete para organizar el código, usando la convención de nombres en minúsculas, separados por puntos (por ejemplo: platziplay).
