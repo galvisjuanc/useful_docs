@@ -11,3 +11,15 @@
 <p align="left"> El secreto de Java está en la Java Virtual Machine (JVM). A diferencia de otros lenguajes, que generan código específico para cada sistema operativo, Java usa la JVM como capa intermedia. Así, el código fuente se compila a un archivo .class en un lenguaje intermedio llamado byte code, que es multiplataforma. Luego, la JVM traduce este byte code en instrucciones específicas para el sistema operativo, ya sea Windows, Mac, Linux o hasta dispositivos embebidos como neveras y tostadoras.
 
 Todo lo que necesitas para ejecutar aplicaciones Java es el Java Runtime Environment (JRE), que incluye la JVM. El Java Development Kit (JDK), por su parte, integra el JRE y además herramientas para escribir, compilar y construir programas. </p>
+
+<h3> ¿Cómo crear tu primer programa Hola Mundo en Java? </h3>
+
+<p align="left"> El primer paso práctico es crear un paquete para organizar el código, usando la convención de nombres en minúsculas, separados por puntos (por ejemplo: platziplay).
+
+Dentro de ese paquete, se crea una clase principal, generalmente llamada Main, empezando con mayúscula. Luego, se debe declarar el método principal, conocido como Main. Este método debe llamarse exactamente así y contar con la siguiente firma: public static void main(String[] args).
+
+Java permite que herramientas como IntelliJ IDEA agilicen la escritura de código mediante atajos. Por ejemplo, al teclear SOUT y seleccionar la sugerencia, se genera automáticamente la línea completa System.out.println. Así, se puede escribir el conocido mensaje:
+
+<code> System.out.println("¡Hola, mundo! 🧑‍💻"); </code>
+
+Pulsando el botón de ejecución (play), verás el mensaje en la consola. Usar atajos como SOUT hace que programar sea más ágil y menos propenso a errores.</p>
