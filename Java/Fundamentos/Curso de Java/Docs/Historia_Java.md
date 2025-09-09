@@ -61,6 +61,8 @@ Organizar el código en paquetes siguiendo patrones claros mejora la legibilidad
 
 <h3> ⚙️ How It Works – Step by Step </h3>
 
+<p> 
+
 1. You write Java code → HelloWorld.java
 2. The Java compiler (javac) compiles it → Into bytecode (HelloWorld.class) Bytecode is platform-independent — works on any OS.
 3. The JVM loads the bytecode JVM reads the .class file.
@@ -72,3 +74,16 @@ Organizar el código en paquetes siguiendo patrones claros mejora la legibilidad
     * Threading
     * Security
     * Exception handling
+
+</p>
+
+<h3> 🧠 Key JVM Features </h3>
+
+<p> 
+
+* JIT Compiler: Speeds things up by compiling hot code paths to native code at runtime.
+* Garbage Collector: Automatically frees unused memory (no manual free() like in C++).
+* Sandboxing: Runs code safely (especially in older applets, Android, etc.).
+* Cross-platform: Same .class file runs on Windows, macOS, Linux, etc.
+
+</p>
