@@ -49,4 +49,10 @@
 * Sirve para leer números enteros (int) desde la consola.
 * Si el usuario escribe otra cosa que no sea un número entero, lanza error.
 
+💬 System.out.println() y System.out.print()
+
+* System.out.print() → imprime sin salto de línea
+* System.out.println() → imprime con salto de línea
+* Alias común: sout + TAB en IntelliJ o VSCode para autocompletar
+
 </p>
