@@ -44,4 +44,9 @@
 * Sirve para leer texto completo (una línea entera).
 * Captura todo lo que el usuario escribe hasta que presiona Enter.
 
+🔢 nextInt()
+
+* Sirve para leer números enteros (int) desde la consola.
+* Si el usuario escribe otra cosa que no sea un número entero, lanza error.
+
 </p>
