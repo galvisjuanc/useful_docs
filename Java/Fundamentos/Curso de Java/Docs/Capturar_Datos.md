@@ -36,3 +36,12 @@
 <p align="left"> Es una clase de Java que nos permite capturar datos desde la consola, es decir, leer lo que el usuario escribe mientras se ejecuta el programa.
 
 </p>
+
+<p align="left"> 
+
+🧠 nextLine()
+
+* Sirve para leer texto completo (una línea entera).
+* Captura todo lo que el usuario escribe hasta que presiona Enter.
+
+</p>
