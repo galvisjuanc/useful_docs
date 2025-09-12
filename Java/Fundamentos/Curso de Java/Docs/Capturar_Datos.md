@@ -33,9 +33,6 @@
 
 <h3> 📌 ¿Qué es Scanner? </h3>
 
-<p align="left"> Scanner ayuda a fortalecer las habilidades básicas, sobre todo al practicar la captura de datos directamente desde la consola.
+<p align="left"> Es una clase de Java que nos permite capturar datos desde la consola, es decir, leer lo que el usuario escribe mientras se ejecuta el programa.
 
-* Permite pedir varios tipos de datos, como nombres y números.
-* Es útil para crear ejercicios interactivos y preguntas divertidas.
-* Motiva a continuar explorando nuevas formas de pedir información.
-* Facilita experimentar con mensajes, emojis y personalizaciones en la consola.</p>
+</p>
