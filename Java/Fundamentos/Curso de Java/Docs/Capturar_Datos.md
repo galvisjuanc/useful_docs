@@ -28,3 +28,14 @@
 * Es útil para crear ejercicios interactivos y preguntas divertidas.
 * Motiva a continuar explorando nuevas formas de pedir información.
 * Facilita experimentar con mensajes, emojis y personalizaciones en la consola.</p>
+
+<hr>
+
+<h3> 📌 ¿Qué es Scanner? </h3>
+
+<p align="left"> Scanner ayuda a fortalecer las habilidades básicas, sobre todo al practicar la captura de datos directamente desde la consola.
+
+* Permite pedir varios tipos de datos, como nombres y números.
+* Es útil para crear ejercicios interactivos y preguntas divertidas.
+* Motiva a continuar explorando nuevas formas de pedir información.
+* Facilita experimentar con mensajes, emojis y personalizaciones en la consola.</p>
