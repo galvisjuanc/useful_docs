@@ -19,3 +19,12 @@
 3. Leer una línea de texto: Usar scanner.nextLine() almacena lo que el usuario escribe como una cadena.
 4. Concatenar y mostrar resultados: Se puede unir texto y variables usando el símbolo +. Por ejemplo: Hola seguido del nombre ingresado.
 5. Capturar números enteros: Si se necesita almacenar un número, como la edad, basta con usar scanner.nextInt(), asignándolo a una variable de tipo entero. </p>
+
+<h3> ¿Por qué conviene practicar con Scanner para aprender Java? </h3>
+
+<p align="left"> Scanner ayuda a fortalecer las habilidades básicas, sobre todo al practicar la captura de datos directamente desde la consola.
+
+* Permite pedir varios tipos de datos, como nombres y números.
+* Es útil para crear ejercicios interactivos y preguntas divertidas.
+* Motiva a continuar explorando nuevas formas de pedir información.
+* Facilita experimentar con mensajes, emojis y personalizaciones en la consola.</p>
