@@ -19,3 +19,12 @@
 * Mantenibilidad: Es más sencillo entender y actualizar el código, ya que se organiza de forma modular y clara.
 * Modificabilidad: Ofrece la posibilidad de modificar o sumar nuevos componentes sin afectar el funcionamiento del código existente.
 * Fiabilidad: Facilita el control de errores y la estabilidad general del software, al dividirlo en partes más pequeñas y manejables.</p>
+
+<h3> ¿Cuáles son los pilares fundamentales de la programación orientada a objetos? </h3>
+
+<p align="left"> Esta metodología se apoya en cuatro pilares fundamentales:
+
+1. Abstracción.
+2. Encapsulamiento.
+3. Herencia.
+4. Polimorfismo.</p>
