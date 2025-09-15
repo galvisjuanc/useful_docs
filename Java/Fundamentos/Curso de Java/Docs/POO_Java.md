@@ -10,3 +10,12 @@
 * Un objeto incluye datos y operaciones relacionadas.
 * Los objetos representan entidades del mundo real o conceptos abstractos.
 * En cualquier proyecto, los objetos reflejan elementos del contexto específico del software.</p>
+
+<h3> ¿Cuáles son las ventajas principales de usar programación orientada a objetos? </h3>
+
+<p align="left"> La programación orientada a objetos destaca por varios beneficios directos, entre los cuales resaltan cuatro:
+
+* Reusabilidad: Permite reutilizar el mismo código en distintas partes del proyecto o diferentes aplicaciones, facilitando el trabajo y acelerando el desarrollo.
+* Mantenibilidad: Es más sencillo entender y actualizar el código, ya que se organiza de forma modular y clara.
+* Modificabilidad: Ofrece la posibilidad de modificar o sumar nuevos componentes sin afectar el funcionamiento del código existente.
+* Fiabilidad: Facilita el control de errores y la estabilidad general del software, al dividirlo en partes más pequeñas y manejables.</p>
