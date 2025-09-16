@@ -99,3 +99,17 @@ When you create an object you're doing 3 things:
 Storing the object’s reference in the variable myCar. The actual object lives in heap memory, and myCar points to it.
 
 </p>
+
+<h3> 🧩 Objects Everywhere </h3>
+
+<p align="left"> 
+
+Everything in Java is either:
+* An object.
+* Or made from objects.
+* Or controls objects.
+
+Examples of objects:
+* Scanner, String, ArrayList, Dog, Player, GameWorld, etc.
+
+</p>
