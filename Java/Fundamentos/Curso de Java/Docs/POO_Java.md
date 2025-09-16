@@ -76,7 +76,11 @@ Let’s say you have a class called Car. That's just the blueprint.
         }
     }
 
-    
-It has state (stored in fields / variables).
+Now, let’s create an object from that blueprint:
+
+    Car myCar = new Car();
+    myCar.color = "Red";
+    myCar.speed = 120;
+    myCar.drive();  // Output: Vroom!
 
 </p>
