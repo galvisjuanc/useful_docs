@@ -83,4 +83,19 @@ Now, let’s create an object from that blueprint:
     myCar.speed = 120;
     myCar.drive();  // Output: Vroom!
 
+myCar is now an object. It has: A color: "Red" A speed: 120 And it can **drive()
+
+</p>
+
+<h3> ⚙️ Anatomy of an Object </h3>
+
+<p align="left"> 
+
+When you create an object you're doing 3 things:
+
+* Declaring a variable of type Car.
+* Using new to call the constructor (the Car() part).
+
+Storing the object’s reference in the variable myCar. The actual object lives in heap memory, and myCar points to it.
+
 </p>
