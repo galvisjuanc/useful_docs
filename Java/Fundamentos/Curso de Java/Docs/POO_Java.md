@@ -28,3 +28,7 @@
 2. Encapsulamiento.
 3. Herencia.
 4. Polimorfismo.</p>
+
+<h3> Cuatro Ideas Principales </h3>
+
+<p align="left"> La Programación Orientada a Objetos (POO) es una manera de programar donde el código se organiza en objetos, que son como “modelos” de cosas reales o imaginarias. Cada objeto tiene propiedades (datos que lo describen) y métodos (acciones que puede hacer). </p>
