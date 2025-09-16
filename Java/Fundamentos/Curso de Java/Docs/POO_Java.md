@@ -56,4 +56,27 @@ Usar POO hace que el código sea más organizado, fácil de leer y reutilizable.
     
     * It has state (stored in fields / variables).
 
+    * Behavior (defined by methods).
+
+
+</p>
+
+<h3> 🎮 Real-Life Analogy </h3>
+
+<p align="left"> 
+
+Let’s say you have a class called Car. That's just the blueprint.
+
+    public class Car {
+        String color;
+        int speed;
+        
+        public void drive() {
+            System.out.println("Vroom!");
+        }
+    }
+
+    
+It has state (stored in fields / variables).
+
 </p>
