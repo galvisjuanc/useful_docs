@@ -45,3 +45,15 @@ La POO se basa en cuatro ideas principales:
 Usar POO hace que el código sea más organizado, fácil de leer y reutilizable.
 
 </p>
+
+<hr>
+
+<h3> 🧠 What is an Object in Java? </h3>
+
+<p align="left"> 
+
+    * An object is a real, usable thing created from a class.  
+    
+    * It has state (stored in fields / variables).
+
+</p>
