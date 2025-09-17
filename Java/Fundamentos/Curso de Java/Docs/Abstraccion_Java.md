@@ -17,3 +17,23 @@ Los métodos son las acciones o comportamientos que se pueden realizar con el ob
 Fíjate cómo el proceso implica elegir solo aquello que es esencial para el sistema, por ejemplo: productor o presupuesto pueden ser parte de una película, pero si la plataforma no requiere esos datos, se omiten para mantener el modelo simple y concreto.
 
 </p>
+
+<h3> ¿Cómo diferenciar atributos y métodos en objetos? </h3>
+
+<p align="left"> 
+
+* Atributos: suelen responder a características o adjetivos del objeto, pueden ser físicos (como duración) o no físicos (como género o popularidad).
+    
+    * Titulo
+    * Descripción
+    * Duración
+    * Genero
+    * Año de Estreno
+    * Calificación
+    * Disponible
+    * Productora
+    * Presupuesto
+
+* Métodos: corresponden a verbos, son acciones que el objeto tiene la capacidad de realizar.
+
+</p>
