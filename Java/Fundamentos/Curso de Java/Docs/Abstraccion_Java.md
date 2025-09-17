@@ -23,6 +23,17 @@ Fíjate cómo el proceso implica elegir solo aquello que es esencial para el sis
 <p align="left"> 
 
 * Atributos: suelen responder a características o adjetivos del objeto, pueden ser físicos (como duración) o no físicos (como género o popularidad).
+    
+    * Titulo
+    * Descripción
+    * Duración
+    * Genero
+    * Año de Estreno
+    * Calificación
+    * Disponible
+    * Productora
+    * Presupuesto
+
 * Métodos: corresponden a verbos, son acciones que el objeto tiene la capacidad de realizar.
 
 </p>
