@@ -36,4 +36,9 @@ Fíjate cómo el proceso implica elegir solo aquello que es esencial para el sis
 
 * Métodos: corresponden a verbos, son acciones que el objeto tiene la capacidad de realizar.
 
+    * Reproducir
+    * Obtener la ficha técnica
+    * Calificar
+    * ¿Es popular?
+
 </p>
