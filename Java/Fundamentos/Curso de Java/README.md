@@ -5,3 +5,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Configuracion_Entorno_Java.md"> Instalación de IntelliJ IDEA y configuración del entorno Java </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Historia_Java.md"> Historia y funcionamiento de Java con primer programa Hola Mundo </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Capturar_Datos.md"> Uso de la Clase Scanner para capturar datos por Consola en Java </a>
