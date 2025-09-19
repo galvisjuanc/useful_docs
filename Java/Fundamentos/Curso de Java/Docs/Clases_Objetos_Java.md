@@ -29,3 +29,17 @@ Respecto a los métodos:
 Es buena práctica definir primero los atributos, luego los métodos. Utiliza this para distinguir entre los atributos de clase y los parámetros de métodos cuando tienen el mismo nombre.
 
 </p>
+
+<hr>
+
+<h3> Resumen Práctico </h3>
+
+<p align="left"> 
+
+📌 Instancia
+
+Es un objeto que creas a partir de una clase. La clase es como un molde, y la instancia es el producto hecho con ese molde. Ejemplo:
+
+    Carro miCarro = new Carro(); // miCarro es una instancia de la clase Carro
+
+</p>
