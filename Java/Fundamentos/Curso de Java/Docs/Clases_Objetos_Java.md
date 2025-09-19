@@ -42,4 +42,9 @@ Es un objeto que creas a partir de una clase. La clase es como un molde, y la in
 
     Carro miCarro = new Carro(); // miCarro es una instancia de la clase Carro
 
+Los atributos y métodos de instancia viven dentro de cada objeto. Por eso cada objeto puede tener valores diferentes:
+
+    Carro carro1 = new Carro(); carro1.color = "Rojo";
+    Carro carro2 = new Carro(); carro2.color = "Azul";
+
 </p>
