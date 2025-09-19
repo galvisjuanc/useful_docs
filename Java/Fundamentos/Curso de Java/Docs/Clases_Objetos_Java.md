@@ -57,6 +57,16 @@ Algo estático pertenece a la clase, no a un objeto específico. No necesitas cr
 
     public static int numeroDeRuedas = 4;
 
+Se usa así:
 
+    Carro.numeroDeRuedas = 4; // sin crear ningún objeto
 
+</p>
+
+<p align="left"> 
+
+En resumen:
+
+* Instancia: necesitas un objeto para acceder → miCarro.color
+* Estático: lo usas directo con la clase → Carro.numeroDeRuedas
 </p>
