@@ -48,3 +48,15 @@ Los atributos y métodos de instancia viven dentro de cada objeto. Por eso cada 
     Carro carro2 = new Carro(); carro2.color = "Azul";
 
 </p>
+
+<p align="left"> 
+
+📌 📌 Estático (static) 
+
+Algo estático pertenece a la clase, no a un objeto específico. No necesitas crear un objeto para usarlo. Todos los objetos comparten el mismo valor. Ejemplo:
+
+    public static int numeroDeRuedas = 4;
+
+
+
+</p>
