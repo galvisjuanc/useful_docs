@@ -3,6 +3,11 @@
 <p align="left"> Java organiza sus tipos de datos en dos grandes grupos: primitivos y por referencia (objetos).
 
 * Primitivos: Son ocho, se usan para valores simples como números, caracteres y booleanos. Todos empiezan con minúscula y son palabras reservadas.
+    * Integers: byte, short, int, long
+    * Floating-Point: float, double
+    * Character: char
+    * Boolean: boolean
+
 * Por referencia u objetos: Incluyen clases integradas de Java como String, Date o LocalDate, y cualquier clase que crees, como Película o Usuario. 
 
 Ambos tipos se identifican fácilmente por cómo se nombran y dónde se usan. Los primitivos tienen un valor por defecto (cero para números, false para boolean), mientras que los objetos empiezan como null si no son inicializados. </p>
