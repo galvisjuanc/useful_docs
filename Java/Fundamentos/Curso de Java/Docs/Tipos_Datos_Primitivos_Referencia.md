@@ -24,5 +24,11 @@ Imprimir esta variable muestra solo la parte de la fecha. Si se desea agregar ho
 
     LocalDateTime fechaRegistro = LocalDateTime.of(2022, 12, 24, 17, 15, 14);
 
+También se puede usar LocalDateTime.now para capturar la fecha y hora actual del sistema:
+
+    LocalDateTime fechaActual = LocalDateTime.now();
+
+Ambas formas permiten trabajar con la información temporal que requiera una aplicación.
+
 
 </p>
