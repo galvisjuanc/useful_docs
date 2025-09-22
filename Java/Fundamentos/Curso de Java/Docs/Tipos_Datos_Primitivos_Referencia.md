@@ -8,7 +8,15 @@
     * Character: char
     * Boolean: boolean
 
-* Por referencia u objetos: Incluyen clases integradas de Java como String, Date o LocalDate, y cualquier clase que crees, como Película o Usuario. 
+* Por referencia u objetos (Non-Primitive): Incluyen clases integradas de Java como String, Date o LocalDate, y cualquier clase que crees, como Película o Usuario. 
+    * String
+    * Array
+    * List
+    * Set
+    * Stack
+    * Vector
+    * Dictionary
+    * All user-defined classes
 
 Ambos tipos se identifican fácilmente por cómo se nombran y dónde se usan. Los primitivos tienen un valor por defecto (cero para números, false para boolean), mientras que los objetos empiezan como null si no son inicializados. </p>
 
