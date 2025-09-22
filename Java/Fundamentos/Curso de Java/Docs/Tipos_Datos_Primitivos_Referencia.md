@@ -32,3 +32,11 @@ Ambas formas permiten trabajar con la información temporal que requiera una apl
 
 
 </p>
+
+<h3> ¿Cuáles son las mejores prácticas al elegir tipos de datos en Java? </h3>
+
+<p align="left"> Escoger el tipo de dato adecuado aumenta la claridad y mantenimiento del código.
+
+* Usa tipos primitivos para valores simples que nunca serán null.
+* Prefiere objetos cuando se necesita mayor funcionalidad, como con fechas y cadenas de texto.
+* Aprovecha los métodos que las clases de fecha modernas ofrecen, como acceso a partes individuales y facilidad para el manejo de zonas horarias. </p>
