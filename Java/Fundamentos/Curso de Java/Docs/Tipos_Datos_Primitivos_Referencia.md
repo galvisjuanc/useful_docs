@@ -12,4 +12,13 @@ Ambos tipos se identifican fácilmente por cómo se nombran y dónde se usan. Lo
 <p align="left"> El manejo de fechas es parte esencial de muchos programas. Antes de Java 8, se usaba la clase Date (del paquete java.util). Sin embargo, ahora se recomienda utilizar LocalDate y LocalDateTime porque son más intuitivas y modernas. 
 
 * LocalDate almacena solo día, mes y año.
-* LocalDateTime permite guardar también horas, minutos y segundos, además de la fecha.</p>
+* LocalDateTime permite guardar también horas, minutos y segundos, además de la fecha.
+
+<strong>¿Cómo inicializar fechas con LocalDate y LocalDateTime? </strong>
+
+Para asignar una fecha específica, se emplea el método LocalDate.of:
+
+    LocalDate fechaEstreno = LocalDate.of(2018, 10, 15); // 15 de octubre de 2018
+
+
+</p>
