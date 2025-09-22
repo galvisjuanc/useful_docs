@@ -13,3 +13,6 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Abstraccion_Java.md"> Abstracción en Java: Atributos y Métodos de Objetos </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Clases_Objetos_Java.md"> Creación de clases y objetos en Java </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Tipos_Datos_Primitivos_Referencia.md"> Tipos de datos primitivos y por referencia en Java
+ </a>
