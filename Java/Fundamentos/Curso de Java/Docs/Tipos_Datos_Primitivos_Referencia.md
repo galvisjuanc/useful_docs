@@ -20,5 +20,9 @@ Para asignar una fecha específica, se emplea el método LocalDate.of:
 
     LocalDate fechaEstreno = LocalDate.of(2018, 10, 15); // 15 de octubre de 2018
 
+Imprimir esta variable muestra solo la parte de la fecha. Si se desea agregar hora, minuto y segundo, LocalDateTime es el adecuado:
+
+    LocalDateTime fechaRegistro = LocalDateTime.of(2022, 12, 24, 17, 15, 14);
+
 
 </p>
