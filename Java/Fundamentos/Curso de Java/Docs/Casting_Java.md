@@ -32,3 +32,22 @@ Se pierde el valor decimal (.7) y la variable queda con el valor entero (4).
 Al castear de long a int, hay que tener cuidado con los valores demasiado grandes. Si el valor sobrepasa la capacidad del tipo más pequeño, el resultado será un número inesperado o negativo.
 
  </p>
+
+ <h3> ¿Cómo convertir un string a número en Java? ¿Qué método se utiliza? </h3>
+
+<p align="left"> Una práctica frecuente es transformar datos tipo texto a tipo numérico. Java ofrece métodos en las clases envoltorio para lograr esto.
+
+Por ejemplo, usando el método parseLong de la clase Long para convertir un string a long:
+
+    String textoNumeroPremios = "25";
+    long numeroPremios = Long.parseLong(textoNumeroPremios);
+    System.out.println("Número de premios: " + numeroPremios); // Imprime: Número de premios: 25
+
+Si necesitas ese valor como int, puedes hacer un casteo explícito si estás seguro de que el valor está dentro del rango permitido:
+
+    int numeroPremiosEntero = (int) numeroPremios;
+    System.out.println("Número de premios entero: " + numeroPremiosEntero);
+
+Sin embargo, si el texto original fuera un número mayor al rango de int, como "25000000000", este proceso fallará y obtendrás valores negativos o erróneos debido a las limitaciones de cada tipo de dato.
+
+ </p>
