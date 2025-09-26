@@ -14,5 +14,21 @@ Por ejemplo, si tienes una variable de tipo int y la asignas a un long, Java lo 
     int duracion = 120;
     long duracionLong = duracion;
     System.out.println("Duración long: " + duracionLong); // Imprime: Duración long: 120
-    
+
 No es necesario indicar nada adicional, Java entiende que el valor cabe perfectamente y realiza la conversión automáticamente. </p>
+
+<h3> ¿Cuándo debe usarse el casting explícito y qué riesgos implica? </h3>
+
+<p align="left">El casting explícito es necesario cuando convertimos de un tipo más grande o más preciso a uno más pequeño, como de double a int o de long a int. Aquí es posible perder información, por lo que Java solicita que el programador especifique la conversión.
+
+Por ejemplo, convertir un número decimal (double) a entero:
+
+    double calificacion = 4.7;
+    int calificacionEntera = (int) calificacion;
+    System.out.println("Calificación entera: " + calificacionEntera); // Imprime: Calificación entera: 4
+
+Se pierde el valor decimal (.7) y la variable queda con el valor entero (4).
+
+Al castear de long a int, hay que tener cuidado con los valores demasiado grandes. Si el valor sobrepasa la capacidad del tipo más pequeño, el resultado será un número inesperado o negativo.
+
+ </p>
