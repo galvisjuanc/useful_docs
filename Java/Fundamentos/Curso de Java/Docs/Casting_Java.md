@@ -98,4 +98,10 @@ Antes de hacer estos casteos, evalúa siempre los límites de cada tipo de dato 
     <td>0</td>
     <td>Stores whole numbers from -2147483648 to 2147483647</td>
   </tr>
+  <tr>
+    <td>long</td>
+    <td>8 byte / 64 bits</td>
+    <td>0L</td>
+    <td>Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807</td>
+  </tr>
 </table>
