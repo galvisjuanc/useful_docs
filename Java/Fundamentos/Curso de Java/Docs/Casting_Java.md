@@ -62,3 +62,28 @@ Sin embargo, si el texto original fuera un número mayor al rango de int, como "
 Antes de hacer estos casteos, evalúa siempre los límites de cada tipo de dato en Java para evitar pérdidas o resultados incorrectos en tus programas.
 
  </p>
+
+<hr>
+
+<h3> Brief Summary </h3>
+
+<table>
+  <tr>
+    <th>DATA TYPES</th>
+    <th>SIZE</th>
+    <th>DEFAULT</th>
+    <th>EXPLANATION</th>
+  </tr>
+  <tr>
+    <td>boolean</td>
+    <td>1 bit</td>
+    <td>false</td>
+    <td>STores true or false values</td>
+  </tr>
+  <tr>
+    <td>byte</td>
+    <td>1 byte / 8 bits</td>
+    <td>0</td>
+    <td>Stores whole numbers from -128 to 127</td>
+  </tr>
+</table>
