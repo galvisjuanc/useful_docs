@@ -51,3 +51,39 @@ Si necesitas ese valor como int, puedes hacer un casteo explícito si estás seg
 Sin embargo, si el texto original fuera un número mayor al rango de int, como "25000000000", este proceso fallará y obtendrás valores negativos o erróneos debido a las limitaciones de cada tipo de dato.
 
  </p>
+
+<h3> ¿Qué riesgos existen al castear números grandes en Java? </h3>
+
+<p align="left"> La conversión de un tipo más grande como long a uno más pequeño como int puede causar problemas si el número excede la capacidad máxima del destino.
+
+* Por ejemplo, intentar guardar 25 000 000 000 (veinticinco mil millones) en un int generará un valor negativo o muy diferente del esperado.
+* Cada tipo de dato tiene un rango específico que no debe ser excedido.
+
+Antes de hacer estos casteos, evalúa siempre los límites de cada tipo de dato en Java para evitar pérdidas o resultados incorrectos en tus programas.
+
+ </p>
+
+<hr>
+
+<h3> Brief Summary </h3>
+
+<table>
+  <tr>
+    <th>DATA TYPES</th>
+    <th>SIZE</th>
+    <th>DEFAULT</th>
+    <th>EXPLANATION</th>
+  </tr>
+  <tr>
+    <td>boolean</td>
+    <td>1 bit</td>
+    <td>false</td>
+    <td>STores true or false values</td>
+  </tr>
+  <tr>
+    <td>byte</td>
+    <td>1 byte / 8 bits</td>
+    <td>0</td>
+    <td>Stores whole numbers from -128 to 127</td>
+  </tr>
+</table>
