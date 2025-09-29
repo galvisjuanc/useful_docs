@@ -110,4 +110,16 @@ Antes de hacer estos casteos, evalúa siempre los límites de cada tipo de dato 
     <td>0.0f</td>
     <td>Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits</td>
   </tr>
+  <tr>
+    <td>double</td>
+    <td>8 byte / 64 bits</td>
+    <td>0.0d</td>
+    <td>Stores fractional numbers. Sufficient for storing 15 decimal digits</td>
+  </tr>
+  <tr>
+    <td>char</td>
+    <td>2 byte / 16 bits</td>
+    <td>'\u0000'</td>
+    <td>Stores a single character/letter or ASCII values</td>
+  </tr>
 </table>
