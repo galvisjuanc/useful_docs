@@ -86,4 +86,16 @@ Antes de hacer estos casteos, evalúa siempre los límites de cada tipo de dato 
     <td>0</td>
     <td>Stores whole numbers from -128 to 127</td>
   </tr>
+  <tr>
+    <td>short</td>
+    <td>2 byte / 16 bits</td>
+    <td>0</td>
+    <td>Stores whole numbers from -32768 to 32767</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>4 byte / 32 bits</td>
+    <td>0</td>
+    <td>Stores whole numbers from -2147483648 to 2147483647</td>
+  </tr>
 </table>
