@@ -23,10 +23,33 @@ Facilitan evitar la duplicación de código, mejorando la legibilidad y mantenim
 
 4. Crear métodos estáticos para capturar diferentes tipos de datos:
 
-    4.1  Capturar texto: muestra un mensaje y devuelve un String con lo que el usuario escribe.
+    4.1 Capturar texto: muestra un mensaje y devuelve un String con lo que el usuario escribe.
 
     4.2 Capturar número entero: obtiene un int, asegurándose de limpiar el salto de línea al final.
 
     4.3 Capturar número decimal: igual proceso pero utilizando double.
+
+
+Ejemplo de método estático para texto:
+
+
+    public static String capturarTexto(String mensaje) {
+        System.out.println(mensaje + ":");
+        return scanner.nextLine();
+    }
+
+</p>
+
+<h3> ¿Cómo se usan estos métodos estáticos desde el código principal? </h3>
+
+<p align="left">
+
+Solo es necesario llamar a la clase y al método estático, sin crear una instancia.
+
+Ejemplo: Para solicitar el nombre del contenido, se ejecuta directamente:
+
+    String nombre = ScannerUtils.capturarTexto("Nombre del contenido");
+
+El único método visible es el que tiene la palabra clave static. Los demás requieren instancia si no son estáticos.
 
 </p>
