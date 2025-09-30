@@ -21,7 +21,12 @@ Facilitan evitar la duplicación de código, mejorando la legibilidad y mantenim
         public static Scanner scanner = new Scanner(System.in);
 
 
+4. Crear métodos estáticos para capturar diferentes tipos de datos:
 
-* 
+    4.1  Capturar texto: muestra un mensaje y devuelve un String con lo que el usuario escribe.
+
+    4.2 Capturar número entero: obtiene un int, asegurándose de limpiar el salto de línea al final.
+
+    4.3 Capturar número decimal: igual proceso pero utilizando double.
 
 </p>
