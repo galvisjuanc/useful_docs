@@ -9,3 +9,19 @@
 * Ejemplo: métodos para capturar información mediante consola, cálculos matemáticos, o validaciones generales.
 
 Facilitan evitar la duplicación de código, mejorando la legibilidad y mantenimiento. </p>
+
+<h3> ¿Cómo crear una clase utilitaria con métodos estáticos? </h3>
+
+<p align="left">
+
+1. Crear un paquete dedicado a utilidades, por ejemplo, util.
+2. Definir una clase, como ScannerUtils, que agrupe funciones para uso común.
+3. Implementar un atributo estático para gestionar el escáner y que sea compartido por todos los métodos. 
+
+        public static Scanner scanner = new Scanner(System.in);
+
+
+
+* 
+
+</p>
