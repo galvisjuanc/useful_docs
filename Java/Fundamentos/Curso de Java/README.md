@@ -18,3 +18,6 @@
  </a>
 
  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Casting_Java.md"> Casting de tipos de datos en Java </a>
+
+  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Atributos_Metodos_Estaticos_Java.md"> Atributos y métodos estáticos en clases utilitarias de Java
+ </a>
