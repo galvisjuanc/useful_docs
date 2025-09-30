@@ -53,3 +53,23 @@ Ejemplo: Para solicitar el nombre del contenido, se ejecuta directamente:
 El único método visible es el que tiene la palabra clave static. Los demás requieren instancia si no son estáticos.
 
 </p>
+
+<h3> ¿Qué ventajas aportan los métodos estáticos en la captura de información? </h3>
+
+<p align="left">
+
+* Permiten un código mucho más limpio, evitando redundancias.
+* Centralizan la lógica de captura para distintos tipos de datos.
+* Facilitan modificar el comportamiento de la captura en un solo lugar.
+
+</p>
+
+<h3> ¿Para qué otras situaciones son útiles los atributos o métodos estáticos? </h3>
+
+<p align="left">
+
+* Llevar conteos globales de elementos.
+* Validar datos.
+* Crear clases utilitarias que brindan funciones comunes, no ligadas a una instancia.
+
+</p>
