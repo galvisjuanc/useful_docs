@@ -16,3 +16,5 @@
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Tipos_Datos_Primitivos_Referencia.md"> Tipos de datos primitivos y por referencia en Java
  </a>
+
+ <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Casting_Java.md"> Casting de tipos de datos en Java </a>
