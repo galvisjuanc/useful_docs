@@ -21,3 +21,8 @@
 
   <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Atributos_Metodos_Estaticos_Java.md"> Atributos y métodos estáticos en clases utilitarias de Java
  </a>
+
+  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md"> Constantes en Java: inmutabilidad con static final
+ </a>
+
+ 
