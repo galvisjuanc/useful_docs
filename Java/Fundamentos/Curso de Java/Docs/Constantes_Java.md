@@ -10,7 +10,7 @@
 
  </p>
 
- <h3 align="left"> ¿Cómo se declaran constantes en clases Java? </h3>
+<h3 align="left"> ¿Cómo se declaran constantes en clases Java? </h3>
 
 <p align="left"> Definir una constante en una clase es una buena práctica, sobre todo para compartir valores comunes en todo el código. Se recomienda nombrarlas en mayúsculas, una convención muy aceptada en Java.
 
@@ -23,5 +23,15 @@ De esta forma, el valor de VERSION no podrá modificarse después de ser asignad
     VERSION = "2";
 
 Observarás un error: no se puede asignar un valor a una variable final, lo que demuestra que la constante es inmutable.
+
+ </p>
+
+<h3 align="left"> ¿Cuándo conviene utilizar constantes en un proyecto Java? </h3>
+
+<p align="left"> Las constantes son perfectas para cualquier dato que no debe cambiar durante la ejecución:
+
+* Configuraciones fijas como nombres de plataforma o versiones.
+* Límites y datos generales usados en toda la app.
+* Objetos que, aunque sean de otro tipo, no se modifican (como un Scanner compartido).
 
  </p>
