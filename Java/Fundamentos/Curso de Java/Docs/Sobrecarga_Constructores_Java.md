@@ -9,3 +9,13 @@
 * Personalizar el constructor ayuda a que los objetos tengan la información necesaria desde su origen, como el título, duración y género de una película.
 
  </p>
+
+ <h3 align="left"> ¿Cómo definir y utilizar un constructor personalizado? </h3>
+
+<p align="left"> Definir un constructor personalizado es sencillo y sigue estas pautas:
+
+* El constructor se crea después de los atributos y se llama igual que la clase.
+* Los parámetros que recibes se asignan a los atributos del objeto usando la palabra reservada this para distinguirlos.
+* Puedes asignar valores por defecto a otros campos; por ejemplo, puedes inicializar la fecha de estreno con la fecha actual o marcar el atributo disponible como true.
+
+ </p>
