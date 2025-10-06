@@ -10,12 +10,22 @@
 
  </p>
 
- <h3 align="left"> ¿Cómo definir y utilizar un constructor personalizado? </h3>
+<h3 align="left"> ¿Cómo definir y utilizar un constructor personalizado? </h3>
 
 <p align="left"> Definir un constructor personalizado es sencillo y sigue estas pautas:
 
 * El constructor se crea después de los atributos y se llama igual que la clase.
 * Los parámetros que recibes se asignan a los atributos del objeto usando la palabra reservada this para distinguirlos.
 * Puedes asignar valores por defecto a otros campos; por ejemplo, puedes inicializar la fecha de estreno con la fecha actual o marcar el atributo disponible como true.
+
+ </p>
+
+<h3 align="left"> ¿Cómo manejar múltiples constructores y buenas prácticas? </h3>
+
+<p align="left"> Una clase puede tener más de un constructor, adaptándose a diferentes necesidades al crear objetos. Usando herramientas como IntelliJ, puedes generar constructores fácilmente e incluir diferentes combinaciones de parámetros como título, duración, género y calificación.
+
+* Para usar varios constructores, puedes utilizar la tecla Control al seleccionarlos.
+* Puedes llamar a otro constructor usando this() dentro de un constructor diferente para evitar repetición de código.
+* Es posible llamar métodos desde el constructor para agregar lógica, como validar y asignar calificación desde un método calificar.
 
  </p>
