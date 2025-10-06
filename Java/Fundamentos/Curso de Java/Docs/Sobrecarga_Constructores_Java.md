@@ -28,4 +28,14 @@
 * Puedes llamar a otro constructor usando this() dentro de un constructor diferente para evitar repetición de código.
 * Es posible llamar métodos desde el constructor para agregar lógica, como validar y asignar calificación desde un método calificar.
 
+
+Las buenas prácticas recomiendan que cada clase tenga constructores que reciban los datos fundamentales que el objeto necesita desde su nacimiento. Esto evita problemas y mejora la limpieza del código.
+
  </p>
+
+<h3 align="left"> ¿Cómo crear constructores para diferentes clases como usuario? </h3>
+
+<p align="left"> El uso de constructores se aplica de igual manera en otras clases, como usuario. Puedes generar un constructor que inicialmente solo reciba el nombre, y luego, si lo deseas, editar para agregar más datos como email. También puedes asignar valores por defecto, como la fecha de registro.
+
+* Así, al crear un usuario con nombre y email, el constructor solo acepta esos parámetros.
+* Si intentas pasar parámetros distintos, Java marcará un error porque ese constructor no los acepta. </p>
