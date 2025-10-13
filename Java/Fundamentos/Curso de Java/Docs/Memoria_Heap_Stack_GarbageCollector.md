@@ -25,3 +25,12 @@ En cambio, cuando asignas variables de tipo objeto, solo se copia la referencia:
 Un experimento práctico mostró que si asignas una variable objeto a otra, ambas apuntan al mismo lugar, y cualquier cambio se ve reflejado siempre. El objeto original se vuelve inaccesible si ninguna variable lo referencia.
 
  </p>
+
+  <h3 align="left"> ¿Qué sucede cuando un objeto ya no tiene referencias en Java? </h3>
+
+<p align="left">Cuando ningún elemento en el stack apunta a un objeto en el heap, Java lo considera inalcanzable y está listo para ser eliminado. Aquí entra el Garbage Collector:
+
+* Es un proceso automático de Java que elimina objetos no referenciados del heap.
+* Se ejecuta en segundo plano y con baja prioridad.
+* Java permite invocarlo manualmente, pero se recomienda dejar que la JVM decida cuándo y cómo hacerlo, ya que conoce el mejor momento.
+ </p>
