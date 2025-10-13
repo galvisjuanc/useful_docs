@@ -10,3 +10,18 @@ Por otro lado, el heap es donde están los objetos propiamente dichos. Aunque su
 Hay una relación directa entre stack y heap: las referencias viven en el stack y apuntan a los objetos en el heap. Entender esto ayuda a saber por qué ocurren ciertos errores o comportamientos en programas Java.
 
  </p>
+
+ <h3 align="left"> ¿Qué diferencia hay entre pasar datos primitivos y objetos en Java? </h3>
+
+<p align="left"> Al asignar tipos primitivos, se copia el valor real, generando variables independientes. Por ejemplo:
+
+* Si cambias el valor a una variable primitiva copiada, la otra no se afecta.
+
+En cambio, cuando asignas variables de tipo objeto, solo se copia la referencia:
+
+* Varias variables pueden apuntar al mismo objeto en el heap.
+* Si modificas el objeto a través de cualquier variable, los demás también reflejan ese cambio.
+
+Un experimento práctico mostró que si asignas una variable objeto a otra, ambas apuntan al mismo lugar, y cualquier cambio se ve reflejado siempre. El objeto original se vuelve inaccesible si ninguna variable lo referencia.
+
+ </p>
