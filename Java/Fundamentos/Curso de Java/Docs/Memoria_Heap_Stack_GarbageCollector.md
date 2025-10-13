@@ -33,4 +33,9 @@ Un experimento práctico mostró que si asignas una variable objeto a otra, amba
 * Es un proceso automático de Java que elimina objetos no referenciados del heap.
 * Se ejecuta en segundo plano y con baja prioridad.
 * Java permite invocarlo manualmente, pero se recomienda dejar que la JVM decida cuándo y cómo hacerlo, ya que conoce el mejor momento.
+
+Esta gestión automática evita muchas fugas de memoria y errores por objetos olvidados, facilitando el desarrollo en Java.
+
  </p>
+
+ 
