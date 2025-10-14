@@ -13,3 +13,13 @@ El encapsulamiento es un concepto fundamental en la programación orientada a ob
 * Utilizar modificadores de acceso privados protege los datos sensibles de la clase.
 
  </p>
+
+ <h3 align="left"> ¿Para qué sirven los métodos getter y setter en Java? </h3>
+
+<p align="left"> Cuando se necesita acceder o modificar los valores de los atributos privados, se usan los métodos getter y setter. Los getter permiten obtener información, mientras que los setter se utilizan para establecer valores.
+
+* Un getter devuelve el valor del atributo sin modificarlo. Ejemplo: getTitulo() retorna el título de la película.
+* Un setter permite cambiar el valor de un atributo si el diseño lo permite. Ejemplo: setDescripcion() modifica la descripción de la película.
+* Es crucial decidir qué atributos necesitarán setters, especialmente si no conviene que el valor cambie tras la creación del objeto.
+
+ </p>
