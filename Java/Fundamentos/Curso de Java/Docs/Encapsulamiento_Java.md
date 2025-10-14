@@ -22,4 +22,6 @@ El encapsulamiento es un concepto fundamental en la programación orientada a ob
 * Un setter permite cambiar el valor de un atributo si el diseño lo permite. Ejemplo: setDescripcion() modifica la descripción de la película.
 * Es crucial decidir qué atributos necesitarán setters, especialmente si no conviene que el valor cambie tras la creación del objeto.
 
+En Java, los booleanos siguen la convención de utilizar is en el getter en vez de get, por claridad al usar condiciones.
+
  </p>
