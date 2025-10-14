@@ -6,10 +6,10 @@ El encapsulamiento es un concepto fundamental en la programación orientada a ob
 
 <h3 align="left"> ¿Cómo funciona el encapsulamiento en Java? </h3>
 
-<p align="left"> La memoria se divide esencialmente en stack y heap. El stack almacena valores de tipos de datos primitivos y referencias a objetos, pero nunca los objetos mismos. Su tamaño es fijo durante la ejecución, y si se sobrepasa, ocurre un stack overflow error.
+<p align="left"> El encapsulamiento en Java está directamente relacionado con la visibilidad de los atributos de una clase. Una práctica recomendada es declarar los atributos como privados para impedir el acceso directo desde fuera de la clase. Así, solo se puede interactuar con ellos a través de métodos públicos.
 
-Por otro lado, el heap es donde están los objetos propiamente dichos. Aunque su tamaño inicial se define al arrancar la aplicación, puede cambiar dinámicamente. Si el heap se llena, surge un OutOfMemoryError: Java heap space.
-
-Hay una relación directa entre stack y heap: las referencias viven en el stack y apuntan a los objetos en el heap. Entender esto ayuda a saber por qué ocurren ciertos errores o comportamientos en programas Java.
+* Los atributos privados no pueden ser modificados ni leídos desde fuera de la clase.
+* Los métodos públicos permiten controlar cómo se accede o modifica la información.
+* Utilizar modificadores de acceso privados protege los datos sensibles de la clase.
 
  </p>
