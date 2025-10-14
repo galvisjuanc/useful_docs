@@ -25,3 +25,16 @@ El encapsulamiento es un concepto fundamental en la programación orientada a ob
 En Java, los booleanos siguen la convención de utilizar is en el getter en vez de get, por claridad al usar condiciones.
 
  </p>
+
+  <h3 align="left"> ¿Qué prácticas se recomiendan para escribir clases seguras y robustas? </h3>
+
+<p align="left"> Seguir estructuras y convenciones claras refuerza la robustez del software y asegura clases seguras:
+
+* Declarar atributos privados por defecto en cada clase.
+* Ubicar los métodos getter y setter al final de la clase, luego de atributos, constructores y métodos principales.
+* Crear getters solo para los atributos que deban ser consultados desde fuera de la clase.
+* Agregar setters únicamente cuando sea indispensable modificar ciertos atributos.
+* Analizar si conviene permitir cambios en atributos clave; por ejemplo, el título de una película generalmente no debe modificarse.
+* Los métodos públicos son los únicos accesibles externamente, lo cual da mayor control sobre los datos.
+
+ </p>
