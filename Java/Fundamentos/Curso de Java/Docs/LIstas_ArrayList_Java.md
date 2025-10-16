@@ -6,6 +6,14 @@
 
 * Se definen dos atributos: el nombre de la plataforma y la lista de contenido.
 * El atributo lista se debe inicializar en el constructor con new ArrayList<>(); para evitar errores de referencia.
-* Las buenas prácticas incluyen mantener atributos privados y solo exponer lo necesario mediante métodos getter.
+* Las buenas prácticas incluyen mantener atributos privados y solo exponer lo necesario mediante métodos getter. </p>
 
- </p>
+
+<h3 align="left"> ¿Qué operaciones básicas puedes hacer con listas en Java? </h3>
+
+<p align="left"> Trabajar correctamente con listas implica conocer algunos métodos clave:
+
+* Agregar elementos: Usa el método add para añadir un elemento; también puedes especificar el índice de inserción, agregar otra lista completa (addAll), o elegir si insertas al inicio o final.
+* Eliminar elementos: El método remove permite quitar un elemento por objeto o posición. Incluso puedes eliminar elementos que cumplan con una condición específica.
+* Recorrer la lista: Existen diferentes maneras, como el tradicional for usando un índice, o el for mejorado, donde defines directamente el tipo del objeto que recorres.
+* Obtener información: El método size devuelve el número de elementos actuales de la lista. </p>
