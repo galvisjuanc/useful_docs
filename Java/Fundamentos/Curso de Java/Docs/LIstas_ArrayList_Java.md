@@ -36,3 +36,11 @@
 Java también permite realizar operaciones más avanzadas como filtrar o transformar listas usando streams y lambdas, ideales para estructuras de datos limpias y operaciones modernas.
 
 </p>
+
+<p>La principal diferencia entre ArrayList y List en Java es que List es una interfaz, mientras que ArrayList es una implementación de esta interfaz.
+
+* List: Define un contrato para una colección ordenada que permite duplicados y acceso a elementos por índice. No proporciona implementación específica.
+
+* ArrayList: Es una clase que implementa la interfaz List y utiliza un arreglo dinámico para almacenar elementos. Ofrece métodos para agregar, eliminar y acceder a elementos, siendo eficiente en operaciones de acceso, pero puede ser lento al eliminar elementos debido a la necesidad de reacomodar el arreglo.
+
+Usar List permite cambiar a otras implementaciones (como LinkedList) sin cambiar el código que usa la interfaz.</p>
