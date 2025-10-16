@@ -29,3 +29,6 @@
  </a>
  
   <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md">  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Memoria_Heap_Stack_GarbageCollector.md"> Gestión de memoria en Java: stack, heap y garbage collector  </a>
+
+ <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md">  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Encapsulamiento_Java"> Encapsulamiento en Java: Atributos privados y métodos getter y setter  </a>
+
