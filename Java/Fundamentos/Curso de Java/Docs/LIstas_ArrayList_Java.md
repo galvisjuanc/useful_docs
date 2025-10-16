@@ -24,3 +24,15 @@
 * Siempre inicializa la lista antes de usarla para evitar el NullPointerException, un error muy común cuando se intenta acceder a una referencia no asignada.
 * Es recomendable quitar imports innecesarios en el código para optimizar la gestión de memoria.
 * Solo expón los métodos getter de los atributos que necesitas fuera de la clase; evitar los setter cuando no es necesario asegura la integridad de tus datos. </p>
+
+<h3 align="left">¿Cómo puedes mostrar y gestionar el contenido de la lista? </h3>
+
+<p align="left"> Después de agregar varias películas, puedes mostrar los títulos implementando un método que recorra la lista y los imprima. Es posible agregar, mostrar y eliminar elementos de la lista desde tu método principal (main) y ver cómo cambian los datos en tiempo real:
+
+* Agrega varias películas a la plataforma.
+* Muestra el tamaño actual y los títulos registrados.
+* Elimina un elemento usando plataforma.eliminar y observa que el contenido se actualiza correctamente. 
+
+Java también permite realizar operaciones más avanzadas como filtrar o transformar listas usando streams y lambdas, ideales para estructuras de datos limpias y operaciones modernas.
+
+</p>
