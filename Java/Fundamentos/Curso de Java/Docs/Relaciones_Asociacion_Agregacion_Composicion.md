@@ -7,3 +7,10 @@
 
 Ejemplo típico: un método de la clase usuario recibe como parámetro una película, pero usuario no guarda internamente ninguna instancia de película.
 Las clases no se poseen ni dependen entre sí permanentemente. </p>
+
+<h3 align="left"> ¿Qué diferencia hay entre agregación y composición? </h3>
+
+<p align="left"> La agregación es una relación más fuerte que la asociación. Aquí, una clase contiene a otra como atributo, aunque cada una puede vivir de manera más o menos independiente.
+
+Por ejemplo, si una plataforma tiene una lista de categorías, estas pueden existir de forma separada e incluso la plataforma funcionaría igual sin ellas.
+Si eliminas la clase principal, los elementos agregados pueden seguir teniendo sentido aparte. </p>
