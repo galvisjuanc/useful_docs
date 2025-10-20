@@ -19,3 +19,11 @@ La composición es la relación más estrecha posible entre clases.
 
 * Una clase crea, posee y controla plenamente a otra.
 Si la clase principal deja de existir, la contenida también desaparece. Por ejemplo, los créditos de una película solo tienen sentido dentro de esa película y serían eliminados con ella.</p>
+
+<h3 align="left"> ¿Cómo identificar el tipo de relación en el código? </h3>
+
+<p align="left"> Analiza tu código y pregúntate: ¿una clase usa ocasionalmente a otra, la contiene como atributo, o la crea y controla su ciclo de vida?
+
+* Si la usa en algún método sin guardarla como atributo, es asociación.
+* Si la contiene como atributo pero pueden existir de forma independiente, se trata de agregación.
+* Si una clase crea y gestiona por completo otra y su vida depende de la principal, es composición. </p>
