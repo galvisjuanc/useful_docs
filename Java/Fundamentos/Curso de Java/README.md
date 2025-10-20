@@ -35,3 +35,5 @@
  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md">  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Listas_ArrayList_Java.md"> Operaciones básicas con listas en Java: agregar, eliminar y recorrer
   </a>
 
+ <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md">  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Relaciones_Asociacion_Agregacion_Composicion.md"> Relaciones entre clases en Java: asociación, agregación y composición
+  </a>
