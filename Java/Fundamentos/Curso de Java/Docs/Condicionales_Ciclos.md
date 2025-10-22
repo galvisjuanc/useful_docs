@@ -31,4 +31,8 @@ Al preguntar por la opción elegida, el programa espera un valor numérico. Si e
     public static final int ELIMINAR = 4;
     public static final int SALIR = 5;
     
+Esto permite cambiar los valores en un solo lugar y referenciarlos en el resto del programa.
+
+Además, utilizar switch case sobre varias opciones facilita entender el flujo y reduce errores. Por cada caso, se ejecuta el bloque correspondiente (agregar, mostrar, buscar, eliminar, salir) y queda abierto para integrar nuevas funciones.
+
 </p>
