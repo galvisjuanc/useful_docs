@@ -19,3 +19,16 @@ Al preguntar por la opción elegida, el programa espera un valor numérico. Si e
 * Se utiliza un while adicional que verifica con hasNextInt() o hasNextDouble() si la entrada es válida.
 * Cuando no lo es, se informa con un mensaje como “Dato no aceptado” y se descarta usando scanner.next().
 * Este ciclo se repite hasta recibir un valor correcto. </p>
+
+<h3>¿Por qué usar constantes y switch case en vez de múltiples if-else?
+</h3>
+
+<p> Usar constantes mejora la legibilidad y el mantenimiento del código. Por ejemplo:
+
+    public static final int AGREGAR = 1;
+    public static final int MOSTRAR_TODO = 2;
+    public static final int BUSCAR_POR_TITULO = 3;
+    public static final int ELIMINAR = 4;
+    public static final int SALIR = 5;
+    
+</p>
