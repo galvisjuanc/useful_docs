@@ -36,3 +36,7 @@ Esto permite cambiar los valores en un solo lugar y referenciarlos en el resto d
 Además, utilizar switch case sobre varias opciones facilita entender el flujo y reduce errores. Por cada caso, se ejecuta el bloque correspondiente (agregar, mostrar, buscar, eliminar, salir) y queda abierto para integrar nuevas funciones.
 
 </p>
+
+<h3> ¿Cómo se prueban y enlazan las acciones dentro del menú </h3>
+
+<p> El diseño del menú interactivo permite agregar contenido (como una película con nombre, género, duración y calificación), mostrar todos los títulos, y salir correctamente. Las opciones de buscar por título y eliminar están previstas para implementarse en pasos siguientes. </p>
