@@ -26,3 +26,14 @@ Al implementarlo en el flujo principal:
 * Se llama el método de búsqueda y se compara el resultado con null.
 * Si la película existe, se muestra su ficha técnica, que incluso puede mejorarse con emojis.
 * Si no se encuentra, se avisa que el contenido buscado no existe en la plataforma.</p>
+
+<h3 align="left"> ¿Cómo eliminar una película dentro de la plataforma? </h3>
+
+<p align="left"> Eliminar requiere identificar primero el elemento. El método es simple y directo:
+
+* El usuario indica el nombre del contenido a eliminar.
+* Se realiza una búsqueda igual que en el caso anterior.
+* Si la película existe, se ejecuta el método eliminar y se informa que el contenido fue eliminado (opcionalmente, puedes usar una X para reforzar visualmente el mensaje).
+* Si no se halla, se comunica que el contenido no está en la plataforma.
+
+Esto mantiene la lista actualizada y permite que el usuario tenga control total sobre lo que ve y gestiona en la plataforma.</p>
