@@ -18,4 +18,11 @@ Esto permite probar funcionalidades y agiliza el flujo durante el desarrollo. </
 * Se crea un método Buscar por Título dentro de la plataforma.
 * Este método recibe un string y recorre la lista con un bucle for.
 * Se recomienda usar equalsIgnoreCase en lugar de equals para comparar los títulos, así el resultado es correcto sin importar las mayúsculas o minúsculas.
-* Si la película existe, el método retorna la instancia encontrada; si no, retorna null. </p>
+* Si la película existe, el método retorna la instancia encontrada; si no, retorna null. 
+
+Al implementarlo en el flujo principal:
+
+* El usuario ingresa el nombre a buscar mediante Scanner utils.
+* Se llama el método de búsqueda y se compara el resultado con null.
+* Si la película existe, se muestra su ficha técnica, que incluso puede mejorarse con emojis.
+* Si no se encuentra, se avisa que el contenido buscado no existe en la plataforma.</p>
