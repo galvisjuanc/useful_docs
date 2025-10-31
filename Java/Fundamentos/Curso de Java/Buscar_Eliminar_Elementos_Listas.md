@@ -10,3 +10,12 @@
 
 
 Esto permite probar funcionalidades y agiliza el flujo durante el desarrollo. </p>
+
+<h3 align="left">¿Cómo buscar una película por título ignorando mayúsculas y minúsculas? </h3>
+
+<p align="left"> Buscar de manera flexible facilita la experiencia para el usuario. Para esto:
+
+* Se crea un método Buscar por Título dentro de la plataforma.
+* Este método recibe un string y recorre la lista con un bucle for.
+* Se recomienda usar equalsIgnoreCase en lugar de equals para comparar los títulos, así el resultado es correcto sin importar las mayúsculas o minúsculas.
+* Si la película existe, el método retorna la instancia encontrada; si no, retorna null. </p>
