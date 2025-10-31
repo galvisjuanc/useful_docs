@@ -38,4 +38,6 @@
  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md">  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Relaciones_Asociacion_Agregacion_Composicion.md"> Relaciones entre clases en Java: asociación, agregación y composición
   </a>
 
-   <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md">  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Condicionales_Ciclos.md"> Implementación de menús interactivos con while y switch en Java </a>
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md">  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Condicionales_Ciclos.md"> Implementación de menús interactivos con while y switch en Java </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md">  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Buscar_Eliminar_Elementos_Listas.md"> Búsqueda y eliminación de elementos en listas de Java </a>
