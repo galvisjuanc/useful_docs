@@ -21,3 +21,13 @@ Esta alternativa permite dejar atrás el for clásico sin perder claridad y gana
 * Si solo necesitas el primer resultado, utiliza findFirst seguido de orElse(null) para manejar casos donde no se encuentre nada.
 
 Es posible recoger el resultado del filtro en una nueva lista usando toList. </p>
+
+<h3 align="left"> ¿Cómo buscar películas por género y mostrar resultados usando streams? </h3>
+
+<p align="left"> El mismo enfoque funcional aplicado para buscar por título puede emplearse para buscar por género.
+
+* Crea un método que recibe el género a buscar y retorna una lista de todos los elementos que cumplen la condición.
+* Utiliza el filtro en el stream, esta vez por el campo género, y convierte el resultado en una lista con toList.
+* Permite múltiples coincidencias ya que varios elementos pueden compartir el mismo género.
+* En el menú, agrega una opción que capture el género, realice la búsqueda y muestre cuántos resultados hubo.
+Itera sobre la lista resultante con foreach y una lambda para imprimir la ficha técnica de cada película, agregando un salto de línea para mejor legibilidad. </p>
