@@ -10,3 +10,14 @@
 * Si la operación contiene una sola línea, no es necesario encerrar el cuerpo con llaves ni usar punto y coma.
 
 Esta alternativa permite dejar atrás el for clásico sin perder claridad y ganando concisión. </p>
+
+<h3 align="left"> ¿Qué son los streams y cómo ayudan a filtrar listas en Java? </h3>
+
+<p align="left"> Streams funcionan como una cinta transportadora sobre una lista, permitiendo aplicar distintos procesos: filtrado, transformación u obtención de elementos.
+
+* Puedes iniciar un stream desde una lista con contenido.stream().
+* El método filter permite elegir solo los elementos que cumplen una condición dada por una función lambda.
+* Para encontrar un elemento por un atributo (como el título), el filtro compara el campo deseado con el parámetro recibido.
+* Si solo necesitas el primer resultado, utiliza findFirst seguido de orElse(null) para manejar casos donde no se encuentre nada.
+
+Es posible recoger el resultado del filtro en una nueva lista usando toList. </p>
