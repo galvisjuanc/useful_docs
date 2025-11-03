@@ -16,3 +16,12 @@
 * Transforma la lista a stream con .stream().
 * Usa .mapToInt(Elemento::getDuracion) para enfocar solo en la propiedad numérica.
 * Aplica .sum() para obtener el total sin bucles adicionales ni contadores manuales. </p>
+
+<h3 align="left"> ¿Cómo ordenar listas de objetos por una propiedad específica en orden deseado? </h3>
+
+<p align="left"> Ordenar una lista por calificación, de mayor a menor, es muy útil para destacar los contenidos más populares. El método sorted junto con Comparator.comparing facilita este proceso:
+
+* Inicializa el stream con .stream() sobre tu lista.
+* Aplica .sorted(Comparator.comparing(Elemento::getCalificacion).reversed()) para ordenar por calificación descendente.
+* Limita el número de resultados con .limit(cantidad) si deseas mostrar solo los primeros n elementos.
+* Recoge los elementos ordenados en una lista nueva con .collect(Collectors.toList()). </p>
