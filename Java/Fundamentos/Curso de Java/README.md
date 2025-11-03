@@ -43,3 +43,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md">  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Buscar_Eliminar_Elementos_Listas.md"> Búsqueda y eliminación de elementos en listas de Java </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md">  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Streams_Lambdas_Java.md"> Streams y lambdas para filtrar listas en Java </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md">  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Transformacion_Streams_Lambdas_Java.md"> Transformación y ordenamiento de listas con streams en Java </a>
