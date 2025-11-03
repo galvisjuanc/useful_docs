@@ -8,3 +8,11 @@
 * Aplica .map(elemento -> elemento.getTitulo()) para transformar cada objeto en su título.
 * Puedes simplificarlo usando method reference con Elemento::getTitulo para mayor legibilidad.
 * El resultado final lo puedes recoger con .collect(Collectors.toList()), retornando la lista transformada.</p>
+
+<h3 align="left"> ¿Cuál es la forma eficiente de sumar propiedades numéricas en listas con streams? </h3>
+
+<p align="left"> Para calcular, por ejemplo, la duración total de todas las películas de una plataforma, el método mapToInt convierte cada objeto de la lista en un valor entero representando la propiedad deseada (en este caso, la duración). Luego, puedes sumar todos esos valores fácilmente:
+
+* Transforma la lista a stream con .stream().
+* Usa .mapToInt(Elemento::getDuracion) para enfocar solo en la propiedad numérica.
+* Aplica .sum() para obtener el total sin bucles adicionales ni contadores manuales. </p>
