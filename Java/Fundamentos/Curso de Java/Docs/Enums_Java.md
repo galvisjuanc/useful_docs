@@ -35,3 +35,9 @@ Es recomendable escribir los nombres de los enums en mayúsculas para distinguir
 * Si el valor es incorrecto, se informa con un mensaje como "Género no aceptado" y se vuelve a preguntar.
 
 Además, para mejorar la experiencia de usuario, se muestran todas las opciones permitidas antes de la captura, iterando sobre Genero.values() y mostrando los nombres de los géneros disponibles. </p>
+
+<h3 align="left"> ¿Qué ocurre si el usuario ingresa un valor inexistente? </h3>
+
+<p align="left"> Si el usuario intenta buscar o asignar un género que no está en el enum, el sistema muestra un mensaje de error y vuelve a preguntar. Por ejemplo, si escribe "sci-fi" en vez de "CIENCIA_FICCION", verá el mensaje de "Género no aceptado".
+
+El uso de enums se puede extender a otros atributos, como idioma (por ejemplo, ESPANOL, INGLES, ALEMAN) o calidad (por ejemplo, FULLHD, 4K, ESTANDAR). Basta con crear enums nuevos y actualizar la clase y métodos correspondientes para asegurar que siempre se reciban valores permitidos. </p>
