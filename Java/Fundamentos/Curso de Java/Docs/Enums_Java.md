@@ -17,6 +17,11 @@
         CIENCIA_FICCION
     }
 
-Es recomendable escribir los nombres de los enums en mayúsculas para distinguirlos fácilmente y mantener buenas prácticas.
+Es recomendable escribir los nombres de los enums en mayúsculas para distinguirlos fácilmente y mantener buenas prácticas. </p>
 
-</p>
+<h3 align="left"> ¿Cómo se integra el enum en la clase que lo utiliza? </h3>
+
+<p align="left"> En la clase Película, el atributo género deja de ser una cadena y pasa a ser de tipo Genero. Esto implica que, en el constructor y otros métodos relacionados, se debe actualizar la firma y el uso del atributo:
+
+* Ahora el género se recibe o se asigna como un tipo Genero.
+* Al buscar una película por género, el método debe aceptar un Genero y comparar usando el método equals. </p>
