@@ -25,3 +25,13 @@ Es recomendable escribir los nombres de los enums en mayúsculas para distinguir
 
 * Ahora el género se recibe o se asigna como un tipo Genero.
 * Al buscar una película por género, el método debe aceptar un Genero y comparar usando el método equals. </p>
+
+<h3 align="left"> ¿Cómo se capturan y validan opciones de enums cuando el usuario ingresa datos? </h3>
+
+<p align="left"> Un reto es convertir los datos ingresados por el usuario en un valor del enum. Se usa el método Genero.valueOf() para hacerlo, pero si el texto no coincide exactamente, lanza una excepción. Para evitar errores, se puede crear un método utilitario, por ejemplo capturarGenero, que repite la solicitud hasta recibir una opción válida.
+
+* Se utiliza un ciclo while (true) para solicitar el dato repetidamente.
+* El texto del usuario se convierte a mayúsculas antes de validar.
+* Si el valor es incorrecto, se informa con un mensaje como "Género no aceptado" y se vuelve a preguntar.
+
+Además, para mejorar la experiencia de usuario, se muestran todas las opciones permitidas antes de la captura, iterando sobre Genero.values() y mostrando los nombres de los géneros disponibles. </p>
