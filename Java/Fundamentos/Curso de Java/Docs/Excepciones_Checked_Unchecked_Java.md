@@ -25,3 +25,11 @@ Esto facilita identificar y controlar situaciones muy concretas en tu aplicació
 * Antes de añadir el contenido, se valida si ya hay una película con ese título usando un método de búsqueda.
 * Si se encuentra una coincidencia, se usa la palabra reservada throw seguida de new PeliculaExistenteException para lanzar el error con el título encontrado.
 * El flujo del código se interrumpe tras throw, evitando que el método continúe y la película se agregue otra vez. </p>
+
+<h3 align="left"> ¿Cómo controlar la excepción y mejorar la experiencia de usuario? </h3>
+
+<p align="left"> Para que la aplicación no se detenga abruptamente al lanzar la excepción:
+
+* Se utiliza un bloque try-catch al intentar agregar la película.
+* El catch captura específicamente PeliculaExistenteException y muestra el mensaje de error recibido, informando claramente al usuario.
+* Al controlar la excepción, el programa continúa funcionando, permitiendo más intentos de ingreso o búsquedas. </p>
