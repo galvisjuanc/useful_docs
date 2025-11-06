@@ -2,7 +2,11 @@
 
 <h3 align="left"> ¿Cuáles son los tipos de excepciones en Java y cómo se diferencian? </h3>
 
-<p align="left"> En Java, existen dos grandes tipos de excepciones:
+<p align="left"> En Java tenemos dos tipos de errores. Aquellos que heredan de la clase Error y los de la clase exception y así mismo ambos heredan de la clase throwable.
+
+Una exception no es más que un error del cual podemos volver (Ej. Division ente cero), mientras que los errores terminan con el programa (Ej. Desborde de la memoria)
+
+Las excepciones son:
 
 * Checked exceptions: Java obliga a controlarlas explícitamente usando try-catch. Ejemplos incluyen IO Exception, FileNotFoundException y ParseException, las cuales pueden ocurrir al leer archivos inexistentes o al interpretar datos incorrectos.
 
