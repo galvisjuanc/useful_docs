@@ -10,7 +10,7 @@ Las excepciones son:
 
 * Checked exceptions: Java obliga a controlarlas explícitamente usando try-catch. Ejemplos incluyen IO Exception, FileNotFoundException y ParseException, las cuales pueden ocurrir al leer archivos inexistentes o al interpretar datos incorrectos.
 
-* Unchecked exceptions: No es obligatorio manejarlas, pero pueden causar problemas en tiempo de ejecución si las ignoramos. Algunos ejemplos son NullPointerException, NumberFormatException, IndexOutOfBoundsException y la conocida IllegalArgumentException. </p>
+* Unchecked exceptions: No es obligatorio manejarlas, pero pueden causar problemas en tiempo de ejecución si las ignoramos. Algunos ejemplos son NullPointerException, NumberFormatException, IndexOutOfBoundsException y la conocida IllegalArgumentException. Heredan de la clase Runtime Exception y son excepciones que no necesitan ser atrapadas debido a que pueden ser prevenidas a tráves del código limpio por ejemplo comprobar que exista el indice del array (Ej. ArrayIndexOutOfBoundsException) </p>
 
 <h3 align="left"> ¿Cómo se crea una excepción personalizada en Java? </h3>
 
