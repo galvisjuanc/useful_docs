@@ -8,9 +8,27 @@ Una exception no es más que un error del cual podemos volver (Ej. Division ente
 
 Las excepciones son:
 
-* Checked exceptions: Java obliga a controlarlas explícitamente usando try-catch. Ejemplos incluyen IO Exception, FileNotFoundException y ParseException, las cuales pueden ocurrir al leer archivos inexistentes o al interpretar datos incorrectos.
+* Checked exceptions: Java obliga a controlarlas explícitamente usando try-catch. Ejemplos incluyen IO Exception, FileNotFoundException y ParseException, las cuales pueden ocurrir al leer archivos inexistentes o al interpretar datos incorrectos. Son excepciones que se detectan en tiempo de compilación por el compilador que las detecta como posible fallo y que no pueden ser prevenidas por el programador porque pueden depender de factores externos como que el usuario introduzca un numero invalido o cero (Ej. ArithmeticException).
 
-* Unchecked exceptions: No es obligatorio manejarlas, pero pueden causar problemas en tiempo de ejecución si las ignoramos. Algunos ejemplos son NullPointerException, NumberFormatException, IndexOutOfBoundsException y la conocida IllegalArgumentException. Heredan de la clase Runtime Exception y son excepciones que no necesitan ser atrapadas debido a que pueden ser prevenidas a tráves del código limpio por ejemplo comprobar que exista el indice del array (Ej. ArrayIndexOutOfBoundsException) </p>
+* Unchecked exceptions: No es obligatorio manejarlas, pero pueden causar problemas en tiempo de ejecución si las ignoramos. Algunos ejemplos son NullPointerException, NumberFormatException, IndexOutOfBoundsException y la conocida IllegalArgumentException. Heredan de la clase Runtime Exception y son excepciones que no necesitan ser atrapadas debido a que pueden ser prevenidas a tráves del código limpio por ejemplo comprobar que exista el indice del array (Ej. ArrayIndexOutOfBoundsException) 
+
+Finalmente es una buena práctica ir de la exception más particular a la más general como se muestra a continuación:
+
+
+    try {
+        // Code that might throw exceptions
+    } catch (FileNotFoundException e) {
+        // Handle specific file not found error
+        System.err.println("File not found: " + e.getMessage());
+    } catch (IOException e) {
+        // Handle general I/O errors (parent of FileNotFoundException)
+        System.err.println("I/O error: " + e.getMessage());
+    } catch (Exception e) {
+        // Handle any other general exception
+        System.err.println("An unexpected error occurred: " + e.getMessage());
+    }
+
+</p>
 
 <h3 align="left"> ¿Cómo se crea una excepción personalizada en Java? </h3>
 
