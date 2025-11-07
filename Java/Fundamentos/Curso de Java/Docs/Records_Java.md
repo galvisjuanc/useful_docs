@@ -19,3 +19,17 @@ Este recurso es especialmente útil para representar objetos "ligeros" o version
     public record ResumenContenido(String titulo, int duracion, String genero) {}
 
 Los atributos pueden escribirse en una sola línea o separados para mayor legibilidad. Solo necesitas declarar los datos esenciales; al ser inmutables, los records no incluyen setters. </p>
+
+<h3 align="left"> ¿Cómo usar records para obtener listas resumidas de datos? </h3>
+
+<p align="left"> Supongamos que ya tienes una clase Pelicula con muchos atributos, pero necesitas una versión simple solo con algunos campos. Puedes crear métodos que devuelvan listas de tu nuevo record a partir de una colección más grande:
+
+* Dentro del método en la clase correspondiente, utiliza un stream para transformar tus datos. 
+
+    Por ejemplo:
+
+        return contenidos.stream()
+        .map(c -> new ResumenContenido(c.getTitulo(), c.getDuracion(), c.getGenero()))
+        .collect(Collectors.toList());
+
+Así, a partir de una lista de películas completas, generas una lista más ligera. </p>
