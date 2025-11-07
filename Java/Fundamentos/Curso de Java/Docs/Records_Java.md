@@ -1,5 +1,4 @@
-<h2 align="left"> 
-Records para simplificar código inmutable en Java </h2>
+<h2 align="left"> Records para simplificar código inmutable en Java </h2>
 
 <h3 align="left"> ¿Qué es un record en Java y para qué sirve? </h3>
 
@@ -13,3 +12,10 @@ Un record permite definir una clase inmutable de manera sencilla, perfecta para 
 
 Este recurso es especialmente útil para representar objetos "ligeros" o versiones resumidas de una entidad más grande, como una película con solo su título, duración y género. </p>
 
+<h3 align="left"> ¿Cómo se define un record en Java? </h3>
+
+<p align="left"> Al crear un record, el formato es algo especial. Utilizas la palabra record antes del nombre y defines los atributos entre paréntesis, por ejemplo:
+
+    public record ResumenContenido(String titulo, int duracion, String genero) {}
+
+Los atributos pueden escribirse en una sola línea o separados para mayor legibilidad. Solo necesitas declarar los datos esenciales; al ser inmutables, los records no incluyen setters. </p>
