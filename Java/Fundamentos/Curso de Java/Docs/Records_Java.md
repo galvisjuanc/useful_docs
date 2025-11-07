@@ -33,3 +33,14 @@ Los atributos pueden escribirse en una sola línea o separados para mayor legibi
         .collect(Collectors.toList());
 
 Así, a partir de una lista de películas completas, generas una lista más ligera. </p>
+
+<h3 align="left"> ¿Cómo acceder y mostrar datos en records? </h3>
+
+<p align="left"> Una vez tienes una lista de records, puedes acceder fácilmente a cada atributo por su nombre (no tienen prefijo get):
+
+    for (ResumenContenido resumen : contenidosResumidos) {
+        System.out.println(resumen.titulo());
+        // Puedes imprimir todo el objeto usando toString:
+        System.out.println(resumen);
+    }
+El método toString de los records se genera solo y muestra directamente sus valores en formato fácil de leer. </p>
