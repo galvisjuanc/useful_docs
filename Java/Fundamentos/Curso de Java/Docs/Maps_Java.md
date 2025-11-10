@@ -19,3 +19,11 @@
 * Se recomienda crear un método auxiliar privado, por ejemplo, contarVisualizacion, que incremente el contador de visualizaciones de una película.
 * Esta función puede estar condensada en una sola línea, usando visualizaciones.put y el resultado de getOrDefault, o puede separar el conteo actual en una variable para mayor claridad.
 * Emplear this para llamar métodos internos, aunque es opcional, ayuda a clarificar que pertenecen al mismo objeto. </p>
+
+<h3 align="left"> ¿Cómo se prueban las funcionalidades del mapa con ejemplos prácticos? </h3>
+
+<p align="left"> Dentro del método principal, se adiciona una opción para reproducir películas:
+
+* Se solicita el nombre de la película a reproducir, se busca en la plataforma y, si existe, se llama al método correspondiente.
+* Al reproducir varias veces una película como "Titanic" o "Interestelar", se observa que el mensaje de visualizaciones refleja correctamente el incremento.
+* El sistema notifica si el contenido ingresado no existe. </p>
