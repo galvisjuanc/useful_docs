@@ -45,7 +45,4 @@ Así, a partir de una lista de películas completas, generas una lista más lige
     }
 El método toString de los records se genera solo y muestra directamente sus valores en formato fácil de leer. 
 
-Una de las tantas ventajas de los records al igual que usar esta funcionalidad es que los records permiten mantener el código limpio, corto y fácil de entender cuando representas datos inmutables, como DTOs o elementos sin lógica de validación. Te ahorras los constructores, getters y otros métodos, facilitando el mantenimiento del código.
-
-
-</p>
+Una de las tantas ventajas de los records al igual que usar esta funcionalidad es que l os records permiten mantener el código limpio, corto y fácil de entender cuando representas datos inmutables, como DTOs o elementos sin lógica de validación. Te ahorras los constructores, getters y otros métodos, facilitando el mantenimiento del código. </p>
