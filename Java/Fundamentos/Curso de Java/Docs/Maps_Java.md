@@ -11,3 +11,11 @@
 * Se utiliza el método getOrDefault del mapa para obtener la cantidad de visualizaciones; si la película aún no ha sido vista, retorna cero.
 * Al reproducir una película, se muestra un mensaje con la cantidad actual y se incrementa el contador usando put.
 * Es importante verificar si la película existe antes de intentar reproducirla y manejar el caso en que no se encuentre dentro del sistema. </p>
+
+<h3 align="left"> ¿Qué prácticas mejoran el método reproducir y el control de visualizaciones? </h3>
+
+<p align="left"> Para mantener un código más limpio y mantenible:
+
+* Se recomienda crear un método auxiliar privado, por ejemplo, contarVisualizacion, que incremente el contador de visualizaciones de una película.
+* Esta función puede estar condensada en una sola línea, usando visualizaciones.put y el resultado de getOrDefault, o puede separar el conteo actual en una variable para mayor claridad.
+* Emplear this para llamar métodos internos, aunque es opcional, ayuda a clarificar que pertenecen al mismo objeto. </p>
