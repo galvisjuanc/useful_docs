@@ -53,3 +53,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md">  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Records_Java.md"> Records para simplificar código inmutable en Java </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md">  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Maps_Java.md"> Mapas en Java para contar visualizaciones de películas </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Constantes_Java.md">  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Lectura_Archivos_Planos_Java.md"> Lectura de archivos planos y conversión a objetos en Java </a>
