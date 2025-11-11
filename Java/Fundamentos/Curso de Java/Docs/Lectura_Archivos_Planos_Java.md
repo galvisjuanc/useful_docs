@@ -25,3 +25,11 @@ Pasos clave:
 * Asigna los campos a variables: título, duración (con Integer.parseInt), género (con Enum.valueOf en mayúsculas), calificación (usa Double.parseDouble pero verifica si está vacía usando isBlank), y la fecha (con LocalDate.parse).
 * Si el campo de calificación está vacío, asigna cero por claridad.
 * Luego, instancia el objeto y agrégalo a la colección principal. </p>
+
+<h3 align="left"> ¿Por qué centralizar el manejo de archivos en clases utilitarias? </h3>
+
+<p align="left"> Una buena práctica es mover la funcionalidad de lectura de archivos a una clase de utilidades, por ejemplo, FileUtils. Esto te permite centralizar la lógica, reutilizar código y mantener limpio el método main. Además, definir constantes como el nombre del archivo y el separador facilita próximas modificaciones y mejora la legibilidad.
+
+* Crea métodos estáticos que devuelvan listas de objetos película.
+* Inicializa una colección vacía, agrega objetos procesando cada línea y retorna la lista.
+* Utiliza addAll para cargar toda la colección en tu plataforma o sistema. </p>
