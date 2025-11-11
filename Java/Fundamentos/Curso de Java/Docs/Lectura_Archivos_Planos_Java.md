@@ -7,3 +7,13 @@
 * Cada línea del archivo representa un objeto película.
 * Usa el pipe (|) como delimitador de cada campo.
 * Algunos campos opcionales pueden quedar vacíos, mostrando dobles pipes con espacios entre ellos. </p>
+
+<h3 align="left"> ¿Cómo se lee un archivo plano en Java de forma segura? </h3>
+
+<p align="left"> Para extraer el contenido de un archivo plano, puedes aprovechar la clase Files del paquete java.nio.file. El método readAllLines devuelve una lista de strings con cada línea del archivo, resultando ideal para procesarlas una a una. Es importante envolver este proceso en bloques try y catch para manejar posibles excepciones, como la ausencia del archivo. Si ocurre una IOException, puedes mostrar un mensaje de error amigable que incluya los detalles técnicos de la excepción.
+
+Pasos clave:
+
+* Recupera la ruta del archivo con Paths.get("contenido.txt").
+* Usa Files.readAllLines para obtener las líneas.
+* Captura y comunica la excepción usando try-catch. </p>
