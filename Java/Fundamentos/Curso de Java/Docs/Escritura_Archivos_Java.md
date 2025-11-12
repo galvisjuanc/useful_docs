@@ -24,3 +24,11 @@ Este método garantiza que la información se escriba en el formato correcto, li
 * Envuelve todo el proceso en un bloque try-catch para manejar posibles errores e informar mensajes claros en caso de fallos.
 
 Al aplicar estos pasos, cualquier elemento nuevo, como una película, se integra sin afectar los datos ya existentes y respetando el formato requerido. </p>
+
+<h3 align="left"> ¿Qué buenas prácticas aseguran una gestión fiable de archivos planos? </h3>
+
+<p align="left"> Es importante verificar el estado y formato del archivo antes de escribir nuevas líneas para evitar sobrescribirse o generar errores. Algunas recomendaciones:
+
+* Asegúrate de que el archivo tenga una línea vacía disponible cuando agregues un nuevo elemento; si el archivo termina justo después del último dato, la siguiente línea podría no insertarse correctamente.
+* Refresca el archivo (por ejemplo, con "reload from disk") para validar que la escritura fue exitosa y la estructura se mantiene.
+* Repite el proceso de agregar líneas para distintos contenidos para garantizar la gestión adecuada y acumulativa de datos. </p>
