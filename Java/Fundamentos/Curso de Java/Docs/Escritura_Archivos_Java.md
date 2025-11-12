@@ -10,3 +10,17 @@
 * Convierte los valores numéricos o de fecha a texto usando métodos como String.valueOf y toString.
 
 Este método garantiza que la información se escriba en el formato correcto, lista para su almacenamiento en archivos. </p>
+
+<h3 align="left"> ¿Cómo escribir una nueva línea en el archivo plano utilizando Java? </h3>
+
+<p align="left"> Con la línea de texto lista, puedes escribir datos en el archivo empleando la clase Files de la API moderna (java.nio.file). Los puntos clave son:
+
+* Utiliza el método Files.writeString para escribir la cadena en el archivo deseado.
+* Especifica el path del archivo con Paths.get(nombreArchivo).
+* Añade al final de la línea el System.lineSeparator para garantizar que cada contenido nuevo empiece en una línea distinta, sin importar el sistema operativo.
+* Incluye opciones estándar:
+* StandardOpenOption.CREATE crea el archivo si no existe.
+* StandardOpenOption.APPEND añade la línea al final, evitando sobrescribir el contenido anterior.
+* Envuelve todo el proceso en un bloque try-catch para manejar posibles errores e informar mensajes claros en caso de fallos.
+
+Al aplicar estos pasos, cualquier elemento nuevo, como una película, se integra sin afectar los datos ya existentes y respetando el formato requerido. </p>
