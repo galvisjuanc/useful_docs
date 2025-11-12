@@ -56,4 +56,4 @@
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Lectura_Archivos_Planos_Java.md"> Lectura de archivos planos y conversión a objetos en Java </a>
 
-Escritura de archivos planos con la API moderna de Java
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Escritura_Archivos_Java.md"> Escritura de archivos planos con la API moderna de Java </a>
