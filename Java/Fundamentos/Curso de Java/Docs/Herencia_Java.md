@@ -13,8 +13,7 @@ El proceso para migrar hacia esta estructura es el siguiente:
 * Actualizar constructores y variables: Adaptar los constructores para que reflejen los cambios y permitan que las clases hijas se creen correctamente usando el constructor de la clase padre (super).
 * Crear nuevas clases hijas: Definir "Película" y "Documental" extendiendo de la clase "Contenido" y personalizarlas según sus necesidades. </p>
 
-<h3 align="left"> ¿Cómo se agregan atributos y constructores específicos en clases hijas?
- </h3>
+<h3 align="left"> ¿Cómo se agregan atributos y constructores específicos en clases hijas? </h3>
 
 <p align="left"> Agregar atributos únicos en las clases hijas permite ampliar la funcionalidad sin perder la estructura común. Por ejemplo, en la clase "Documental":
 
@@ -23,3 +22,13 @@ El proceso para migrar hacia esta estructura es el siguiente:
 * Es útil añadir getters para acceder a los nuevos atributos.
 
 Recomendación clave: Al extender una clase, siempre asegurarse de que el constructor hijo llame al constructor adecuado de la clase base antes de inicializar sus propios atributos. </p>
+
+<h3 align="left"> ¿Cómo mejora el proceso de agregar nuevos contenidos en la plataforma? </h3>
+
+<p align="left"> Gracias a la herencia y al polimorfismo, es posible tratar tanto documentales como películas como instancias de la clase general "contenido".
+
+* Al agregar un nuevo elemento, el usuario elige si desea ingresar una película o un documental mediante una variable de tipo entero.
+* El proceso de creación se simplifica: si es una película, se utiliza el constructor correspondiente; si es un documental, se solicita también el narrador.
+* El método encargado de incorporar nuevos contenidos puede recibir cualquier objeto que extienda la clase base, permitiendo una ampliación futura hacia otros tipos de contenido, como series.
+
+Este mecanismo favorece la reutilización de código y la adaptabilidad de la plataforma. </p>
