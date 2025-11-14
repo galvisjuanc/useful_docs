@@ -7,3 +7,11 @@
 * Puedes poner películas y documentales juntos en una lista de tipo Contenido.
 * El sistema luego decide qué lógica aplicar a cada uno según su tipo en tiempo de ejecución.
 * Favorece la reutilización de código y la ampliación del sistema con nuevas clases. </p>
+
+<h3 align="left"> ¿Cómo ayuda el operador instanceof a determinar el tipo real de un objeto? </h3>
+
+<p align="left"> El operador instanceof permite, al momento de ejecutar el programa, saber si un objeto es de un tipo específico. Esto es útil cuando se tiene una lista de objetos de tipo base, pero necesitas aplicar lógica exclusiva a, por ejemplo, un documental.
+
+* Permite diferenciar películas de documentales dentro de la misma colección según su tipo real.
+* Usando instanceof, es posible adaptar el proceso de guardado y lectura de archivos según el tipo de contenido.
+* El patrón pattern variable permite simplificar el uso de instanceof y el casting inmediato.- </p>
