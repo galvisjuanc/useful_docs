@@ -15,3 +15,11 @@
 * Permite diferenciar películas de documentales dentro de la misma colección según su tipo real.
 * Usando instanceof, es posible adaptar el proceso de guardado y lectura de archivos según el tipo de contenido.
 * El patrón pattern variable permite simplificar el uso de instanceof y el casting inmediato.- </p>
+
+<h3 align="left"> Ejemplo práctico dentro de la plataforma </h3>
+
+<p align="left"> 
+
+* Se modifica el guardado de archivos para que cada línea indique el tipo de contenido (película o documental).
+* Para documentales, además se almacena el narrador dentro de la línea de datos.
+* Al leer el archivo, se valida el tipo con instanceof y se instancia la clase adecuada: new Película o new Documental. </p>
