@@ -59,3 +59,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Escritura_Archivos_Java.md"> Escritura de archivos planos con la API moderna de Java </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Herencia_Java.md"> Herencia en Java para reutilizar código entre clases relacionadas </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Operador_Instanceof.md"> Operador instanceof para identificar tipos de objetos en Java </a>
