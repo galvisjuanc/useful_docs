@@ -23,3 +23,30 @@
 * Se modifica el guardado de archivos para que cada línea indique el tipo de contenido (película o documental).
 * Para documentales, además se almacena el narrador dentro de la línea de datos.
 * Al leer el archivo, se valida el tipo con instanceof y se instancia la clase adecuada: new Película o new Documental. </p>
+
+<h3 align="left"> ¿Qué modificaciones son necesarias para manejar correctamente múltiples tipos de contenido? </h3>
+
+<p align="left"> 
+
+Una vez que hay películas y documentales:
+
+* El archivo debe registrar el tipo de contenido como primer dato.
+* Para documentales, hay que almacenar un campo adicional: el narrador.
+* Al leer el archivo, se utiliza la posición de los datos para crear el objeto adecuado.
+* Se implementan métodos de búsqueda específicos (ej. getPelículas y getDocumentales) usando filtros y el operador instanceof:
+
+        List<Pelicula> getPeliculas() {
+            return contenidos.stream()
+                .filter(contenido -> contenido instanceof Pelicula)
+                .map(contenido -> (Pelicula) contenido)
+                .collect(Collectors.toList());
+        }
+
+        List<Documental> getDocumentales() {
+            return contenidos.stream()
+                .filter(contenido -> contenido instanceof Documental)
+                .map(contenido -> (Documental) contenido)
+                .collect(Collectors.toList());
+        }
+
+Al buscar por tipo de contenido, el usuario selecciona entre películas y documentales y se devuelve una lista filtrada según la selección. </p>
