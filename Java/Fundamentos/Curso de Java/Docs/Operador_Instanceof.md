@@ -50,3 +50,11 @@ Una vez que hay películas y documentales:
         }
 
 Al buscar por tipo de contenido, el usuario selecciona entre películas y documentales y se devuelve una lista filtrada según la selección. </p>
+
+<h3 align="left"> ¿Cuáles son las ventajas de aplicar polimorfismo e instanceof? </h3>
+
+<p align="left"> El uso efectivo de polimorfismo e instanceof ayuda a mantener el código organizado, flexible y adaptable:
+
+* Permite tratar clases distintas a través de una interfaz común.
+* Facilita la extensión del sistema agregando nuevos tipos sin modificar lo existente.
+* instanceof asegura que cada tipo de contenido reciba el tratamiento adecuado durante la ejecución. </p>
