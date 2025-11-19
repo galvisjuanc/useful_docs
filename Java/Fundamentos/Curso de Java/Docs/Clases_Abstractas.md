@@ -22,3 +22,13 @@ Características de los métodos abstractos:
 * Declarados con abstract y sin cuerpo. 
 * Solo pueden colocarse en clases abstractas. 
 * Obligatorio que las subclases lo sobrescriban. </p>
+
+<h3 align="left"> ¿Cómo beneficia el polimorfismo al reproducir distintos tipos de contenido? </h3>
+
+<p align="left"> Al definir métodos abstractos y sobrescribirlos, se aprovecha el polimorfismo: puedes manejar objetos de distintos tipos (película, documental) usando referencias genéricas (de tipo contenido). Al llamar a reproducir(), cada subclase ejecuta su propia versión.
+
+Ejemplo visto en el transcript: 
+* Si llamas a reproducir sobre una película, muestra: "Reproduciendo la película Titanic". 
+* Si lo haces sobre un documental, el mensaje es: "Reproduciendo el documental Oasis, narrado por Alejandro Ramírez".
+
+Esto significa que desde la lógica general de la plataforma, solo es necesario trabajar con Contenido, pero el comportamiento siempre es el apropiado para cada tipo. </p>
