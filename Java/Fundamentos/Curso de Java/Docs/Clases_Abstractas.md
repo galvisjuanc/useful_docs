@@ -9,3 +9,16 @@ En Java, esto se traduce en crear una clase abstracta. Declararla con la palabra
 Ventajas de usar clases abstractas: 
 * Evitas la creación de objetos demasiado generales que no deberían existir por sí solos.
 * Garantizas que cada tipo de contenido defina sus propias particularidades. </p>
+
+<h3 align="left"> ¿Cómo implementar un método abstracto y forzar la especialización en las subclases? </h3>
+
+<p align="left"> Un método abstracto en la clase abstracta define solo la firma del método, sin su implementación. Es decir, no hay cuerpo, solo punto y coma. Por ejemplo:
+
+    public abstract void reproducir();
+
+Esto indica que todas las subclases deben forzarmente implementar el método. Java lo confirma mostrando un error si no lo haces. Así, cada clase hija (como película o documental) debe declarar su versión personalizada del método reproducir, adaptada a sus necesidades.
+
+Características de los métodos abstractos: 
+* Declarados con abstract y sin cuerpo. 
+* Solo pueden colocarse en clases abstractas. 
+* Obligatorio que las subclases lo sobrescriban. </p>
