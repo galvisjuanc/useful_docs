@@ -61,3 +61,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Herencia_Java.md"> Herencia en Java para reutilizar código entre clases relacionadas </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Operador_Instanceof.md"> Operador instanceof para identificar tipos de objetos en Java </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Fundamentos/Curso%20de%20Java/Docs/Clases_Abstractas.md"> Clases abstractas y métodos abstractos en Java </a>
