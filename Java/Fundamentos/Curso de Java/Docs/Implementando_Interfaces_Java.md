@@ -37,3 +37,17 @@ Así, cuando se ejecuta el programa, el sistema muestra los mensajes promocional
 * Menor acoplamiento: Evitas atar la lógica a tipos concretos, permitiendo más flexibilidad.
 * Extensibilidad: Nuevas funcionalidades (por ejemplo, más servicios de pago) pueden agregarse sin alterar lo ya implementado.
 * Dependencia de abstracciones: Sigues el principio SOLID de invertir dependencias, donde el sistema depende de contratos (interfaces) en vez de implementaciones específicas. </p>
+
+<h3 align="left"> ¿Cómo se aplica este patrón a servicios reales? </h3>
+
+<p align="left"> Pensemos en un sistema de pagos que procesa servicios como Stripe, PayPal o tarjetas de crédito. Todos pueden implementar una misma interfaz llamada ServicioDePagoEnLinea con un método procesarPago.
+
+Esto permite que el sistema procese pagos sin preocuparse por los detalles de cada proveedor. Solo invoca procesarPago y deja a la clase concreta encargarse de la lógica interna. </p>
+
+<h3 align="left"> ¿Cómo identificar cuándo crear una interfaz en tu proyecto Java? </h3>
+
+<p align="left"> Te conviene usar una interfaz cuando:
+
+* Múltiples clases comparten una funcionalidad, pero no tienen relación de herencia directa.
+* Buscas mantener bajo el acoplamiento para facilitar cambios y extensiones futuras.
+* Quieres apoyar decisiones de diseño como las que imponen los principios SOLID. </p>
