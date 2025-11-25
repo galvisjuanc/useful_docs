@@ -66,3 +66,8 @@ El método `add()` fue invocado con un índice fuera de los límites de la lista
 23. ¿Cuál fue la principal ventaja de refactorizar el código de lectura de archivos a una clase `FileUtils` con un método estático `leerContenido`? <strong> Centralizar la lógica de manejo de archivos, mejorando la organización, reutilización y mantenibilidad del código. </strong>
 
 24. En el contexto del polimorfismo demostrado, ¿qué permite la declaración `Contenido contenido;` seguida de una asignación como `contenido = new Pelicula(...);`? <i> Acceder a todos los métodos específicos de `Película` a través de la variable `contenido` sin necesidad de casting. </i>
+
+25. Si un usuario ve la opción "CIENCIA_FICCION" listada en la consola e ingresa el texto "CIENCIA FICCION" (con un espacio), ¿qué sucederá exactamente dentro del método `capturarGenero()`? <strong>
+El método `valueOf()` lanzará una `IllegalArgumentException` porque la cadena no coincide con ninguna constante del enum, y se le pedirá al usuario que ingrese el género nuevamente. </strong>
+
+26. ¿Cuál es la función principal de la palabra clave `extends` utilizada al declarar `class Pelicula extends Contenido`? <strong> Establecer una relación de herencia, permitiendo que `Pelicula` reutilice los atributos y métodos de `Contenido`. </strong>
