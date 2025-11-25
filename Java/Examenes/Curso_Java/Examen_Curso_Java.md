@@ -55,3 +55,10 @@ Repasar </i>
 
 19. ¿Cuál es la principal ventaja de utilizar un 'Record' en Java para representar datos, en comparación con una clase tradicional? <strong> Genera automáticamente código repetitivo como constructores, métodos de acceso, equals, toString y hashCode. </strong>
 
+20. Un estudiante escribe el siguiente método principal pero el programa no se ejecuta: 'public void main(String[] args)'. Según lo explicado en la clase sobre la firma obligatoria del método de entrada, ¿cuál es la palabra clave que falta y que impide su ejecución? <strong> static </strong>
+
+21. ¿Cuál es el beneficio principal de crear una `PelículaExistenteException` personalizada en lugar de simplemente retornar `null` desde el método `agregar`?
+<strong>Permite separar la detección del error (en `agregar`) de la gestión del error (en `main`), haciendo el código más claro y mantenible. </strong>
+
+22. ¿Cuál es la causa principal del error `NullPointerException` que ocurre al intentar agregar un elemento a la lista `contenido` en la clase `Plataforma`, según lo explicado en la clase? <i>
+El método `add()` fue invocado con un índice fuera de los límites de la lista. </i>
