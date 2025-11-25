@@ -62,3 +62,7 @@ Repasar </i>
 
 22. ¿Cuál es la causa principal del error `NullPointerException` que ocurre al intentar agregar un elemento a la lista `contenido` en la clase `Plataforma`, según lo explicado en la clase? <i>
 El método `add()` fue invocado con un índice fuera de los límites de la lista. </i>
+
+23. ¿Cuál fue la principal ventaja de refactorizar el código de lectura de archivos a una clase `FileUtils` con un método estático `leerContenido`? <strong> Centralizar la lógica de manejo de archivos, mejorando la organización, reutilización y mantenibilidad del código. </strong>
+
+24. En el contexto del polimorfismo demostrado, ¿qué permite la declaración `Contenido contenido;` seguida de una asignación como `contenido = new Pelicula(...);`? <i> Acceder a todos los métodos específicos de `Película` a través de la variable `contenido` sin necesidad de casting. </i>
