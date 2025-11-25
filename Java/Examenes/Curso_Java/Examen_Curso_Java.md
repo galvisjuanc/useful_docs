@@ -36,7 +36,6 @@ Se imprimirá un número negativo inesperado debido a un desbordamiento de datos
 Optimizar el uso de la memoria al pre-asignar espacio para un número fijo de películas. 
 Repasar </i>
 
-
 13. ¿Cuál es el propósito principal del operador `instanceof` en Java, tal como se demostró en la clase para manejar películas y documentales?
 <strong>
  Verificar el tipo real de un objeto durante la ejecución para aplicar lógica específica a cada tipo. </strong>
@@ -47,3 +46,5 @@ Repasar </i>
 15. Se quiere implementar un método que devuelva las películas peor calificadas de la plataforma, es decir, ordenadas de menor a mayor calificación. ¿Cuál implementación del método `sorted()` dentro de un stream de `Contenido` lograría correctamente este resultado?
 
 <i> sorted(Comparator.comparing(Contenido::getCalificacion).reversed()) </i>
+
+16. ¿Cuál es la filosofía o característica principal de la Programación Orientada a Objetos, según se describe en la clase? <strong> Busca llevar al código las mismas cosas que vemos en el mundo real, modelando todo como objetos. </strong>
