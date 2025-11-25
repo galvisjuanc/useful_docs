@@ -48,3 +48,10 @@ Repasar </i>
 <i> sorted(Comparator.comparing(Contenido::getCalificacion).reversed()) </i>
 
 16. ¿Cuál es la filosofía o característica principal de la Programación Orientada a Objetos, según se describe en la clase? <strong> Busca llevar al código las mismas cosas que vemos en el mundo real, modelando todo como objetos. </strong>
+
+17. ¿Cuál es la principal diferencia en cómo Java gestiona los tipos de datos primitivos y los objetos en memoria? <strong> Los primitivos se almacenan directamente en el stack, mientras que los objetos se almacenan en el heap y sus referencias en el stack. </strong>
+
+18. Considerando que se utiliza la inicialización `new HashMap<>()` para el mapa `visualizaciones`, ¿por qué es posible asignar este `HashMap` a una variable declarada como `Map`? <strong> Porque `HashMap` es una clase concreta que implementa la interfaz `Map`, permitiendo el polimorfismo.</strong>
+
+19. ¿Cuál es la principal ventaja de utilizar un 'Record' en Java para representar datos, en comparación con una clase tradicional? <strong> Genera automáticamente código repetitivo como constructores, métodos de acceso, equals, toString y hashCode. </strong>
+
