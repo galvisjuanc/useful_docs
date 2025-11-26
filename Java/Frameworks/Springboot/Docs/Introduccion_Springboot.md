@@ -1,3 +1,14 @@
 <h2 align="left"> ¿Qué es Spring y por qué es tan popular? </h2>
 
 <p align="left"> El framework Java Spring ha revolucionado la forma en que creamos aplicaciones backend, convirtiéndose en el estándar de la industria por excelentes razones. Con su enfoque moderno y eficiente, Spring permite a los desarrolladores construir servicios robustos y APIs escalables mientras mantiene la esencia que ha hecho grande a Java: su confiabilidad y capacidad para manejar entornos de alta demanda. </p>
+
+<h3 align="left"> ¿Por qué Spring se ha convertido en el framework más popular de Java? </h3>
+
+<p align="left">Spring se ha posicionado como el framework predilecto en el ecosistema Java gracias a su capacidad para simplificar el desarrollo backend sin sacrificar potencia. Su popularidad radica en varios factores clave:
+
+* Desarrollo ágil y limpio: Permite escribir menos código centrándose en lo que realmente importa.
+* Robustez inherente: Mantiene las características de confiabilidad que han hecho de Java un lenguaje empresarial por excelencia.
+* Escalabilidad probada: Funciona eficientemente en entornos de alto rendimiento y demanda.
+* Aplicaciones autocontenidas: Las aplicaciones SpringBoot se configuran, ejecutan y despliegan por sí mismas.
+
+Esta combinación de factores ha llevado a que 7 de cada 10 desarrolladores backend de Java utilicen SpringBoot en sus proyectos. No es una tendencia pasajera, sino que se ha establecido como un estándar de facto en la industria. </p> 
