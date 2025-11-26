@@ -12,3 +12,11 @@
 * Aplicaciones autocontenidas: Las aplicaciones SpringBoot se configuran, ejecutan y despliegan por sí mismas.
 
 Esta combinación de factores ha llevado a que 7 de cada 10 desarrolladores backend de Java utilicen SpringBoot en sus proyectos. No es una tendencia pasajera, sino que se ha establecido como un estándar de facto en la industria. </p> 
+
+<h3 align="left"> ¿Qué empresas de clase mundial confían en Spring? </h3>
+
+<p align="left">El poder y la eficiencia de Spring se refleja en su adopción por gigantes tecnológicos que manejan cargas de trabajo extraordinarias:
+
+* Netflix: Utiliza Spring para gestionar su infraestructura de streaming.
+* Amazon: Implementa servicios Spring en partes críticas de su ecosistema.
+* Spotify: Confía en Spring para procesar millones de peticiones diarias de streaming musical. </p>
