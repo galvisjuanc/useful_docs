@@ -29,3 +29,12 @@ Esta combinación de factores ha llevado a que 7 de cada 10 desarrolladores back
 * Arquitectura moderna: Facilita la implementación de microservicios y arquitecturas distribuidas.
 * Integración simplificada: Conexión sencilla con bases de datos, servicios externos y otras tecnologías.
 * Despliegue simplificado: Las aplicaciones SpringBoot contienen todo lo necesario para ejecutarse, incluido el servidor web.</p>
+
+<h3 align="left"> Springboot features </h3>
+
+<p align="left"> Construir una API completa en Java utilizando Spring, siguiendo un enfoque práctico y profesional. El recorrido incluirá:
+
+* Construcción paso a paso de una API limpia y robusta
+* Implementación de buenas prácticas de desarrollo
+* Integración de inteligencia artificial como herramienta de apoyo
+* Preparación del proyecto para entornos de producción reales</p>
