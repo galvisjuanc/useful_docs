@@ -1,0 +1,3 @@
+<h2 align="left"> ¿Qué es Spring y por qué es tan popular? </h2>
+
+<p align="left"> El framework Java Spring ha revolucionado la forma en que creamos aplicaciones backend, convirtiéndose en el estándar de la industria por excelentes razones. Con su enfoque moderno y eficiente, Spring permite a los desarrolladores construir servicios robustos y APIs escalables mientras mantiene la esencia que ha hecho grande a Java: su confiabilidad y capacidad para manejar entornos de alta demanda. </p>
