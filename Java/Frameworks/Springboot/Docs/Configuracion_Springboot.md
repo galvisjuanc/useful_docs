@@ -19,3 +19,11 @@ Para probar tu API, necesitarás el navegador y Postman, ideal para pruebas avan
 * Selecciona la dependencia Spring Web para crear servicios RESTful apoyados por Spring MVC y el servidor embebido Apache Tomcat.
 
 Explora la estructura que generará la herramienta, incluyendo el archivo build.gradle y la carpeta src para tu código fuente. Haz clic en Generar para descargar el archivo .zip y descomprímelo en una ubicación fácilmente accesible: evita usar la carpeta de descargas para prevenir borrados accidentales. </p>
+
+<h3 align="left"> ¿Cómo abrir y preparar el proyecto en IntelliJ IDEA? </h3>
+
+<p align="left"> Abre IntelliJ IDEA y selecciona Open para cargar la carpeta descomprimida del proyecto. Al ubicar el archivo build.gradle, elige abrirlo como proyecto, lo que permitirá gestionar automáticamente todas las dependencias.
+
+Verifica que el proyecto esté corriendo con Java 21 desde los ajustes del módulo (Open Module Settings) en el SDK. Dentro del paquete com.xxx.play, encontrarás la clase PlayApplication con el método principal main, encargado de iniciar la aplicación Java.
+
+Ejecuta tu aplicación desde IntelliJ; verás en la consola que el servicio Tomcat inicia rápidamente y la aplicación está disponible en el puerto 8080. Al ingresar a localhost:8080 desde el navegador, verás un mensaje de error 404, lo cual indica que tu servidor responde correctamente, aunque aún no hay endpoints activos.</p>
