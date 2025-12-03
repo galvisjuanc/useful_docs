@@ -24,3 +24,17 @@
 Esto habilita a tu aplicación para procesar solicitudes de IA fácilmente.
 
 </p>
+
+<h3 align="left"> ¿Cómo crear y consumir un servicio de inteligencia artificial personalizado en Spring Boot? </h3>
+
+<p align="left"> 
+
+* Crea una nueva interface llamada PlatziPlayAIService.
+* Anótala con @AIServices para indicar que será usada como servicio de IA.
+* En la interface, añade un método llamado generateGreeting anotado con @UserMessage. Usa triple comilla para definir el prompt: pide un saludo de bienvenida, con menos de 120 caracteres y el estilo de Platzi.
+* Llegó el momento de integrar este servicio al HelloController. Decláralo como final, agréga una instancia en el constructor para permitir la inyección por Spring.
+* Modifica el endpoint para que retorne la respuesta de generateGreeting() en vez de Hello world.
+* Relanza la aplicación, accede al endpoint y visualiza un saludo personalizado generado por OpenAI; cada petición puede recibir un mensaje diferente.
+
+</p>
+
