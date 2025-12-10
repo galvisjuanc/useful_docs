@@ -7,3 +7,12 @@
 * Puedes definir parámetros como server.port para cambiar el puerto (por ejemplo, a 8090).
 * Para cambiar el contexto raíz, se usa server.servlet.contextPath (e.g., /platzi-play/api).
 * Los cambios se reflejan tras reiniciar la aplicación, afectando cómo y dónde responde tu API. </p>
+
+<h3 align="left"> ¿Qué ventajas ofrecen los diferentes archivos de propiedades para cada entorno? </h3>
+
+<p align="left"> Spring permite tener múltiples archivos de configuración según ambiente: desarrollo, pruebas o producción. Esto se gestiona creando archivos como application-dev.properties o application-prod.properties dentro del directorio resources.
+
+* Cada archivo puede contener variables específicas solo para ese entorno.
+* El archivo principal (application.properties) mantiene las configuraciones generales.
+* Se activa un perfil con la propiedad spring.profiles.active, por ejemplo, dev o prod, para que Spring use ese archivo.
+* Así puedes, por ejemplo, habilitar logs detallados solo en desarrollo y desactivarlos en producción. </p>
