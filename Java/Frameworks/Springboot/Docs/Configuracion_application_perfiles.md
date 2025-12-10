@@ -16,3 +16,11 @@
 * El archivo principal (application.properties) mantiene las configuraciones generales.
 * Se activa un perfil con la propiedad spring.profiles.active, por ejemplo, dev o prod, para que Spring use ese archivo.
 * Así puedes, por ejemplo, habilitar logs detallados solo en desarrollo y desactivarlos en producción. </p>
+
+<h3 align="left"> ¿Cómo se acceden y utilizan las variables de configuración en el código Spring? </h3>
+
+<p align="left"> Las variables en application.properties pueden ser utilizadas directamente en el código de la aplicación a través de la anotación @Value.
+
+* Por ejemplo, puedes inyectar el nombre de la aplicación usando @Value("${spring.application.name}") en el constructor de tu controlador.
+* Así se evita "quemar" valores en el código y permite una gestión centralizada y flexible.
+* Cambios en las variables del properties se reflejan al reiniciar la app, mostrando los resultados, por ejemplo, en las respuestas de la API. </p>
