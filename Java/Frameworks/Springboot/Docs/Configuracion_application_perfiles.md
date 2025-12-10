@@ -24,3 +24,11 @@
 * Por ejemplo, puedes inyectar el nombre de la aplicación usando @Value("${spring.application.name}") en el constructor de tu controlador.
 * Así se evita "quemar" valores en el código y permite una gestión centralizada y flexible.
 * Cambios en las variables del properties se reflejan al reiniciar la app, mostrando los resultados, por ejemplo, en las respuestas de la API. </p>
+
+<h3 align="left"> ¿Cómo se configuran logs y otros parámetros específicos según el entorno? </h3>
+
+<p align="left">
+
+* En el archivo application-dev.properties puedes agregar parámetros para mostrar logs de request y response, permitiendo ver internamente cómo opera una librería como LangChain4j.
+* En producción, se recomienda minimizar los logs para evitar exponer información sensible o saturar la consola.
+* Cada entorno puede personalizar el nivel de logueo y otros detalles de configuración según sea necesario. </p>
