@@ -30,3 +30,10 @@
 * Separación clara de responsabilidades ayuda a que múltiples desarrolladores trabajen en paralelo sin interferir entre sí.
 * Mejor mantenimiento y legibilidad, facilitando encontrar y modificar componentes específicos.
 * Facilidad para escalar, ya que la organización permite agregar nuevas funcionalidades o modificar las existentes con menor riesgo de errores.</p>
+
+<h3 align="left"> ¿Cómo practicar y validar que la estructura funciona correctamente? </h3>
+
+<p align="left"> Una vez realizado el cambio de estructura: 
+
+* Modifica las rutas para que los controladores respondan en los endpoints deseados, como /hello en vez de la raíz (/). 
+* Lanza la aplicación y prueba en el navegador la nueva ruta para verificar el correcto funcionamiento. </p>
