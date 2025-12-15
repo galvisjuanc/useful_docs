@@ -22,3 +22,11 @@
 * Organizar servicios de dominio: Arrastra las interfaces y servicios relevantes al subpaquete domain.service.
 * Actualizar imports automáticamente: IDEs como IntelliJ ayudan a modificar los imports y referencias de paquetes cuando se reorganizan archivos.
 * Mantener la clase ejecutora: La clase principal, como PlatziPlay, debe quedar en la raíz del paquete base, ya que es responsable de lanzar la aplicación.</p>
+
+<h3 align="left"> ¿Qué ventajas tiene esta estructura al trabajar en equipo o en proyectos grandes? </h3>
+
+<p align="left"> 
+
+* Separación clara de responsabilidades ayuda a que múltiples desarrolladores trabajen en paralelo sin interferir entre sí.
+* Mejor mantenimiento y legibilidad, facilitando encontrar y modificar componentes específicos.
+* Facilidad para escalar, ya que la organización permite agregar nuevas funcionalidades o modificar las existentes con menor riesgo de errores.</p>
