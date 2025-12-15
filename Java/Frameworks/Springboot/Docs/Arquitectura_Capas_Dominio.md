@@ -13,3 +13,12 @@
 * Web: En este paquete se encuentra la capa encargada de recibir y procesar solicitudes externas, generalmente controladores. Es útil agregar un subpaquete web.controller para concentrar todos los controladores del proyecto, por ejemplo, la clase HelloController.
 
 * Persistence: Aquí estará toda la comunicación con la base de datos, manejando el acceso y la persistencia de datos. Es común crear este paquete aunque inicialmente se encuentre vacío. </p>
+
+<h3 align="left"> ¿Cómo organizar las clases y archivos existentes según esta estructura? </h3>
+
+<p align="left"> 
+
+* Mover los controladores: Ubica las clases controladoras, como HelloController, dentro del subpaquete web.controller.
+* Organizar servicios de dominio: Arrastra las interfaces y servicios relevantes al subpaquete domain.service.
+* Actualizar imports automáticamente: IDEs como IntelliJ ayudan a modificar los imports y referencias de paquetes cuando se reorganizan archivos.
+* Mantener la clase ejecutora: La clase principal, como PlatziPlay, debe quedar en la raíz del paquete base, ya que es responsable de lanzar la aplicación.</p>
