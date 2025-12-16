@@ -9,7 +9,9 @@
 
 <h3 align="left"> ¿Qué dependencias debes agregar a tu proyecto para conectar Spring Boot y PostgreSQL? </h3>
 
-<p align="left"> En start.spring.io (Spring Initializr), busca y añade estas dependencias esenciales:
+<p align="left"> 
+
+En start.spring.io (Spring Initializr), busca y añade estas dependencias esenciales:
 
 * Spring Data JPA: Para acceder y manipular tus datos fácilmente.
 * Driver de PostgreSQL: Hace posible la conexión entre tu aplicación y la base de datos.
