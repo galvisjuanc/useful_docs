@@ -46,3 +46,13 @@ Al final, importa el volumen para asegurar la persistencia, y verifica que la co
 Guarda estos datos en un archivo de configuración general para que estén disponibles en todo tu entorno de desarrollo.
 
 </p>
+
+<h3 align="left"> ¿Cómo verificar la conexión y administrar la base de datos? </h3>
+
+<p align="left"> 
+
+* Inicia Docker si aún no está corriendo.
+* Ejecuta tu aplicación Spring Boot: detectará que el contenedor de PostgreSQL está listo y se conectará automáticamente. Si es la primera vez, descargará la imagen; las siguientes veces será mucho más rápido.
+* Supervisa el contenedor en Docker; deberías ver un contenedor con el nombre asignado (por ejemplo, Platzi play).
+
+</p>
