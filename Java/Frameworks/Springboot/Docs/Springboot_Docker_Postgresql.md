@@ -55,4 +55,12 @@ Guarda estos datos en un archivo de configuración general para que estén dispo
 * Ejecuta tu aplicación Spring Boot: detectará que el contenedor de PostgreSQL está listo y se conectará automáticamente. Si es la primera vez, descargará la imagen; las siguientes veces será mucho más rápido.
 * Supervisa el contenedor en Docker; deberías ver un contenedor con el nombre asignado (por ejemplo, Platzi play).
 
+Para administrar la base:
+
+* Puedes usar programas como DataGrip, PgAdmin o cualquier otro cliente de PostgreSQL.
+* Crea un nuevo data source usando la URL, usuario y contraseña que configuraste.
+* Prueba la conexión desde tu programa para confirmar que todo está en orden.
+
+Cuando la conexión es exitosa, tu base de datos estará lista para su uso, aunque inicialmente no tenga tablas; eso se realizará en los siguientes pasos del desarrollo.
+
 </p>
