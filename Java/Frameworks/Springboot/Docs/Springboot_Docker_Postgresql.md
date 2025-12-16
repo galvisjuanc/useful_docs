@@ -33,3 +33,16 @@ Agrega estas dependencias en tu archivo build.gradle. Recuerda refrescar Gradle 
 Al final, importa el volumen para asegurar la persistencia, y verifica que la configuración apunte a la imagen más reciente de PostgreSQL.
 
 </p>
+
+<h3 align="left"> ¿Cómo conectar Spring Boot al contenedor de PostgreSQL? </h3>
+
+<p align="left"> Ve a src/main/resources y configura las propiedades necesarias:
+
+* spring.datasource.driver-class-name: org.postgresql.Driver
+* spring.datasource.url: jdbc:postgresql://localhost:5432/push_play_db
+* spring.datasource.username: el usuario que configuraste en Docker Compose (por ejemplo, xxxx).
+* spring.datasource.password: la contraseña elegida (por ejemplo, xxx.xxx).
+
+Guarda estos datos en un archivo de configuración general para que estén disponibles en todo tu entorno de desarrollo.
+
+</p>
