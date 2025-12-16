@@ -20,3 +20,16 @@ En start.spring.io (Spring Initializr), busca y añade estas dependencias esenci
 Agrega estas dependencias en tu archivo build.gradle. Recuerda refrescar Gradle para que descargue todos los paquetes y construya el entorno correctamente.
 
 </p>
+
+<h3 align="left"> ¿Cómo configurar Docker Compose para PostgreSQL con persistencia de datos? </h3>
+
+<p align="left"> Spring Initializr genera un archivo compose.yaml con la configuración básica de la base de datos. Debes ajustarlo para asegurar que los datos persistan entre reinicios y la gestión sea sencilla:
+
+* Usar la propiedad restart: unless-stopped para reinicios automáticos solo si el contenedor se apaga por error.
+* Mapear correctamente el puerto local (5432:5432).
+* Definir un volumen pgdata en data/postgres para que la información no se borre después de cada reinicio.
+* Ajustar las variables de entorno, como el nombre de la base de datos, usuario y contraseña.
+
+Al final, importa el volumen para asegurar la persistencia, y verifica que la configuración apunte a la imagen más reciente de PostgreSQL.
+
+</p>
