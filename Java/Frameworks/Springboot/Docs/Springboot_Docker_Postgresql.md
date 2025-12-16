@@ -15,4 +15,8 @@ En start.spring.io (Spring Initializr), busca y añade estas dependencias esenci
 
 * Spring Data JPA: Para acceder y manipular tus datos fácilmente.
 * Driver de PostgreSQL: Hace posible la conexión entre tu aplicación y la base de datos.
-* Docker Compose: Disponible desde Spring Boot 3.1, detecta y gestiona automáticamente los contenedores necesarios en desarrollo. </p>
+* Docker Compose: Disponible desde Spring Boot 3.1, detecta y gestiona automáticamente los contenedores necesarios en desarrollo. 
+
+Agrega estas dependencias en tu archivo build.gradle. Recuerda refrescar Gradle para que descargue todos los paquetes y construya el entorno correctamente.
+
+</p>
