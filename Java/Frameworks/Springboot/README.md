@@ -11,3 +11,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Arquitectura_Capas_Dominio.md"> Arquitectura por capas orientada al dominio en Java </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Springboot_Docker_Postgresql.md"> Conexión de Spring Boot con PostgreSQL usando Docker </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/EntidadJPA_Springboot.md"> Crear entidad con anotaciones JPA para tabla de base de datos </a>
