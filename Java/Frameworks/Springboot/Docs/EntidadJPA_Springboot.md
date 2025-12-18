@@ -15,6 +15,10 @@ Esto facilita que el código refleje fielmente la estructura de la base de datos
 
 * private Long id; como identificador primario.
 * private String título; para el nombre de la película.
-* private Integer duración; de la película, permitiendo nulos si es necesario. 
+* private Integer duración; de la película, permitiendo nulos si es necesario.
+* private String género; con longitud máxima configurada.
+* private LocalDate fechaEstreno; para almacenar día, mes y año.
+* private BigDecimal clasificación; respetando precisión y escala para decimales.
+* private String estado; para indicar disponibilidad: D/N. 
     
 </p>
