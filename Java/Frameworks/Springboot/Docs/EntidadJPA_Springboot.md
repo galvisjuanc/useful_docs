@@ -20,5 +20,15 @@ Esto facilita que el código refleje fielmente la estructura de la base de datos
 * private LocalDate fechaEstreno; para almacenar día, mes y año.
 * private BigDecimal clasificación; respetando precisión y escala para decimales.
 * private String estado; para indicar disponibilidad: D/N. 
-    
+
+Mediante anotaciones de columna (@Column) se establecen restricciones y características:
+
+* nullable = false asegura que el campo no sea nulo.
+* length o precision y scale limitan la cantidad de caracteres o decimales.
+* unique = true garantiza unicidad en valores clave como el título.
+
+La clave primaria se marca como @Id y se genera automáticamente usando @GeneratedValue(strategy = GenerationType.IDENTITY), lo que asegura que el identificador no se repita.
+
+Los getters y setters se pueden generar automáticamente (o con la librería Lombok para mayor simpleza), permitiendo manipular los datos de manera segura y práctica.
+
 </p>
