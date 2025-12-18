@@ -8,3 +8,13 @@
 * Con @Table(name = "nombre_tabla") se especifica el nombre exacto de la tabla.
 
 Esto facilita que el código refleje fielmente la estructura de la base de datos, incluso cuando el nombre de las columnas esté en español o provenga de esquemas heredados. </p>
+
+<h3 align="left"> ¿Cómo se estructura y anota una clase entidad en un proyecto Java? </h3>
+
+<p align="left">El primer paso es crear un paquete entity dentro de tu carpeta de persistencia y una clase, por ejemplo, MovieEntity. Se agregan atributos que coinciden con las columnas esperadas:
+
+* private Long id; como identificador primario.
+* private String título; para el nombre de la película.
+* private Integer duración; de la película, permitiendo nulos si es necesario. 
+    
+</p>
