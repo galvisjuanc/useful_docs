@@ -9,3 +9,11 @@
 * No es necesario programar consultas SQL para operaciones sencillas.
 
 La extensión adecuada del repositorio conserva tus entities ordenadas dentro de paquetes, siguiendo la estructura que recomienda Spring para proyectos escalables. </p>
+
+<h3 align="left"> ¿Qué operaciones CRUD están disponibles en el repositorio? </h3>
+
+<p align="left"> Al extender de CrudRepository, obtienes acceso inmediato a métodos útiles como:
+
+* Guardar un registro o una lista completa.
+* Buscar por clave primaria.
+* Verificar la existencia de un registro por su ID. </p>
