@@ -30,4 +30,10 @@ Esto facilita el manejo de datos y permite enfocarse en la lógica de negocio si
 
 * El archivo debe ubicarse en la raíz de la carpeta Resources y llamarse exactamente Data.sql para que Spring lo reconozca.
 * Utiliza sentencias insert into para agregar registros; se recomienda utilizar on conflict do nothing para evitar errores por duplicados.
-* Si alguna columna o atributo está mal escrita en el archivo o la entidad, se mostrará un error al arrancar la aplicación. Revisa los nombres cuidadosamente.. </p>
+* Si alguna columna o atributo está mal escrita en el archivo o la entidad, se mostrará un error al arrancar la aplicación. Revisa los nombres cuidadosamente.
+
+Además, debes agregar la siguiente configuración en el archivo de propiedades para asegurar que los datos siempre se carguen:
+
+    spring.sql.init.mode=always
+
+Así, cada vez que inicies tu aplicación, Spring revisa si los datos deben inicializarse, pero gracias a on conflict do nothing, no sobrescribe datos ni arroja errores si ya existen.</p>
