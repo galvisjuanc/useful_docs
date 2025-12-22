@@ -16,4 +16,8 @@ La extensión adecuada del repositorio conserva tus entities ordenadas dentro de
 
 * Guardar un registro o una lista completa.
 * Buscar por clave primaria.
-* Verificar la existencia de un registro por su ID. </p>
+* Verificar la existencia de un registro por su ID. 
+* Obtener todos los registros almacenados.
+* Encontrar varios registros por una lista de IDs.
+* Contar los registros guardados en la tabla.
+* Eliminar por ID o por la entidad completa.</p>
