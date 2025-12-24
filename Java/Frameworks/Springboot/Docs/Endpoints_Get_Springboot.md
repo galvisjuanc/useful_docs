@@ -10,3 +10,18 @@
 * Inicializa crudMovieEntity en el constructor. Spring Boot se encarga de pasar la dependencia correcta automáticamente.
 * Para obtener todas las películas, utiliza el método findAll de crudMovieEntity. Este retorna un Iterable, por lo que se debe convertir (cast) a una List.
 * Añade la anotación @GetMapping("/movies") para que Spring entienda que se trata de una solicitud GET y el recurso será accesible en /movies. </p>
+
+<h3 align="left"> ¿Qué se muestra al consumir el endpoint GET de películas? </h3>
+
+<p align="left"> Una vez implementado y reiniciada la aplicación, puedes consumir el servicio desde un navegador web. Al acceder a la ruta /movies, verás un listado de todas las películas en formato JSON, un estándar ampliamente usado para intercambiar información.
+
+Los datos de cada película incluyen: 
+* ID (clave primaria). 
+- Título. 
+- Duración. 
+- Género. 
+- Fecha de estreno. 
+- Clasificación (promedio de calificaciones dentro de la plataforma). 
+- Estado.
+
+Puedes visualizarlo de manera más ordenada usando herramientas que formatean JSON para mayor legibilidad.
