@@ -16,3 +16,4 @@
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/RepositoriosCRUD_SpringData.md"> Repositorios CRUD con Spring Data sin escribir SQL </a>
 
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Endpoints_Get_Springboot.md"> Creación de endpoints GET en SPring Boot para consultar películas </a>
