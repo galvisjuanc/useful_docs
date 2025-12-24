@@ -24,4 +24,14 @@ Los datos de cada película incluyen:
 - Clasificación (promedio de calificaciones dentro de la plataforma). 
 - Estado.
 
-Puedes visualizarlo de manera más ordenada usando herramientas que formatean JSON para mayor legibilidad.
+Puedes visualizarlo de manera más ordenada usando herramientas que formatean JSON para mayor legibilidad. </p>
+
+<h3 align="left"> ¿Cómo probar el endpoint GET con Postman y por qué funciona automáticamente? </h3>
+
+<p align="left"> Para verificar el correcto funcionamiento del endpoint, puedes usar Postman, una herramienta ideal para probar servicios API sin escribir código adicional. Solo necesitas:
+
+* Crear una petición GET hacia la URL correspondiente (por ejemplo, localhost:8090/play/api/movies).
+* Enviar la solicitud y observarás las películas recuperadas, presentadas en un formato claro y visual.
+* Notarás que todo esto ocurre sin haber escrito código específico de conexión a la base de datos ni creado instancias manualmente. 
+
+Esto es posible gracias a que Spring Boot gestiona las dependencias y la inyección de objetos automáticamente. Así, tu código permanece limpio y enfocado en la lógica del negocio, sin preocuparte por detalles de infraestructura. </p>
