@@ -7,3 +7,12 @@
 * Facilita la limpieza y flexibilidad del código.
 * Permite remplazar y probar dependencias con facilidad.
 * Promueve best practices y principios como SOLID. </p>
+
+<h3 align="left"> ¿Cómo funciona el contenedor IoC de Spring? </h3>
+
+<p align="left"> El contenedor de Inversión de Control (IoC) de Spring se encarga de crear y administrar automáticamente todos los objetos necesarios, llamados beans.
+
+* Las clases no generan sus propias dependencias; el contenedor se encarga de ello.
+* Spring escanea el proyecto y detecta clases con anotaciones como @Repository para acceso a datos, @Service para lógica de negocio, @Controller y @RestController para la exposición web, y @Component para componentes genéricos.
+* Al detectar estas anotaciones, Spring crea los objetos y gestiona sus dependencias por nosotros.
+* Esto mejora la estructura del sistema y facilita mantener un bajo acoplamiento y alta cohesión. </p>
