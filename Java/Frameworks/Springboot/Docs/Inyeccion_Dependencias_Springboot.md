@@ -23,4 +23,13 @@
 
 * Puede usarse la anotación @Autowired sobre campos, pero se recomienda hacerlo siempre por el constructor.
 * Si se usa la anotación @RestController, el componente entra de lleno en el contenedor IoC y las dependencias se inyectan automáticamente.
-* Declarar las dependencias en el constructor mantiene el código limpio y fácil de entender.. </p>
+* Declarar las dependencias en el constructor mantiene el código limpio y fácil de entender. </p>
+
+<h3 align="left"> ¿Qué buenas prácticas destacan al usar dependencias en Spring Boot? </h3>
+
+<p align="left"> 
+
+* Inyectar siempre por el constructor, evitando la inyección por campos, ya que el primero es el método recomendado y más limpio.
+* Borrar los imports innecesarios y mantener la configuración mínima, dejando que Spring gestione automáticamente las dependencias.
+* No acceder directamente al CrudRepository desde el controlador, pues, aunque funciona, no es la mejor práctica.
+* El patrón data mapper es una opción para separar el acceso a datos y orientar el desarrollo al dominio. </p>
