@@ -16,3 +16,11 @@
 * Spring escanea el proyecto y detecta clases con anotaciones como @Repository para acceso a datos, @Service para lógica de negocio, @Controller y @RestController para la exposición web, y @Component para componentes genéricos.
 * Al detectar estas anotaciones, Spring crea los objetos y gestiona sus dependencias por nosotros.
 * Esto mejora la estructura del sistema y facilita mantener un bajo acoplamiento y alta cohesión. </p>
+
+<h3 align="left"> ¿Cómo se implementa la inyección de dependencias en Spring Boot? </h3>
+
+<p align="left"> En el ejemplo del MovieController, se utiliza la inyección de dependencias para agregar instancias como CrudMovieEntity automáticamente mediante el constructor. Esto significa que no hay necesidad de llamar explícitamente al constructor; basta con la anotación adecuada y Spring hace el resto.
+
+* Puede usarse la anotación @Autowired sobre campos, pero se recomienda hacerlo siempre por el constructor.
+* Si se usa la anotación @RestController, el componente entra de lleno en el contenedor IoC y las dependencias se inyectan automáticamente.
+* Declarar las dependencias en el constructor mantiene el código limpio y fácil de entender.. </p>
