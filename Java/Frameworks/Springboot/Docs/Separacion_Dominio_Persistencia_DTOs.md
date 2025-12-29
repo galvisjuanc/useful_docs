@@ -9,3 +9,13 @@
 * Mezcla de idiomas: el endpoint es /movies pero el contenido de la respuesta está en español.
 
 Estos problemas hacen que la API sea difícil de mantener, frágil y dependiente de la estructura interna de la base de datos.  </p>
+
+<h3 align="left"> ¿Por qué es clave separar responsabilidades entre capas en una API? </h3>
+
+<p align="left"> Separar responsabilidades permite que cada parte del sistema cumpla una función clara y focalizada. Dejar fuera la capa de dominio va contra los principios de una buena arquitectura. Con una correcta separación:
+
+* Cada capa conoce solo lo necesario de las demás.
+* La evolución de una capa no obliga a reescribir las otras.
+* La lógica de dominio es independiente de la infrastructura técnica.
+
+El patrón Data Mapper ayuda a lograr esto separando el modelo de dominio de cómo se expone en la API o se almacena en la base de datos.  </p>
