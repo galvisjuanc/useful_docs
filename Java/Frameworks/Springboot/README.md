@@ -19,3 +19,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Endpoints_Get_Springboot.md"> Creación de endpoints GET en SPring Boot para consultar películas </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Inyeccion_Dependencias_Springboot.md"> Inyección de dependencias y contenedor IoC en Spring Boot </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Separacion_Dominio_Persistencia_DTOs.md"> Separación de dominio y persistencia con DTOs en Java </a>
