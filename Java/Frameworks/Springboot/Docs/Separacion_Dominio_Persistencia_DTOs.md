@@ -19,3 +19,18 @@ Estos problemas hacen que la API sea difícil de mantener, frágil y dependiente
 * La lógica de dominio es independiente de la infrastructura técnica.
 
 El patrón Data Mapper ayuda a lograr esto separando el modelo de dominio de cómo se expone en la API o se almacena en la base de datos.  </p>
+
+<h3 align="left"> ¿Cómo implementar Movie DTO y Movie Repository siguiendo buenas prácticas? </h3>
+
+<p align="left"> 
+
+1. Definir el Movie DTO (Data Transfer Object):
+2. Se crea dentro del paquete domain.dto.
+3. Usando Java record se obtiene una clase inmutable adecuada para representar los datos expuestos.
+4. Ejemplo de atributos:
+
+    * String title (en inglés, consistente con la API)
+    * Integer duration
+    * String genre
+    * LocalDate releaseDate
+    * Double rating  </p>
