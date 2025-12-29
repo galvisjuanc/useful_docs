@@ -33,4 +33,20 @@ El patrón Data Mapper ayuda a lograr esto separando el modelo de dominio de có
     * Integer duration
     * String genre
     * LocalDate releaseDate
-    * Double rating  </p>
+    * Double rating  
+5. Crear la interfaz Movie Repository:
+6. Ubicada dentro del paquete domain.repository.
+7. Define el método getAll, que retorna una lista de MovieDTO.
+8. Permite desacoplar la lógica del acceso a la base de datos.
+9. Implementar Movie Service:
+    
+    * Ubicada en el paquete service.
+    * Se anota con @Service para participación en el ecosistema Spring.
+    * Recibe por inyección la interfaz MovieRepository.
+    * Expone el método getAll, que internamente usa la interfaz y retorna los MovieDTO. 
+
+10. Actualizar el Movie Controller:
+11. Ahora inyecta MovieService en vez del CRUD directamente.
+12. Expone el endpoint de películas solicitando la lista a MovieService, ya desacoplada del Entity o CRUD.
+
+</p>
