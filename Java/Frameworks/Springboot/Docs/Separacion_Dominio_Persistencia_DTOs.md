@@ -50,3 +50,14 @@ El patrón Data Mapper ayuda a lograr esto separando el modelo de dominio de có
 12. Expone el endpoint de películas solicitando la lista a MovieService, ya desacoplada del Entity o CRUD.
 
 </p>
+
+<h3 align="left"> ¿Qué ventajas aporta esta nueva estructura a tu API? </h3>
+
+<p align="left"> 
+
+* Reduce la dependencia directa de la base de datos.
+* Los cambios internos (estructura, nombres o tipo de base) no afectan el contrato público de la API.
+* Facilita la evolución y el mantenimiento.
+* Permite cumplir con convenciones internacionales en endpoints y respuestas.
+
+</p>
