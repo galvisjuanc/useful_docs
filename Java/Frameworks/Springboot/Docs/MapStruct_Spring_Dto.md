@@ -19,3 +19,16 @@
 * Implementa la interfaz MovieRepository y anota la clase con @Repository para permitir la inyección vía Spring.
 * Recibe como dependencia un objeto CRUD y el propio MovieMapper en el constructor.
 * Implementa el método getAll, el cual regresa una lista de MovieDTO, no de entidades.  </p>
+
+<h3 align="left">¿Cómo se define y configura el mapper con Mapstruct? </h3>
+
+<p align="left">Al construir el mapeador personalizado:
+
+* Crear una interfaz MovieMapper en el paquete persistence.mapper, anotada con @Mapper(componentModel = "spring").
+* Definir métodos usando reglas con @Mapping, especificando claramente el campo de origen (source) y de destino (target).
+    * Por ejemplo:
+        * source: título, target: title.
+        * source: duración, target: duration
+        * y así sucesivamente para género, fecha de estreno y clasificación.
+* Para omitir campos innecesarios como estado o ID, simplemente no se declaran en las reglas.
+* El mapper puede aceptar tanto un solo objeto como listas o iterables, lo que flexibiliza el uso en el repositorio.  </p>
