@@ -39,3 +39,10 @@
 
 * El método utiliza this.movieMapper.toDTO sobre el resultado de this.crudmoviedentity.findall.
 * El resultado es una respuesta orientada al dominio, fácil de usar en la aplicación o exponer vía API. </p>
+
+<h3 align="left"> ¿Qué limitaciones tiene Mapstruct y cómo abordarlas? </h3>
+
+<p align="left"> Aunque Mapstruct hace muy sencillo el mapeo automático, hay escenarios donde se requiere más control:
+
+* Para tipos de datos no compatibles, como pasar de Boolean a string o de string a enum.
+* Se recomienda crear conversores personalizados para estos casos, aprovechando la extensibilidad de Mapstruct. </p>
