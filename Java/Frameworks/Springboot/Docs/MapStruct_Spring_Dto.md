@@ -7,3 +7,7 @@
 * Desacoplar la lógica de persistencia de la lógica de dominio y de presentación.
 * Evitar errores y simplificar el código al eliminar transformaciones manuales.
 * Mantener el código limpio y preparado para cambios futuros en el modelo de datos.  </p>
+
+<h3 align="left"> ¿Cómo se configura Mapstruct en un proyecto Spring con Gradle? </h3>
+
+<p align="left"> Mapstruct se integra fácilmente añadiendo sus dependencias en el archivo build.gradle. Basta agregar la línea de la dependencia principal junto a la del annotation processor recomendado para proyectos Gradle. Ordenar y comentar las dependencias es útil para mantener claridad sobre los paquetes incluidos, como se mostró junto a las de Spring Data JPA.  </p>
