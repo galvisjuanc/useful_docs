@@ -32,3 +32,10 @@
         * y así sucesivamente para género, fecha de estreno y clasificación.
 * Para omitir campos innecesarios como estado o ID, simplemente no se declaran en las reglas.
 * El mapper puede aceptar tanto un solo objeto como listas o iterables, lo que flexibiliza el uso en el repositorio.  </p>
+
+<h3 align="left"> ¿Cómo se inyecta y utiliza el mapper en el repositorio? </h3>
+
+<p align="left"> El MovieMapper se inyecta en el repositorio y se usa directamente en el método getAll para convertir la lista que regresa el CRUD, asegurando que se devuelvan DTOs a las capas superiores. Todo el proceso es transparente:
+
+* El método utiliza this.movieMapper.toDTO sobre el resultado de this.crudmoviedentity.findall.
+* El resultado es una respuesta orientada al dominio, fácil de usar en la aplicación o exponer vía API. </p>
