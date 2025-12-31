@@ -21,3 +21,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Inyeccion_Dependencias_Springboot.md"> Inyección de dependencias y contenedor IoC en Spring Boot </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Separacion_Dominio_Persistencia_DTOs.md"> Separación de dominio y persistencia con DTOs en Java </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/MapStruct_Spring_Dto.md"> Configuración de MapStruct con Spring para convertir entidades a DTO </a>
