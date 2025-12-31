@@ -7,7 +7,7 @@
 
 * Desacoplar la lógica de persistencia de la lógica de dominio y de presentación.
 * Evitar errores y simplificar el código al eliminar transformaciones manuales.
-* Mantener el código limpio y preparado para cambios futuros en el modelo de datos.  </p>
+* Mantener el código limpio y preparado para cambios futuros en el modelo de datos. </p>
 
 <h3 align="left"> ¿Cómo se configura Mapstruct en un proyecto Spring con Gradle? </h3>
 
