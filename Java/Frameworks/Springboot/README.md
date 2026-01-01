@@ -23,3 +23,6 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Separacion_Dominio_Persistencia_DTOs.md"> Separación de dominio y persistencia con DTOs en Java </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/MapStruct_Spring_Dto.md"> Configuración de MapStruct con Spring para convertir entidades a DTO </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Conversores_Mapstruct_Enums_Strings.md"> Creación de conversores personalizados en MapStruct para enums y strings  </a>
+
