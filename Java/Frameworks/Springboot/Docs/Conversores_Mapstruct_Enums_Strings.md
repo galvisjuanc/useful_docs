@@ -23,3 +23,12 @@ El método inverso, genreToString, sigue la misma lógica:
 * También verifica si el valor es nulo y asigna los textos correctos según el caso.
 
 Ambos métodos deben anotarse con @Named de org.mapstruct para que el framework los reconozca y los aplique automáticamente al mapear campos específicos.</p>
+
+<h3 align="left"> ¿Cómo integrar el conversor personalizado en el mapper principal de MapStruct? </h3>
+
+<p align="left"> Para emplear los conversores dentro de MapStruct, se sigue este proceso:
+
+* Se indica en la anotación @Mapper del MovieMapper que utilizará la clase GenreMapper en su atributo uses.
+* En el método de mapeo que convierte de entity a DTO, se especifica el uso del método personalizado mediante la propiedad qualifiedByName, usando el nombre del método anotado.
+
+De este modo, los campos de género se traducirán correctamente entre string y enum sin necesidad de lógica adicional fuera del mapper. El resultado es un código más limpio, claro y alineado con buenas prácticas. </p>
