@@ -8,3 +8,11 @@
 * El DTO ahora utiliza este enum en vez de un string para mayor control y coherencia.
 
 Esto obliga a adaptar el mapeo, pues los valores guardados en el almacenamiento pueden diferir (por ejemplo, “animada” en la base de datos versus “animated” en el enum). El conversor personalizado soluciona esta diferencia. </p>
+
+<h3 align="left"> ¿Cómo implementar un conversor personalizado para string y enum en Java? </h3>
+
+<p align="left"> El conversor personalizado consta de dos métodos estáticos. Uno convierte de string a enum, y el otro, de enum a string.
+
+* El método stringToGenre recibe el string de la base de datos y retorna el enum correspondiente tomando en cuenta las diferencias de nombres y mayúsculas/minúsculas.
+* Utiliza una estructura switch y verifica primero si el string recibido es nulo, en cuyo caso devuelve null.
+* Cada valor de string se asigna al valor correcto del enum (por ejemplo, "acción" a action, "animada" a animated). </p>
