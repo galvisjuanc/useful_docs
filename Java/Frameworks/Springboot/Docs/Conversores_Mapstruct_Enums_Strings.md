@@ -15,4 +15,11 @@ Esto obliga a adaptar el mapeo, pues los valores guardados en el almacenamiento 
 
 * El método stringToGenre recibe el string de la base de datos y retorna el enum correspondiente tomando en cuenta las diferencias de nombres y mayúsculas/minúsculas.
 * Utiliza una estructura switch y verifica primero si el string recibido es nulo, en cuyo caso devuelve null.
-* Cada valor de string se asigna al valor correcto del enum (por ejemplo, "acción" a action, "animada" a animated). </p>
+* Cada valor de string se asigna al valor correcto del enum (por ejemplo, "acción" a action, "animada" a animated). 
+
+El método inverso, genreToString, sigue la misma lógica:
+
+* Recibe un valor enum y devuelve el string que almacena la base de datos.
+* También verifica si el valor es nulo y asigna los textos correctos según el caso.
+
+Ambos métodos deben anotarse con @Named de org.mapstruct para que el framework los reconozca y los aplique automáticamente al mapear campos específicos.</p>
