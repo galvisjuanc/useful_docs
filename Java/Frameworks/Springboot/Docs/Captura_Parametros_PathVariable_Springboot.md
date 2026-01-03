@@ -17,3 +17,9 @@
 * Dentro de la implementación, se usa el método findById de Spring, el cual ya existe y permite buscar por clave primaria. 
 * Este método retorna un Optional. Si la película no existe, se puede manejar devolviendo null con orElse(null).
 * El siguiente paso es mapear la entidad encontrada a un DTO usando el mapper correspondiente, facilitando la transferencia de datos al cliente.</p>
+
+<h3 align="left"> ¿Cómo responde la API ante consultas específicas y cómo se valida la funcionalidad? </h3>
+
+<p align="left"> Con la ruta dinámica implementada, la API puede:
+
+* Responder a .../movies/{id} con un único recurso, permitiendo consultas como recibir sólo la información de "Interestelar" o "Avengers: Endgame".</p>
