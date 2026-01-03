@@ -14,4 +14,6 @@
 <p align="left"> La lógica para buscar una película utilizando su identificador implica separar responsabilidades entre controlador, servicio y repositorio, lo que permite mantener el código modular y escalable:
 
 * El repositorio agrega un nuevo método: getById(long id), que retorna un MovieDTO.
-* Dentro de la implementación, se usa el método findById de Spring, el cual ya existe y permite buscar por clave primaria. </p>
+* Dentro de la implementación, se usa el método findById de Spring, el cual ya existe y permite buscar por clave primaria. 
+* Este método retorna un Optional. Si la película no existe, se puede manejar devolviendo null con orElse(null).
+* El siguiente paso es mapear la entidad encontrada a un DTO usando el mapper correspondiente, facilitando la transferencia de datos al cliente.</p>
