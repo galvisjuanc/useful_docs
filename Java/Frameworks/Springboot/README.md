@@ -26,3 +26,4 @@
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Conversores_Mapstruct_Enums_Strings.md"> Creación de conversores personalizados en MapStruct para enums y strings  </a>
 
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Captura_Parametros_PathVariable_Springboot.md"> Captura de parámetros con @PathVariable en Spring Boot </a>
