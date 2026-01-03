@@ -22,4 +22,6 @@
 
 <p align="left"> Con la ruta dinámica implementada, la API puede:
 
-* Responder a .../movies/{id} con un único recurso, permitiendo consultas como recibir sólo la información de "Interestelar" o "Avengers: Endgame".</p>
+* Responder a .../movies/{id} con un único recurso, permitiendo consultas como recibir sólo la información de "Interestelar" o "Avengers: Endgame".
+* Integrar la prueba de los endpoints mediante herramientas como Postman o directamente desde el navegador, validando que los recursos retornados correspondan con la base de datos.
+* La funcionalidad también permite volver a la lista completa simplemente consultando .../movies sin parámetros adicionales.</p>
