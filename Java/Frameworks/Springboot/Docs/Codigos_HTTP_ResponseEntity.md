@@ -22,3 +22,16 @@ Utilizar estos códigos correctamente guía a quienes consumen tu API sobre lo q
 * Si el recurso no está, lo adecuado es responder con un 404.
 
 </p>
+
+<h3 align="left"> Pasos clave en la implementación </h3>
+
+<p align="left"> 
+
+1. Cambia el tipo de retorno a ResponseEntity<MovieDTO> en el controlador.
+2. Busca la entidad por su ID y almacénala en una variable.
+3. Si el resultado es nulo, devuelve ResponseEntity.notFound().build().
+4. Si existe, usa ResponseEntity.ok(movieDTO).
+
+Este patrón permite respuestas claras, acordes a la lógica de negocio, y mejora la experiencia para quienes interactúan con tu API.
+
+</p>
