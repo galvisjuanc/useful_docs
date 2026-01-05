@@ -35,3 +35,14 @@ Utilizar estos códigos correctamente guía a quienes consumen tu API sobre lo q
 Este patrón permite respuestas claras, acordes a la lógica de negocio, y mejora la experiencia para quienes interactúan con tu API.
 
 </p>
+
+<h3 align="left"> ¿Cómo aplicar Response Entity para listas y otros métodos? </h3>
+
+<p align="left"> Cuando necesitas devolver listas u otro tipo de información, igual puedes beneficiarte de Response Entity:
+
+* Retorna ResponseEntity<List<MovieDTO>> en vez de solo una lista.
+* Usa ResponseEntity.ok(listaDePeliculas) para empaquetar la respuesta.
+
+Esto fortalece la coherencia y manejo de errores en todos los endpoints, haciendo el código más mantenible y robusto.
+
+</p>
