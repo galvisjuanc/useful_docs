@@ -16,3 +16,13 @@ Esto habilita la ruta /movies para guardar películas nuevas usando solicitudes 
 - Para asignar el estado por defecto al guardar, se establece manualmente como 'Disponible'. El campo ID no se debe definir, ya que la base de datos lo genera automáticamente.
 
 Después de guardar la entidad, el resultado se transforma nuevamente a DTO para devolverlo al cliente. </p>
+
+<h3 align="left"> ¿Cuál es la forma correcta de responder una creación exitosa? </h3>
+
+<p align="left"> Es una buena práctica responder con el estado HTTP correcto cuando se crea un recurso. Aplicando Spring, puedes hacer esto así: 
+
+- Utilizar ResponseEntity.status(HttpStatus.CREATED) para indicar que se creó algo nuevo. 
+- El cuerpo de la respuesta es el DTO que representa la película efectivamente guardada. 
+- No es indispensable retornar una URI específica si no está disponible: el enfoque flexible muestra cómo elegir entre soluciones y adaptarlas al flujo deseado.
+
+. </p>
