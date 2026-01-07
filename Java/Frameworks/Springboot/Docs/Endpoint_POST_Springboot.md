@@ -23,6 +23,12 @@ Después de guardar la entidad, el resultado se transforma nuevamente a DTO para
 
 - Utilizar ResponseEntity.status(HttpStatus.CREATED) para indicar que se creó algo nuevo. 
 - El cuerpo de la respuesta es el DTO que representa la película efectivamente guardada. 
-- No es indispensable retornar una URI específica si no está disponible: el enfoque flexible muestra cómo elegir entre soluciones y adaptarlas al flujo deseado.
+- No es indispensable retornar una URI específica si no está disponible: el enfoque flexible muestra cómo elegir entre soluciones y adaptarlas al flujo deseado. </p>
 
-. </p>
+<h3 align="left"> ¿Cómo probar el endpoint POST y visualizar los resultados? </h3>
+
+<p align="left"> Para probar el endpoint, se recomienda emplear herramientas como Postman, ya que los navegadores no permiten enviar cuerpos en solicitudes POST de forma sencilla. Los pasos para realizar la prueba serían: 
+
+- Enviar una solicitud POST a la ruta api/movies, indicando los campos de la película en JSON (example: título, duración, género, año de lanzamiento y rating). 
+- Al recibir la respuesta con HTTP 201 Created y el nuevo ID, puedes consultar dicha película con un GET y corroborar que fue agregada correctamente. 
+- También es posible recuperar el listado de todas las películas y verificar que la nueva se encuentra al final del listado.</p>
