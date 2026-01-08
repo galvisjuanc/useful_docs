@@ -31,3 +31,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Codigos_HTTP_ResponseEntity.md"> Códigos HTTP y Response Entity en APIs REST </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Endpoint_POST_Springboot.md"> Crear endpoint POST para guardar películas en Spring Boot </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Endpoint_PUT_UpdateInfo.md"> Creación de endpoint PUT para actualizar películas en base de datos </a>
