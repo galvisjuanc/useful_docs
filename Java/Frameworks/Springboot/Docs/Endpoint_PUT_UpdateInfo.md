@@ -15,3 +15,10 @@
 * El ID se captura con la anotación @PathVariable.
 * El método controlador recibe ambos valores para identificar correctamente el registro y su información a modificar.
 * Esta separación asegura que la actualización se realice sobre la entidad correcta y con datos controlados. </p>
+
+<h3 align="left"> ¿Cómo validar la existencia y actualizar los datos en la base de datos? </h3>
+
+<p align="left">Es fundamental comprobar que el registro existe antes de intentar cualquier cambio.
+
+* Utiliza el repositorio para buscar la entidad por ID con findById.
+* Si no existe, retorna null: así evitas intentos de modificar datos inexistentes. </p>
