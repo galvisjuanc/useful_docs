@@ -7,3 +7,11 @@
 * El ID y otros valores sensibles como género o duración quedan excluidos del UpdateMovieDTO.
 * Usar DTOs separados promueve la seguridad y claridad en la lógica de actualización.
 * Copiar la estructura de MovieDTO y modificar los campos según lo necesario facilita la implementación. </p>
+
+<h3 align="left"> ¿Cómo diseñar el controlador para recibir las actualizaciones? </h3>
+
+<p align="left"> La anotación @PutMapping se utiliza para recibir el ID de la película como parte de la URL, y el cuerpo del request incluye el UpdateMovieDTO.
+
+* El ID se captura con la anotación @PathVariable.
+* El método controlador recibe ambos valores para identificar correctamente el registro y su información a modificar.
+* Esta separación asegura que la actualización se realice sobre la entidad correcta y con datos controlados. </p>
