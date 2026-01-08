@@ -21,4 +21,6 @@
 <p align="left">Es fundamental comprobar que el registro existe antes de intentar cualquier cambio.
 
 * Utiliza el repositorio para buscar la entidad por ID con findById.
-* Si no existe, retorna null: así evitas intentos de modificar datos inexistentes. </p>
+* Si no existe, retorna null: así evitas intentos de modificar datos inexistentes. 
+* Si existe, solo se asignan los nuevos valores permitidos con los métodos set correspondientes (título, release date y rating).
+* Se recomienda realizar conversiones de tipos, por ejemplo, de double a BigDecimal usando BigDecimal.valueOf si es necesario.</p>
