@@ -11,3 +11,9 @@ Para probar esta operación, se puede utilizar Postman enviando una petición DE
 <p align="left"> El corazón del sistema es el servicio Platzi Play AiService, donde se integra la anotación AiService de LangChain4j. El método principal, llamado generateMovieSuggestions, toma como entrada un mensaje del usuario (las preferencias) usando la anotación @UserMessage.
 
 Se define un mensaje de sistema personalizado para que la IA actúe como un experto en cine. El prompt restringe la respuesta a un máximo de tres películas y exige que solo se sugieran títulos disponibles en Plazy Play, asegurando recomendaciones relevantes y precisas. </p>
+
+<h3 align="left"> ¿Cómo se estructuran las peticiones y la transferencia de datos del usuario? </h3>
+
+<p align="left"> El controlador recibe las preferencias del usuario como un objeto llamado SuggestRequestDTO, implementado como un record en Java. Este DTO solo contiene el campo userPreference, que captura los gustos expresados por la persona. Se utiliza @PostMapping para definir el endpoint /suggest, el cual responde con una lista de sugerencias generadas dinámicamente.
+
+La inyección del servicio se realiza gracias a la anotación correspondiente y el uso de constructores. El controlador envía las preferencias del usuario al método generateMovieSuggestions del aiService y retorna la respuesta de forma segura y eficiente empleando ResponseEntity. </p>
