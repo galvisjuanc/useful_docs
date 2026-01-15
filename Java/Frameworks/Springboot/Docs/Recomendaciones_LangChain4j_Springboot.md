@@ -5,3 +5,9 @@
 <p align="left"> Eliminar películas es sencillo empleando la notación @DeleteMapping. El método recibe el ID de la película como variable de ruta y responde con un ResponseEntity.ok().build(), ya que el método delete no retorna datos. El uso de Void en el ResponseEntity es importante porque Delete no regresa un objeto, solo indica que la operación fue realizada.
 
 Para probar esta operación, se puede utilizar Postman enviando una petición DELETE al endpoint correspondiente con el ID de la película. Si el borrado es exitoso, se recibirá un status code 200 y el cuerpo estará vacío, confirmando la eliminación. </p>
+
+<h3 align="left"> ¿Cómo funciona el sistema de sugerencias de películas potenciado por IA? </h3>
+
+<p align="left"> El corazón del sistema es el servicio Platzi Play AiService, donde se integra la anotación AiService de LangChain4j. El método principal, llamado generateMovieSuggestions, toma como entrada un mensaje del usuario (las preferencias) usando la anotación @UserMessage.
+
+Se define un mensaje de sistema personalizado para que la IA actúe como un experto en cine. El prompt restringe la respuesta a un máximo de tres películas y exige que solo se sugieran títulos disponibles en Plazy Play, asegurando recomendaciones relevantes y precisas. </p>
