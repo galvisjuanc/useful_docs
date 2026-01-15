@@ -17,3 +17,7 @@ Se define un mensaje de sistema personalizado para que la IA actúe como un expe
 <p align="left"> El controlador recibe las preferencias del usuario como un objeto llamado SuggestRequestDTO, implementado como un record en Java. Este DTO solo contiene el campo userPreference, que captura los gustos expresados por la persona. Se utiliza @PostMapping para definir el endpoint /suggest, el cual responde con una lista de sugerencias generadas dinámicamente.
 
 La inyección del servicio se realiza gracias a la anotación correspondiente y el uso de constructores. El controlador envía las preferencias del usuario al método generateMovieSuggestions del aiService y retorna la respuesta de forma segura y eficiente empleando ResponseEntity. </p>
+
+<h3 align="left"> ¿Cómo conoce la IA las películas disponibles en la plataforma? </h3>
+
+<p align="left"> Se aprovecha el método getAll del MovieService, anotado con @Tool de LangChain4j. Esta anotación convierte el método en una herramienta disponible para el modelo, permitiéndole consultar la lista actualizada de películas durante la generación de recomendaciones. El prompt asociado indica: "busca todas las películas que existan dentro de la plataforma", asegurando que las respuestas estén alineadas con el catálogo real. </p>
