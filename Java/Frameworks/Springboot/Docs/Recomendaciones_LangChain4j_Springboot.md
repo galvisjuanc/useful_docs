@@ -21,3 +21,15 @@ La inyección del servicio se realiza gracias a la anotación correspondiente y 
 <h3 align="left"> ¿Cómo conoce la IA las películas disponibles en la plataforma? </h3>
 
 <p align="left"> Se aprovecha el método getAll del MovieService, anotado con @Tool de LangChain4j. Esta anotación convierte el método en una herramienta disponible para el modelo, permitiéndole consultar la lista actualizada de películas durante la generación de recomendaciones. El prompt asociado indica: "busca todas las películas que existan dentro de la plataforma", asegurando que las respuestas estén alineadas con el catálogo real. </p>
+
+<h3 align="left"> ¿Qué resultados genera el sistema de recomendación con ejemplos prácticos? </h3>
+
+<p align="left"> El proceso completo se visualiza probando el endpoint /suggest desde Postman, enviando preferencias como me gustan las películas del espacio o las que están ambientadas en Nueva York. El resultado son recomendaciones personalizadas como "Inception", "Interestellar" y "Joker", explicando brevemente por qué se sugieren.
+
+Al introducir otras preferencias como me gustan las animadas que sean emotivas, el sistema recomienda "Coco", "Toy Story" y "Shrek". Las respuestas contienen información relevante extraída directamente de la base de datos como año, duración y descripción, mostrando la potencia del enfoque.
+
+El flujo interno incluye: 
+
+- La petición del usuario es enviada al endpoint. 
+- LangChain4j utiliza el rol de sistema y el mensaje del usuario para contextualizar la consulta. - El modelo llama automáticamente al tool que consulta las películas disponibles. 
+- La IA selecciona sugerencias alineadas con los gustos del usuario y limita la respuesta a títulos de la plataforma. </p>
