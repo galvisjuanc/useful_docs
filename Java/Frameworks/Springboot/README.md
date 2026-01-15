@@ -33,3 +33,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Endpoint_POST_Springboot.md"> Crear endpoint POST para guardar películas en Spring Boot </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Endpoint_PUT_UpdateInfo.md"> Creación de endpoint PUT para actualizar películas en base de datos </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Recomendaciones_LangChain4j_Springboot.md"> Sistema de recomendaciones de películas con IA en Java </a>
