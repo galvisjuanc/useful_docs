@@ -16,3 +16,11 @@
 * Lógica de control: Si el título ya está en la base de datos, se lanza una excepción personalizada.
 
 Esto evita confiar solo en restricciones de la base de datos, respondiendo de forma proactiva ante posibles colisiones. </p>
+
+<h3 align="left"> ¿Cómo crear y lanzar excepciones personalizadas en Spring? </h3>
+
+<p align="left"> Ante la detección de un intento de guardar una película repetida, se genera una excepción específica:
+
+* Paquete nuevo para excepciones: Se crea un paquete exception donde residen todas las clases relacionadas.
+* Clase propia para el caso: MovieAlreadyExistsException extiende RuntimeException y recibe el título problemático para personalizar el mensaje de error.
+* Lanzamiento de la excepción: Al detectar duplicidad, se utiliza throw new MovieAlreadyExistsException(nombreDeLaPelicula). </p>
