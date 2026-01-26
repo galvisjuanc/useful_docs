@@ -25,9 +25,7 @@ Esto evita confiar solo en restricciones de la base de datos, respondiendo de fo
 * Clase propia para el caso: MovieAlreadyExistsException extiende RuntimeException y recibe el título problemático para personalizar el mensaje de error.
 * Lanzamiento de la excepción: Al detectar duplicidad, se utiliza throw new MovieAlreadyExistsException(nombreDeLaPelicula). 
 
-Esta estrategia ayuda a identificar el tipo de conflicto y detalla el motivo a quienes consumen la API.
-
-</p>
+Esta estrategia ayuda a identificar el tipo de conflicto y detalla el motivo a quienes consumen la API. </p>
 
 <h3 align="left"> ¿De qué manera @RestControllerAdvice permite capturar y procesar excepciones? </h3>
 
