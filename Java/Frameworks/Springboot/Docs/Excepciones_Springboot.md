@@ -38,3 +38,12 @@ Esta estrategia ayuda a identificar el tipo de conflicto y detalla el motivo a q
 * Mensaje: “La película 'Son como niños' ya existe.”
 
 Así, los errores internos se transforman en respuestas interpretables y útiles para clientes externos. </p>
+
+<h3 align="left"> ¿Qué otros escenarios comunes deben controlarse en una API REST? </h3>
+
+<p align="left"> La práctica de capturar errores se puede extender fácilmente a otros casos:
+
+* Intentos de editar o eliminar recursos inexistentes.
+* Recepción de datos incorrectos (lo que se abordará en la próxima lección mediante anotaciones).
+
+Abordar dichos escenarios eleva la calidad de la API y evita respuestas ambiguas. </p>
