@@ -35,3 +35,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Endpoint_PUT_UpdateInfo.md"> Creación de endpoint PUT para actualizar películas en base de datos </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Recomendaciones_LangChain4j_Springboot.md"> Sistema de recomendaciones de películas con IA en Java </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Excepciones_Springboot.md"> Control de excepciones con @RestControllerAdvice en Spring Boot </a>
