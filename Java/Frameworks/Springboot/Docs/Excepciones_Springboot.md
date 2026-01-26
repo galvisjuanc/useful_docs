@@ -46,4 +46,11 @@ Así, los errores internos se transforman en respuestas interpretables y útiles
 * Intentos de editar o eliminar recursos inexistentes.
 * Recepción de datos incorrectos (lo que se abordará en la próxima lección mediante anotaciones).
 
-Abordar dichos escenarios eleva la calidad de la API y evita respuestas ambiguas. </p>
+Abordar dichos escenarios eleva la calidad de la API y evita respuestas ambiguas. 
+
+Recordatorios:
+
+* Las excepciones del dominio representan errores de negocio, independientemente de como se expone el servicio. Además, no contienen información sobre el protocolo y se pueden reutilizar en cualquier interfaz.
+
+
+</p>
