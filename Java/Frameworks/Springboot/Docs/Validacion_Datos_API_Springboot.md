@@ -19,3 +19,11 @@ Luego, utiliza las anotaciones en el DTO que representa el cuerpo de la petició
 * @PastOrPresent para fechas que no pueden ser futuras (ejemplo: fecha de lanzamiento).
 * @Min y @Max para restringir valores numéricos (ejemplo: rating entre 0 y 5).
 * Puedes definir mensajes personalizados para cada validación, lo que permite ofrecer retroalimentación clara como "El título es obligatorio" o "El rating no puede ser mayor que cinco".</p>
+
+<h3 align="left"> ¿Cómo reportar errores de validación y manejar excepciones en tu API? </h3>
+
+<p align="left"> Cuando se incumple alguna de estas reglas, Spring lanza una excepción method argument not valid exception. Para manejarla de forma adecuada:
+
+* Implementa un método anotado con @ExceptionHandler para capturar esta excepción específica.
+* Devuelve un objeto ResponseEntity con una lista de errores detallada por cada campo que falló.
+* Extrae la información relevante mediante getBindingResult().getFieldErrors() y agrega mensaje y campo a dicho listado. </p>
