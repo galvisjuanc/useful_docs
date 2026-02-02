@@ -7,3 +7,9 @@
 * Mejora la experiencia del usuario final al recibir mensajes claros.
 * Previene fallos antes de que afecten procesos lógicos internos.
 * Facilita el mantenimiento y robustez del código. </p>
+
+<h3 align="left"> ¿Cómo agregar una capa de validación en Spring Boot usando anotaciones? </h3>
+
+<p align="left"> Se recomienda agregar la dependencia "Validation" en tu proyecto mediante Spring Initializer (start.spring.io). Para ello, busca bean validation with Hibernate Validator o agrega 'Spring Boot Starter Validation' en tu archivo build.gradle y actualiza las dependencias.
+
+Luego, utiliza las anotaciones en el DTO que representa el cuerpo de la petición: </p>
