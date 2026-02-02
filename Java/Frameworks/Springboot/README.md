@@ -37,3 +37,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Recomendaciones_LangChain4j_Springboot.md"> Sistema de recomendaciones de películas con IA en Java </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Excepciones_Springboot.md"> Control de excepciones con @RestControllerAdvice en Spring Boot </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Validacion_Datos_API_Springboot.md" > Validación automática de datos en APIs con Spring Boot</a>
