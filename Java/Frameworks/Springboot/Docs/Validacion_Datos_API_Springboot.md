@@ -12,4 +12,10 @@
 
 <p align="left"> Se recomienda agregar la dependencia "Validation" en tu proyecto mediante Spring Initializer (start.spring.io). Para ello, busca bean validation with Hibernate Validator o agrega 'Spring Boot Starter Validation' en tu archivo build.gradle y actualiza las dependencias.
 
-Luego, utiliza las anotaciones en el DTO que representa el cuerpo de la petición: </p>
+Luego, utiliza las anotaciones en el DTO que representa el cuerpo de la petición: 
+* Aplica la anotación @Valid directamente en el parámetro que recibe el request body (por ejemplo, un objeto update movie DTO).
+* Entre las validaciones más útiles están:
+* @NotBlank para campos obligatorios que no pueden ser vacíos (ejemplo: título).
+* @PastOrPresent para fechas que no pueden ser futuras (ejemplo: fecha de lanzamiento).
+* @Min y @Max para restringir valores numéricos (ejemplo: rating entre 0 y 5).
+* Puedes definir mensajes personalizados para cada validación, lo que permite ofrecer retroalimentación clara como "El título es obligatorio" o "El rating no puede ser mayor que cinco".</p>
