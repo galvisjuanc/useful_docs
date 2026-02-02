@@ -31,3 +31,14 @@ Luego, utiliza las anotaciones en el DTO que representa el cuerpo de la petició
 Este enfoque permite que el cliente reciba una lista con los problemas específicos, en vez de una respuesta genérica sin detalles.
 
 Además, es recomendable agregar un manejador general para captar cualquier otra excepción no controlada (mediante @ExceptionHandler(Exception.class)), y responder con un internal server error y un mensaje explicativo. Así, ninguna excepción quedará sin procesar, y siempre sabrás qué está fallando. </p>
+
+<h3 align="left"> ¿Qué prácticas adicionales potencian la robustez de tu API con Spring Validation? </h3>
+
+<p align="left">
+
+* Crea validadores para todos los endpoints críticos, no solo para actualizaciones.
+* Ofrece siempre mensajes orientados al usuario para facilitar la solución del problema.
+* Lleva seguimiento de los fallos en un log para futuras auditorías o depuración.
+* Realiza pruebas simulando envíos incorrectos desde herramientas como Postman para garantizar la cobertura de escenarios.
+
+ </p>
