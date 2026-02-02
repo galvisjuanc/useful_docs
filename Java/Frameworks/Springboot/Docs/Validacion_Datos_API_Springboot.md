@@ -26,4 +26,8 @@ Luego, utiliza las anotaciones en el DTO que representa el cuerpo de la petició
 
 * Implementa un método anotado con @ExceptionHandler para capturar esta excepción específica.
 * Devuelve un objeto ResponseEntity con una lista de errores detallada por cada campo que falló.
-* Extrae la información relevante mediante getBindingResult().getFieldErrors() y agrega mensaje y campo a dicho listado. </p>
+* Extrae la información relevante mediante getBindingResult().getFieldErrors() y agrega mensaje y campo a dicho listado. 
+
+Este enfoque permite que el cliente reciba una lista con los problemas específicos, en vez de una respuesta genérica sin detalles.
+
+Además, es recomendable agregar un manejador general para captar cualquier otra excepción no controlada (mediante @ExceptionHandler(Exception.class)), y responder con un internal server error y un mensaje explicativo. Así, ninguna excepción quedará sin procesar, y siempre sabrás qué está fallando. </p>
