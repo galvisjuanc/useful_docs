@@ -24,3 +24,14 @@ Solo necesitas agregar una dependencia al archivo build.gradle siguiendo el form
 
 Al personalizar estos detalles, la documentación habla el idioma y contexto deseado, mostrando títulos y descripciones adecuadas.
  </p>
+
+ <h3 align="left"> ¿Qué ventajas ofrece la documentación automática para el desarrollo y la integración? </h3>
+
+<p align="left"> La documentación con OpenAPI automatiza la actualización de las descripciones cuando tu proyecto crece, sin requerir trabajo adicional en cada cambio. Los beneficios principales son:
+
+* Facilita las pruebas de métodos y validaciones desde la interfaz Swagger UI.
+* Mejora el trabajo en equipo, porque todos acceden a un único manual actualizado.
+* Simplifica la integración con otros sistemas y plataformas.
+
+Gracias a su flexibilidad y autonomía, ahora cualquier servicio que agregues quedará reflejado y podrás compartir el uso correcto de tu API de forma clara y estandarizada.
+ </p>
