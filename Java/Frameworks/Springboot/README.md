@@ -39,3 +39,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Excepciones_Springboot.md"> Control de excepciones con @RestControllerAdvice en Spring Boot </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Validacion_Datos_API_Springboot.md" > Validación automática de datos en APIs con Spring Boot</a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Java/Frameworks/Springboot/Docs/Documentacion_Automatica_OpenAPI.md" > Documentación automática de APIs con OpenAPI en Spring Boot </a>
