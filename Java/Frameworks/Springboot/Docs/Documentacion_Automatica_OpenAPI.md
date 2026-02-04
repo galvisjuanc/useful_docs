@@ -14,3 +14,9 @@ Solo necesitas agregar una dependencia al archivo build.gradle siguiendo el form
 * Permite probar llamadas a la API directamente desde el navegador.
 * Muestra todos los parámetros y posibles respuestas.
 * Incluye validaciones y reglas definidas por anotaciones en el código, como campos obligatorios y rangos aceptados. </p>
+
+<h3 align="left"> ¿Cómo personalizar la documentación de la API en Spring Boot? </h3>
+
+<p align="left"> Tu API puede tener descripciones a medida para cada endpoint y parámetro. Por ejemplo, usando la anotación @Tag de io.swagger.v3.oas.annotations, se define un nombre y descripción para un controlador. Esto mejora el entendimiento y la presentación de los recursos en la documentación. Además, cada método puede ser anotado con @Operation y describir brevemente su función, lo que espera recibir y retornar, así como las posibles respuestas, usando @ApiResponse.
+
+ </p>
