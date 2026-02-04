@@ -19,4 +19,8 @@ Solo necesitas agregar una dependencia al archivo build.gradle siguiendo el form
 
 <p align="left"> Tu API puede tener descripciones a medida para cada endpoint y parámetro. Por ejemplo, usando la anotación @Tag de io.swagger.v3.oas.annotations, se define un nombre y descripción para un controlador. Esto mejora el entendimiento y la presentación de los recursos en la documentación. Además, cada método puede ser anotado con @Operation y describir brevemente su función, lo que espera recibir y retornar, así como las posibles respuestas, usando @ApiResponse.
 
+* @ApiResponse permite definir el código de respuesta (como 200 u 404) y su significado, ajustando los ejemplos y el cuerpo de respuesta según corresponda.
+* El parámetro de un endpoint puede anotarse con @Parameter y agregar descripción y ejemplo, lo que ayuda a quienes consumen la API a comprender cada campo.
+
+Al personalizar estos detalles, la documentación habla el idioma y contexto deseado, mostrando títulos y descripciones adecuadas.
  </p>
