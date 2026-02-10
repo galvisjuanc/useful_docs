@@ -41,3 +41,17 @@ La cadena se añade en el archivo de propiedades de producción (por ejemplo, ap
 * Elimina configuraciones innecesarias que solo atrasarían la operación en producción, como logs excesivos.
 * Establece los perfiles activos para distinguir entre desarrollo y producción, usando la variable spring.profiles.active=producción.
 * Actualiza el archivo build.gradle para asignar la versión final de la app. </p>
+
+<h3 align="left"> ¿Qué pasos se siguen para compilar y ejecutar el JAR en ambiente productivo?
+ </h3>
+
+<p align="left"> Con la configuración lista, procede así:
+
+* Sincroniza Gradle y ejecuta la tarea bootJar para empaquetar la app en un archivo JAR listo para producción.
+* Dirígete a la carpeta /build/libs/, donde estará el archivo generado, por ejemplo: platzi-play-1.0.0.jar.
+* Antes de ejecutar, valida que Java versión 21 esté instalada usando el comando java -version.
+* Lanza la app con el comando:
+    
+        java -Dspring.profiles.active=producción -jar platzi-play-1.0.0.jar
+
+Esto conecta tu servicio a la nueva base de datos, activa el puerto designado (8080 para producción) y lo deja listo para recibir peticiones. </p>
