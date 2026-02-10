@@ -31,4 +31,4 @@ Recuerda que solo se puede tener una base gratuita por cuenta. Eligiendo Render,
 * Puerto y URLs: Existen versiones interna y externa; normalmente se usa la externa para desarrollo.
 * Formato JDBC: La cadena debe adaptarse conforme a las propiedades requeridas por tu app Java.
 
-</p>
+La cadena se añade en el archivo de propiedades de producción (por ejemplo, application-prod.properties) y se ajusta el usuario, contraseña y dirección del servidor, reemplazando el clásico localhost por el dominio de Render. </p>
