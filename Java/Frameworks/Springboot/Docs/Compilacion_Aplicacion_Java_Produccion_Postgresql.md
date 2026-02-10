@@ -55,3 +55,12 @@ La cadena se añade en el archivo de propiedades de producción (por ejemplo, ap
         java -Dspring.profiles.active=producción -jar platzi-play-1.0.0.jar
 
 Esto conecta tu servicio a la nueva base de datos, activa el puerto designado (8080 para producción) y lo deja listo para recibir peticiones. </p>
+
+<h3 align="left"> ¿Cómo se validan los datos y resultados en la base en la nube? </h3>
+
+<p align="left"> Ingresa a localhost:8080/platzi-play/api/movies para consultar los datos a través de la API. Si la base recién fue creada, al principio estará vacía. Para inicializarla con información:
+
+* Añade la configuración que permite cargar los datos del archivo data.sql durante el despliegue.
+* Detén la app, recompila el JAR con el ajuste y vuelve a ejecutar el servicio.
+
+Así, los registros estarán disponibles y podrás operar con la API como en desarrollo, pero en configuración productiva y conectada a la nube. </p>
