@@ -63,4 +63,15 @@ Esto conecta tu servicio a la nueva base de datos, activa el puerto designado (8
 * Añade la configuración que permite cargar los datos del archivo data.sql durante el despliegue.
 * Detén la app, recompila el JAR con el ajuste y vuelve a ejecutar el servicio.
 
-Así, los registros estarán disponibles y podrás operar con la API como en desarrollo, pero en configuración productiva y conectada a la nube. </p>
+Así, los registros estarán disponibles y podrás operar con la API como en desarrollo, pero en configuración productiva y conectada a la nube. 
+
+Para solucionar este error: 
+
+    Error: Could not find or load main class .profiles.active=prod 
+    Caused by: java.lang.ClassNotFoundException: /profiles/active=prod
+
+La solución es usar las comillas: 
+    
+    java "-Dspring.profiles.active=prod" -jar build/libs/movieverse-1.0.0.jar
+
+</p>
