@@ -9,4 +9,17 @@
     * Se copia el contenido de la aplicación al contenedor (/app) y se ejecuta el comando gradle boot jar.
 * Etapa de ejecución: 
     * Se utiliza una imagen de JDK21 (en el ejemplo, Eclipse Temurin) para correr la aplicación.
-    * Se trasladan los archivos generados como .jar desde el build a la ruta preferida y se ejecuta el archivo con el perfil de producción tal cual como se configuró localmente.</p>
+    * Se trasladan los archivos generados como .jar desde el build a la ruta preferida y se ejecuta el archivo con el perfil de producción tal cual como se configuró localmente.
+    
+Así, Docker encapsula la app y asegura la consistencia entre ambientes.
+
+</p>
+
+<h3 align="left"> ¿Qué aspectos debes considerar en la configuración de Render y la base de datos? </h3>
+
+<p align="left"> Render facilita el despliegue ofreciendo capas gratuitas y manejo sencillo de repositorios. Algunos aspectos importantes a considerar:
+
+* El archivo application.properties requiere ajustar la URL de la base de datos. Al ejecutarse dentro de Render, la cadena se simplifica, quitando referencias externas (como oregon-postgres.render.com).
+* Mantener la referencia del puerto en la URL luego de remover el prefijo.
+
+</p>
