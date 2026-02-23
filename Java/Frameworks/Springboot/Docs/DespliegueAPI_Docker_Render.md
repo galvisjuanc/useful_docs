@@ -6,4 +6,7 @@
 
 * Etapa de compilación: 
     * Se utiliza una imagen específica de Gradle (por ejemplo, 8.14.2-jdk21), alineada con la versión definida en Gradle wrapper.
-    * Se copia el contenido de la aplicación al contenedor (/app) y se ejecuta el comando gradle boot jar.</p>
+    * Se copia el contenido de la aplicación al contenedor (/app) y se ejecuta el comando gradle boot jar.
+* Etapa de ejecución: 
+    * Se utiliza una imagen de JDK21 (en el ejemplo, Eclipse Temurin) para correr la aplicación.
+    * Se trasladan los archivos generados como .jar desde el build a la ruta preferida y se ejecuta el archivo con el perfil de producción tal cual como se configuró localmente.</p>
