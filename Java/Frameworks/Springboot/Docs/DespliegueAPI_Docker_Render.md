@@ -32,6 +32,4 @@ Render mostrará en su consola cada paso del proceso de compilación y despliegu
 
 * La URL puede devolver un código 404 si no se incluye el contexto definido en application.properties.
 * Recuerda usar los endpoints configurados (ejemplo: /movies para comprobar la lista de películas o /hello para saludar, según lo definido durante el desarrollo).
-* Si aparece un error inesperado, confirma que estés invocando los servicios correctamente y que el contexto de ruta sea el adecuado.
-
-</p>
+* Si aparece un error inesperado, confirma que estés invocando los servicios correctamente y que el contexto de ruta sea el adecuado. </p>
