@@ -21,5 +21,9 @@ Así, Docker encapsula la app y asegura la consistencia entre ambientes.
 
 * El archivo application.properties requiere ajustar la URL de la base de datos. Al ejecutarse dentro de Render, la cadena se simplifica, quitando referencias externas (como oregon-postgres.render.com).
 * Mantener la referencia del puerto en la URL luego de remover el prefijo.
+* Subir los cambios a GitHub es necesario, pues Render obtiene el código directamente del repositorio.
+* Se recomienda agregar variables de entorno si tu aplicación las requiere, como API keys.
+
+Render mostrará en su consola cada paso del proceso de compilación y despliegue, permitiendo visualizar advertencias relevantes, por ejemplo, spring-jpa-open-in-view, relacionada con la gestión de conexiones a la base de datos durante la renderización de respuestas.
 
 </p>
