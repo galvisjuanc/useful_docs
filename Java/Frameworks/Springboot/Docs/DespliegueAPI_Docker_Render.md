@@ -27,3 +27,13 @@ Así, Docker encapsula la app y asegura la consistencia entre ambientes.
 Render mostrará en su consola cada paso del proceso de compilación y despliegue, permitiendo visualizar advertencias relevantes, por ejemplo, spring-jpa-open-in-view, relacionada con la gestión de conexiones a la base de datos durante la renderización de respuestas.
 
 </p>
+
+<h3 align="left"> ¿Cómo validar y acceder a tu API tras el despliegue en la nube? </h3>
+
+<p align="left"> Una vez desplegada la aplicación y completadas las configuraciones, Render te proporcionará una URL pública para acceder al servicio. Aquí algunos puntos clave:
+
+* La URL puede devolver un código 404 si no se incluye el contexto definido en application.properties.
+* Recuerda usar los endpoints configurados (ejemplo: /movies para comprobar la lista de películas o /hello para saludar, según lo definido durante el desarrollo).
+* Si aparece un error inesperado, confirma que estés invocando los servicios correctamente y que el contexto de ruta sea el adecuado.
+
+</p>
