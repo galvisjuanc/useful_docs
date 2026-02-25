@@ -29,3 +29,9 @@
 * Publicar una imagen.
 * Dar likes.
 * Filtrar por fotos más populares </p>
+
+<strong> ¿Cómo fluye la información del front-end? </strong>
+
+* La base de datos se expone como API.
+* El front-end consume vía HTTP.
+* El flujo de datos se convierte en experiencia de producto.</p>
