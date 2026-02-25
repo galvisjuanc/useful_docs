@@ -18,3 +18,14 @@
 * Authorization y storage listos.
 * API rest y canales real time sin esfuerzo.
 * Llamadas HTTP directas desde el front-end.</p>
+
+<h3 align="left"> ¿Cómo convierte la base de datos en una API lista para producción? </h3>
+
+<p align="left"> Las grandes apps no son magia: se construyen entendiendo cómo fluye la información. Supabase convierte tu base de datos en una plataforma lista para producción. La base se vuelve una API que el front-end consume y, con ese flujo, se transforma en producto.
+
+<strong> ¿Qué funcionalidades tipo Instagram se construyen en la base de datos? </strong>
+
+* Autenticación de usuarios.
+* Publicar una imagen.
+* Dar likes.
+* Filtrar por fotos más populares </p>
