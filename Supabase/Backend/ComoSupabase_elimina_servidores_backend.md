@@ -45,5 +45,7 @@
 * Supabase: plataforma sobre Postgres que genera API rest y real time.
 * Postgres: tecnología estándar en la industria.
 * Authorization y storage: disponibles desde el inicio.
+* Front-end y HTTP: llamadas directas sin backend.
+* Escalabilidad: construir sin fricciones desde el día uno.
 
 </p>
