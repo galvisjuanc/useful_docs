@@ -35,3 +35,7 @@
 * La base de datos se expone como API.
 * El front-end consume vía HTTP.
 * El flujo de datos se convierte en experiencia de producto.</p>
+
+<h3 align="left"> ¿Qué habilidades y conceptos aplicar para lanzar y escalar? </h3>
+
+<p align="left"> El foco es dominar el flujo de información. Con Supabase, construyes sin miedo a crecer: lo esencial ocurre en la base de datos y se expone como API, listo para usarse desde el front-end. </p>
