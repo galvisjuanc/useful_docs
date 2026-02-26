@@ -48,4 +48,9 @@
 * Front-end y HTTP: llamadas directas sin backend.
 * Escalabilidad: construir sin fricciones desde el día uno.
 
+<strong> ¿Cuál es la promesa de tiempo y escala? </strong>
+
+* Lanzar esa gran idea mañana mismo.
+* Construye en un fin de semana y escala a millones de usuarios.
+* Enfócate en producto, no en infraestructura.
 </p>
