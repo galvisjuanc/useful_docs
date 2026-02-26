@@ -38,4 +38,12 @@
 
 <h3 align="left"> ¿Qué habilidades y conceptos aplicar para lanzar y escalar? </h3>
 
-<p align="left"> El foco es dominar el flujo de información. Con Supabase, construyes sin miedo a crecer: lo esencial ocurre en la base de datos y se expone como API, listo para usarse desde el front-end. </p>
+<p align="left"> El foco es dominar el flujo de información. Con Supabase, construyes sin miedo a crecer: lo esencial ocurre en la base de datos y se expone como API, listo para usarse desde el front-end. 
+
+<strong> ¿Qué keywords y prácticas debes dominar? </strong>
+
+* Supabase: plataforma sobre Postgres que genera API rest y real time.
+* Postgres: tecnología estándar en la industria.
+* Authorization y storage: disponibles desde el inicio.
+
+</p>
