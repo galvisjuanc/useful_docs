@@ -11,4 +11,10 @@
 * Políticas y relaciones entre tablas como base de seguridad y consistencia.
 * Modelo de datos bien definido para compatibilidad total con servicios.
 
-</p>
+<strong> ¿Por qué las políticas y el modelo de datos importan? </strong>
+
+Tu diseño dicta la seguridad y la interoperabilidad. Las políticas operan sobre tablas y filas, asegurando que tu lógica de acceso funcione desde el inicio y crezca contigo.
+
+* Políticas aplicadas al nivel que necesitas.
+* Relaciones claras para integraciones limpias.
+* Menos fricción al migrar o escalar.</p>
