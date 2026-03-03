@@ -18,3 +18,12 @@ Tu diseño dicta la seguridad y la interoperabilidad. Las políticas operan sobr
 * Políticas aplicadas al nivel que necesitas.
 * Relaciones claras para integraciones limpias.
 * Menos fricción al migrar o escalar.</p>
+
+<h3 align="left"> ¿Qué APIs automáticas expone y cómo consumirlas por rest o GraphQL? </h3>
+
+<p align="left"> Al crear una tabla, Supabase genera un endpoint automáticamente. Cada tabla (por ejemplo, countries, continents, cities) expone datos listos para consultar desde tu frontend.
+
+* Endpoints por tabla con datos de columnas y celdas.
+* Consumo vía API REST con HTTP request.
+* Soporte nativo para GraphQL sin desarrollar capas extra.
+* Configuraciones que aprovechan lo ya definido en tu base. </p>
