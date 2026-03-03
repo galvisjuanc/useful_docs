@@ -4,3 +4,11 @@
 
 <h3 align="left"> ¿Cómo se organiza la arquitectura de Supabase con PostgreSQL? </h3>
 
+<p align="left"> En el centro está PostgreSQL: la base que activa el resto de servicios. A partir de tu modelo de datos, Supabase define políticas, relaciones y comportamientos que se mantienen coherentes al escalar.
+
+* Núcleo en PostgreSQL para todo el ecosistema.
+* Portable, automatizable y fácil de escalar.
+* Políticas y relaciones entre tablas como base de seguridad y consistencia.
+* Modelo de datos bien definido para compatibilidad total con servicios.
+
+</p>
