@@ -37,3 +37,22 @@ La base alimenta las APIs; estas exponen datos en REST o GraphQL. Tu front end c
 * Preparado para integrar datos en tiempo real.
 
 </p>
+
+<h3 align="left"> ¿Cómo funciona el storage con row level security y metadatos? </h3>
+
+<p align="left"> El módulo de storage se apoya en PostgreSQL. Cada archivo (imágenes, PDF, videos) queda asociado a la base mediante metadatos y reglas de acceso, usando row level security para controlar lectura, subida y eliminación.
+
+* Archivos vinculados a tablas con metadatos.
+* Control granular con row level security.
+* Centro ideal para apps basadas en imágenes.
+* Información y metadatos consultables desde las APIs.
+
+<strong> ¿Qué rol tendrá el storage en tu proyecto? </strong>
+
+La aplicación propuesta usa el storage como corazón: las imágenes viven ahí; los metadatos, en la base; y todo se consume desde el front end mediante una API. Funcionalidades avanzadas como autentication, set functions, real time y vectores quedan para un nivel posterior.
+
+* Arquitectura clara: base → APIs → cliente.
+* Enfoque en imágenes y metadatos.
+* Camino de crecimiento con funciones avanzadas.
+
+</p>
