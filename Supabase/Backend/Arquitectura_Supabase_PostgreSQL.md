@@ -26,4 +26,14 @@ Tu diseño dicta la seguridad y la interoperabilidad. Las políticas operan sobr
 * Endpoints por tabla con datos de columnas y celdas.
 * Consumo vía API REST con HTTP request.
 * Soporte nativo para GraphQL sin desarrollar capas extra.
-* Configuraciones que aprovechan lo ya definido en tu base. </p>
+* Configuraciones que aprovechan lo ya definido en tu base. 
+
+<strong> ¿Cómo fluye la información hacia el front end? </strong>
+
+La base alimenta las APIs; estas exponen datos en REST o GraphQL. Tu front end consume y muestra, manteniendo la fuente única de verdad en PostgreSQL.
+
+* Cohesión entre base, APIs y cliente.
+* Cambios de esquema reflejados en endpoints.
+* Preparado para integrar datos en tiempo real.
+
+</p>
