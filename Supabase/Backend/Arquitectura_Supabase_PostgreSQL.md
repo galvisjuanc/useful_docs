@@ -9,6 +9,8 @@ Ventajas:
 1. Full backend sin reinventar la rueda Base de datos (PostgreSQL), auth, storage, funciones — todo listo para usar. Suena caro, pero no lo es.
 2. Muy rápido para arrancar MVPs Instalar + correr = minutos. Si quieres validar ideas antes de invertir millones, Supabase es un turbo.
 3. Open Source de verdad No estás atado a un vendor cerrado. Puedes ho­stearlo tú mismo y controlar tus datos.
+4. Real-time sin magia oscura Websockets listos para usar: chats, notificaciones, dashboards en vivo — sin quebrarte la cabeza.
+5. Postgres por debajo Eso es ganancia brutal: SQL estándar, poder, integridad y todo el ecosistema Postgres (índices, funciones, extensiones).
 
 
 </p>
