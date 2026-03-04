@@ -7,6 +7,8 @@ Supabase es una plataforma que trabaja con el modelo de backend como servicio (B
 Ventajas:
 
 1. Full backend sin reinventar la rueda Base de datos (PostgreSQL), auth, storage, funciones — todo listo para usar. Suena caro, pero no lo es.
+2. Muy rápido para arrancar MVPs Instalar + correr = minutos. Si quieres validar ideas antes de invertir millones, Supabase es un turbo.
+
 
 </p>
 
