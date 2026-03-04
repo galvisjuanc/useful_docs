@@ -12,7 +12,7 @@ Ventajas:
 4. Real-time sin magia oscura Websockets listos para usar: chats, notificaciones, dashboards en vivo — sin quebrarte la cabeza.
 5. Postgres por debajo Eso es ganancia brutal: SQL estándar, poder, integridad y todo el ecosistema Postgres (índices, funciones, extensiones).
 6. Autenticación lista para producción Email, OAuth (Google, GitHub, etc.), magic links... implementado sin sudar.
-
+7. Integraciones modernas Funciona bien con Next.js, React, Vue, Flutter, etc. Es casi “plug & play”.
 
 </p>
 
