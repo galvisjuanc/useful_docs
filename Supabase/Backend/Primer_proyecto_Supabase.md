@@ -27,4 +27,14 @@
 * Detalles de API y endpoint, el “corazón” de Supabase.
 * Librerías cliente: JavaScript, Flutter, Python, C#, Swift, Kotlin.
 * Proyectos starter: Nest, Next, React, Svelte y un to-do list app.
+
+<strong>¿Cómo modelar datos y usar el SQL editor?</strong>
+
+Puedes crear tablas desde la UI o con el SQL Editor. Así controlas estructura, seguridad y velocidad de desarrollo según tu preferencia.
+
+* Crea una tabla con nombre y descripción opcional.
+* Activa seguridad a nivel de celda o de fila y define políticas.
+* Estructura inicial sugerida: id y fecha de creación con timestamp.
+* Agrega columnas según tus necesidades.
+* Usa el SQL Editor para ejecutar sentencias, alterar tablas y ahorrar tiempo.
 </p>
