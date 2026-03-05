@@ -44,4 +44,8 @@ Puedes crear tablas desde la UI o con el SQL Editor. Así controlas estructura, 
 * Nota: “user”, aun siendo texto, es palabra reservada en Postman, por eso va entre comillas.
 * Ejecuta y verifica en el editor de tabla que “post” fue creada.
 * Agrega contenido por UI o con SQL Editor.
+
+Habilidad clave: diseñar el modelo de datos y aplicar políticas con seguridad a nivel de fila para controlar quién puede leer o escribir.
+
+
 </p>
