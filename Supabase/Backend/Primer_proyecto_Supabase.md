@@ -10,4 +10,12 @@
 
 * Entra a supabase.com y haz clic en Start Your Project.
 * Regístrate con correo y contraseña, o con proveedores como GitHub.
-* Si usas email y aparece una notificación, valida el correo para confirmar el acceso.</p>
+* Si usas email y aparece una notificación, valida el correo para confirmar el acceso.
+
+<strong>¿Cómo configurar organización, tier y región? </strong>
+
+* Crea una organización nueva. Ejemplo: “Suplatsigram organización”.
+* Selecciona el tipo: personal, educación, startup, agencia o compañía.
+* Elige free tier. Permite múltiples proyectos, con solo dos activos al mismo tiempo.
+* Crea el proyecto. Nombra “Suplatsigram”, genera una contraseña segura y copia. Define región para alojar la base de datos.
+</p>
