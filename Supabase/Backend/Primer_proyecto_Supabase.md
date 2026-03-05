@@ -37,4 +37,11 @@ Puedes crear tablas desde la UI o con el SQL Editor. Así controlas estructura, 
 * Estructura inicial sugerida: id y fecha de creación con timestamp.
 * Agrega columnas según tus necesidades.
 * Usa el SQL Editor para ejecutar sentencias, alterar tablas y ahorrar tiempo.
+
+<strong>Ejemplo práctico</strong>
+
+* Tabla “post” con: id, timestamp de creación, user, id de imagen y label.
+* Nota: “user”, aun siendo texto, es palabra reservada en Postman, por eso va entre comillas.
+* Ejecuta y verifica en el editor de tabla que “post” fue creada.
+* Agrega contenido por UI o con SQL Editor.
 </p>
