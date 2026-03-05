@@ -1,0 +1,3 @@
+<h2 align="left"> Crear tu primer proyecto en Supabase Cloud </h2>
+
+<p align="left"> Empieza hoy con Supabase Cloud y deja listo un entorno real para tu app. Aquí verás cómo crear tu cuenta, levantar tu organización y proyecto, explorar el dashboard, modelar tablas y consumir datos vía API sin programar un backend. Además, entenderás módulos clave como authentication, storage y project settings para escalar cuando lo necesites. </p>
