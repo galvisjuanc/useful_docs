@@ -18,4 +18,13 @@
 * Selecciona el tipo: personal, educación, startup, agencia o compañía.
 * Elige free tier. Permite múltiples proyectos, con solo dos activos al mismo tiempo.
 * Crea el proyecto. Nombra “Suplatsigram”, genera una contraseña segura y copia. Define región para alojar la base de datos.
+
+<strong>¿Qué muestra el dashboard overview inicial? </strong>
+
+* Estado del proyecto: activo y sin tablas, funciones ni réplicas al inicio.
+* Opciones de rama y conexiones. Acceso a documentación integrada.
+* Módulos disponibles: authentication, storage, Edge Functions y real time.
+* Detalles de API y endpoint, el “corazón” de Supabase.
+* Librerías cliente: JavaScript, Flutter, Python, C#, Swift, Kotlin.
+* Proyectos starter: Nest, Next, React, Svelte y un to-do list app.
 </p>
