@@ -87,3 +87,11 @@ Habilidad clave: diseñar el modelo de datos y aplicar políticas con seguridad 
 * Integra con servicios como Versel y GitHub. Accede a datos de API centralizados.
 
 </p>
+
+<h3>Comandos</h3>
+
+<p> A continuación se muestra una lista de comandos usados en Supabase: 
+
+* CREATE TABLE post: Es el comando de inicio que ordena a la base de datos generar una nueva entidad o tabla llamada "post".
+* id UUID: Define la primera columna como un identificador de tipo Universally Unique Identifier. A diferencia de un número entero, es una cadena alfanumérica compleja que evita colisiones de datos.
+</p>
