@@ -69,4 +69,12 @@ Habilidad clave: diseñar el modelo de datos y aplicar políticas con seguridad 
 * Analytics y vectores disponibles en versión pro.
 * Configuración por región coherente con la del proyecto.
 
+<strong>¿Cómo consumir la API REST o Graph QL desde un cliente?</strong>
+
+* Tras crear una tabla y agregar datos, consume el contenido al instante vía API y endpoint.
+* La documentación muestra cómo conectar con JavaScript o bash.
+* Agrega los headers y ejecuta la consulta desde un editor de APIs como Postman.
+* La respuesta llega en JSON. Ejemplo: buscar el usuario “Erasmo” y ver que su imagen es “001”.
+* Alternativa: consumir con Graph QL según tu preferencia de cliente.
+
 </p>
