@@ -47,5 +47,10 @@ Puedes crear tablas desde la UI o con el SQL Editor. Así controlas estructura, 
 
 Habilidad clave: diseñar el modelo de datos y aplicar políticas con seguridad a nivel de fila para controlar quién puede leer o escribir.
 
+</p>
+
+<h3 align="left">¿Cómo gestionar usuarios, storage y consumir la API de Supabase? </h3>
+
+<p align="left"> La plataforma integra todo lo necesario: gestión de usuarios, archivos y acceso a datos con REST y Graph QL, incluidos API keys y documentación lista para usar.
 
 </p>
