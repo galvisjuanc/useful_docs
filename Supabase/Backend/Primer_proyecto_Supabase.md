@@ -53,4 +53,12 @@ Habilidad clave: diseñar el modelo de datos y aplicar políticas con seguridad 
 
 <p align="left"> La plataforma integra todo lo necesario: gestión de usuarios, archivos y acceso a datos con REST y Graph QL, incluidos API keys y documentación lista para usar.
 
+<strong> ¿Cómo funciona authentication y user management? </strong>
+
+* Visualiza usuarios registrados y su visibilidad: públicos o privados.
+* Crea usuarios nuevos y gestiona políticas, logueos, server y sesiones.
+*Controla rate limit y otras opciones orientadas a seguridad.
+* Flujos soportados: registro, login con email y password, magic link por email, teléfono y proveedores externos.
+* Documentación integrada sobre client API keys y service keys.
+
 </p>
