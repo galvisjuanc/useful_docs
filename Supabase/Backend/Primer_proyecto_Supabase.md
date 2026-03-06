@@ -77,4 +77,13 @@ Habilidad clave: diseñar el modelo de datos y aplicar políticas con seguridad 
 * La respuesta llega en JSON. Ejemplo: buscar el usuario “Erasmo” y ver que su imagen es “001”.
 * Alternativa: consumir con Graph QL según tu preferencia de cliente.
 
+<strong>Además, en project settings:</strong>
+
+* Consulta ID y nombre del proyecto.
+* Opciones: reiniciar, pausar, agregar dominio personalizado (pro), transferir o eliminar.
+* Cambia de plan si la app crece respecto al free tier.
+* Revisa detalles de infraestructura y versiones en ejecución.
+* Confirma la ubicación configurada. Visualiza gráficas de memoria y CPU.
+* Integra con servicios como Versel y GitHub. Accede a datos de API centralizados.
+
 </p>
