@@ -61,4 +61,12 @@ Habilidad clave: diseñar el modelo de datos y aplicar políticas con seguridad 
 * Flujos soportados: registro, login con email y password, magic link por email, teléfono y proveedores externos.
 * Documentación integrada sobre client API keys y service keys.
 
+<strong> ¿Qué ofrece storage con buckets y políticas? </strong>
+
+* Crea buckets y carpetas para imágenes, videos, documentos y más.
+* Ajusta settings, escribe, modifica o elimina políticas.
+* Define permisos: quién puede escribir, modificar o agregar archivos.
+* Analytics y vectores disponibles en versión pro.
+* Configuración por región coherente con la del proyecto.
+
 </p>
