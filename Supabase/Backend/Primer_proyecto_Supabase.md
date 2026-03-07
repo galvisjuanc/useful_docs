@@ -97,5 +97,6 @@ Habilidad clave: diseñar el modelo de datos y aplicar políticas con seguridad 
 * PRIMARY KEY: Establece que el id es el valor único e irrepetible que identifica a cada fila de la tabla.
 * DEFAULT gen_random_uuid(): Es una función de automatización; si no proporcionas un ID manualmente, la base de datos genera uno aleatorio por ti.
 * create_at TIMESTAMP: Crea un campo para almacenar fecha y hora con alta precisión.
+* DEFAULT NOW(): Garantiza que, al momento de insertar un registro, se grabe la hora exacta actual del servidor sin que tengas que programarlo.
 
 </p>
