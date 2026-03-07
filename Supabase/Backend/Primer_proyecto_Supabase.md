@@ -95,4 +95,6 @@ Habilidad clave: diseñar el modelo de datos y aplicar políticas con seguridad 
 * CREATE TABLE post: Es el comando de inicio que ordena a la base de datos generar una nueva entidad o tabla llamada "post".
 * id UUID: Define la primera columna como un identificador de tipo Universally Unique Identifier. A diferencia de un número entero, es una cadena alfanumérica compleja que evita colisiones de datos.
 * PRIMARY KEY: Establece que el id es el valor único e irrepetible que identifica a cada fila de la tabla.
+* DEFAULT gen_random_uuid(): Es una función de automatización; si no proporcionas un ID manualmente, la base de datos genera uno aleatorio por ti.
+
 </p>
