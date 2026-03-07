@@ -99,5 +99,6 @@ Habilidad clave: diseñar el modelo de datos y aplicar políticas con seguridad 
 * create_at TIMESTAMP: Crea un campo para almacenar fecha y hora con alta precisión.
 * DEFAULT NOW(): Garantiza que, al momento de insertar un registro, se grabe la hora exacta actual del servidor sin que tengas que programarlo.
 * "user" TEXT: Define un campo de texto para el nombre del autor. Se usan comillas dobles porque user es una palabra protegida por el sistema SQL.
+* img_id TEXT: Un campo de texto simple, usualmente utilizado para guardar la URL de una imagen o el ID de referencia de un servicio externo (como AWS S3 o Cloudinary).
 
 </p>
