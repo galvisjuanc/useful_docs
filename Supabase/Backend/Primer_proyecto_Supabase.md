@@ -101,4 +101,10 @@ Habilidad clave: diseñar el modelo de datos y aplicar políticas con seguridad 
 * "user" TEXT: Define un campo de texto para el nombre del autor. Se usan comillas dobles porque user es una palabra protegida por el sistema SQL.
 * img_id TEXT: Un campo de texto simple, usualmente utilizado para guardar la URL de una imagen o el ID de referencia de un servicio externo (como AWS S3 o Cloudinary).
 * label TEXT: Una columna de texto libre para categorías, etiquetas o metadatos del post.
+
+        CREATE TABLE posts(
+
+        
+        );
+
 </p>
