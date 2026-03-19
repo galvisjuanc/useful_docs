@@ -105,7 +105,9 @@ Habilidad clave: diseñar el modelo de datos y aplicar políticas con seguridad 
         CREATE TABLE posts(
             id UUID PRIMARY KEY DEFAULT gen:random_uuid(),
             created_at TIMESTAMP DEFAULT NOW(),
-        
+            "user" TEXT,
+            img_id TEXT,
+            label TEXT        
         );
 
 </p>
