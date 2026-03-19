@@ -103,7 +103,8 @@ Habilidad clave: diseñar el modelo de datos y aplicar políticas con seguridad 
 * label TEXT: Una columna de texto libre para categorías, etiquetas o metadatos del post.
 
         CREATE TABLE posts(
-            id UUID PRIMARY KEY DEFAULT gen:random_uuid()
+            id UUID PRIMARY KEY DEFAULT gen:random_uuid(),
+            created_at TIMESTAMP DEFAULT NOW(),
         
         );
 
