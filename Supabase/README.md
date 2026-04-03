@@ -4,4 +4,6 @@
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/Arquitectura_Supabase_PostgreSQL.md"> Arquitectura completa de Supabase con PostgreSQL </a>
 
-  <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/Primer_proyecto_Supabase.md"> Crear tu primer proyecto en Supabase Cloud  </a>
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/Primer_proyecto_Supabase.md"> Crear tu primer proyecto en Supabase Cloud  </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/CLI_Supabase.md"> Instalación y configuración de Supabase CLI  </a>
