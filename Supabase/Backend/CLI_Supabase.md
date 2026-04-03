@@ -20,3 +20,10 @@
 * Storage para archivos.
 * Funciones, incluyendo soporte para Deno y edge functions.
 * Integraciones disponibles desde la interfaz.</p>
+
+<h3 align="left"> ¿Cómo se instala e inicia un proyecto con init? </h3>
+
+<p align="left"> La CLI incluye un comando de ayuda que lista todos los comandos disponibles, explica qué hace cada uno y muestra la versión instalada. Desde ahí podrás ver cómo se manejan bases de datos y herramientas de código.
+
+* Usa el comando de ayuda para explorar comandos y su descripción.
+* Identifica la versión instalada y opciones clave para tu flujo.</p>
