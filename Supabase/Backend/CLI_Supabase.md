@@ -10,3 +10,13 @@
 * Ideal para desarrollo offline, pruebas locales y comparación local vs producción.
 * Aporta flexibilidad y una visión más profunda de cómo funciona Supabase under the hood.
 * Aunque el curso usa Supabase Cloud, conocer la CLI amplía tus opciones de trabajo.</p>
+
+<h3 align="left"> ¿Qué utilidades ofrece en local? </h3>
+
+<p align="left"> 
+
+* Base de datos con edición por SQL y herramientas de gestión.
+* Autenticación para usuarios y sesiones.
+* Storage para archivos.
+* Funciones, incluyendo soporte para Deno y edge functions.
+* Integraciones disponibles desde la interfaz.</p>
