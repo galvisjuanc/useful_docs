@@ -27,3 +27,12 @@
 
 * Usa el comando de ayuda para explorar comandos y su descripción.
 * Identifica la versión instalada y opciones clave para tu flujo.</p>
+
+<h3>¿Qué crea el comando init? </h3>
+
+<p> 
+
+* Inicializa un nuevo proyecto con init.
+* Genera una carpeta llamada Supabase con lo necesario para arrancar.
+* Pregunta si deseas instalar los settings para Deno, útil para edge functions.</p>
+
