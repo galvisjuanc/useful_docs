@@ -36,3 +36,12 @@
 * Genera una carpeta llamada Supabase con lo necesario para arrancar.
 * Pregunta si deseas instalar los settings para Deno, útil para edge functions.</p>
 
+<h3> ¿Qué recibes al iniciar el proyecto? </h3>
+
+<p> Tras la instalación, la CLI expone los recursos locales principales:
+
+* API del proyecto disponible.
+* GraphQL habilitado.
+* Storage operativo.
+* Base de datos lista.
+* Studio como UI para gestionar todo.</p>
