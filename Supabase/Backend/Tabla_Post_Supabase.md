@@ -10,3 +10,14 @@
 * Las relaciones quedan claras desde el inicio.
 * Te deja listo para trabajar con datos reales.
 * Permite construir el feed, las pantallas de perfil y el detalle de cada post. </p>
+
+<h3 align="left"> ¿Cómo crear la tabla post en el table editor? </h3>
+
+<p align="left"> El objetivo es crear la tabla base que sostendrá el feed. Se parte del table editor y, para efectos del aprendizaje, se desactivan los niveles de seguridad. La tabla puede llamarse post o posts; incluye campos por defecto y campos agregados manualmente.
+
+* Campos por defecto: id y created_at ya vienen listos.
+* Autor: user_id en formato UUID para relacionar con usuarios registrados.
+* Imagen: image_url como texto que luego provendrá del storage.
+* Texto del post: caption como texto descriptivo.
+* Ediciones: updated_at como timestamp para registrar cambios.
+* Interacciones: likes como número, útil para relacionarlo con otra tabla más adelante. </p>
