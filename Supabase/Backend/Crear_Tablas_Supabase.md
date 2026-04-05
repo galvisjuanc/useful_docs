@@ -35,4 +35,10 @@ La estructura replica la creada manualmente, con campos clave para un post.
 * caption: texto descriptivo del post.
 * likes: contador de reacciones.
 * creado y actualizado: marcas de tiempo para auditoría.
+
+<strong> ¿Cómo verificar el resultado en el editor de tabla? </strong>
+
+Tras ejecutar, confirma que están las dos tablas y que post new contiene los campos esperados. Así validas que la sentencia SQL construyó la estructura correctamente.
+
+
  </p>
