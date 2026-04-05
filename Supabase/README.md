@@ -9,3 +9,7 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/CLI_Supabase.md"> Instalación y configuración de Supabase CLI  </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/Tabla_Post_Supabase.md"> Cómo diseñar la tabla Posts en Supabase </a>
+
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/Crear_Tablas_Supabase.md"> Crear tablas en Supabase con SQL </a>
+
