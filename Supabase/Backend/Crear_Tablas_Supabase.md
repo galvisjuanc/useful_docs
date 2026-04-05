@@ -24,4 +24,15 @@ El objetivo es tomar la tabla de posts creada en la UI y rehacerla vía código.
 * Usa el nombre post new para no chocar con la tabla “post”.
 * Ejecuta la sentencia: verás confirmación exitosa sin filas de retorno.
 * Abre el editor de tabla y verifica que ahora existen “post” y “post new”.
+
+<strong> ¿Qué nombres y campos incluye la nueva tabla? </strong>
+
+La estructura replica la creada manualmente, con campos clave para un post.
+
+* ID: identificador único del post.
+* user ID: referencia al usuario que publica.
+* image URL: ruta de la imagen asociada.
+* caption: texto descriptivo del post.
+* likes: contador de reacciones.
+* creado y actualizado: marcas de tiempo para auditoría.
  </p>
