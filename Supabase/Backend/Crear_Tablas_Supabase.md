@@ -19,5 +19,9 @@
 
 El objetivo es tomar la tabla de posts creada en la UI y rehacerla vía código. Para evitar conflictos con nombres, no se usa “post” porque ya existe: se crea una nueva llamada post new. Se pegan las sentencias en el editor de SQL, se ejecutan y se valida el resultado en el editor de tabla.
 
-
+* Abre el editor de SQL en Supabase.
+* Pega la sentencia que recrea la tabla de posts.
+* Usa el nombre post new para no chocar con la tabla “post”.
+* Ejecuta la sentencia: verás confirmación exitosa sin filas de retorno.
+* Abre el editor de tabla y verifica que ahora existen “post” y “post new”.
  </p>
