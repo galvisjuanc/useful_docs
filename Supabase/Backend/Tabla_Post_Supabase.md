@@ -26,4 +26,13 @@ Puntos clave del flujo en el editor:
 
 * Se agregan columnas según la funcionalidad prevista.
 * Puedes añadir columnas después de crear la tabla: no es necesario definirlo todo al inicio.
-* Tras crearla, es momento de cargar datos para activar las funcionalidades de Supabase.</p>
+* Tras crearla, es momento de cargar datos para activar las funcionalidades de Supabase.
+
+¿Qué relaciones y escalabilidad habilita este diseño?
+
+Este modelo de datos prioriza claridad de intención por columna, lo que facilita vincular servicios y crecer sin fricción.
+
+* user_id: conecta el post con la lista de usuarios registrados.
+* image_url: se abastece desde el servicio de storage, integrando dos servicios de Supabase.
+* likes: además de contar interacciones, sirve de puente para relacionarlo con otra tabla.
+* timestamps: created_at y updated_at permiten auditar creación y edición.</p>
