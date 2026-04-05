@@ -7,3 +7,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/Primer_proyecto_Supabase.md"> Crear tu primer proyecto en Supabase Cloud  </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/CLI_Supabase.md"> Instalación y configuración de Supabase CLI  </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/Tabla_Post_Supabase.md"> Cómo diseñar la tabla Posts en Supabase </a>
