@@ -20,4 +20,10 @@
 * Imagen: image_url como texto que luego provendrá del storage.
 * Texto del post: caption como texto descriptivo.
 * Ediciones: updated_at como timestamp para registrar cambios.
-* Interacciones: likes como número, útil para relacionarlo con otra tabla más adelante. </p>
+* Interacciones: likes como número, útil para relacionarlo con otra tabla más adelante. 
+
+Puntos clave del flujo en el editor:
+
+* Se agregan columnas según la funcionalidad prevista.
+* Puedes añadir columnas después de crear la tabla: no es necesario definirlo todo al inicio.
+* Tras crearla, es momento de cargar datos para activar las funcionalidades de Supabase.</p>
