@@ -10,3 +10,9 @@
 * Entendimiento real de cómo funciona Postgres.
 * Base sólida para migraciones, colaboración en equipos y ambientes avanzados.
 * Posibilidad de ejecutar sentencias directamente sobre tu base de datos. </p>
+
+<h3 align="left"> ¿Qué papel cumple Postgres debajo de Supabase? </h3>
+
+<p align="left"> Supabase se apoya en Postgres. Por eso, mientras más cómodo te sientas con SQL, más fácil será ajustar, migrar y mantener tus datos con precisión.
+
+ </p>
