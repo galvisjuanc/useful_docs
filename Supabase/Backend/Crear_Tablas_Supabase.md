@@ -15,4 +15,9 @@
 
 <p align="left"> Supabase se apoya en Postgres. Por eso, mientras más cómodo te sientas con SQL, más fácil será ajustar, migrar y mantener tus datos con precisión.
 
+<strong> ¿Cómo recrear la tabla de posts desde el editor de SQL? </strong>
+
+El objetivo es tomar la tabla de posts creada en la UI y rehacerla vía código. Para evitar conflictos con nombres, no se usa “post” porque ya existe: se crea una nueva llamada post new. Se pegan las sentencias en el editor de SQL, se ejecutan y se valida el resultado en el editor de tabla.
+
+
  </p>
