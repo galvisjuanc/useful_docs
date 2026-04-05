@@ -40,5 +40,11 @@ La estructura replica la creada manualmente, con campos clave para un post.
 
 Tras ejecutar, confirma que están las dos tablas y que post new contiene los campos esperados. Así validas que la sentencia SQL construyó la estructura correctamente.
 
+<strong> ¿Qué sigue para poblar y usar la base de datos desde el front end? </strong>
 
+El siguiente paso es insertar datos desde el editor de SQL para poblar la base de datos y poder consumirla desde el front end. Esto consolidará el flujo de trabajo profesional: definir estructura con SQL, validar en la UI y preparar datos para la capa de aplicación.
+
+* Insertar datos desde el editor de SQL.
+* Poblar la base del proyecto con entradas reales.
+* Usar esos datos desde el front end.
  </p>
