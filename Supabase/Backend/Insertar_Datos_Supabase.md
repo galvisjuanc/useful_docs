@@ -1,0 +1,3 @@
+<h2> Insertar primeros datos en Supabase </h2>
+
+<p align="left"> Dar el salto de tablas vacías a datos reales en Supabase cambia todo: en cuanto insertas registros, se habilitan automáticamente las APIs en REST y GraphQL para consultarlos desde el front-end. Aquí verás cómo insertar desde la UI y el SQL Editor, validar que los campos automáticos funcionen, y explorar la API pública con filtros por likes sin escribir backend. </p>
