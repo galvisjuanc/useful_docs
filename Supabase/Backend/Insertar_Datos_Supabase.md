@@ -13,4 +13,13 @@
 * Agrega un user ID, una image URL de prueba y un caption como “Primer post de Suplatsigram”.
 * likes tiene default 0, pero puedes asignar 1 para la prueba.
 * created_at y updated_at se completan por default con fecha y hora actuales.
-* Se confirma el primer registro creado con todos los campos correctos.</p>
+* Se confirma el primer registro creado con todos los campos correctos.
+
+<strong>¿Cómo insertar múltiples filas con SQL Editor? </strong>
+
+* Prepara una sentencia de inserción para Post New con: user_id, image_url, caption y likes.
+* No incluyas campos automáticos: Supabase los completa por ti.
+* Ejecuta y verifica el resultado: el estado indica “exitoso”.
+* Al refrescar la tabla, verás todos los nuevos registros agregados.
+* Se llega a 31 registros: 30 desde SQL más 1 manual inicial.
+</p>
