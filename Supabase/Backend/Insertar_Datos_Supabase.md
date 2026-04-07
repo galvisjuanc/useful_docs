@@ -22,4 +22,13 @@
 * Ejecuta y verifica el resultado: el estado indica “exitoso”.
 * Al refrescar la tabla, verás todos los nuevos registros agregados.
 * Se llega a 31 registros: 30 desde SQL más 1 manual inicial.
+
+<strong> ¿Qué campos genera Supabase por default? </strong>
+
+* ID autoincremental del post.
+* created_at y updated_at con timestamp actual.
+* likes con default 0 si no lo envías.
+* caption con emojis soportados, listos para renderizar en la interfaz.
+
+
 </p>
