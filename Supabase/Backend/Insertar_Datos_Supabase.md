@@ -34,4 +34,10 @@
 
 Desde API Docs, Supabase documenta cómo consumir tus tablas y views en JavaScript o en bash. Puedes probar la lectura con un cliente HTTP como httpie y obtener respuestas en tiempo real.
 
+<strong> ¿Dónde encontrar API Docs con tablas y views? </strong>
+
+* En API Docs verás la intro y las tablas creadas, incluida Post New.
+* Cada tabla trae ejemplos de lectura, escritura y filtros.
+* Tienes secciones para JavaScript y para bash con comandos listos.
+
 </p>
