@@ -54,4 +54,13 @@ Desde API Docs, Supabase documenta cómo consumir tus tablas y views en JavaScri
 * Arrays y operador no igual.
 * Ejemplos de resultados: mayores a 25 devuelven 9 posts. Mayores a 30 devuelven 5 posts.
 
+<strong> ¿Qué implican estas inserciones para tu front-end? </strong>
+
+Con datos en Post New, Supabase expone de inmediato APIs funcionales para consumir desde cualquier interfaz usando la URL y la clave pública del proyecto. Todo sin escribir backend: interactúas con la UI, sentencias SQL puntuales y una API preparada para filtrar, ordenar y paginar.
+
+* Consultas desde el front-end usando endpoints en REST o GraphQL.
+* Filtros por likes y por cualquier columna disponible.
+* Respuesta inmediata al insertar nuevos registros.
+* Base sólida para implementar listados, detalles y rankings con tus datos.
+
 </p>
