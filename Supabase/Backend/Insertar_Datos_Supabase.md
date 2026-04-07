@@ -30,5 +30,8 @@
 * likes con default 0 si no lo envías.
 * caption con emojis soportados, listos para renderizar en la interfaz.
 
+<strong> ¿Cómo consultar la API pública REST y GraphQL? </strong>
+
+Desde API Docs, Supabase documenta cómo consumir tus tablas y views en JavaScript o en bash. Puedes probar la lectura con un cliente HTTP como httpie y obtener respuestas en tiempo real.
 
 </p>
