@@ -46,4 +46,12 @@ Desde API Docs, Supabase documenta cómo consumir tus tablas y views en JavaScri
 * Cambia la consulta a Post New y obtendrás todos los registros almacenados.
 * Revisa el detalle de cada post devuelto por la API pública.
 
+<strong> ¿Qué filtros disponibles para likes y columnas? </strong>
+
+* Igual a un valor, mayor que, menor que.
+* Entre rangos: between, mayor o igual, menor o igual.
+* Comparaciones case-sensitive cuando aplican a texto.
+* Arrays y operador no igual.
+* Ejemplos de resultados: mayores a 25 devuelven 9 posts. Mayores a 30 devuelven 5 posts.
+
 </p>
