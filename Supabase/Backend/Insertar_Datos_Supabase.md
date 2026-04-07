@@ -40,4 +40,10 @@ Desde API Docs, Supabase documenta cómo consumir tus tablas y views en JavaScri
 * Cada tabla trae ejemplos de lectura, escritura y filtros.
 * Tienes secciones para JavaScript y para bash con comandos listos.
 
+<strong> ¿Cómo probar con un cliente HTTP como httpie? </strong>
+
+* Consulta la tabla original “post”: devuelve un array vacío porque no tiene registros.
+* Cambia la consulta a Post New y obtendrás todos los registros almacenados.
+* Revisa el detalle de cada post devuelto por la API pública.
+
 </p>
