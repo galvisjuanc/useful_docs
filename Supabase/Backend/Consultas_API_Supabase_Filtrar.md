@@ -56,4 +56,12 @@ Si la vista es el perfil, filtra por el usuario específico usando su user_id. L
 * Evita filtrar en el cliente o en otra consulta.
 * Llega ya listo desde la HTTP request.
 
+<strong> ¿Cómo optimizar la respuesta para un front end más rápido? </strong>
+
+Seleccionar menos columnas reduce el peso de la respuesta y mejora la percepción de velocidad. En la prueba, pedir solo image_url y user_id dio una respuesta de 4 KB en 244 ms. Pedir “toda la base” subió a 10 KB y 579 ms. Más del doble de tiempo para datos que no se usan.
+
+* Selecciona campos precisos para cada pantalla.
+* Evita traer columnas innecesarias.
+* Ordena en el servidor y llega con el formato final.
+
 </p>
