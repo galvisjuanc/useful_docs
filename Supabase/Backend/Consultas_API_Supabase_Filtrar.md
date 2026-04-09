@@ -29,4 +29,20 @@ Cuando una vista solo requiere imagen y contador de likes, selecciona esas colum
 
 Primero, es posible leer todos los posts. Luego, filtrar por condición, como likes mayores a 30. En el ejemplo, la consulta devolvió cinco posts, pero estaban desordenados por cantidad de likes.
 
+<strong> ¿Cómo ordenar por likes ascendente o descendente? </strong>
+
+Ordena por la columna de likes según lo que necesites: ranking ascendente o descendente para destacar más o menos interacción.
+
+    // Ascendente: de menor a mayor
+    .order('likes', { ascending: true })
+
+    // Descendente: de mayor a menor
+    .order('likes', { ascending: false })
+
+
+* Ascendente: devuelve 31, 32, 35, 42, 44.
+* Descendente: devuelve 44, 42, 35, 32, 31.
+
+Esto deja la respuesta lista para una interfaz que muestre el ranking de likes con claridad.
+
 </p>
