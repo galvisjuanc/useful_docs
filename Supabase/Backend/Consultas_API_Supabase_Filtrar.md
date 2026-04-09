@@ -19,4 +19,11 @@ Cuando una vista solo requiere imagen y contador de likes, selecciona esas colum
 
 <strong> Ejemplos de selección y filtros mínimos: </strong>
 
+    // Seleccionar solo lo necesario
+    .select('likes,image_url,user_id')
+
+    // Filtrar por usuario
+    .eq('user_id', '<ID_DEL_USUARIO>')
+
+
 </p>
