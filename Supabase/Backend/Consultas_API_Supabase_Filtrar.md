@@ -25,5 +25,8 @@ Cuando una vista solo requiere imagen y contador de likes, selecciona esas colum
     // Filtrar por usuario
     .eq('user_id', '<ID_DEL_USUARIO>')
 
+<strong> ¿Cómo leer, filtrar y ordenar posts por likes y usuario? </strong>
+
+Primero, es posible leer todos los posts. Luego, filtrar por condición, como likes mayores a 30. En el ejemplo, la consulta devolvió cinco posts, pero estaban desordenados por cantidad de likes.
 
 </p>
