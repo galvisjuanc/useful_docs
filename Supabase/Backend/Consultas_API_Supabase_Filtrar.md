@@ -64,4 +64,10 @@ Seleccionar menos columnas reduce el peso de la respuesta y mejora la percepció
 * Evita traer columnas innecesarias.
 * Ordena en el servidor y llega con el formato final.
 
+<strong> ¿Cómo medir peso y tiempo de la respuesta? </strong>
+
+Herramientas como HTTPie muestran el tamaño de la respuesta y el tiempo de ejecución. Así puedes validar que tu selección de columnas y ordenamiento impacten en la experiencia real del usuario.
+
+En adelante, cada consulta seguirá este patrón: elegir tabla, seleccionar columnas, filtrar y ordenar. Con esto podrás construir el feed y páginas como el perfil de usuario, y luego integrar storage cuando toque manejar archivos.
+
 </p>
