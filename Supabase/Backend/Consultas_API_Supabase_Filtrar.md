@@ -45,4 +45,15 @@ Ordena por la columna de likes según lo que necesites: ranking ascendente o des
 
 Esto deja la respuesta lista para una interfaz que muestre el ranking de likes con claridad.
 
+<strong> ¿Cómo filtrar por usuario con user_id? </strong>
+
+Si la vista es el perfil, filtra por el usuario específico usando su user_id. La respuesta incluye solo sus posts, ideal para mostrar en su página sin lógicas extra en el front end.
+
+    // Posts de un usuario
+    .eq('user_id', '<ID_DEL_USUARIO>')
+
+* Útil para la página de perfil.
+* Evita filtrar en el cliente o en otra consulta.
+* Llega ya listo desde la HTTP request.
+
 </p>
