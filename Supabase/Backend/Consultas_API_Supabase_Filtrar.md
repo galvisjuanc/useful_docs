@@ -11,5 +11,12 @@
 * Aplicar filtros: por likes o por usuario.
 * Ordenar resultados: ascendente o descendente. 
 
+Este patrón permite construir casi cualquier pantalla de lectura: desde el perfil del usuario hasta el feed principal, con datos limpios y listos.
+
+<strong>¿Qué columnas seleccionar para cada pantalla? </strong>
+
+Cuando una vista solo requiere imagen y contador de likes, selecciona esas columnas (por ejemplo: likes, image_url, user_id) y evita traer el resto. Así no hay datos repetidos ni sin uso.
+
+<strong> Ejemplos de selección y filtros mínimos: </strong>
 
 </p>
