@@ -88,5 +88,9 @@ En adelante, cada consulta seguirá este patrón: elegir tabla, seleccionar colu
 
 * ProjectURL/rest/v1/posts_new?likes=gt.15&amp;order=likes.desc
 
+<strong> Post por usuario (filtrar) </strong>
+
+* ProjectURL/rest/v1/posts_new?user_id=eq.99999999-9999-9999-9999-999999999999
+
 
 </p>
