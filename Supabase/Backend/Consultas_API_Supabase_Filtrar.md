@@ -71,3 +71,11 @@ Herramientas como HTTPie muestran el tamaño de la respuesta y el tiempo de ejec
 En adelante, cada consulta seguirá este patrón: elegir tabla, seleccionar columnas, filtrar y ordenar. Con esto podrás construir el feed y páginas como el perfil de usuario, y luego integrar storage cuando toque manejar archivos.
 
 </p>
+
+<h3> Resumen </h3>
+
+<p align="left"> 
+
+* Ordenar: Definir el orden en que se muestra la información (ascendente y descendente).
+* Filtrar: Muestra los registros que cumplan una condición
+* Seleccionar: Elegir que campos se muestran.</p>
