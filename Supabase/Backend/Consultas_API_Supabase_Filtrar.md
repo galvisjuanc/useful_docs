@@ -92,5 +92,9 @@ En adelante, cada consulta seguirá este patrón: elegir tabla, seleccionar colu
 
 * ProjectURL/rest/v1/posts_new?user_id=eq.99999999-9999-9999-9999-999999999999
 
+Seleccionar solo los campos que se necesitan
 
+Ejemplo: solo quiero ver los likes y el image_url
+
+ProjectURL/rest/v1/posts_new?select=likes,image_url
 </p>
