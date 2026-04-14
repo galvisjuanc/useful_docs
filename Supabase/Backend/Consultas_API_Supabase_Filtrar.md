@@ -84,4 +84,9 @@ En adelante, cada consulta seguirá este patrón: elegir tabla, seleccionar colu
 
 * De menor a mayor (reemplaza el ProjectURL) ProjectURL/rest/v1/posts_new?likes=gt.15&amp;order=likes.asc
 
+<strong> Descendente </strong>
+
+* ProjectURL/rest/v1/posts_new?likes=gt.15&amp;order=likes.desc
+
+
 </p>
