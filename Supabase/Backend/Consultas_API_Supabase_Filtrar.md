@@ -78,4 +78,10 @@ En adelante, cada consulta seguirá este patrón: elegir tabla, seleccionar colu
 
 * Ordenar: Definir el orden en que se muestra la información (ascendente y descendente).
 * Filtrar: Muestra los registros que cumplan una condición
-* Seleccionar: Elegir que campos se muestran.</p>
+* Seleccionar: Elegir que campos se muestran.
+
+<strong> Ordenamiento </strong>
+
+* De menor a mayor (reemplaza el ProjectURL) ProjectURL/rest/v1/posts_new?likes=gt.15&amp;order=likes.asc
+
+</p>
