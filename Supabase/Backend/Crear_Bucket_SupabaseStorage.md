@@ -24,5 +24,14 @@ Las políticas definen quién puede subir, leer y editar archivos. En un bucket 
 * Opciones generales con disponibilidad parcial en la versión gratuita.
 * Posibilidad de hacer privado y gestionar el acceso con reglas.
 
+También verás áreas como configuraciones, analíticas y vectores en el dashboard. Son funciones nuevas mencionadas como referencia, mientras el foco aquí es el storage y su acceso.
+
+<strong> ¿Cómo organizar y gestionar archivos para el feed? </strong>
+
+Dentro del bucket, crea dos carpetas: Profile para fotos de perfil y Post para las imágenes de las publicaciones. Así separas contenidos y preparas el flujo para subir desde el front end y obtener URLs que se usarán en el feed.
+
+* Carpeta Profile: fotos de perfil por usuario.
+* Carpeta Post: imágenes de publicaciones.
+* Archivos alojados en bucket público quedan en dominio público.
 
 </p>
