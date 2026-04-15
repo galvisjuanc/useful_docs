@@ -34,4 +34,14 @@ Dentro del bucket, crea dos carpetas: Profile para fotos de perfil y Post para l
 * Carpeta Post: imágenes de publicaciones.
 * Archivos alojados en bucket público quedan en dominio público.
 
-</p>
+<strong> ¿Qué opciones ofrece el dashboard para manejar archivos? </strong>
+
+La interfaz del bucket facilita el control de tu storage sin salir del navegador.
+
+* Recargar para ver nuevos archivos agregados.
+* Cambiar vista: columnas o lista.
+* Ordenar por nombre, fecha de creación, modificación o último acceso.
+* Orden ascendente o descendente.
+* Agregar archivo o crear carpeta.
+* Entrar a settings, vaciar o eliminar el bucket.
+* Gestionar políticas desde el mismo panel. </p>
