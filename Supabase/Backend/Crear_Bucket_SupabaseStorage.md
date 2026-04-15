@@ -15,5 +15,14 @@
 
 Puedes restringir el tamaño y los tipos de archivo permitidos. En el plan gratuito, el límite por archivo es de 50 MB: si se intenta subir algo mayor, fallará, ya sea desde el dashboard o el front end. En este flujo se deja el límite por defecto y sin restricción de tipos para agilizar las pruebas.
 
+<strong> ¿Qué políticas y permisos debes considerar? </strong>
+
+Las políticas definen quién puede subir, leer y editar archivos. En un bucket público, la lectura es abierta; el resto de permisos quedan bajo políticas que puedes ajustar más adelante. Esto es clave para controlar visibilidad y gestión de contenido.
+
+* Lectura pública para mostrar fotos en el feed.
+* Políticas para limitar quién sube o edita archivos.
+* Opciones generales con disponibilidad parcial en la versión gratuita.
+* Posibilidad de hacer privado y gestionar el acceso con reglas.
+
 
 </p>
