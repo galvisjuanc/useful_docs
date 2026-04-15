@@ -10,4 +10,10 @@
 * Marcar como público para lectura sin autorización.
 * Confirmar que el plan gratuito aplica límite global de 50 MB por archivo.
 * Mantener sin restricciones de tipo o tamaño si buscas simplicidad.
+
+<strong> ¿Qué límites y tipos de archivo conviene configurar? </strong>
+
+Puedes restringir el tamaño y los tipos de archivo permitidos. En el plan gratuito, el límite por archivo es de 50 MB: si se intenta subir algo mayor, fallará, ya sea desde el dashboard o el front end. En este flujo se deja el límite por defecto y sin restricción de tipos para agilizar las pruebas.
+
+
 </p>
