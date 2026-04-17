@@ -10,4 +10,6 @@
 * Sube las imágenes preparadas para pruebas.
 * Verifica el mensaje de subida correcta.
 * Haz clic en la imagen para ver el preview y sus detalles.
-* Revisa la metadata: formato, peso y fecha de subida. </p>
+* Revisa la metadata: formato, peso y fecha de subida. 
+
+La metadata será útil en tus proyectos para conocer la antigüedad y tipo del archivo e incluso, si lo decides, quién subió la imagen. </p>
