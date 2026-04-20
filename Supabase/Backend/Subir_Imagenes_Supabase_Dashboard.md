@@ -36,4 +36,15 @@ Abre la tabla de posts y edita la celda de la imagen con un doble clic. Seleccio
 * El post ya apunta a su imagen correspondiente.
 * Repite el proceso con los demás registros.
 
+Habilidades y conceptos que refuerzas durante el proceso:
+
+* Bucket público: almacena y sirve imágenes visibles en el feed y perfiles.
+* Carpetas post y profile: organización correcta al mismo nivel para evitar errores.
+* Preview y metadata: consulta de formato, peso y fecha para control y auditoría.
+* URL pública: identificador que tu app usa para mostrar la imagen.
+* Menú de tres puntitos: acciones rápidas como renombrar, mover, descargar o eliminar.
+* Edición en tabla: actualización directa que impacta en la API y en la base de datos.
+* Front end: luego podrás automatizar este flujo desde la interfaz de tu aplicación.
+
+
 </p>
