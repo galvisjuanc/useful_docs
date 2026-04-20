@@ -26,4 +26,14 @@ Puedes obtener la URL desde el preview o desde el menú de los tres puntitos. C�
 
 Para las pruebas se usan imágenes públicas, lo que acelera el flujo y te permite ver resultados inmediatos en el navegador y luego en tu app.
 
+<strong> ¿Cómo vincular la imagen con la base de datos y la API? </strong>
+
+Abre la tabla de posts y edita la celda de la imagen con un doble clic. Selecciona todo, borra la URL de placeholder y pega la URL pública que copiaste. Presiona Enter para guardar. El cambio queda disponible en la API y en tu base de datos.
+
+* Edita en línea con doble clic sobre la celda.
+* Reemplaza el placeholder por la URL real.
+* Guarda con Enter para aplicar cambios.
+* El post ya apunta a su imagen correspondiente.
+* Repite el proceso con los demás registros.
+
 </p>
