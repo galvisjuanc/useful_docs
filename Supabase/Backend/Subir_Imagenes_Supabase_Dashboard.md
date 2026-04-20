@@ -12,4 +12,11 @@
 * Haz clic en la imagen para ver el preview y sus detalles.
 * Revisa la metadata: formato, peso y fecha de subida. 
 
-La metadata será útil en tus proyectos para conocer la antigüedad y tipo del archivo e incluso, si lo decides, quién subió la imagen. </p>
+La metadata será útil en tus proyectos para conocer la antigüedad y tipo del archivo e incluso, si lo decides, quién subió la imagen. 
+
+<strong> ¿Cómo obtener y usar la URL pública en tus posts </strong>
+
+Puedes obtener la URL desde el preview o desde el menú de los tres puntitos. Cópiala, pégala en una nueva pestaña y verifica que carga. La estructura refleja tu proyecto en Supabase, el servicio de storage, el nombre del bucket (por ejemplo, imágenes), la carpeta post y el archivo .jpg.
+
+
+</p>
