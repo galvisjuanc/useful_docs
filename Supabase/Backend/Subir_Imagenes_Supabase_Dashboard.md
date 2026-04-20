@@ -24,4 +24,6 @@ Puedes obtener la URL desde el preview o desde el menú de los tres puntitos. C�
 * Considera la privacidad: no todo contenido debe ser público.
 * Aprovecha las otras opciones: renombrar, mover, descargar o eliminar.
 
+Para las pruebas se usan imágenes públicas, lo que acelera el flujo y te permite ver resultados inmediatos en el navegador y luego en tu app.
+
 </p>
