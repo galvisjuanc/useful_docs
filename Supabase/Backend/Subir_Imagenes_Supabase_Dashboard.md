@@ -18,5 +18,10 @@ La metadata será útil en tus proyectos para conocer la antigüedad y tipo del 
 
 Puedes obtener la URL desde el preview o desde el menú de los tres puntitos. Cópiala, pégala en una nueva pestaña y verifica que carga. La estructura refleja tu proyecto en Supabase, el servicio de storage, el nombre del bucket (por ejemplo, imágenes), la carpeta post y el archivo .jpg.
 
+* Usa “obtener URL” y cópiala al portapapeles.
+* Abre la URL en el navegador para confirmar acceso.
+* Recuerda que esta imagen es pública y accesible sin login.
+* Considera la privacidad: no todo contenido debe ser público.
+* Aprovecha las otras opciones: renombrar, mover, descargar o eliminar.
 
 </p>
