@@ -20,4 +20,16 @@
 * Respaldas límites y controles: tamaño máximo y tipo de contenido.
 * Manejas permisos con row-level security en Storage y en la base de datos por separado.
 * Si migras assets a otro servicio, solo actualizas la URL, no mueves blobs.
+
+<strong> ¿Qué flujo garantiza imágenes visibles en posts y perfiles? </strong>
+
+Si el bucket es público, la URL pública se abre en cualquier navegador sin autenticación. Si prefieres privacidad, utiliza sign URLs y ajusta las políticas de acceso. En ambos casos, la tabla de posts debe guardar la URL exacta que genera Storage.
+
+<strong> ¿Cuáles son los pasos del flujo recomendado?</strong>
+
+* Subir el archivo al bucket de Storage.
+* Obtener la URL pública que devuelve Storage.
+* Guardar esa URL en la columna image_url de la tabla de posts.
+* Consultar los posts desde el front end y renderizar cada imagen con su URL.
+
 </p>
