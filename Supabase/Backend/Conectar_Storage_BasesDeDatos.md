@@ -4,4 +4,6 @@
 
 <h3> ¿Cómo se relacionan storage y base de datos en Supabase? </h3>
 
-<p align="left"> </p>
+<p align="left"> Supabase Storage y la base de datos funcionan como piezas complementarias. Storage aloja los archivos reales: imágenes, videos o documentos. La base de datos guarda la metadata: autor, título, descripción, likes, fecha y la URL pública que apunta al archivo.
+
+</p>
