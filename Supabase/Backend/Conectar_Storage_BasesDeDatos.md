@@ -32,4 +32,25 @@ Si el bucket es público, la URL pública se abre en cualquier navegador sin aut
 * Guardar esa URL en la columna image_url de la tabla de posts.
 * Consultar los posts desde el front end y renderizar cada imagen con su URL.
 
+<strong> ¿Qué buenas prácticas evitan errores comunes? </strong>
+
+* Guardar siempre la URL exacta, no rutas relativas ni solo el nombre del archivo.
+* Asegurar que el bucket sea público si no usarás autenticación en lectura.
+* Si el bucket es privado, usar sign URLs para lectura controlada.
+* Revisar políticas de row-level security: permitir lectura pública o con sign URLs según el caso.
+* Mantener la URL como fuente de verdad: si cambias de servicio o estructura, actualiza la URL en la tabla.
+
+<strong> ¿Qué habilidades y conceptos aplicas en tu proyecto? </strong>
+
+Entiendes el patrón recomendado por Supabase para escalabilidad, eficiencia y control: archivo en Storage, URL en la base de datos y render en el front end. En un proyecto como Suplaxigram, cada post tiene autor, caption, fecha y una URL persistente que define qué imagen mostrar en el feed y en el perfil.
+
+* Supabase Storage: alojamiento de archivos con CDN y cacheo.
+* Base de datos: metadata estructurada (autor, título, descripción, likes, fecha, image_url).
+* URL pública: enlace que conecta registro y archivo para render inmediato.
+* Bucket público: acceso sin autenticación para visibilidad abierta.
+* sign URLs: acceso temporal cuando el bucket es privado.
+* row-level security: políticas de lectura y escritura para proteger archivos y datos.
+* Patrón de integración: subir a Storage → obtener URL → guardar URL en la tabla → renderizar en el front end.
+* Portabilidad de assets: cambiar de proveedor actualizando solo la URL en los registros.
+
 </p>
