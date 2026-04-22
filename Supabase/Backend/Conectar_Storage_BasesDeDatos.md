@@ -53,4 +53,12 @@ Entiendes el patrón recomendado por Supabase para escalabilidad, eficiencia y c
 * Patrón de integración: subir a Storage → obtener URL → guardar URL en la tabla → renderizar en el front end.
 * Portabilidad de assets: cambiar de proveedor actualizando solo la URL en los registros.
 
+<strong> Relación de bases de datos con el storage: </strong>
+
+* Storage -> es donde se almacenas los archivos (imágenes, documentos)
+* Base de datos -> donde se guarda la metadata (quién subió, cuándo, la URL pública, y otros datos).
+* URL pública: enlace que conecta registro y archivo para render inmediato.
+
+Patrón de integración: subir a Storage → obtener URL → guardar URL en la tabla → renderizar en el front end.
+
 </p>
