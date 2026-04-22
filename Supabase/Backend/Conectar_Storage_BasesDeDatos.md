@@ -61,4 +61,9 @@ Entiendes el patrón recomendado por Supabase para escalabilidad, eficiencia y c
 
 Patrón de integración: subir a Storage → obtener URL → guardar URL en la tabla → renderizar en el front end.
 
+<strong> Arquitectura de Almacenamiento </strong>
+
+* Storage: Contenedor de archivos pesados (imágenes, videos, documentos).
+* Base de datos: Gestor de metadatos (autor, fecha, descripción) y URL pública del archivo.
+
 </p>
