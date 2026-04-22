@@ -70,4 +70,16 @@ Patrón de integración: subir a Storage → obtener URL → guardar URL en la t
 
 La columna image_url en tu tabla vincula el registro con el archivo físico. Nunca guardes archivos binarios en la base de datos; usa la URL para mantener la eficiencia, aprovechar el CDN y facilitar futuras migraciones.
 
+<strong> Flujo de Trabajo </strong>
+
+* Subida: El archivo se envía al Storage.
+* Obtención: Se recupera la URL pública generada.
+* Persistencia: Se guarda dicha URL en la base de datos.
+
+<strong> Consideraciones Clave </strong>
+
+* Visibilidad: Configura el bucket como público o usa Signed URLs según tus necesidades de seguridad.
+* Integridad: Almacena siempre la URL completa, evitando rutas relativas.
+* Seguridad: Define políticas de Row-Level Security (RLS) independientes tanto para el Storage como para la base de datos.
+
 </p>
