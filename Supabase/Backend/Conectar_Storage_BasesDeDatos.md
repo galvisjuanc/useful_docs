@@ -66,4 +66,8 @@ Patrón de integración: subir a Storage → obtener URL → guardar URL en la t
 * Storage: Contenedor de archivos pesados (imágenes, videos, documentos).
 * Base de datos: Gestor de metadatos (autor, fecha, descripción) y URL pública del archivo.
 
+<strong> El Puente: La URL </strong>
+
+La columna image_url en tu tabla vincula el registro con el archivo físico. Nunca guardes archivos binarios en la base de datos; usa la URL para mantener la eficiencia, aprovechar el CDN y facilitar futuras migraciones.
+
 </p>
