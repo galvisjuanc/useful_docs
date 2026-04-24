@@ -3,3 +3,13 @@
 <p align="left"> Conecta tu base de datos de Supabase con un frontend real en minutos. Aquí verás cómo clonar el repositorio inicial, correrlo en tu máquina, preparar las variables de entorno y crear el cliente de Supabase para leer y escribir datos sin partir desde cero. </p>
 
 <h3> ¿Cómo pasar de base de datos a interfaz con Supabase? </h3>
+
+<p align="left"> El objetivo es vincular tu proyecto de Supabase con un frontend listo para usar. Partes de un repo preconfigurado para “Suplatigram”, lo clonas, instalas dependencias y lo ejecutas con datos moqueados. Luego, configuras variables de entorno y el cliente de Supabase para comenzar a consumir datos reales.
+
+<strong> ¿Dónde clonar el repositorio de frontend en GitHub? </strong>
+
+* Abre el enlace del repo en la sección de recursos de GitHub.
+* Copia el link para clonar por SSH o HTTPS.
+* Clona en la carpeta donde trabajarás.
+* Verifica la carpeta “Supervise fundamentos”.
+* Cambia de rama con git checkout a “clase doce inicio”. </p>
