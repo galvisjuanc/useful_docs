@@ -12,4 +12,14 @@
 * Copia el link para clonar por SSH o HTTPS.
 * Clona en la carpeta donde trabajarás.
 * Verifica la carpeta “Supervise fundamentos”.
-* Cambia de rama con git checkout a “clase doce inicio”. </p>
+* Cambia de rama con git checkout a “clase doce inicio”. 
+
+<strong> ¿Cómo instalar dependencias y ejecutar en localhost? </strong> 
+
+* Corre npm install para instalar dependencias.
+* Inicia el servidor con npm run dev.
+* Abre tu navegador en localhost:3000.
+* Verás el frontend con data moqueada: avatar, título, usuario, tiempo de publicación, imagen, likes y caption.
+
+
+</p>
