@@ -45,4 +45,18 @@ Para conectar con tu proyecto real, prepara el archivo de entorno y crea el clie
 * Pega ambos valores en tu .env para que el frontend los use.
 * Si tu proyecto es de Next.js con app router, esta configuración encaja perfecto.
 
+<strong> ¿Cómo instalar la librería y crear el cliente en JavaScript? </strong>
+
+* Detén el servidor de desarrollo.
+* Instala la librería oficial de Supabase para JavaScript.
+* La documentación también muestra opción por CDN, pero seguimos la instalación por paquete.
+* Importa la función create client desde la librería.
+* Inicializa el cliente con la URL y la clave anónima desde variables de entorno.
+* Crea el archivo utils/client.ts y exporta la constante de Supabase.
+* Con eso, podrás consumir el cliente en cualquier página o función para leer o crear data.
+
+<strong> ¿Qué flujo de trabajo seguir a partir de aquí? </strong>
+
+Con el entorno listo, ya tienes el cliente configurado, el .env conectado y el proyecto corriendo. El siguiente paso es leer posts reales desde Supabase, mostrar imágenes del storage y construir el feed de Suplaxigram directamente en la interfaz. Verás cómo lo hecho en el backend cobra vida en el frontend.
+
 </p>
