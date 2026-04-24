@@ -32,4 +32,17 @@
 * Uso de Next.js Image y React useState para render y estado.
 * Ranking que ordena los posts por likes en orden descendente.
 
+<strong> ¿Cómo configurar variables de entorno y el cliente de Supabase? </strong>
+
+Para conectar con tu proyecto real, prepara el archivo de entorno y crea el cliente. Así, cada página podrá leer y crear datos en tu base.
+
+<strong> ¿Qué variables copiar del panel de Supabase? </strong>
+
+* Renombra el archivo “M punto example” a .env.
+* Desde tu panel de Supabase, entra a project overview.
+* Haz clic en Connect en la barra superior.
+* En App Framework copia la URL y la clave anónima.
+* Pega ambos valores en tu .env para que el frontend los use.
+* Si tu proyecto es de Next.js con app router, esta configuración encaja perfecto.
+
 </p>
