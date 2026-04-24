@@ -21,3 +21,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/Subir_Imagenes_Supabase_Dashboard.md"> Subir imagenes a Supabase bucket desde dashboard </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/Conectar_Storage_BasesDeDatos.md"> Cómo conectar Storage y base de datos </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/Conectar_Frontend_Supabase.md"> Conectar frontend con Supabase en minutos </a>
