@@ -21,5 +21,15 @@
 * Abre tu navegador en localhost:3000.
 * Verás el frontend con data moqueada: avatar, título, usuario, tiempo de publicación, imagen, likes y caption.
 
+<strong> ¿Qué trae el proyecto inicial del frontend? </strong>
+
+* Carpeta de componentes y carpeta de mocks con listado de posts.
+* Página de crear post y página de rank.
+* Utilidad get time ago para mostrar “publicado hace X tiempo”.
+* Homepage con listado de posts y navegación entre páginas.
+* Componente del corazón para dar like que cambia de color al hacer clic.
+* Modal para ver el post en detalle en escritorio.
+* Uso de Next.js Image y React useState para render y estado.
+* Ranking que ordena los posts por likes en orden descendente.
 
 </p>
