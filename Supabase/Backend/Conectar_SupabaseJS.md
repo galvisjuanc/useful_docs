@@ -62,4 +62,37 @@ Para construir el rank necesitas una consulta más específica: seleccionar colu
 * Ordenar por likes en forma descendente.
 * Usar limit 10 para validar rápido; luego puedes retirarlo.
 
+        // Estado y reemplazo de mocks en la vista de rank
+        const [posts, setPosts] = useState<any[]>([]);
+
+        useEffect(() => {
+        async function fetchRank() {
+            const { data, error } = await supabase
+            .from('posts')
+            .select('id, image_url, caption, likes')
+            .gt('likes', 5)
+            .order('likes', { ascending: false });
+
+            if (error) {
+            console.error('Error al obtener el ranking:', error);
+            return;
+            }
+            setPosts(data ?? []); // aquí reemplazas los mocks
+        }
+
+        fetchRank();
+        }, []);
+
+<strong> ¿Cómo mover la lógica de home a rank? </strong>
+
+* Haz la prueba en la página principal para validar el patrón.
+* Traslada la consulta al rank para mantener cada vista acotada.
+* Ajusta el render según la nueva forma de la data.
+
+<strong> ¿Qué decisiones de UI temporales aparecen? </strong>
+
+* Si no hay usuario, mostrar "default user" junto al avatar.
+* Avatar en blanco de forma temporal.
+* Fecha simplificada mientras llega el campo correcto.
+
 </p>
