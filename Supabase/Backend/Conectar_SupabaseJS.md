@@ -38,4 +38,28 @@
         return <main>{/* render según tu UI */}</main>;
         }
 
+<strong> ¿Qué valida esta primera integración? </strong>
+
+* Que el client se conecte correctamente.
+* Que la lectura refleje lo mismo que ves en el dashboard de Supabase.
+* Que el ciclo de vida de React con useEffect dispare la consulta al inicio.
+
+<strong> ¿De qué forma ordenar y filtrar posts por likes con Supabase JS? </strong>
+
+Para construir el rank necesitas una consulta más específica: seleccionar columnas puntuales, filtrar por mínimo de likes, ordenar de forma descendente y, si hace falta, limitar resultados para pruebas. Luego, reemplazas los mocks por esta data.
+
+
+    // Consulta para el ranking
+    const { data, error } = await supabase
+    .from('posts')
+    .select('id, image_url, caption, likes')
+    .gt('likes', 5)                 // mayor que 5
+    .order('likes', { ascending: false }) // descendente
+    .limit(10);                     // opcional durante las pruebas
+
+* Solo traer columnas necesarias: id, image_url, caption, likes.
+* Filtrar posts con al menos seis likes.
+* Ordenar por likes en forma descendente.
+* Usar limit 10 para validar rápido; luego puedes retirarlo.
+
 </p>
