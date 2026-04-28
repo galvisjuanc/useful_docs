@@ -23,3 +23,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/Conectar_Storage_BasesDeDatos.md"> Cómo conectar Storage y base de datos </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/Conectar_Frontend_Supabase.md"> Conectar frontend con Supabase en minutos </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/Conectar_SupabaseJS.md"> Conectar Supabase JS con datos reales del ranking </a>
