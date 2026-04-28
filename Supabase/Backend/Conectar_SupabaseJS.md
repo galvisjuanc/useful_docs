@@ -95,4 +95,20 @@ Para construir el rank necesitas una consulta más específica: seleccionar colu
 * Avatar en blanco de forma temporal.
 * Fecha simplificada mientras llega el campo correcto.
 
+<strong> ¿Qué ajustes en Next.js permiten renderizar imágenes de Supabase? </strong>
+
+Next.js requiere declarar el dominio de imágenes externas para que el componente Image las sirva. Agrega el dominio de tu storage de Supabase en el archivo de configuración y podrás ver las fotos del ranking ordenadas por likes, tal como llegan desde la base.
+
+
+    // next.config.js
+    module.exports = {
+    images: {
+        domains: ['<tu-proyecto>.supabase.co'], // dominio exacto de tu instancia
+    },
+    };
+
+* Añadir el dominio específico del storage como proveedor de imágenes.
+* Verificar que el ranking muestre imágenes y conteo de likes correcto.
+* Aceptar errores esperables al clicar nombres/fechas si aún no se mapean esos campos.
+
 </p>
