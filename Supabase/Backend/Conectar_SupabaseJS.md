@@ -11,4 +11,31 @@
 * Renderizar la llamada dentro de useEffect.
 * Validar en la consola que llegan los datos: caption, fecha de creación, id, imagen, likes, actualización y usuario.
 
+        // app/page.tsx o pages/index.tsx
+        import { useEffect, useState } from 'react';
+        import { supabase } from '@/utils/client'; // tu cliente ya inicializado
+
+        export default function Home() {
+        const [posts, setPosts] = useState<any[]>([]);
+
+        useEffect(() => {
+            async function fetchPosts() {
+            const { data, error } = await supabase
+                .from('posts')
+                .select('*');
+
+            if (error) {
+                console.error('Error al obtener los posts:', error);
+                return;
+            }
+            console.log('Posts:', data);
+            setPosts(data ?? []);
+            }
+
+            fetchPosts();
+        }, []);
+
+        return <main>{/* render según tu UI */}</main>;
+        }
+
 </p>
