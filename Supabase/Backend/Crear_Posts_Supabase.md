@@ -33,5 +33,11 @@ Tras ajustar las políticas, el front end permite publicar y devuelve un objeto 
 * Se compone un filename agregando un timestamp del momento.
 * Se define el path dentro de la carpeta “post” del bucket de imágenes.
 
+<strong> ¿Cómo se sube y se obtiene la url pública? </strong>
+
+* Se llama al storage para subir el archivo al bucket “imágenes”.
+* Se usa el file path preparado y un cache-control 3600 como parámetro por defecto.
+* Tras subir, se solicita la public URL desde el storage y se muestra en consola.
+
 </p>
 
