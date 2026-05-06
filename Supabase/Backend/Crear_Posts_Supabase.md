@@ -9,4 +9,15 @@
 * Subir imagen al storage y confirmar carga completa.
 * Obtener la get URL para uso en la API.
 * Enviar POST con user ID e image URL.
-* Confirmar respuesta 201 creado al ejecutar el llamado.</p>
+* Confirmar respuesta 201 creado al ejecutar el llamado.
+
+De inmediato se valida en el editor de tabla que el nuevo registro se creó correctamente. Se ve que:
+
+* Los campos de creado y actualizado se completan de forma automática.
+* caption no aparece porque no se envió.
+* likes se inicializa en cero por defecto.
+* El nombre del archivo puede diferir si proviene del nombre original de la imagen.
+
+Este proceso “manual” refleja lo que hace la librería Supabase JS cuando trabajas desde el front end: primero sube al storage, luego obtiene la URL pública y finalmente inserta el registro en la tabla.
+</p>
+
