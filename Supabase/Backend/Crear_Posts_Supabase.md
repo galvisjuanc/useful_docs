@@ -19,5 +19,11 @@ De inmediato se valida en el editor de tabla que el nuevo registro se creó corr
 * El nombre del archivo puede diferir si proviene del nombre original de la imagen.
 
 Este proceso “manual” refleja lo que hace la librería Supabase JS cuando trabajas desde el front end: primero sube al storage, luego obtiene la URL pública y finalmente inserta el registro en la tabla.
+
+<strong> ¿Qué hace la librería supabase js en el front end? </strong>
+
+Se preparó una interfaz sencilla para cargar una imagen, escribir una caption y publicar. Al intentar publicar, surge un error de row level security: las políticas impedían insertar datos. Por efectos didácticos se aplicaron “permisos básicos” para permitir leer, insertar, actualizar y borrar mediante sentencias SQL, y así continuar con la demostración.
+
+Tras ajustar las políticas, el front end permite publicar y devuelve un objeto con la data del post: caption, fecha de creación, ID, URL de la imagen subida al storage, likes en cero, última actualización y user ID definido en el código. Todo coherente con los valores por defecto configurados.
 </p>
 
