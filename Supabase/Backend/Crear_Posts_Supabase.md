@@ -17,5 +17,7 @@ De inmediato se valida en el editor de tabla que el nuevo registro se creó corr
 * caption no aparece porque no se envió.
 * likes se inicializa en cero por defecto.
 * El nombre del archivo puede diferir si proviene del nombre original de la imagen.
+
+Este proceso “manual” refleja lo que hace la librería Supabase JS cuando trabajas desde el front end: primero sube al storage, luego obtiene la URL pública y finalmente inserta el registro en la tabla.
 </p>
 
