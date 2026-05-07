@@ -46,5 +46,13 @@ Tras ajustar las políticas, el front end permite publicar y devuelve un objeto 
 * Se controlan errores y se hace console log del post creado.
 * Se gestiona el submit del formulario y el render de la interfaz.
 
+<strong> ¿Qué habilidades y conceptos refuerzas con este flujo? </strong>
+
+Este flujo valida que storage, base de datos y front end están correctamente integrados con Supabase JS en Next.js. Además, practica habilidades clave para proyectos productivos:
+
+* Uso de storage: subida de archivos, carpeta “post” y rutas en bucket.
+* Construcción de requests POST con headers API key y authorization.
+* Lectura de estados de la API: confirmar 201 creado.
+
 </p>
 
