@@ -39,5 +39,12 @@ Tras ajustar las políticas, el front end permite publicar y devuelve un objeto 
 * Se usa el file path preparado y un cache-control 3600 como parámetro por defecto.
 * Tras subir, se solicita la public URL desde el storage y se muestra en consola.
 
+<strong> ¿Cómo se inserta el registro en la tabla post_new? </strong>
+
+* Se arma el objeto con user ID, image URL, caption y likes en cero.
+* Se inserta en la tabla post_new y se pide retornar todos los campos.
+* Se controlan errores y se hace console log del post creado.
+* Se gestiona el submit del formulario y el render de la interfaz.
+
 </p>
 
