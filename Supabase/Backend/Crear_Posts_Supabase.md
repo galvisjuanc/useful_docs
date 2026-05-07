@@ -53,6 +53,11 @@ Este flujo valida que storage, base de datos y front end están correctamente in
 * Uso de storage: subida de archivos, carpeta “post” y rutas en bucket.
 * Construcción de requests POST con headers API key y authorization.
 * Lectura de estados de la API: confirmar 201 creado.
+* Comprensión de row level security y políticas en SQL para permitir operaciones.
+* Manejo de nombres de archivo con timestamp y control de cache-control.
+* Inserción de registros con campos por defecto como likes en cero.
+* Visualización en un feed: imagen y caption desde el front end.
+* Observación de actividad en analíticas del dashboard para validar tráfico.
 
 </p>
 
