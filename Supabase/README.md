@@ -28,3 +28,4 @@
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/Crear_Posts_Supabase.md"> Crear posts reales con Supabase y Next.js </a>
 
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Supabase/Backend/ConectarFeed_Cronologico.md"> Como conectar un feed cronologico con Supabase </a>
