@@ -19,4 +19,10 @@
 * Detalle del post operativo.
 * Ranking de posts por likes, usando la misma fuente de datos.
 
+<strong> ¿Qué data real estás viendo? </strong>
+
+* 33 posts: 31 del import SQL y 2 nuevos (uno desde la API y otro desde el front end).
+* Un post reciente creado con default user y 0 likes.
+* Un post sin caption creado desde la API muestra solo el usuario que lo publicó.
+
 </p>
