@@ -12,4 +12,11 @@
 * Imágenes y captions renderizados en la interfaz.
 * Likes visibles por publicación.
 * Avatar y usuario aún no conectados; se integrarán más adelante.
+
+<strong> ¿Qué piezas principales quedan listas? </strong>
+
+* Home con feed conectado a data real.
+* Detalle del post operativo.
+* Ranking de posts por likes, usando la misma fuente de datos.
+
 </p>
