@@ -4,4 +4,12 @@
 
 <h3> ¿Qué construirás y con qué datos reales? </h3>
 
-<p align="left"> Vas a unir todo lo avanzado: lectura y creación de datos desde Supabase, y las vistas básicas del front end. El objetivo es que el feed muestre todos los posts con su imagen y caption en orden cronológico (más recientes primero), igual que una red social. </p>
+<p align="left"> Vas a unir todo lo avanzado: lectura y creación de datos desde Supabase, y las vistas básicas del front end. El objetivo es que el feed muestre todos los posts con su imagen y caption en orden cronológico (más recientes primero), igual que una red social. 
+
+<strong> ¿Cómo lucirá el feed con orden cronológico? </strong>
+
+* Posts ordenados por la columna de creación en modo descendente.
+* Imágenes y captions renderizados en la interfaz.
+* Likes visibles por publicación.
+* Avatar y usuario aún no conectados; se integrarán más adelante.
+</p>
