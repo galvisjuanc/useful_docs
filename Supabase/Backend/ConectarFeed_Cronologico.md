@@ -25,4 +25,8 @@
 * Un post reciente creado con default user y 0 likes.
 * Un post sin caption creado desde la API muestra solo el usuario que lo publicó.
 
+<strong> ¿Cómo integrar la consulta de Supabase en el home? </strong>
+
+Primero, importa el client de Supabase y prepara el estado de posts. Luego, usa useEffect para consultar la tabla que contiene los posts y ordenar por fecha de creación en descendente. Reemplaza el mock por la data real con setPosts.
+
 </p>
