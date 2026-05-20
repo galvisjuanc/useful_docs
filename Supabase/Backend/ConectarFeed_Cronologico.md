@@ -80,4 +80,24 @@ Supabase entrega created_at como string. Si usas una utilidad tipo getTimeAgo, c
 
 *Ese pequeño “glitch” corresponde al tiempo de respuesta de Supabase al traer la data real.
 
+<strong>¿Qué sigue tras conectar front end y backend? </strong>
+
+
+Con el feed público ya en marcha, puedes crear posts nuevos y ranquear según likes. Tus vistas principales quedan listas: home, crear post y ranking, todas alimentadas con Supabase. El siguiente paso es subir el proyecto a producción para compartirlo.
+
 </p>
+
+<h3> Conexión del Feed Cronológico con Supabase </h3>
+
+<p> 
+<strong> Integración de Datos Reales </strong>
+
+* Consulta a Supabase: Se implementa una consulta que extrae todos los campos de la tabla posts.
+* Ordenamiento: Se utiliza el criterio created_at en modo descendente para asegurar que las publicaciones más recientes aparezcan al inicio.
+* Gestión de Estado: Se reemplaza el mock de datos estáticos por el estado dinámico (setPosts) alimentado directamente por la respuesta de la API.
+
+<strong> Limpieza y Optimización </strong>
+
+* Conversión de Fechas: Se ajusta el formato de fecha (de string a objeto Date) para que la función getTimeAgo procese correctamente la antigüedad de los posts.
+* Eliminación de Mock: Se remueve el archivo de datos falsos y se inicializa el estado como un array vacío para evitar parpadeos visuales durante la carga inicial.
+* Consolidación: El Home, el detalle del post y el ranking ahora operan bajo una única fuente de verdad conectada al backend. </p>
