@@ -58,4 +58,11 @@ Primero, importa el client de Supabase y prepara el estado de posts. Luego, usa 
 * Usa .order('created_at', { ascending: false }) para ver lo más reciente arriba.
 * Renderiza la lista con la data real recibida en setPosts.
 
+
+<strong> ¿Cómo resolver el error de fecha tipo string? </strong>
+
+Supabase entrega created_at como string. Si usas una utilidad tipo getTimeAgo, conviértelo antes a Date para evitar errores con getTime.
+
+
+
 </p>
