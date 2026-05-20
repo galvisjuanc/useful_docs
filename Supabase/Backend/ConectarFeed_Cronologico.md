@@ -57,4 +57,5 @@ Primero, importa el client de Supabase y prepara el estado de posts. Luego, usa 
 * Consulta a Supabase desde la tabla de posts (por ejemplo, post_new).
 * Usa .order('created_at', { ascending: false }) para ver lo más reciente arriba.
 * Renderiza la lista con la data real recibida en setPosts.
+
 </p>
