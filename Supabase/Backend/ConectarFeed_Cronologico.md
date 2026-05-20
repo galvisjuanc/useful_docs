@@ -29,4 +29,27 @@
 
 Primero, importa el client de Supabase y prepara el estado de posts. Luego, usa useEffect para consultar la tabla que contiene los posts y ordenar por fecha de creación en descendente. Reemplaza el mock por la data real con setPosts.
 
+    import { useEffect, useState } from 'react';
+    import { supabase } from '@/lib/client';
+
+    export default function Home() {
+    const [posts, setPosts] = useState([]);
+
+    useEffect(() => {
+        const fetchPosts = async () => {
+        const { data, error } = await supabase
+            .from('post_new')
+            .select('*')
+            .order('created_at', { ascending: false });
+
+        if (!error) setPosts(data || []);
+        };
+
+        fetchPosts();
+    }, []);
+
+    // render del feed con imágenes y captions...
+    return null;
+    }
+
 </p>
