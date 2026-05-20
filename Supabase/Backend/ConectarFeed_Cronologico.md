@@ -69,4 +69,15 @@ Supabase entrega created_at como string. Si usas una utilidad tipo getTimeAgo, c
 
 * Convierte la fecha con new Date(...) antes de pasarla a tu util.
 * Así, el cálculo de tiempo transcurrido funciona correctamente.
+
+<strong> ¿Cómo limpiar el estado y eliminar el glitch del mock? </strong>
+
+* Elimina el mock y deja solo el type si te hace falta para el tipado.
+* Inicializa el estado como arreglo vacío para no mostrar datos falsos al refrescar.
+* Quita el console log y cualquier referencia al mock.
+
+    const [posts, setPosts] = useState([]); // evita mostrar el mock por un segundo
+
+*Ese pequeño “glitch” corresponde al tiempo de respuesta de Supabase al traer la data real.
+
 </p>
