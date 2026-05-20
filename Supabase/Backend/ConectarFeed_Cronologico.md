@@ -63,6 +63,10 @@ Primero, importa el client de Supabase y prepara el estado de posts. Luego, usa 
 
 Supabase entrega created_at como string. Si usas una utilidad tipo getTimeAgo, conviértelo antes a Date para evitar errores con getTime.
 
+    // Antes de formatear tiempos relativos:
+    const createdAt = new Date(post.created_at);
+    const label = getTimeAgo(createdAt);
 
-
+* Convierte la fecha con new Date(...) antes de pasarla a tu util.
+* Así, el cálculo de tiempo transcurrido funciona correctamente.
 </p>
