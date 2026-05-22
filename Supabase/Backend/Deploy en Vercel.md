@@ -16,4 +16,10 @@
 * Inicia sesión o regístrate con Gmail, GitHub, Bitbucket o GitLab.
 * Accede a tu panel de proyectos.
 
+<strong> ¿Cómo importar el repositorio y elegir la rama? </strong>
+
+* Crea un proyecto nuevo e importa el repo.
+* Revisa la rama que usará como principal (p. ej., main).
+* Confirma el scope de tu cuenta y el nombre interno.
+* Haz clic en Crear para iniciar la importación.
 </p>
