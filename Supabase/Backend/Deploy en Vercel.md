@@ -10,4 +10,10 @@
 * Plataforma: Vercel, creadores de Next.js.
 * Resultado: tu app accesible y funcionando igual que en local, pero en la nube. 
 
+<strong>¿Cómo iniciar sesión y acceder al panel de Vercel? </strong>
+
+* Entra a vercel.com.
+* Inicia sesión o regístrate con Gmail, GitHub, Bitbucket o GitLab.
+* Accede a tu panel de proyectos.
+
 </p>
