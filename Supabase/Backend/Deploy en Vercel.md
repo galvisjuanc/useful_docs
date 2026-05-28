@@ -22,4 +22,10 @@
 * Revisa la rama que usará como principal (p. ej., main).
 * Confirma el scope de tu cuenta y el nombre interno.
 * Haz clic en Crear para iniciar la importación.
+
+<strong> ¿Qué pasos seguir para configurar variables de entorno en Vercel? </strong>
+
+Si aparece un error de pre-render o falta de URL, casi siempre es por variables de entorno ausentes. La conexión a Supabase se hace desde el front con dos datos: URL y key. Debes migrar tu .env del repo al apartado de Variables de entorno en Vercel.
+
+
 </p>
