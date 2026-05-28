@@ -35,4 +35,11 @@ Si aparece un error de pre-render o falta de URL, casi siempre es por variables 
         npm run build
 
 Si corres el build sin variables, falla tanto en la nube como en local.
+
+<strong> ¿Cómo resolver el error de pre-render? </strong>
+
+* Ve a Settings del proyecto.
+* Entra a Variables de entorno.
+* Pega el contenido del .env con URL y key de Supabase.
+* Guarda y ejecuta redeploy.
 </p>
