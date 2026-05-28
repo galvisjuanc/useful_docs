@@ -31,4 +31,8 @@ Si aparece un error de pre-render o falta de URL, casi siempre es por variables 
 * Acción: pega el contenido de tu .env; Vercel detecta los dos ítems.
 * Advertencia: Vercel avisa que la key es "insegura"; para efectos prácticos se deja así.
 * Siguiente paso: guardar y hacer redeploy.
+
+        npm run build
+
+Si corres el build sin variables, falla tanto en la nube como en local.
 </p>
