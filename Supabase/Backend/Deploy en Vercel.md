@@ -27,5 +27,8 @@
 
 Si aparece un error de pre-render o falta de URL, casi siempre es por variables de entorno ausentes. La conexión a Supabase se hace desde el front con dos datos: URL y key. Debes migrar tu .env del repo al apartado de Variables de entorno en Vercel.
 
-
+* Variables clave: URL y clave de Supabase.
+* Acción: pega el contenido de tu .env; Vercel detecta los dos ítems.
+* Advertencia: Vercel avisa que la key es "insegura"; para efectos prácticos se deja así.
+* Siguiente paso: guardar y hacer redeploy.
 </p>
