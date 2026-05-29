@@ -48,4 +48,10 @@ Si corres el build sin variables, falla tanto en la nube como en local.
 * Vercel muestra una alerta por la key.
 * Para avanzar, se mantiene la configuración actual.
 * Quedará pendiente endurecer accesos más adelante.
+
+<strong> ¿Cómo validar el deployment y activar el flujo automático? </strong>
+
+Tras guardar las variables, inicia el redeploy. En la página del deployment verás la terminal instalando dependencias y ejecutando el build. Cuando el estado sea ready, Vercel asigna un dominio y tu app queda pública.
+
+
 </p>
