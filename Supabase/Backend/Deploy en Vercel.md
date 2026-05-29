@@ -56,4 +56,12 @@ Tras guardar las variables, inicia el redeploy. En la página del deployment ver
 * Estado ready: confirma que el build fue exitoso.
 * Dominio asignado: la app queda disponible en Internet.
 * Verificación: revisa las vistas como el ranking y la data desde Supabase.
+
+<strong> ¿Qué muestra la página de deployment? </strong>
+
+* Detalle del entorno de producción.
+* Rama desplegada, por ejemplo, main.
+* Último commit integrado.
+* Progreso de instalación y build mediante la CLI de Vercel.
+
 </p>
