@@ -42,4 +42,10 @@ Si corres el build sin variables, falla tanto en la nube como en local.
 * Entra a Variables de entorno.
 * Pega el contenido del .env con URL y key de Supabase.
 * Guarda y ejecuta redeploy.
+
+<strong> ¿Qué considerar sobre la seguridad de la key? </strong>
+
+* Vercel muestra una alerta por la key.
+* Para avanzar, se mantiene la configuración actual.
+* Quedará pendiente endurecer accesos más adelante.
 </p>
