@@ -53,5 +53,7 @@ Si corres el build sin variables, falla tanto en la nube como en local.
 
 Tras guardar las variables, inicia el redeploy. En la página del deployment verás la terminal instalando dependencias y ejecutando el build. Cuando el estado sea ready, Vercel asigna un dominio y tu app queda pública.
 
-
+* Estado ready: confirma que el build fue exitoso.
+* Dominio asignado: la app queda disponible en Internet.
+* Verificación: revisa las vistas como el ranking y la data desde Supabase.
 </p>
