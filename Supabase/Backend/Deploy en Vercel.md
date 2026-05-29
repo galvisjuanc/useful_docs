@@ -64,4 +64,11 @@ Tras guardar las variables, inicia el redeploy. En la página del deployment ver
 * Último commit integrado.
 * Progreso de instalación y build mediante la CLI de Vercel.
 
+<strong> ¿Qué sigue después del primer despliegue? </strong>
+
+* Comparte el enlace público con quien quieras.
+* Prueba en dispositivos móviles y valida carga de imágenes.
+* Mantén el flujo automático de deploy con GitHub: cada push dispara un nuevo despliegue.
+* Agrega seguridad más adelante para controlar creación de cuentas.
+
 </p>
