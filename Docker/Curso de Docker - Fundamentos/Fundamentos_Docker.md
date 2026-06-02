@@ -18,5 +18,10 @@ Aunque pueda confundirse con máquinas virtuales, un contenedor es algo distinto
 * Volúmenes.
 * Imágenes previas necesarias para crear nuevos contenedores.
 
+<strong> ¿Qué diferencia a Docker de otros conceptos tecnológicos? </strong>
+
+A menudo se mezclan términos como microservicios, Kubernetes y Docker, pensando equivocadamente que son sinónimos. En realidad, estas tecnologías tienen definiciones y aplicaciones particulares que, aunque participen integradas en ciertos procesos, presentan diferencias considerables entre ellas.
+
+Docker te permite específicamente crear y gestionar contenedores individuales. Mientras que Kubernetes se centra en la gestión, orquestación y despliegue de múltiples contenedores dentro de infraestructuras más grandes. Por su parte, los microservicios describen un estilo arquitectónico en el que las aplicaciones se componen de módulos pequeños e independientes.
 
 </p>
