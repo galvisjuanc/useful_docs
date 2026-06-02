@@ -8,7 +8,15 @@
 
 <strong> ¿Qué es un contenedor? </strong>
 
-Un contenedor es una unidad ligera y portátil que incluye todo lo necesario para ejecutar una aplicación, haciéndola consistente y fácil de mover entre diferentes entornos. Son eficientes en recursos y proporcionan aislamiento para evitar conflictos entre aplicaciones
+Un contenedor es una unidad ligera y portátil que incluye todo lo necesario para ejecutar una aplicación, haciéndola consistente y fácil de mover entre diferentes entornos. Son eficientes en recursos y proporcionan aislamiento para evitar conflictos entre aplicaciones.
+
+<strong> ¿Qué es realmente un contenedor en Docker? </strong>
+
+Aunque pueda confundirse con máquinas virtuales, un contenedor es algo distinto: es un espacio aislado donde empaquetas toda tu solución, incluyendo dependencias y configuraciones. Esto permite que el proyecto, al transportarse de un lugar a otro, funcione exactamente igual sin importar factores externos, como el sistema operativo o ambiente. Gracias al docker daemon, o el corazón de Docker, puedes gestionar eficazmente:
+
+* Redes.
+* Volúmenes.
+* Imágenes previas necesarias para crear nuevos contenedores.
 
 
 </p>
