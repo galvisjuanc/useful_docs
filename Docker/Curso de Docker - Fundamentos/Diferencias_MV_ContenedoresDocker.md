@@ -19,3 +19,10 @@
 * Bajo requisito de hardware: requieren significativamente menos recursos que las máquinas virtuales, facilitando soluciones complejas en equipos menos poderosos.
 * Escalabilidad simplificada: debido a su naturaleza compacta, estos entornos permiten una escalabilidad flexible, adaptada tanto a necesidades específicas del software como a presupuestos variables.
 * Facilidad para microservicios: Docker apoya la fragmentación de aplicaciones en soluciones más pequeñas (microservicios), facilitando la administración y actualización por módulo. </p>
+
+<h3> ¿Cómo difiere el aislamiento entre máquinas virtuales y Docker? </h3>
+
+<p align="left"> La diferencia central entre ambas tecnologías radica en cómo gestionan el aislamiento de los entornos de trabajo:
+
+* Máquinas virtuales: su aislamiento comienza desde el nivel de hardware, pasando por el sistema operativo y llegando al software, requiriendo múltiples capas dependientes entre sí.
+* Contenedores Docker: su aislamiento es más eficiente, pues no dependen directamente del hardware ni del sistema operativo anfitrión, funcionando independientemente sin necesidad de instalaciones adicionales. </p>
