@@ -10,3 +10,12 @@
 * Uso de hardware real dedicado: asignan secciones físicas de tu computadora específicamente para el uso en entornos virtualizados, como disco duro o memoria RAM.
 * Simulaciones seguras: útiles para practicar temas sensibles como ciberseguridad, donde errores o ataques no afectan los recursos principales.
 * Facilidad para respaldar configuraciones: permiten múltiples copias de seguridad del entorno entero, facilitando la restauración y clonación del sistema configurado. </p>
+
+<h3> ¿Cuáles son las fortalezas específicas de los contenedores Docker? </h3>
+
+<p align="left"> La contenerización mediante Docker redefine completamente la forma en que se distribuye y ejecuta el entorno de software, ofreciendo ventajas sustanciales sobre métodos tradicionales. Entre ellas:
+
+* Uniformidad absoluta del entorno: los contenedores garantizan que todos los desarrolladores trabajen exactamente bajo las mismas condiciones.
+* Bajo requisito de hardware: requieren significativamente menos recursos que las máquinas virtuales, facilitando soluciones complejas en equipos menos poderosos.
+* Escalabilidad simplificada: debido a su naturaleza compacta, estos entornos permiten una escalabilidad flexible, adaptada tanto a necesidades específicas del software como a presupuestos variables.
+* Facilidad para microservicios: Docker apoya la fragmentación de aplicaciones en soluciones más pequeñas (microservicios), facilitando la administración y actualización por módulo. </p>
