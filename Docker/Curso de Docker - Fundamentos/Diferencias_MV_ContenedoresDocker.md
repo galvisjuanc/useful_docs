@@ -26,3 +26,20 @@
 
 * Máquinas virtuales: su aislamiento comienza desde el nivel de hardware, pasando por el sistema operativo y llegando al software, requiriendo múltiples capas dependientes entre sí.
 * Contenedores Docker: su aislamiento es más eficiente, pues no dependen directamente del hardware ni del sistema operativo anfitrión, funcionando independientemente sin necesidad de instalaciones adicionales. </p>
+
+<h3> Características de las VM y los Contenedores Docker </h3>
+
+<p align="left"> <strong> VM (Virtual Machines) </strong>
+
+* Aislamiento: Las VMs proporcionan un aislamiento completo, ya que ejecutan un sistema operativo completo independiente del host.
+* Recurso Intensivo: Las VMs pueden consumir más recursos, porque cada una tiene su propio sistema operativo y una cantidad significativa de recursos dedicados.
+* Arranque Más Lento: El arranque de una VM es más lento, puesto que implica iniciar un sistema operativo completo.
+* Hypervisor: Las VMs se ejecutan en un hipervisor, que gestiona y asigna recursos para cada máquina virtual.
+
+<strong> Contenedores Docker </strong>
+
+* Aislamiento Ligero: Los contenedores comparten el mismo kernel del sistema operativo del host, lo que proporciona un aislamiento más ligero.
+* Eficiencia de Recursos: Los contenedores son más eficientes en términos de recursos, ya que comparten el mismo sistema operativo y solo incluyen las bibliotecas y dependencias necesarias.
+* Arranque Rápido: Los contenedores tienen un arranque rápido, por el hecho de que no requieren iniciar un sistema operativo completo.
+* Docker, Containerd, etc.: Docker es una de las tecnologías de contenedores más populares, y otras implementaciones incluyen containerd, rkt, etc.
+</p>
