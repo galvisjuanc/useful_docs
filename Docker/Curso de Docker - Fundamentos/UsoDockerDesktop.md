@@ -4,4 +4,12 @@
 
 <h3> ¿Qué es el Learning Center en Docker Desktop? </h3>
 
-<p align="left"> El Learning Center es una sección muy valorada por los usuarios debido a su amplio contenido educativo. Este espacio incluye categorías de lenguajes de programación comunes en Docker, ofreciendo guías y ejemplos prácticos que permiten comenzar a utilizar Docker fácilmente y adquirir nuevas habilidades en distintos lenguajes. </p>
+<p align="left"> El Learning Center es una sección muy valorada por los usuarios debido a su amplio contenido educativo. Este espacio incluye categorías de lenguajes de programación comunes en Docker, ofreciendo guías y ejemplos prácticos que permiten comenzar a utilizar Docker fácilmente y adquirir nuevas habilidades en distintos lenguajes. 
+
+<strong> ¿Cuáles son las principales secciones en Docker Desktop y cómo utilizarlas? </strong>
+
+Docker Desktop presenta diferentes áreas clave:
+
+* Sección de contenedores
+    * Aquí visualizarás y gestionarás los diversos contenedores que crearás progresivamente mientras utilizas Docker.
+</p>
