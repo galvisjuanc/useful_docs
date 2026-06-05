@@ -25,4 +25,16 @@ Docker Desktop presenta diferentes áreas clave:
 
         * Son entornos que unifican versiones y herramientas utilizadas por los desarrolladores, garantizando coherencia en los proyectos. Actualmente en versión beta, promete ser de gran relevancia próximamente.
 
+<strong> Volúmenes en Docker </strong>
+
+Son espacios de almacenamiento que funcionan como enlaces entre tu sistema operativo real y los contenedores Docker. Cualquier cambio en estos volúmenes es reflejado simultáneamente en ambos entornos, facilitando la gestión de archivos compartidos.
+
+<strong> ¿Cómo configurar Docker Desktop adecuadamente? </strong>
+
+Docker Desktop ofrece varias opciones de configuración esenciales, disponibles desde un pequeño ícono de engrane ubicado en la esquina superior derecha:
+
+* Seleccionar el tema visual.
+* Configurar la compatibilidad con WSL (Windows Subsystem for Linux).
+* Ajustar la autoactualización del software para disponer siempre de la última versión de Docker.
+
 </p>
