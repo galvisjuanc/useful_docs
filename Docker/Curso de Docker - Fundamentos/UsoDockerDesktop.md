@@ -12,4 +12,12 @@ Docker Desktop presenta diferentes áreas clave:
 
 * Sección de contenedores
     * Aquí visualizarás y gestionarás los diversos contenedores que crearás progresivamente mientras utilizas Docker.
+
+* Sección de imágenes
+    
+    Está organizada en tres categorías principales:
+
+    * Locales: imágenes almacenadas directamente en tu equipo.
+    * Remotas: imágenes alojadas en Docker Hub.
+    * Artefactos: en estado "Early Access", destinadas a colecciones y análisis mediante la herramienta Docker Scout.
 </p>
