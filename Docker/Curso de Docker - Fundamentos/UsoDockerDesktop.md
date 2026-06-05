@@ -20,4 +20,9 @@ Docker Desktop presenta diferentes áreas clave:
     * Locales: imágenes almacenadas directamente en tu equipo.
     * Remotas: imágenes alojadas en Docker Hub.
     * Artefactos: en estado "Early Access", destinadas a colecciones y análisis mediante la herramienta Docker Scout.
+
+* Sección de Ambientes de Desarrollo (Dev Environments)
+
+        * Son entornos que unifican versiones y herramientas utilizadas por los desarrolladores, garantizando coherencia en los proyectos. Actualmente en versión beta, promete ser de gran relevancia próximamente.
+
 </p>
