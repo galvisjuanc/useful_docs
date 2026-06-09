@@ -25,5 +25,17 @@ Docker Desktop tiene una interfaz visual amigable, pero es fundamental conocer s
 
 * Listar imágenes disponibles: docker images
 * Ver contenedores activos: docker ps
+* Explorar opcionews de comandos específicos con ayuda: docker images --help
+
+Estos comandos ofrecen funcionalidades equivalentes a las categorías gráficas, simplificando el intercambio entre interfaz gráfica y terminal.
+
+<strong> ¿Por qué aprovechar la documentación integrada de Docker? </strong>
+
+Docker facilita una documentación integrada extensa y clara a través del comando docker help o añadiendo --help tras comandos específicos. Es particularmente útil cuando trabajas con comandos complejos como:
+
+* docker build: Crea imágenes a partir de archivos Dockerfile.
+* docker run: Ejecuta contenedores a partir de imágenes disponibles.
+
+Ambos comandos tienen múltiples parámetros, pero la documentación proporcionada al utilizar --help facilita enormemente entender cada opción y explicación disponible.
 
 </p>
