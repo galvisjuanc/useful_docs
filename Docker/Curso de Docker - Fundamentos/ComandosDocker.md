@@ -19,4 +19,11 @@ Con el comando:
 
 Puedes acceder a detalles importantes sobre el hardware disponible o asignado a Docker en tu sistema. Muestra especificaciones relevantes como la memoria, procesador y GPU disponibles, información útil para decidir futuros ajustes en tu equipo.
 
+<strong> ¿Cuáles son los comandos básicos equivalentes a Docker Desktop? </strong>
+
+Docker Desktop tiene una interfaz visual amigable, pero es fundamental conocer su equivalente en línea de comandos. Estos son algunos ejemplos clave que puedes memorizar:
+
+* Listar imágenes disponibles: docker images
+* Ver contenedores activos: docker ps
+
 </p>
