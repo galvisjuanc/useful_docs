@@ -7,6 +7,16 @@
 <p align="left"> Una acción básica para comprobar nuestra instalación es utilizar la línea de comandos con el comando:
 
 
-    [object Object],[object Object]
+    docker --version
 
-Este comando confirma que Docker está instalado correctamente y muestra la versión actual y el build correspondiente, asegurando que todo esté listo para trabajar sin complicaciones.</p>
+Este comando confirma que Docker está instalado correctamente y muestra la versión actual y el build correspondiente, asegurando que todo esté listo para trabajar sin complicaciones.
+
+<strong> ¿Qué información relevante aporta docker info? </strong> 
+
+Con el comando:
+
+    docker info 
+
+Puedes acceder a detalles importantes sobre el hardware disponible o asignado a Docker en tu sistema. Muestra especificaciones relevantes como la memoria, procesador y GPU disponibles, información útil para decidir futuros ajustes en tu equipo.
+
+</p>
