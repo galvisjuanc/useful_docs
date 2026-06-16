@@ -8,4 +8,14 @@
 
 * Dockerfile: Es el punto inicial del proceso.
 * Al ejecutar el comando build, este archivo se convierte en una Docker image.
-* Finalmente, con el comando docker run, esta imagen se despliega obteniendo un Dockercontainer.</p>
+* Finalmente, con el comando docker run, esta imagen se despliega obteniendo un Dockercontainer.
+
+Este contenedor funciona como un ejecutable que permite visualizar diferentes servicios o sitios web correctamente.
+
+<strong> ¿Qué herramientas se necesitan para facilitar el trabajo con Docker? </strong>
+
+Para mejorar la experiencia y claridad al trabajar con Docker, especialmente en VS Code, es relevante:
+
+* Crear un archivo Dockerfile sin extensiones adicionales (por ejemplo, "dockerfile", no "dockerfile.docker").
+* Instalar la extensión oficial de Docker proporcionada por Microsoft en VS Code, que ofrece resaltado de sintaxis y facilita la lectura y edición del archivo Dockerfile.
+</p>
