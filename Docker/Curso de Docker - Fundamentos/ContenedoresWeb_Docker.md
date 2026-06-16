@@ -32,5 +32,15 @@ Para convertir un archivo HTML en un sitio web accesible mediante Docker, es nec
 
     Esto indica que se estará trabajando con la versión más reciente del servidor web Nginx.
 
+* Copiar los archivos HTML dentro de la imagen: Luego de elegir la imagen base, el siguiente paso es copiar los archivos HTML o el contenido del sitio web local hacia la ubicación correspondiente dentro de la estructura de Nginx. Para facilitar el proceso y la memoria, es recomendable escribir la ruta previamente como comentario:
+
+        # /usr/share/nginx/html
+
+    Finalmente, para realizar la copia efectiva del archivo HTML contenido en la carpeta local (por ejemplo, llamada sitio) hacia Nginx, la instrucción será:
+
+        COPY /sitio /usr/share/nginx/html
+
+    Así, todos los archivos HTML copiados en dicha ruta pueden visualizarse automáticamente como un sitio web gracias a las propiedades del servidor Nginx.
+
 
 </p>
