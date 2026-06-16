@@ -4,4 +4,8 @@
 
 <h3> ¿Cómo se transforma un Dockerfile en contenedor Docker? </h3>
 
-<p align="left"> </p>
+<p align="left"> La transformación del archivo Dockerfile a un Dockercontainer sucede en etapas:
+
+* Dockerfile: Es el punto inicial del proceso.
+* Al ejecutar el comando build, este archivo se convierte en una Docker image.
+* Finalmente, con el comando docker run, esta imagen se despliega obteniendo un Dockercontainer.</p>
