@@ -18,4 +18,14 @@ Para mejorar la experiencia y claridad al trabajar con Docker, especialmente en 
 
 * Crear un archivo Dockerfile sin extensiones adicionales (por ejemplo, "dockerfile", no "dockerfile.docker").
 * Instalar la extensión oficial de Docker proporcionada por Microsoft en VS Code, que ofrece resaltado de sintaxis y facilita la lectura y edición del archivo Dockerfile.
+
+Estas decisiones simplifican la estructura y organización del trabajo realizado con Docker.
+
+<strong> ¿Cómo utilizar Nginx para mostrar una plantilla HTML como un sitio web mediante Docker? </strong>
+
+Para convertir un archivo HTML en un sitio web accesible mediante Docker, es necesario utilizar la imagen oficial de Nginx disponible en Docker Hub, por seguir estos pasos clave:
+
+* Seleccionar la imagen de Nginx: Es importante escoger la imagen oficial del servidor web Nginx desde Docker Hub, ya que este es ampliamente utilizado y facilita considerablemente el despliegue de sitios web.
+
+
 </p>
