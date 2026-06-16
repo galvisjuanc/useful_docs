@@ -26,6 +26,11 @@ Estas decisiones simplifican la estructura y organización del trabajo realizado
 Para convertir un archivo HTML en un sitio web accesible mediante Docker, es necesario utilizar la imagen oficial de Nginx disponible en Docker Hub, por seguir estos pasos clave:
 
 * Seleccionar la imagen de Nginx: Es importante escoger la imagen oficial del servidor web Nginx desde Docker Hub, ya que este es ampliamente utilizado y facilita considerablemente el despliegue de sitios web.
+* Crear la imagen en Dockerfile: Dentro del archivo Dockerfile, se debe agregar la instrucción para obtener la imagen base, escribiendo:
+
+        FROM nginx
+
+    Esto indica que se estará trabajando con la versión más reciente del servidor web Nginx.
 
 
 </p>
