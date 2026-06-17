@@ -8,4 +8,15 @@
 
     docker build .
 
-Este comando indica que la creación se hará utilizando los pasos establecidos en tu Dockerfile desde la posición actual. Docker realizará automáticamente cada instrucción detallada dentro del archivo, por ejemplo, descargar una imagen base o copiar archivos específicos.</p>
+Este comando indica que la creación se hará utilizando los pasos establecidos en tu Dockerfile desde la posición actual. Docker realizará automáticamente cada instrucción detallada dentro del archivo, por ejemplo, descargar una imagen base o copiar archivos específicos.
+
+<strong>¿Por qué poner nombre y etiqueta a la imagen Docker? </strong>
+
+Al generar una imagen de la forma más rápida, esta aparece por defecto sin nombre ni etiqueta, mostrando None en ambos espacios. Aunque es posible, no es recomendable, ya que dificulta la identificación y gestión de tus imágenes.
+
+Por lo tanto, es mejor práctica etiquetar explícitamente tus imágenes. Para etiquetar la imagen desde un principio, usa el comando:
+
+    docker build -t sitio_web:latest .
+
+Usando -t, estableces un nombre claro (en este caso "sitio_web") y una etiqueta "latest", que indica la última versión disponible de tu contenido. Esto mejora sustancialmente la administración cuando tienes múltiples versiones o variaciones del mismo sitio o aplicación.
+</p>
