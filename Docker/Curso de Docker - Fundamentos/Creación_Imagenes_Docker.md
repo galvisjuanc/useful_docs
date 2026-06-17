@@ -28,4 +28,18 @@ Si creaste una imagen sin etiqueta o con un nombre incorrecto, puedes eliminarla
 
 El parámetro -f representa una eliminación forzada, especialmente útil si existen dependencias involucradas. Tras eliminar, puedes nuevamente recrear tu imagen utilizando el nombre y la etiqueta adecuados.
 
+<strong> Qué es un Dockerfile</strong>
+
+Un Dockerfile es un archivo de texto con instrucciones que define cómo construir una imagen de Docker. Imagina que es la receta de una torta: describe los ingredientes y pasos necesarios para crearla.
+
+La imagen de Docker es el resultado final de ese Dockerfile, como la torta ya horneada. Es un paquete listo para usarse que contiene todo lo necesario para ejecutar una aplicación.
+
+Los contenedores son las instancias en funcionamiento de esas imágenes, como porciones de la torta que se sirven en platos. Puedes ejecutar múltiples contenedores de la misma imagen, cada uno aislado y listo para funcionar.
+
+Así que, en resumen:
+
+* Dockerfile: receta.
+* Docker image: torta horneada.
+* Contenedor: porción servida.
+
 </p>
