@@ -19,4 +19,13 @@ Por lo tanto, es mejor práctica etiquetar explícitamente tus imágenes. Para e
     docker build -t sitio_web:latest .
 
 Usando -t, estableces un nombre claro (en este caso "sitio_web") y una etiqueta "latest", que indica la última versión disponible de tu contenido. Esto mejora sustancialmente la administración cuando tienes múltiples versiones o variaciones del mismo sitio o aplicación.
+
+<strong> ¿Cómo eliminar una imagen Docker? </strong>
+
+Si creaste una imagen sin etiqueta o con un nombre incorrecto, puedes eliminarla para mantener tu trabajo ordenado. Utiliza para esto el comando siguiente:
+
+    docker rmi -f <identificador_de_la_imagen>
+
+El parámetro -f representa una eliminación forzada, especialmente útil si existen dependencias involucradas. Tras eliminar, puedes nuevamente recrear tu imagen utilizando el nombre y la etiqueta adecuados.
+
 </p>
