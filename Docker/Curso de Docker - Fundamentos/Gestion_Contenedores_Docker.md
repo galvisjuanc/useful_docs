@@ -37,4 +37,10 @@ Para localizar un archivo dentro del contenedor en Docker Desktop:
 * En Docker Desktop, ingresa a la categoría exec del contenedor.
 * Usa ls para listar contenidos y verificar que files específicos (como linktree.html) estén implementados correctamente.
 
+Al acceder desde el navegador, utiliza el puerto que especificaste en docker run:
+
+    localhost:8080/linktree.html
+
+Esto te conectará directamente al contenedor Docker ejecutando tu servidor web (como Nginx), mostrando los beneficios clave de Docker en entornos locales, sin necesidad de instalar software adicional en tu computadora.
+
 </p>
