@@ -6,4 +6,13 @@
 
 <p align="left"> Docker Desktop permite correr contenedores fácilmente con solo presionar Play o Run. Aunque útil para desarrollo local, esta opción visual limita la automatización y productividad fuera del entorno de desarrollo.
 
-La alternativa idónea para producciones o automatizaciones está en utilizar comandos específicos como docker run, que además provee información interactiva del contenedor ejecutándose. </p>
+La alternativa idónea para producciones o automatizaciones está en utilizar comandos específicos como docker run, que además provee información interactiva del contenedor ejecutándose. 
+
+<strong> ¿Qué comandos básicos de Docker debería conocer? </strong>
+
+Antes de ejecutar comandos específicos, conviene verificar imágenes y contenedores disponibles en tu entorno:
+
+* docker images: permite ver imágenes existentes.
+* docker ps: muestra contenedores en ejecución actualmente.
+
+</p>
