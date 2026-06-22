@@ -15,4 +15,16 @@ Antes de ejecutar comandos específicos, conviene verificar imágenes y contened
 * docker images: permite ver imágenes existentes.
 * docker ps: muestra contenedores en ejecución actualmente.
 
+Cuando quieras ejecutar un contenedor desde la línea de comandos, puedes usar la siguiente estructura básica:
+
+    docker run -it --rm -d -p 8080:80 --name web sitio_web
+
+Cada parámetro tiene un propósito específico:
+
+* -it: interacción directa con el contenedor para ver logs o mensajes.
+* --rm: elimina versiones anteriores del contenedor al terminar.
+* -d: ejecuta el contenedor, listo para usarse posteriormente.
+* -p: expone puertos y gestiona conexiones entre el host y el contenedor (8080:80 significa que localmente usarás el puerto 8080 y la aplicación exactamente puerto 80).
+* --name: asigna un nombre al contenedor para fácil identificación.
+
 </p>
