@@ -27,4 +27,14 @@ Cada parámetro tiene un propósito específico:
 * -p: expone puertos y gestiona conexiones entre el host y el contenedor (8080:80 significa que localmente usarás el puerto 8080 y la aplicación exactamente puerto 80).
 * --name: asigna un nombre al contenedor para fácil identificación.
 
+<strong> ¿Cómo acceder a archivos específicos dentro del contenedor? </strong>
+
+Docker facilita verificar archivos directamente en contenedores en ejecución usando Docker Desktop o la terminal de comandos (exec).
+
+Para localizar un archivo dentro del contenedor en Docker Desktop:
+
+* Copia la ruta de interés desde tu editor VS Code.
+* En Docker Desktop, ingresa a la categoría exec del contenedor.
+* Usa ls para listar contenidos y verificar que files específicos (como linktree.html) estén implementados correctamente.
+
 </p>
