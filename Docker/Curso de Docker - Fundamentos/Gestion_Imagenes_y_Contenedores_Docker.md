@@ -8,6 +8,13 @@
 
     docker build --tag sitio_web22:2.1.5 .
 
+Aquí puedes definir según tus preferencias el nombre y número de versión, lo que facilita la identificación posterior de cada versión particular.
+
+<strong> ¿Cuál es la forma eficiente de filtrar y encontrar imágenes Docker? </strong>
+
+Al trabajar con múltiples imágenes, utilizar filtros en la línea de comandos simplifica enormemente la búsqueda y gestión. Usa el parámetro filter para ubicar imágenes según su tag específico:
+
+    docker images --filter=reference="*:1.0"
 
 
 </p>
