@@ -8,6 +8,8 @@
 
     docker build --tag sitio_web22:2.1.5 .
 
+Aquí puedes definir según tus preferencias el nombre y número de versión, lo que facilita la identificación posterior de cada versión particular.
+
 
 
 </p>
