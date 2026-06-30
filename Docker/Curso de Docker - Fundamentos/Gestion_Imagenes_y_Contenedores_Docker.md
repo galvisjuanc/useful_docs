@@ -24,6 +24,14 @@ Docker habitualmente muestra IDs resumidos. Para mostrar el ID real completo del
 
     docker images --no-trunc
 
+Esto proporciona mayor detalle cuando necesitas identificar inequívocamente imágenes usadas en distintos contextos.
 
+<strong> ¿Cómo actualizar y eliminar etiquetas fácilmente? </strong>
+
+Docker permite modificar etiquetas (tags) sin necesidad de reconstrucción, ejecutando simplemente:
+
+    docker image tag sitio_web:latest amin/sitio_web:latest
+
+Para eliminar etiquetas (no imágenes completas), usa el comando:
 
 </p>
