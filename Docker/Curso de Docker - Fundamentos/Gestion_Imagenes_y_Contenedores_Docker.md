@@ -36,6 +36,14 @@ Para eliminar etiquetas (no imágenes completas), usa el comando:
 
     docker rmi amin/sitio_web:latest
 
+<strong> ¿De qué forma puedes forzar la eliminación de imágenes Docker? </strong>
+
+Si intentas borrar una imagen activa (en uso por alguno de tus contenedores), Docker arroja un error. Una solución eficiente es el uso del parámetro -f (force):
+
+    docker rmi -f <IMAGE_ID>
+
+Esto eliminará la imagen inmediatamente, deteniendo también cualquier contenedor relacionado.
+
 
 
 </p>
