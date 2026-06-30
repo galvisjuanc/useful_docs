@@ -15,3 +15,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Docker/Curso%20de%20Docker%20-%20Fundamentos/Creación_Imagenes_Docker.md"> Creación y etiquetado de imágenes Docker desde Dockerfile </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Docker/Curso%20de%20Docker%20-%20Fundamentos/Gestion_Contenedores_Docker.md"> Gestión de Contenedores Docker: Comandos y Docker Desktop </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Docker/Curso%20de%20Docker%20-%20Fundamentos/Gestion_Imagenes_y_Contenedores_Docker.md"> Gestión de Imagenes y Contenedores en Docker </a>
