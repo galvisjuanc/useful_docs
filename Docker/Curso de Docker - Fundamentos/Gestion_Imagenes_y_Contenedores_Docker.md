@@ -16,5 +16,14 @@ Al trabajar con múltiples imágenes, utilizar filtros en la línea de comandos 
 
     docker images --filter=reference="*:1.0"
 
+Así obtendrás únicamente aquellas imágenes etiquetadas con un tag específico, evitando revisar largas listas.
+
+<strong> ¿Cómo visualizar el ID completo de tus imágenes Docker? </strong>
+
+Docker habitualmente muestra IDs resumidos. Para mostrar el ID real completo del tipo SHA-256, emplea el parámetro --no-trunc:
+
+    docker images --no-trunc
+
+
 
 </p>
