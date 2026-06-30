@@ -34,4 +34,8 @@ Docker permite modificar etiquetas (tags) sin necesidad de reconstrucción, ejec
 
 Para eliminar etiquetas (no imágenes completas), usa el comando:
 
+    docker rmi amin/sitio_web:latest
+
+
+
 </p>
