@@ -42,4 +42,13 @@ Para ver aún más detalles, puedes complementar el comando con dos opciones adi
     * Memoria consumida.
     * Actividad de red y discos.
 
+<strong> Comando Docker Stats </strong>
+
+Escribe el comando docker stats en la terminal para obtener un resumen rápido y tabular del consumo de recursos de cada contenedor activo. Esto es especialmente útil para monitorear continuamente el rendimiento desde tu línea de comandos.
+
+
+    docker stats
+
+Utilizar estas herramientas te proporcionará una excelente visibilidad sobre cómo están operando tus contenedores y permitirá tomar decisiones informadas sobre su gestión eficiente.
+
 </p>
