@@ -29,3 +29,17 @@ Para ver aún más detalles, puedes complementar el comando con dos opciones adi
 * docker ps -a: muestra todos los contenedores creados, incluidos aquellos que ya no están activos.
 * docker ps --size: añade una columna adicional mostrando el tamaño real de cada contenedor, útil para control de recursos.
 </p>
+
+<h3> ¿Cómo monitorear el consumo de recursos de los contenedores Docker? </h3>
+
+<p align="left"> Observar cómo consumen recursos tus contenedores en ejecución es fundamental para una gestión efectiva. Existen dos maneras prácticas:
+
+<strong> Monitoreo mediante Docker Desktop </strong>
+
+* Ingresa a Docker Desktop y selecciona tu contenedor activo.
+* Dirígete a la pestaña "Estadísticas" para ver en tiempo real gráficos sobre:
+    * Uso del CPU.
+    * Memoria consumida.
+    * Actividad de red y discos.
+
+</p>
