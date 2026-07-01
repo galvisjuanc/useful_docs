@@ -23,4 +23,9 @@ El comando docker ps presenta de forma resumida y práctica información esencia
 * Estatus: indica "up" si está activo y funcionando sin problemas.
 * Puertos: mapeo de puertos del contenedor al entorno local.
 * Nombres: identificación dada al contenedor para su manejo interno.
+
+Para ver aún más detalles, puedes complementar el comando con dos opciones adicionales:
+
+* docker ps -a: muestra todos los contenedores creados, incluidos aquellos que ya no están activos.
+* docker ps --size: añade una columna adicional mostrando el tamaño real de cada contenedor, útil para control de recursos.
 </p>
