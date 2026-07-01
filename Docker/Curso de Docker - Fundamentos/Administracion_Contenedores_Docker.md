@@ -1,0 +1,3 @@
+<h2> Administración de Contenedores Docker: Comandos y Prácticas Esenciales </h2>
+
+<p align="left"> Dominar la gestión de contenedores es esencial cuando trabajas con Docker, especialmente si ejecutas múltiples instancias de una misma aplicación. Aquí aprenderás los comandos clave para administrar contenedores con confianza y eficiencia, desde su creación hasta la revisión de estadísticas en tiempo real. </p>
