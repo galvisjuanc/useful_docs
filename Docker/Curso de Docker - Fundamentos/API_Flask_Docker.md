@@ -16,6 +16,14 @@ Con este comando, la aplicación Flask comienza a ejecutarse localmente. Copiand
 
 Cuando deseas asegurar que la aplicación tenga el mismo comportamiento en cualquier ambiente, Docker es una herramienta extremadamente útil. Esto implica crear un Dockerfile para preparar tu aplicación y entorno.
 
+<strong> ¿Qué es un Dockerfile y cómo crearlo para una API Python? </strong>
 
+Un archivo Dockerfile incluye instrucciones específicas usando palabras reservadas que Docker reconoce:
+
+* FROM: Define la imagen base que utilizarás (por ejemplo, python:3.12-alpine3.17).
+* WORKDIR: Establece el directorio de trabajo dentro del contenedor (generalmente /app para Python).
+* COPY: Transfiere archivos o directorios hacia tu contenedor.
+* RUN: Ejecuta comandos dentro del contenedor como instalación de dependencias.
+* CMD: Dicta el comando a ejecutar cuando el contenedor inicie.
 
 </p>
