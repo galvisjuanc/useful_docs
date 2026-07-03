@@ -10,4 +10,12 @@ Para visualizar el resultado podrás ejecutar un comando simple desde la termina
 
     python -m flask run
 
+Con este comando, la aplicación Flask comienza a ejecutarse localmente. Copiando la IP proporcionada con su respectivo puerto, luego puedes acceder desde un navegador agregando el método específico al final del URL (por ejemplo, /GetMyInfo). De esta forma, obtendrás confirmación visual del correcto funcionamiento de tu API.
+
+<strong> ¿Cómo desplegar una API Python dentro de Docker? </strong>
+
+Cuando deseas asegurar que la aplicación tenga el mismo comportamiento en cualquier ambiente, Docker es una herramienta extremadamente útil. Esto implica crear un Dockerfile para preparar tu aplicación y entorno.
+
+
+
 </p>
