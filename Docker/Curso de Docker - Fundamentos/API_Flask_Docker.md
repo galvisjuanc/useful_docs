@@ -26,4 +26,15 @@ Un archivo Dockerfile incluye instrucciones específicas usando palabras reserva
 * RUN: Ejecuta comandos dentro del contenedor como instalación de dependencias.
 * CMD: Dicta el comando a ejecutar cuando el contenedor inicie.
 
+Aquí un ejemplo basado en la API Python mencionada:
+
+    FROM python:3.12-alpine3.17
+    WORKDIR /app
+    COPY requirements.txt requirements.txt
+    RUN pip install -r requirements.txt
+    COPY . .
+    CMD ["python", "-m", "flask", "run"]
+
+Cada instrucción sigue una secuencia determinada, esencial para que Docker entienda la estructura y dónde alojar los elementos necesarios para correr tu aplicación.
+
 </p>
