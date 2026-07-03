@@ -37,4 +37,12 @@ Aquí un ejemplo basado en la API Python mencionada:
 
 Cada instrucción sigue una secuencia determinada, esencial para que Docker entienda la estructura y dónde alojar los elementos necesarios para correr tu aplicación.
 
+<strong> ¿Por qué Docker es útil para diferentes proyectos tecnológicos? </strong>
+
+Docker utiliza términos estándar como FROM, WORKDIR, COPY, RUN y CMD, independientemente de la tecnología o plataforma que elijas trabajar. Esto significa que puedes usar estos mismos conceptos aplicados a:
+
+* Herramientas de infraestructura.
+* Bases de datos.
+* Múltiples lenguajes de programación.
+
 </p>
