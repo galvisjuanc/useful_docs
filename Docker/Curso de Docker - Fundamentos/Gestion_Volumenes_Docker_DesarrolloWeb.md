@@ -20,5 +20,7 @@ Una manera práctica es desplegar un sitio web localmente usando el servidor web
 
         docker run -v ./sitio:/usr/share/nginx/html/sitio nginx
 
+Con este comando, se comparte directamente el contenido del directorio local sitio dentro del contenedor Docker.
 
+* Al modificar localmente los archivos HTML, como cambiar imágenes en la propiedad src, los cambios aparecen inmediatamente en el navegador web al recargar la página.
 </p>
