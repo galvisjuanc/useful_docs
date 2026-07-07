@@ -9,4 +9,16 @@
 * Cambios en páginas web activas.
 * Integración periódica de grandes volúmenes de datos.
 
+Es importante subrayar que esta interacción se realiza exclusivamente con contenedores activos, no con imágenes almacenadas.
+
+<strong> ¿Cómo implementar un volumen en un proyecto sencillo con Docker? </strong>
+
+Una manera práctica es desplegar un sitio web localmente usando el servidor web Nginx. El procedimiento es sencillo:
+
+1. Se crea una carpeta local llamada sitio que contiene archivos HTML y recursos gráficos en assets.
+2. En la terminal, se ingresa:
+
+        docker run -v ./sitio:/usr/share/nginx/html/sitio nginx
+
+
 </p>
