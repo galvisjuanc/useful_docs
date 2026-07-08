@@ -33,4 +33,9 @@ Se debe usar Copy -->
 * Proyectos estáticos, sin necesidad frecuente o continua de actualización.
 * Cuando deseas mantener una copia permanente y aislada del contenido original dentro de la imagen Docker.
 
+Es recomendable utilizar un volumen --> 
+
+* Para proyectos que necesitan ser actualizados con frecuencia o mientras están corriendo.
+* En casos de análisis de datos que requieren ingresar continuamente nueva información.
+
 </p>
