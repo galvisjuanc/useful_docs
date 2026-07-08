@@ -38,4 +38,17 @@ Es recomendable utilizar un volumen -->
 * Para proyectos que necesitan ser actualizados con frecuencia o mientras están corriendo.
 * En casos de análisis de datos que requieren ingresar continuamente nueva información.
 
+<strong> Resumen </strong>
+
+* Los Volúmenes en Docker son unidades de almacenamiento que actúan como carpetas compartidas bidireccionales entre la máquina anfitriona y un contenedor activo.
+* Su propósito principal es establecer un puente de comunicación para facilitar la actualización constante y eficiente de contenidos.
+* Permiten que las modificaciones realizadas en el sistema de archivos local se reflejen instantáneamente dentro del contenedor en ejecución.
+* Esto es vital para proyectos que requieren actualización continua (como un sitio web activo) sin detener o reconstruir el contenedor.
+* La interacción con los volúmenes se realiza exclusivamente con contenedores activos, no con las imágenes base.
+* La implementación práctica se realiza con el comando docker run -v, mapeando la ruta local a la ruta del contenedor.
+* El comando de ejemplo es docker run -v ./sitio:/usr/share/nginx/html/sitio nginx para montar un sitio web Nginx.
+* Los volúmenes difieren del comando COPY del Dockerfile en su naturaleza de persistencia.
+* COPY es ideal para proyectos estáticos o para mantener una copia aislada y permanente dentro de la imagen.
+* Se recomienda usar Volúmenes para proyectos dinámicos que necesitan ingresar datos continuamente o requieren una modificación mientras están corriendo.
+
 </p>
