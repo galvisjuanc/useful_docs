@@ -25,8 +25,12 @@ Con este comando, se comparte directamente el contenido del directorio local sit
 * Al modificar localmente los archivos HTML, como cambiar imágenes en la propiedad src, los cambios aparecen inmediatamente en el navegador web al recargar la página.
 
 <strong> ¿Qué diferencias existen entre copiar y crear volúmenes? </strong>
+
 Existen diferencias claves entre los comandos Docker copy y utilizar volúmenes:
 
+Se debe usar Copy -->
 
+* Proyectos estáticos, sin necesidad frecuente o continua de actualización.
+* Cuando deseas mantener una copia permanente y aislada del contenido original dentro de la imagen Docker.
 
 </p>
