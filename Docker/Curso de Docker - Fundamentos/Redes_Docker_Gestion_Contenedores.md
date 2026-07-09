@@ -8,4 +8,14 @@
 
 * La IP asignada a cada contenedor.
 * Los puertos especificados.
-* El tipo de red utilizada, siendo común la opción denominada bridge o puente.</p>
+* El tipo de red utilizada, siendo común la opción denominada bridge o puente.
+
+<strong> ¿Cómo asignar una IP específica a un contenedor? </strong>
+
+Para asignar una dirección IP específica al contenedor, incluimos esta IP entre el parámetro -p y el puerto al ejecutar el comando docker run. Por ejemplo:
+
+    docker run -p 127.0.0.1:8080:80 nombre_contenedor
+
+Al hacerlo, Docker utilizará la IP indicada (en este caso, localhost). Este proceso es esencial para una correcta orquestación de contenedores y evitar conflictos en la administración de redes.
+
+</p>
