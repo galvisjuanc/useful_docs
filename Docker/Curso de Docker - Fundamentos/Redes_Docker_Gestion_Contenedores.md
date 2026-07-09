@@ -18,4 +18,13 @@ Para asignar una dirección IP específica al contenedor, incluimos esta IP entr
 
 Al hacerlo, Docker utilizará la IP indicada (en este caso, localhost). Este proceso es esencial para una correcta orquestación de contenedores y evitar conflictos en la administración de redes.
 
+<strong> ¿Qué tipos de redes se pueden utilizar en Docker? </strong>
+
+Docker ofrece diferentes categorías de redes para atender distintos requisitos:
+
+* Bridge: Red por defecto usada en la mayoría de los casos, permite la interacción entre contenedores y el entorno local.
+* Host: Facilita una comunicación exclusiva entre contenedores específicos, aislándolos del resto.
+* None: Garantiza el máximo aislamiento donde el contenedor no puede comunicarse con otros vía red.
+Además, podemos crear redes personalizadas según las necesidades del proyecto.
+
 </p>
