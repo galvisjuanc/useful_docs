@@ -39,4 +39,17 @@ Luego verificamos que la red se creó correctamente al usar:
 
 Esto nos permite organizar y segmentar los contenedores bajo nuestras propias configuraciones de red, facilitando un acceso específico y seguro.
 
+<strong> Commandos para los puertos </strong>
+
+-p 8080:80 Asigna el puerto 8080 del host Docker al puerto TCP 80 del contenedor.
+
+-p 192.168.1.100:8080:80 Asigna el puerto 8080 en el host Docker IP 192.168.1.100 al puerto TCP 80 en el contenedor.
+
+-p 8080:80/udp Asigna el puerto 8080 del host Docker al puerto UDP 80 del contenedor.
+
+-p 8080:80/tcp -p 8080:80/udp Asigna el puerto TCP 8080 en el host Docker al puerto TCP 80 en el contenedor, y asigna el puerto UDP 8080 en el host Docker al puerto UDP 80 en el contenedor.
+
+
+
+
 </p>
