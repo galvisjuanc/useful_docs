@@ -1,0 +1,3 @@
+<h2> Redes en Docker: Configuración y gestión eficiente de contenedores </h2>
+
+<p align="left"> Docker ofrece múltiples posibilidades para gestionar redes dentro de nuestros contenedores, permitiendo personalizar la interacción y accesibilidad entre ellos. Conocer cómo configurar correctamente las redes facilita la comunicación interna y externa, además de mejorar significativamente la seguridad mediante mínimos accesos necesarios. </p>
