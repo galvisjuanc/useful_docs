@@ -27,4 +27,16 @@ Docker ofrece diferentes categorías de redes para atender distintos requisitos:
 * None: Garantiza el máximo aislamiento donde el contenedor no puede comunicarse con otros vía red.
 Además, podemos crear redes personalizadas según las necesidades del proyecto.
 
+<strong> ¿Cómo crear redes personalizadas en Docker? </strong>
+
+Generar redes específicas adaptadas a nuestras necesidades es sencillo mediante comandos básicos:
+    
+    docker network create nombre_red
+
+Luego verificamos que la red se creó correctamente al usar:
+
+    docker network ls
+
+Esto nos permite organizar y segmentar los contenedores bajo nuestras propias configuraciones de red, facilitando un acceso específico y seguro.
+
 </p>
