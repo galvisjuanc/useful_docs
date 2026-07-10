@@ -1,0 +1,3 @@
+<h2> Publicación de Imágenes Docker en Docker Hub </h2>
+
+<p align="left"> Publicar tus imágenes Docker locales en Docker Hub permite compartirlas fácilmente con personas en diferentes partes del mundo. Utilizando esta plataforma, puedes convertir tus archivos locales en recursos disponibles públicamente, muy práctico para entornos educativos, colaborativos o productivos. Aprende claramente cómo subir tus imágenes con sencillos comandos y buenas prácticas a seguir. </p>
