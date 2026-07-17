@@ -11,5 +11,11 @@
 * Implementar imágenes para uso productivo en diversos entornos. 
 
 Es sencillo utilizar esta plataforma para compartir y mantener actualizados tus proyectos.
+
+<strong> ¿Cómo subir una imagen local a Docker Hub? </strong>
+
+Para subir una imagen Docker a Docker Hub, primero asegúrate de haber creado una cuenta en Docker Hub y utilizar tu nombre de usuario para etiquetar adecuadamente tu imagen. Sigue estos pasos:
+
+
 </p>
 
