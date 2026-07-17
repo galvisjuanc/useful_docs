@@ -58,5 +58,10 @@ En el caso de este ejemplo específico:
 
     docker run AminEspinosa/linkthree:latest
 
+Si la imagen no existe en su entorno local, Docker automáticamente la descargará desde Docker Hub.
+
+<strong> Recomendaciones finales para imágenes públicas </strong>
+
+Es importante documentar claramente en la descripción de tu imagen en Docker Hub qué hace esta imagen específicamente. Incluye información útil como la URL de acceso principal, operaciones clave o puertos utilizados. Esto facilitará enormemente su uso a otras personas interesadas.
 </p>
 
