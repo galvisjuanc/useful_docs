@@ -8,5 +8,8 @@
 
 * Quieres mostrar un sitio web a compañeros o al público general.
 * Colaborar en proyectos con otros equipos.
-* Implementar imágenes para uso productivo en diversos entornos. </p>
+* Implementar imágenes para uso productivo en diversos entornos. 
+
+Es sencillo utilizar esta plataforma para compartir y mantener actualizados tus proyectos.
+</p>
 
