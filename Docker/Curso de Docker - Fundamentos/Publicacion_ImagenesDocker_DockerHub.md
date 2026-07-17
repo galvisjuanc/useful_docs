@@ -22,6 +22,14 @@ Abre tu terminal o Docker Desktop y escribe el comando para iniciar sesión:
 
     docker login
 
+Luego, ingresa tus credenciales correspondientes a tu cuenta de Docker Hub (nombre de usuario y contraseña).
+
+Paso 2: Etiquetar tu imagen debidamente
+
+Es necesario seguir una sintaxis específica para etiquetar la imagen correctamente antes de subirla a Docker Hub. Usa el siguiente comando general:
+
+    docker build -t tu_nombre_usuario/nombre_imagen:versión .
+
 
 </p>
 
