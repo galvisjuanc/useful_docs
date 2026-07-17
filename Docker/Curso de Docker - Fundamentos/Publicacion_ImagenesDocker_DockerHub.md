@@ -30,6 +30,21 @@ Es necesario seguir una sintaxis específica para etiquetar la imagen correctame
 
     docker build -t tu_nombre_usuario/nombre_imagen:versión .
 
+Ejemplo práctico:
+
+    docker build -t AminEspinosa/linkthree:latest .
+
+Esto garantiza que Docker reconozca adecuadamente la cuenta de usuario a la que subirás dicha imagen.
+
+Paso 3: Subir la imagen al repositorio
+
+Una vez etiquetada correctamente, sube tu imagen escribiendo el comando:
+
+    docker push tu_nombre_usuario/nombre_imagen:versión
+
+Por ejemplo:
+
+    docker push AminEspinosa/linkthree:latest
 
 </p>
 
