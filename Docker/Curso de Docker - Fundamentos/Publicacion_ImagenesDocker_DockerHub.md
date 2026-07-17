@@ -16,6 +16,12 @@ Es sencillo utilizar esta plataforma para compartir y mantener actualizados tus 
 
 Para subir una imagen Docker a Docker Hub, primero asegúrate de haber creado una cuenta en Docker Hub y utilizar tu nombre de usuario para etiquetar adecuadamente tu imagen. Sigue estos pasos:
 
+Paso 1: Acceder desde la terminal
+
+Abre tu terminal o Docker Desktop y escribe el comando para iniciar sesión:
+
+    docker login
+
 
 </p>
 
