@@ -46,5 +46,17 @@ Por ejemplo:
 
     docker push AminEspinosa/linkthree:latest
 
+Dependiendo del tamaño de la imagen y la velocidad de tu conexión, este proceso puede durar desde algunos segundos hasta varios minutos.
+
+<strong> ¿Cómo descargar y utilizar una imagen pública de Docker Hub? </strong>
+
+Cuando alguien más, como Juan, desee descargar tu imagen Docker en su equipo local, solo necesitará ejecutar el comando:
+
+    docker run nombre_usuario/nombre_imagen:versión
+
+En el caso de este ejemplo específico:
+
+    docker run AminEspinosa/linkthree:latest
+
 </p>
 
