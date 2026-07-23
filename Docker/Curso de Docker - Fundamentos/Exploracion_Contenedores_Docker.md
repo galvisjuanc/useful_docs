@@ -14,4 +14,12 @@ Por ejemplo, al ejecutar:
     docker run -it imagen Docker /bin/bash
 
 Obtendrás acceso a la estructura Linux interna del contenedor directamente desde la línea de comandos.
+
+<strong> ¿Qué es el archivo "entrypoint" y cómo afecta a los contenedores? </strong>
+
+El archivo docker-entrypoint.sh es crucial, pues es el primer archivo en ejecutarse al desplegar un contenedor:
+
+* Si este archivo falla, el contenedor también dejará de funcionar instantáneamente.
+* Puedes observar esta dependencia ejecutando el comando docker ps, que muestra regularmente este archivo en la columna de comandos.
+
 </p>
