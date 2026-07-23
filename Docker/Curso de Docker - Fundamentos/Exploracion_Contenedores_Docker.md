@@ -7,4 +7,11 @@
 <p align="left"> Explorar la estructura interna de un contenedor Docker es esencial para comprender su funcionamiento:
 
 * Usa docker run seguido de comandos específicos (como /bin/bash, sh, ash) para cambiar el comportamiento inicial del contenedor.
-* Al ejecutar estos comandos, accedes directamente a las terminales Linux, permitiéndote navegar por sus archivos y directorios internos. </p>
+* Al ejecutar estos comandos, accedes directamente a las terminales Linux, permitiéndote navegar por sus archivos y directorios internos. 
+
+Por ejemplo, al ejecutar:
+
+    docker run -it imagen Docker /bin/bash
+
+Obtendrás acceso a la estructura Linux interna del contenedor directamente desde la línea de comandos.
+</p>
