@@ -22,4 +22,17 @@ El archivo docker-entrypoint.sh es crucial, pues es el primer archivo en ejecuta
 * Si este archivo falla, el contenedor también dejará de funcionar instantáneamente.
 * Puedes observar esta dependencia ejecutando el comando docker ps, que muestra regularmente este archivo en la columna de comandos.
 
+<strong> ¿En qué consiste el comando "docker inspect" y cómo usarlo? </strong>
+
+El comando docker inspect te permite visualizar características detalladas del contenedor:
+
+* Ofrece información específica sobre redes, puertos, almacenamiento y configuraciones de seguridad del contenedor.
+* Presenta datos en formato JSON, útiles para investigar detalles concretos de la imagen utilizada, incluyendo quién creó la imagen y qué configuraciones incluye.
+
+Ejemplo práctico:
+
+    docker inspect [identificador del contenedor]
+
+Este comando ofrece información como la configuración del proveedor de la imagen, rutas de funcionamiento, versión del software y varias propiedades útiles del contenedor.
+
 </p>
