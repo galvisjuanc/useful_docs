@@ -35,4 +35,13 @@ Ejemplo práctico:
 
 Este comando ofrece información como la configuración del proveedor de la imagen, rutas de funcionamiento, versión del software y varias propiedades útiles del contenedor.
 
+<strong> ¿Qué beneficios trae explorar imágenes Docker a detalle? </strong>
+
+Investigar las imágenes Docker detalladamente:
+
+* Te proporciona una comprensión profunda sobre cómo se configuran y mantienen.
+* Permite descubrir propiedades y configuraciones útiles que podrías aplicar a tus proyectos personales.
+
+Si sientes curiosidad por saber más acerca del contenido interno de tus imágenes Docker favoritas, usar estos comandos básicos te asegura horas de aprendizaje y un dominio más sólido del sistema operativo y Docker mismo.
+
 </p>
