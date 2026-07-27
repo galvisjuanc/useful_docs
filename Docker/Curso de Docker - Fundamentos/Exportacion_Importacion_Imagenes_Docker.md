@@ -8,4 +8,10 @@
 
 * Protocolos de red en organizaciones que impiden la transferencia de imágenes.
 * Ancho de banda insuficiente o demasiado lento.
-* Deseo de transferir imágenes utilizando dispositivos externos como memorias USB. </p>
+* Deseo de transferir imágenes utilizando dispositivos externos como memorias USB. 
+
+Con el comando docker save, puedes exportar fácilmente una imagen a un archivo, facilitando su traslado físico:
+
+    docker save AminEspinosa/link3 > link3.rar
+
+Este comando genera un archivo comprimido con todos los componentes de la imagen de Docker listos para transportar y compartir fácilmente.</p>
