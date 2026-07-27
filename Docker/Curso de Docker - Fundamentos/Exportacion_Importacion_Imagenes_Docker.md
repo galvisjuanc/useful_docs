@@ -24,3 +24,15 @@ Este comando genera un archivo comprimido con todos los componentes de la imagen
 * Un archivo manifest.json donde se especifican capas (layers) que representan cambios puntuales realizados a la imagen con anterioridad. 
 
 Cada capa identificada representa un punto específico en el tiempo que registra cambios, como nuevas librerías o modificaciones generales, creando así un archivo minuciosamente versátil y completo. </p>
+
+<h3> ¿Cómo cargar nuevamente una imagen Docker con Docker Load? </h3>
+
+<p align="left"> Una vez exportada una imagen, cargarla nuevamente en Docker es igual de sencillo. Para importar la imagen con docker load, solo debes ejecutar la siguiente instrucción:
+
+    docker load --input link3.rar
+
+Este comando restaurará la imagen empaquetada previamente y la visualizarás fácilmente listada dentro de Docker Desktop o escribiendo en terminal:
+
+    docker images
+
+Resulta relevante mencionar que no es obligatorio contar con Docker Desktop ejecutándose en segundo plano para realizar satisfactoriamente esta operación desde la terminal. </p>
