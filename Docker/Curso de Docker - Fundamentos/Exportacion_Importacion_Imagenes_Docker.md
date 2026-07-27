@@ -15,3 +15,12 @@ Con el comando docker save, puedes exportar fácilmente una imagen a un archivo,
     docker save AminEspinosa/link3 > link3.rar
 
 Este comando genera un archivo comprimido con todos los componentes de la imagen de Docker listos para transportar y compartir fácilmente.</p>
+
+<h3> ¿Qué información incluye el archivo exportado tras utilizar Docker Save? </h3>
+
+<p align="left"> Al exportar imágenes Docker mediante docker save, el archivo resultante contiene varias estructuras que aseguran mantener un historial preciso de versiones y modificaciones aplicadas previamente:
+
+* Un archivo version que indica las diferentes versiones incluidas.
+* Un archivo manifest.json donde se especifican capas (layers) que representan cambios puntuales realizados a la imagen con anterioridad. 
+
+Cada capa identificada representa un punto específico en el tiempo que registra cambios, como nuevas librerías o modificaciones generales, creando así un archivo minuciosamente versátil y completo. </p>
