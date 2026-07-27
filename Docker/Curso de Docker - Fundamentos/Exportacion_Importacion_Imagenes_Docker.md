@@ -1,0 +1,3 @@
+<h2> Exportación e importación de imágenes Docker con comandos CLI </h2>
+
+<p align="left"> Vivimos en una época llena de innovaciones tecnológicas, en especial relacionadas con el desarrollo de software y administración de infraestructura. A menudo encontramos situaciones en las que necesitamos transferir imágenes Docker localmente, sin depender de Docker Hub o limitados por conexiones de redes restringidas. Para eso existe: <strong>Docker Save; Docker Load</strong</p>
