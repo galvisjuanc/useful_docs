@@ -31,3 +31,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Docker/Curso%20de%20Docker%20-%20Fundamentos/Exploracion_Contenedores_Docker.md"> Exploración de Contenedores Docker y sus Comandos Básicos </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Docker/Curso%20de%20Docker%20-%20Fundamentos/Exportacion_Importacion_Imagenes_Docker.md"> Exportación e Importación de Imágenes Docker con comandos CLI </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Docker/Curso%20de%20Docker%20-%20Fundamentos/Gestion_Contenedores_Docker.md"> Gestión de Contenedores con Docker Compose </a>
