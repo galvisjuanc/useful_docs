@@ -21,3 +21,9 @@ Entre las configuraciones más importantes de Docker Compose destacan:
 * Agregar volúmenes necesarios para persistencia de datos.
 * Manejo simple y efectivo de variables de entorno.
 * Gestión segura de información sensible mediante secrets. </p>
+
+<h3> ¿Qué ventajas ofrece Docker Compose al iniciar la orquestación de tus aplicaciones? </h3>
+
+<p align="left"> Además de ayudarte a organizar entornos complejos de forma simple y estructurada, Docker Compose también es ideal como práctica introductoria hacia metodologías de orquestación más avanzadas. Herramientas como Docker Swarm y Kubernetes son el siguiente paso lógico tras dominar Docker Compose, especialmente orientadas a entornos productivos más robustos.
+
+Docker Compose simplifica considerablemente tu curva de aprendizaje inicial, facilitando una transición gradual y segura hacia tecnologías de automatización y organización más complejas. </p>
