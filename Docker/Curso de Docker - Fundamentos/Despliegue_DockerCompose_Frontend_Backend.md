@@ -40,5 +40,14 @@ Ejemplo práctico del archivo YAML sería:
 
 Los contenedores creados por Docker Compose forman parte de una red interna, permitiendo comunicarse directamente utilizando sus nombres de contenedor como dominios. Desde el exterior, podrías conectarte mediante localhost, pero internamente es necesario usar nombres asignados por Docker Compose (por ejemplo, clase19-backend1).
 
+La comunicación puede ser:
 
+* Expuesta claramente al usuario mediante puertos externos.
+* Restringida y accesible únicamente desde dentro de la red de contenedores en Docker.
+
+La sintaxis interna para una petición desde un contenedor frontend hacia backend podría ser mediante un comando tipo:
+
+    curl clase19-backend1:5000/getMyInfo
+
+Recuerda ajustar las URL internas utilizando el nombre asignado a cada contenedor y no localhost, ya que internamente los contenedores interpretan localhost como ellos mismos.
 </p>
