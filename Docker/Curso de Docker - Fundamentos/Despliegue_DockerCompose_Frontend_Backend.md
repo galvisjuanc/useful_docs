@@ -13,4 +13,26 @@
 * Indentación y estructura: semejante a la sintaxis en Python, usa tabulaciones para estructurar claramente los distintos servicios.
 * Imagen y contexto: para cada servicio, especifica la imagen que se generará y la ubicación de su Dockerfile.
 * Manejo de puertos: define claramente los puertos internos y externos mediante la sintaxis "puerto_externo:puerto_interno".
-* Dependencias: utiliza la palabra clave depends_on para indicar explícitamente que un servicio depende de otro, como el frontend que depende del backend ya desplegado. </p>
+* Dependencias: utiliza la palabra clave depends_on para indicar explícitamente que un servicio depende de otro, como el frontend que depende del backend ya desplegado. 
+
+Ejemplo práctico del archivo YAML sería:
+
+
+    version: '3.7'
+    services:
+    backend:
+        image: backend
+        build:
+        context: ./backend
+        ports:
+        - 5000:5000
+
+    frontend:
+        image: frontend
+        build:
+        context: ./frontend
+        ports:
+        - 8080:80
+        depends_on:
+        - backend
+</p>
