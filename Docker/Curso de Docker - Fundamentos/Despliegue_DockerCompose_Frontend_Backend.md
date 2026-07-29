@@ -50,4 +50,20 @@ La sintaxis interna para una petición desde un contenedor frontend hacia backen
     curl clase19-backend1:5000/getMyInfo
 
 Recuerda ajustar las URL internas utilizando el nombre asignado a cada contenedor y no localhost, ya que internamente los contenedores interpretan localhost como ellos mismos.
+
+<strong> ¿Qué considerar al manejar los puertos en Docker Compose? </strong>
+
+Aunque existen algunas convenciones comunes, como utilizar el puerto 5000 para aplicaciones Python o el puerto 80 para servidores web, estos puertos pueden modificarse libremente según necesidades individuales. Docker Compose ofrece flexibilidad en este sentido, dejando claros los puertos utilizados en la sección correspondiente del archivo YAML.
+
+Algunos ejemplos comunes de configuraciones son:
+
+Para backend:
+
+    - 9000:5000
+
+Para frontend:
+
+    - 8080:80
+
+
 </p>
