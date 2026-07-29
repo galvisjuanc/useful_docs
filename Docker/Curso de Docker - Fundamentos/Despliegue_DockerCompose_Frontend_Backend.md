@@ -35,4 +35,10 @@ Ejemplo práctico del archivo YAML sería:
         - 8080:80
         depends_on:
         - backend
+
+<strong> ¿Cómo interactúan los contenedores entre sí? </strong>
+
+Los contenedores creados por Docker Compose forman parte de una red interna, permitiendo comunicarse directamente utilizando sus nombres de contenedor como dominios. Desde el exterior, podrías conectarte mediante localhost, pero internamente es necesario usar nombres asignados por Docker Compose (por ejemplo, clase19-backend1).
+
+
 </p>
