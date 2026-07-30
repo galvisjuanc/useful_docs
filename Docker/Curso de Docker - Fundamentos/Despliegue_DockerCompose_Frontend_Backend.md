@@ -17,7 +17,6 @@
 
 Ejemplo práctico del archivo YAML sería:
 
-
     version: '3.7'
     services:
     backend:
