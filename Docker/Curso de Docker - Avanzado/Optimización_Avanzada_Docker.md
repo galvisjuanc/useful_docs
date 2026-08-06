@@ -27,3 +27,9 @@
 * Optimización del tamaño de imágenes: más pequeñas, más efectivas.
 * Volúmenes para persistencia de datos y separación de estados.
 * Redes para aislar, comunicar y organizar servicios.</p>
+
+<h3> ¿Qué es docker compose en proyectos cloud native? </h3>
+
+<p align="left"> Es la herramienta para definir y ejecutar aplicaciones multicontenedor con un archivo de configuración. Permite levantar servicios coordinados, estandarizar ambientes y acelerar la colaboración del equipo.
+
+</p>
