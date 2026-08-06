@@ -11,3 +11,7 @@
 * Enfoque avanzado para obtener el máximo de la plataforma.
 
 </p>
+
+<h3> ¿Qué papel cumplen los contenedores en microservicios? </h3>
+
+<p align="left"> Los contenedores encapsulan cada servicio de forma independiente. Así, cada parte del sistema se despliega y actualiza sin afectar a las demás. Esta independencia simplifica la comunicación entre servicios y garantiza soluciones escalables y mantenibles.</p>
