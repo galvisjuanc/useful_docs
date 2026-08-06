@@ -33,3 +33,8 @@
 <p align="left"> Es la herramienta para definir y ejecutar aplicaciones multicontenedor con un archivo de configuración. Permite levantar servicios coordinados, estandarizar ambientes y acelerar la colaboración del equipo.
 
 </p>
+
+<h3> ¿Cómo usar volúmenes y administración de redes? </h3>
+
+<p> Los volúmenes separan datos de la imagen, lo que mejora la portabilidad y evita pérdidas de información. La administración de redes define cómo se comunican los servicios, facilita el aislamiento y previene conflictos. </p>
+
