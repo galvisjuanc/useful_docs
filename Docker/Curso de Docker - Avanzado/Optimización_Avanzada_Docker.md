@@ -38,3 +38,11 @@
 
 <p> Los volúmenes separan datos de la imagen, lo que mejora la portabilidad y evita pérdidas de información. La administración de redes define cómo se comunican los servicios, facilita el aislamiento y previene conflictos. </p>
 
+<h3> ¿Cómo lograr despliegue continuo con DevOps y un commit? </h3>
+
+<p> La meta es automatizar el ciclo de vida: construir, probar y desplegar sin fricciones. Con un proceso de integración y despliegue continuos, no necesitas actualizar imágenes manualmente; con DevOps, todo se activa desde un simple commit, lo que lleva la productividad al máximo.
+
+* Integración y despliegue continuos para cambios seguros.
+* Automatización del build y actualización de imágenes.
+* Mejores prácticas aplicadas a proyectos con contenedores. </p>
+
