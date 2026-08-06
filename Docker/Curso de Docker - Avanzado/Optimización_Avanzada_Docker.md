@@ -1,0 +1,3 @@
+<h2> Optimización avanzada de Docker para cloud native </h2>
+
+<p align="left"> Potencia tu flujo de trabajo con Docker y crea aplicaciones cloud native robustas: contenedores bien diseñados, Docker Compose, volúmenes y redes te permitirán escalar, optimizar imágenes y automatizar el despliegue continuo con DevOps desde un simple commit. Aquí entenderás cómo convertir conocimientos básicos en prácticas avanzadas que elevan la productividad.</p>
