@@ -18,3 +18,12 @@
 * Preparadas para escalar cuando la demanda crece.
 * Optimizadas para reducir fricción en despliegues.
 * Más seguras y adaptables a cualquier nube. </p>
+
+<h3> ¿Qué cambia en tu práctica diaria? </h3>
+
+<p align="left">El cambio es de “usar comandos” a gestionar Docker con mejores prácticas. Cada paso con Build, Push y Docker Images se alinea a objetivos de producción.
+
+* Revisar cómo se construyen las imágenes con Build para calidad consistente.
+* Estandarizar cómo se publican con Push para despliegues confiables.
+* Validar y gestionar con Docker Images para mantener orden.
+* Diseñar pensando en escalabilidad y distribución en la nube. </p>
