@@ -39,3 +39,11 @@
 * Escalabilidad: capacidad de crecer sin fricción cuando la aplicación lo requiere.
 * Nube: distribuir en cualquier nube sin mayor problema.
 * Optimización y seguridad: requisitos para que una imagen sea productiva. </p>
+
+<h3> ¿Qué sigue con mejores prácticas? </h3>
+
+<p align="left">A continuación se profundizará en mejores prácticas para que cada detalle sume y las imágenes queden más preparadas para cualquier ambiente productivo. El objetivo es pasar de “funciona” a “está lista para producción”.
+
+* Objetivo: preparar imágenes para ambientes productivos.
+* Enfoque: optimización, seguridad y adaptabilidad a cualquier nube.
+* Resultado: aplicaciones escalables y fáciles de distribuir. </p>
