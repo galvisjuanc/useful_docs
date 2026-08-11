@@ -10,3 +10,11 @@
 * Crear contenedores a partir de imágenes ya preparadas para producción.
 * Publicar en la nube sin mayor problema y con consistencia.
 * Enfocarse en escalabilidad, seguridad y adaptabilidad a cualquier nube. </p>
+
+<h3> ¿Qué significa imagen productiva? </h3>
+
+<p align="left"> Una imagen productiva facilita escalar y distribuir una aplicación en cualquier nube. Su objetivo es estar optimizada, ser más segura y adaptable a diferentes entornos sin cambios innecesarios.
+
+* Preparadas para escalar cuando la demanda crece.
+* Optimizadas para reducir fricción en despliegues.
+* Más seguras y adaptables a cualquier nube. </p>
