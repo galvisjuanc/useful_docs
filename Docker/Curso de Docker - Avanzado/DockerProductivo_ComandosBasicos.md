@@ -27,3 +27,15 @@
 * Estandarizar cómo se publican con Push para despliegues confiables.
 * Validar y gestionar con Docker Images para mantener orden.
 * Diseñar pensando en escalabilidad y distribución en la nube. </p>
+
+
+<h3> ¿Qué habilidades y conceptos conviene reforzar? </h3>
+
+<p align="left"> Para avanzar con confianza, conviene afianzar la base y el propósito productivo. La idea es que cada imagen esté lista para ambientes productivos desde el inicio.
+
+* Docker: plataforma para crear y gestionar contenedores a partir de imágenes.
+* Imágenes y contenedores: las imágenes definen lo que corre; los contenedores lo ejecutan.
+* Comandos clave: Build, Push y Docker Images para crear y gestionar imágenes con intención productiva.
+* Escalabilidad: capacidad de crecer sin fricción cuando la aplicación lo requiere.
+* Nube: distribuir en cualquier nube sin mayor problema.
+* Optimización y seguridad: requisitos para que una imagen sea productiva. </p>
