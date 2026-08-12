@@ -39,7 +39,17 @@ Un truco potente para el contexto es usar el dictado en lugar de escribir [05:30
 
     ¿Qué es el context engineering? Es la práctica de reunir y entregar toda la información clave a la IA (texto, archivos, datos) para que entienda el problema a fondo y genere una mejor respuesta. Reemplaza la idea de solo pulir la instrucción.
 
-En el ejemplo, el software se llama Mercadito, nació en Chile y opera en Chile, Colombia, México y Perú, con un ticket de $50 por asiento e integraciones con Mercado Pago, Stripe, Rappi, Uber Eats y Pedidos Ya [06:30]. Fíjate cómo al dictar siguen apareciendo más datos, como el programa de referidos que da un 5% de la suscripción por 12 meses [07:20].
+En el ejemplo, el software se llama Mercadito, nació en Chile y opera en Chile, Colombia, México y Perú, con un ticket de $50 por asiento e integraciones con Mercado Pago, Stripe, Rappi, Uber Eats y Pedidos Ya [06:30]. Fíjate cómo al dictar siguen apareciendo más datos, como el programa de referidos que da un 5% de la suscripción por 12 meses [07:20]. </p>
 
+<h3> Qué bloques opcionales mejoran tu prompt </h3>
 
+<p align="left"> Después de la tarea y el contexto vienen tres bloques opcionales que ayudan según lo que necesites [07:50].
+
+* Rol: le indicas cómo debe actuar la IA, por ejemplo "actúa como un experto en marketing digital en industrias B2B y sistemas SaaS". Antes era clave; hoy la IA ya infiere el rol, pero siempre suma [08:00].
+* Formato: defines cómo entregar la respuesta, como un reporte ejecutivo con secciones de resumen, objetivos, KPIs, canales, presupuesto y resultados esperados [08:40].
+* Tono y estilo: explicas cómo debe escribirlo, sea profesional, humorístico o incluso como un poema [09:00].
+
+Estos tres son opcionales porque dependen del uso. Si el documento es solo para ti, no necesitas tono ni estilo. Pero si escribes contenido para redes sociales o un mail que leerá otra persona, el tono se vuelve superrelevante para reflejar tu voz [09:40].
+
+Con todo el contexto cargado, Claude armó un plan de marketing en un documento de Word usando una skill, generando un reporte de seis páginas con criterios SMART, KPIs por área y hoja de ruta por fases [10:40].
 </p>
