@@ -52,4 +52,20 @@ En el ejemplo, el software se llama Mercadito, nació en Chile y opera en Chile,
 Estos tres son opcionales porque dependen del uso. Si el documento es solo para ti, no necesitas tono ni estilo. Pero si escribes contenido para redes sociales o un mail que leerá otra persona, el tono se vuelve superrelevante para reflejar tu voz [09:40].
 
 Con todo el contexto cargado, Claude armó un plan de marketing en un documento de Word usando una skill, generando un reporte de seis páginas con criterios SMART, KPIs por área y hoja de ruta por fases [10:40].
+
+<strong> Cómo elegir el modelo y activar el modo de pensamiento </strong>
+
+El último tip cambia por completo la calidad de la respuesta. Claude ofrece tres modelos en su selector [11:40]:
+
+* Opus: el más pesado e inteligente.
+* Sonnet: el común para el día a día.
+* Haiku: el más rápido, que el instructor recomienda no usar.
+
+El consejo es moverte siempre entre Opus y Sonnet [12:00]. Además existe un botón de esfuerzo que activa el modo de pensamiento.
+
+    ¿Qué hace el modo de pensamiento en Claude? Antes de responder, el modelo itera internamente con tokens de pensamiento para decidir la mejor forma de resolver la tarea. Solo cuando define su hoja de ruta empieza a accionar, lo que eleva mucho la calidad.
+
+La recomendación es tener el pensamiento activado siempre, sobre todo en tareas complejas con análisis de información, archivos o múltiples pasos [13:00]. En Opus el nivel de esfuerzo promedio es alto, pero puedes subirlo a extra o max si quieres que gaste más recursos, aunque eso consume más [13:30].
+
+Con el pensamiento activado, el mismo prompt generó un plan más consistente entre etapas, localizando el contenido por país y sumando la marca personal del fundador en LinkedIn [14:20]. La gracia está en combinar las tres funciones: activar el pensamiento extendido, elegir bien el modelo y crear un prompt con el contexto adecuado.
 </p>
