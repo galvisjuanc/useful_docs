@@ -35,5 +35,11 @@ Antes se hablaba de prompt engineering o ingeniería de prompts. Hoy hablamos de
 * Cadenas de mail.
 * Bases de datos.
 
+Un truco potente para el contexto es usar el dictado en lugar de escribir [05:30]. Tiene dos beneficios claros: hablas más rápido de lo que escribes, y al hablar piensas activamente, así que recuerdas más detalles como canales, plataformas de integración y datos que quizás olvidarías al teclear [06:00].
+
+    ¿Qué es el context engineering? Es la práctica de reunir y entregar toda la información clave a la IA (texto, archivos, datos) para que entienda el problema a fondo y genere una mejor respuesta. Reemplaza la idea de solo pulir la instrucción.
+
+En el ejemplo, el software se llama Mercadito, nació en Chile y opera en Chile, Colombia, México y Perú, con un ticket de $50 por asiento e integraciones con Mercado Pago, Stripe, Rappi, Uber Eats y Pedidos Ya [06:30]. Fíjate cómo al dictar siguen apareciendo más datos, como el programa de referidos que da un 5% de la suscripción por 12 meses [07:20].
+
 
 </p>
