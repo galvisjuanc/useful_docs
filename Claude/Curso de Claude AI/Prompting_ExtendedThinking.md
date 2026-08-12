@@ -14,4 +14,8 @@ Ahí aparece el elefante blanco en la habitación: no le diste quién es tu clie
 
 El resultado sigue siendo un plan con poca profundidad al que después tienes que agregarle información, modificarlo y ajustarlo. El B2B SaaS se refiere a software vendido por suscripción de una empresa a otra.
 
+    ¿Qué es un prompt? Es la instrucción de texto que le entregas a la inteligencia artificial para explicarle qué quieres lograr. Mientras más clara y completa, mejor y más rápida será la respuesta.
+
+
+
 </p>
