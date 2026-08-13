@@ -69,3 +69,22 @@ La recomendación es tener el pensamiento activado siempre, sobre todo en tareas
 
 Con el pensamiento activado, el mismo prompt generó un plan más consistente entre etapas, localizando el contenido por país y sumando la marca personal del fundador en LinkedIn [14:20]. La gracia está en combinar las tres funciones: activar el pensamiento extendido, elegir bien el modelo y crear un prompt con el contexto adecuado.
 </p>
+
+<h3> Consejos para seguir el formato de los prompts </h3>
+
+<p align="left"> 
+
+* Prompt = tarea obligatoria + contexto + opcionales (rol, formato, tono)
+- El contexto es hoy lo que más mejora la calidad de la respuesta
+- Dictar en vez de escribir ayuda a dar más contexto a la IA
+- Alternar entre Opus y Sonnet según la complejidad de la tarea
+- Activar el pensamiento extendido en tareas complejas o de varios pasos
+
+Para el prompt, se debe seguir esta guía: 
+
+* Tarea
+* Contexto [dar buen detalle]
+* Rol [opcional]
+* Formato [opcional]
+* Tono y estilo [opcional - segun contexto]
+</p>
