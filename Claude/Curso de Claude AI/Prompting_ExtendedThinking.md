@@ -1,6 +1,6 @@
 <h2> Prompting y Extended Thinking </h2>
 
-<p align="left"> Escribir un buen prompt es lo que separa una respuesta genérica de una respuesta profunda y útil cuando trabajas con inteligencia artificial. Aquí aprenderás una estructura de prompting por bloques, el poder del contexto y cómo activar el modo de pensamiento en Claude para elevar la calidad de tus resultados. Es ideal si usas IA para tareas de marketing, análisis o creación de documentos.
+<p align="left"> Escribir un buen prompt es lo que separa una respuesta genérica de una respuesta profunda y útil cuando trabajas con inteligencia artificial. Aquí aprenderás una estructura de prompting por bloques, el poder del contexto y cómo activar el modo de pensamiento en Claude para elevar la calidad de tus resultados. Es ideal si usas IA para tareas de marketing, análisis o creación de documentos. </p>
 
 <h3> ¿Qué es un Prompt? </h3>
 
