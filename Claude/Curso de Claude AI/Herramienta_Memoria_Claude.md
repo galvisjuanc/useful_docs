@@ -8,4 +8,9 @@ La idea central es directa: la memoria es la función que hace que Claude deje d
 
 <p align="left"> Anda al menú de abajo a la izquierda, donde aparece tu nombre de usuario, entra a Configuración y luego a Capacidades. Arriba encontrarás el bloque de memoria con dos opciones [00:28].
 
-La primera hace que Claude revise si existe una conversación previa en otro chat con información de valor que pueda incorporar a la respuesta actual [00:42]. La segunda —y esta es la importante— dice generar memoria del historial de conversaciones [01:02]. </p>
+La primera hace que Claude revise si existe una conversación previa en otro chat con información de valor que pueda incorporar a la respuesta actual [00:42]. La segunda —y esta es la importante— dice generar memoria del historial de conversaciones [01:02]. 
+
+    ¿Cuál es la diferencia entre las dos opciones de memoria? La primera busca en tus chats anteriores cuando la necesita. La segunda construye un documento vivo donde Claude almacena lo relevante sobre ti y lo consulta antes de responderte. Activa las dos, pero la segunda es la que cambia el juego.
+
+
+</p>
