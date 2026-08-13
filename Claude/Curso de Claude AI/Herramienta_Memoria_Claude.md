@@ -26,4 +26,19 @@ La primera hace que Claude revise si existe una conversación previa en otro cha
 
 Fíjate en el último punto, porque ahí está el valor real. Esas instrucciones no se escribieron en un solo lugar: se fueron mencionando en chats distintos y Claude las guardó por su cuenta [03:25].
 
+    ¿Por qué la memoria aparece escrita en inglés? Porque ChatGPT, Claude y Gemini son herramientas creadas por empresas estadounidenses y sus modelos piensan en inglés [02:03]. Si le hablas en español no cambia nada en la calidad de la respuesta, igual que ocurre con el pensamiento extendido de la clase anterior.
+
+<strong>¿Cómo editar la memoria de Claude? </strong>
+
+No edites el documento a mano: dale un prompt. Haz clic en el lápiz y pídele qué quieres que sume o qué quieres que cambie [03:31]. En la clase, el ejemplo es una corrección de nombre —Claude tenía mal escrito el nombre del gato— y basta con decírselo en una frase [03:37]. Claude busca el dato relevante, lo actualiza y te muestra la memoria de nuevo [03:56].
+
+¿Cómo importar tu memoria desde ChatGPT o Gemini?
+
+Si vienes de trabajar meses con otra IA, no tienes que empezar de cero [04:10]:
+
+* Haz clic en iniciar importación. Claude te entrega un prompt.
+* Copia ese prompt y pégalo en ChatGPT o Gemini.
+* Copia la respuesta que te devuelva esa herramienta.
+* Pégala en Claude y presiona agregar a la memoria [04:29].
+
 </p>
