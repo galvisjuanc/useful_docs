@@ -12,5 +12,18 @@ La primera hace que Claude revise si existe una conversación previa en otro cha
 
     ¿Cuál es la diferencia entre las dos opciones de memoria? La primera busca en tus chats anteriores cuando la necesita. La segunda construye un documento vivo donde Claude almacena lo relevante sobre ti y lo consulta antes de responderte. Activa las dos, pero la segunda es la que cambia el juego.
 
+</p>
+
+<h3> ¿Qué guarda Claude en tu memoria? </h3>
+
+<p align="left"> Para verlo, entra a ver y administrar memoria [01:37]. Ahí aparece un documento organizado por bloques. En el ejemplo de la clase, Claude tenía registrado:
+
+* Contexto de trabajo: su empresa de entrenamiento y consultoría, los workshops para empresas, las keynotes y los servicios de asesoría en Chile y Latinoamérica [01:50], además de los cursos que dicta en Platzi y en su propia escuela [02:30].
+* Contexto personal: sus mascotas y sus hobbies [02:37].
+* Trabajo reciente: el lanzamiento de una nueva edición del curso de Claude, las propuestas comerciales que estaba armando con una skill y el podcast que mantiene activo [02:45].
+* Memoria de mediano y largo plazo: lo trabajado en los últimos meses y el contexto previo acumulado [02:58].
+* Instrucciones clave: usar español neutro chileno en vez de los modismos argentinos que a veces mete la IA, y no usar la raya larga tan característica de los textos generados [03:09]. 
+
+Fíjate en el último punto, porque ahí está el valor real. Esas instrucciones no se escribieron en un solo lugar: se fueron mencionando en chats distintos y Claude las guardó por su cuenta [03:25].
 
 </p>
