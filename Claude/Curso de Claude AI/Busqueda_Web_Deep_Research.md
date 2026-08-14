@@ -52,4 +52,20 @@ Los números de la corrida:
 
     ¿Claude usa las 309 fuentes? No. Ese número es lo que encontró, no lo que ocupó [08:07]. Descarta con criterio: si varias fuentes refuerzan el mismo punto, lo trata como probablemente cierto, y para elegir aplica los mismos atributos que posicionan un sitio en un buscador —expertise, experiencia, autoridad y contenido fresco [08:22].
 
+<strong> ¿Qué te entrega el reporte y cómo lo exportas? </strong>
+
+El resultado fue una guía completa con recomendación principal, comparativa detallada de otras herramientas y ranking de capacidad SEO [08:40]. Desde arriba puedes copiar el texto, descargarlo como markdown o descargarlo como PDF [08:56].
+
+    ¿Por qué descargar en markdown? Es un archivo de texto liviano que usa símbolos para marcar negritas, cursivas y títulos [09:02]. Es el formato que mejor procesa la IA, así que si vas a reutilizar el reporte en otro prompt o en otra herramienta, ese es el que quieres.
+
+Por dentro, el documento venía estructurado con TL;DR y recomendación principal, key findings para el caso específico, capacidad SEO y de blog, un perfil por plataforma, costos reales de arranque y costos ocultos como el dominio y el recargo cambiario, facilidad de migración futura, recomendaciones concretas de instalación, perfiles alternativos, los umbrales que cambiarían la recomendación y los caveats a tener en cuenta [09:16].
+
+Fíjate en el penúltimo punto: no solo te dice qué elegir, te dice bajo qué condiciones esa respuesta dejaría de ser válida.
+
+<strong> ¿En qué usar Deep Research en tu trabajo? </strong>
+
+La gracia es dejar a la IA trabajando por ti mientras haces otra cosa [10:22]. Dos ejemplos de la clase: si estás en ventas, pídele las mejores prácticas del área y armen juntos un playbook que después reutilizas con un prompt o con otras funciones de Claude [10:41]. Si estás montando un sitio web, pídele buenas prácticas de publicación que sean SEO friendly y que permitan indexar bien en buscadores y redes sociales [10:52].
+
+Piensa en las tareas que repites cada semana y en cuáles de ellas un documento de investigación te ahorraría horas. Ese es tu punto de partida.
+
 </p>
