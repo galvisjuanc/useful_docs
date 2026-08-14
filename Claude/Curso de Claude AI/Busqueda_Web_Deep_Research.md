@@ -36,4 +36,20 @@ La segunda función de búsqueda es la investigación profunda o Deep Research, 
 
 Sirve para cualquier decisión que exija comparar: modelos de celular, tendencias de mercado, opciones de auto [04:30].
 
+<strong> ¿Cómo funciona una investigación profunda paso a paso? </strong>
+
+En la demo el prompt fue corto: las mejores herramientas para crear sitios web para mi negocio de forma simple y SEO friendly [05:15]. Podrías armar uno mucho más elaborado con más contexto, como se vio en la clase de prompting y en el curso de prompting de la AI Academy [05:28].
+
+Lo interesante es que Claude no se lanza a investigar de inmediato: primero hace preguntas de profundización [05:44]. En este caso preguntó qué tipo de sitio necesitaba —landing, sitio de marca, newsletter—, si quería mantenerlo sin tocar código y si había restricción de presupuesto [05:50]. Además, como en la clase anterior se activó la memoria, Claude ya sabía cuál era la empresa y trajo ese contexto solo [06:37]. Ahí se ve la ganancia de ir combinando funciones para el sistema operativo personal.
+
+Un detalle práctico: si tienes conectores activos, conviene desconectarlos para que la investigación fluya sin interrupciones [06:59].
+
+Los números de la corrida:
+
+* 7 segundos: 30 fuentes encontradas y en revisión [07:18].
+* 49 segundos: 138 fuentes [07:41].
+* Total: 5 minutos 55 segundos y 309 fuentes revisadas [07:57].
+
+    ¿Claude usa las 309 fuentes? No. Ese número es lo que encontró, no lo que ocupó [08:07]. Descarta con criterio: si varias fuentes refuerzan el mismo punto, lo trata como probablemente cierto, y para elegir aplica los mismos atributos que posicionan un sitio en un buscador —expertise, experiencia, autoridad y contenido fresco [08:22].
+
 </p>
