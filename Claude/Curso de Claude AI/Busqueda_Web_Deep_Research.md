@@ -10,4 +10,14 @@ La idea central es un cambio de roles: en lugar de que tú busques, leas y filtr
 
     ¿Qué pasa si no activo la búsqueda web? Claude responde solo con lo que aprendió hasta su fecha de corte. Para temas estables no hay problema; para precios, versiones, noticias o tendencias vas a recibir información vieja sin que te avise.
 
+<strong> ¿Cómo activar la búsqueda web en Claude? </strong>
+
+Anda al botón más y activa búsqueda web [00:48]. Si acabas de instalar la aplicación o nunca tocaste esa configuración, debería estar activa por defecto [00:56].
+
+Con eso listo, hay dos formas de que busque: dejar que decida cuándo lo necesita, o pedírselo explícitamente en el prompt. En la clase se usa la segunda: busca en internet toda la información acerca de los modelos de Claude [01:13]. Nombrar la acción en el prompt fuerza el buscador [01:39].
+
+Y aquí está lo que diferencia a Claude del resto de las herramientas: intercala lo que descubre con el pensamiento extendido [02:04]. Si encuentra algo nuevo, puede lanzar otra búsqueda o decidir que quiere explorar ese hilo antes de responder [02:09]. Eso sube la calidad del resultado varios niveles.
+
+En el ejemplo devolvió la línea actual de modelos con su nombre en la API, para qué sirve cada uno, el tamaño de la ventana de contexto, reglas para elegir entre ellos y los niveles de esfuerzo [02:22]. Todo desde la página oficial de Anthropic, y todo trazable: puedes abrir las fuentes que usó y validar por tu cuenta [02:47].
+
 </p>
