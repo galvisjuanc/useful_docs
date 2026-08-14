@@ -28,4 +28,12 @@ Con Claude los papeles se invierten [03:25]. La IA busca, procesa, extrae lo cla
 
 El efecto real es de reasignación de tiempo: baja el tiempo de búsqueda y sube el tiempo de trabajar con la información, que es donde está el valor del día a día [04:01].
 
+<strong> ¿Qué es Deep Research y en qué se diferencia? </strong>
+
+La segunda función de búsqueda es la investigación profunda o Deep Research, también en el botón más, en investigación [04:12].
+
+    ¿Cuál es la diferencia entre búsqueda web y Deep Research? La búsqueda web hace unas cuantas consultas dentro de tu conversación. Deep Research arma un plan de investigación, recolecta cientos de fuentes, las procesa combinándolas con el pensamiento extendido y te devuelve un reporte con análisis y tesis, no solo una respuesta [04:46].
+
+Sirve para cualquier decisión que exija comparar: modelos de celular, tendencias de mercado, opciones de auto [04:30].
+
 </p>
