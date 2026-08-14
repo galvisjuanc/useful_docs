@@ -20,4 +20,12 @@ Y aquí está lo que diferencia a Claude del resto de las herramientas: intercal
 
 En el ejemplo devolvió la línea actual de modelos con su nombre en la API, para qué sirve cada uno, el tamaño de la ventana de contexto, reglas para elegir entre ellos y los niveles de esfuerzo [02:22]. Todo desde la página oficial de Anthropic, y todo trazable: puedes abrir las fuentes que usó y validar por tu cuenta [02:47].
 
+<strong> ¿Cómo cambia tu forma de buscar? </strong>
+
+Piensa en el flujo de siempre: vas a Google, te salen resultados, abres pestañas, lees cada artículo, descartas los que no sirven y guardas lo que rescataste [03:00]. Toda la curatoría la haces tú.
+
+Con Claude los papeles se invierten [03:25]. La IA busca, procesa, extrae lo clave y te lo entrega en un formato útil. Tu rol pasa a ser el de validador: reviso, confío en la fuente, me hace sentido, y si algo no cuadra le pido que ajuste o complemente, porque el formato es conversacional [03:42].
+
+El efecto real es de reasignación de tiempo: baja el tiempo de búsqueda y sube el tiempo de trabajar con la información, que es donde está el valor del día a día [04:01].
+
 </p>
