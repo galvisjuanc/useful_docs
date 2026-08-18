@@ -13,3 +13,14 @@ El prompt que se usa es directo: entregarle ambos reportes y pedirle extraer los
     ¿Cuántas imágenes puede procesar Claude en una conversación? Claude tiene un límite de 100 imágenes por conversación, incluidas las páginas de cada PDF. Si te acercas al tope, considera iniciar un chat nuevo.
 
 En el ejemplo, el chat marcaba 84 de 100 imágenes, suficiente para el análisis [02:33]. Un consejo importante: al trabajar con varios documentos donde quieres que la IA itere, activa el pensamiento extendido o esfuerzo, para que analice con mayor profundidad [02:20]. </p>
+
+<h3> ¿Qué patrones detecta Claude al cruzar reportes? </h3>
+
+<p align="left "> Después de analizar ambos reportes, Claude agrupa los usos en cuatro grandes familias [03:34]:
+
+* Trabajo cognitivo: analizar, resolver problemas, evaluar y pensar creativamente.
+* Producción y transformación de contenido: escribir y crear.
+* Backoffice y operaciones vía API: automatización.
+* Aprendizaje y vida personal.
+
+Y aquí viene lo interesante. Más allá de la lista, aparecen tres hallazgos que son oro para diseñar un sistema personal [04:20]. El primero es que el modo importa más que la tarea: existen modos de delegación, colaboración, asignación y exploración, y los llamados frontier professionals saben cuál usar en cada momento. El segundo, cómo prompteas es cómo responde. El tercero, lo que mueve la aguja es organizacional, no individual. </p>
