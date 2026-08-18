@@ -33,4 +33,14 @@ Una práctica muy recomendable es armar un diccionario de datos que defina qué 
 
     ¿Qué es un diccionario de datos y por qué importa con IA? Es un documento que explica el contenido de cada hoja y campo de un Excel. Le da contexto a la IA para que interprete tus datos correctamente sin adivinar.
 
-Cuando le pides analizar el Excel, Claude usa una skill específica y ejecuta comandos de código en lugar de razonar solo con el modelo de lenguaje [08:30]. Esto funciona como una calculadora avanzada que aumenta la certeza del análisis. La recomendación es usar el modelo más poderoso disponible, en este caso Opus, junto al pensamiento extendido [09:35]. </p>
+Cuando le pides analizar el Excel, Claude usa una skill específica y ejecuta comandos de código en lugar de razonar solo con el modelo de lenguaje [08:30]. Esto funciona como una calculadora avanzada que aumenta la certeza del análisis. La recomendación es usar el modelo más poderoso disponible, en este caso Opus, junto al pensamiento extendido [09:35]. 
+
+¿Cuáles son los cuatro niveles de análisis de datos?
+
+El análisis de datos con Claude tiene cuatro niveles de profundidad progresiva:
+
+1. Análisis descriptivo: promedios, máximos, ventas por período y la data clave del negocio [07:34].
+2. Modelo predictivo: proyecciones de venta usando Python, con regresiones lineales y modelamiento [11:00].
+3. Insights accionables: acciones concretas para llevar al jefe de ventas y ejecutar de inmediato [13:10].
+4. Dashboard: toda la data clave lista para presentar [15:20].
+</p>
