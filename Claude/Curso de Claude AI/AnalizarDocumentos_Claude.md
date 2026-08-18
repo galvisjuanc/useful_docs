@@ -35,7 +35,7 @@ Una práctica muy recomendable es armar un diccionario de datos que defina qué 
 
 Cuando le pides analizar el Excel, Claude usa una skill específica y ejecuta comandos de código en lugar de razonar solo con el modelo de lenguaje [08:30]. Esto funciona como una calculadora avanzada que aumenta la certeza del análisis. La recomendación es usar el modelo más poderoso disponible, en este caso Opus, junto al pensamiento extendido [09:35]. 
 
-¿Cuáles son los cuatro niveles de análisis de datos?
+<strong> ¿Cuáles son los cuatro niveles de análisis de datos? </strong>
 
 El análisis de datos con Claude tiene cuatro niveles de profundidad progresiva:
 
@@ -43,4 +43,18 @@ El análisis de datos con Claude tiene cuatro niveles de profundidad progresiva:
 2. Modelo predictivo: proyecciones de venta usando Python, con regresiones lineales y modelamiento [11:00].
 3. Insights accionables: acciones concretas para llevar al jefe de ventas y ejecutar de inmediato [13:10].
 4. Dashboard: toda la data clave lista para presentar [15:20].
+
+En el nivel descriptivo, Claude entregó un gráfico interactivo con número de oportunidades, pipeline, win rate y etapas [10:07]. Detectó que Carlos concentra el mayor valor ganado con ciclos más largos, que Claudia mueve volumen pero es la que más pierde, y que Pedro y María José son señales de alerta [10:30].
+
+    ¿Cómo se calcula el win rate? El win rate se calcula solo sobre las oportunidades cerradas, no sobre el total del pipeline. Por eso una lectura rápida puede confundir si no lo tienes en cuenta.
+
+Para el modelo predictivo, Claude armó una página interactiva en HTML donde puedes modificar supuestos: qué pasa si reactivas oportunidades estancadas, si mejoras la conversión o si cambias el ciclo de venta [11:40]. El resultado depende de los datos: con más historial, podría armar modelos de segmentación estadística o scoring.
+
+<strong> ¿Cómo generar insights y un dashboard listo para presentar? </strong>
+
+En el tercer nivel, Claude entregó un Word con ocho acciones priorizadas en tres tier: sprint de reactivación de 52 oportunidades, acciones a 30 días y correcciones estructurales como recalibrar el scoring [13:50]. Sumó recomendaciones como congelar descuentos, definir un SLA por etapa y armar un playbook para productos de alto valor.
+
+Para el dashboard, basta con usar esa palabra. Tiene una carga semántica que ya explica mucho, así que tu prompt queda más liviano y efectivo [15:40]. Claude armó una página web exportable a PDF o HTML con pipeline por etapa, proyección a seis meses, rendimiento por vendedor, canales por conversión y razones de pérdida [16:40].
+
+La gran oportunidad está en los cientos de documentos que ya tienes guardados. Puedes extraer patrones de cómo trabajas y, por ejemplo, diseñar junto a Claude una serie de prompts para que cada vez que le pases un archivo recurrente te devuelva el reporte listo [17:50]. De eso se trata construir tu sistema operativo personal.
 </p>
