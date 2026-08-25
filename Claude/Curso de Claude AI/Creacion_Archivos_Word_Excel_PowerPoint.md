@@ -39,3 +39,15 @@ Antes de armar nada, Claude pidió un dato clave: los colores corporativos [02:2
 * Los títulos y textos son elementos independientes que ajustas a tu gusto.
 
 Además puedes cargar el logo de tu marca y agregar más información. Cada pieza responde como si tú mismo la hubieras creado en el programa. </p>
+
+<h3> ¿Por qué Claude trabaja mejor con Excel que otras IA? </h3>
+
+<p align="left"> Para el análisis de Excel, la clase retoma un caso previo con data de un CRM. La petición fue llevar todos los gráficos y tablas del análisis al Excel original y entregarlo en un solo archivo [04:40].
+
+El resultado incluyó un dashboard completo con varias secciones:
+
+* Resumen por vendedores con gráficos.
+* Productos por valor y cierre.
+* Análisis de conversión, pipeline y motivos de pérdida.
+* Tendencia mensual.
+* Un modelo predictivo con campos variables modificables. </p>
