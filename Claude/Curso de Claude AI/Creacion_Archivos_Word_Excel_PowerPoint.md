@@ -16,3 +16,16 @@ Lo interesante es cómo se activan: siempre con una palabra clave. Si le pides t
 Es una capacidad instalada, tipo receta, que le indica cómo trabajar con un formato o proceso específico. Se activa con una palabra clave como "Excel" o "PowerPoint".
 
 Más adelante existe una clase dedicada a las skills, donde también se enseña a crear las tuyas propias para procesos repetitivos que necesitan consistencia en el tiempo. </p>
+
+<h3> ¿Cómo convertir un plan de marketing en un PowerPoint persuasivo? </h3>
+
+<p align="left"> Retomando el hilo donde Claude creó un Word con un plan de marketing, puedes pedirle que lo lleve a PowerPoint. La instrucción incluye detalles concretos que marcan la diferencia.
+
+El prompt usado fue claro y específico:
+
+* Entregar el plan en PowerPoint para presentarlo al jefe y que lo apruebe.
+* Presentación corta de máximo 10 diapositivas.
+* Incluir los colores corporativos de la marca.
+* Que sea persuasiva para lograr aprobación inmediata.
+
+Antes de armar nada, Claude pidió un dato clave: los colores corporativos [02:20]. Puedes pasarle los códigos hex, describir los colores con palabras ("verde limón y magenta"), entregar pantones o incluso una presentación que ya los incluya. Todo es válido y él genera la paleta cromática a partir de ahí. </p>
