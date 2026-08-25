@@ -66,4 +66,16 @@ Estos son los tips clave para lograrlo:
 * Cuando pases un Excel, Word u otro documento, dale todo el contexto que acompaña a ese archivo para que entienda cómo trabajarlo.
 * Si es un Excel, pídele que describa qué ve antes de cualquier análisis, así confirmas que entiende las variables igual que tú [07:30].
 
-De esa forma, todos los análisis posteriores mantienen el sentido que tú esperas. </p>
+De esa forma, todos los análisis posteriores mantienen el sentido que tú esperas. 
+
+<strong> ¿Cómo potenciar tu sistema operativo personal con estos archivos? </strong>
+
+Dar un paso atrás ayuda a ver el panorama completo. Lograr que la IA cree archivos también sirve para alimentar tu sistema operativo personal.
+
+Algunos ejemplos que puedes construir:
+
+* Playbooks con tus procesos de trabajo.
+* Archivos Excel con información clave de tu negocio.
+* Archivos Word que ya incluyen un prompt listo para ejecutar.
+
+</p>
