@@ -50,4 +50,9 @@ El resultado incluyó un dashboard completo con varias secciones:
 * Productos por valor y cierre.
 * Análisis de conversión, pipeline y motivos de pérdida.
 * Tendencia mensual.
-* Un modelo predictivo con campos variables modificables. </p>
+* Un modelo predictivo con campos variables modificables. 
+
+<strong> ¿Qué diferencia a Claude de otras IA al crear un Excel?</strong> Claude escribe fórmulas reales dentro del Excel porque sabe usar el programa. Otras IA suelen poner una tabla por hoja y sin formato.
+
+Eso permite que un gráfico se actualice si cambias una variable. Por ejemplo, si modificas un valor al 40%, el gráfico del modelo predictivo cambia solo [06:30]. Tienes tablas con explicación, fórmulas funcionales y su gráfico correspondiente, algo que ninguna IA resolvía bien antes de las skills.
+</p>
