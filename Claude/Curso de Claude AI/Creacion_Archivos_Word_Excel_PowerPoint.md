@@ -56,3 +56,14 @@ El resultado incluyó un dashboard completo con varias secciones:
 
 Eso permite que un gráfico se actualice si cambias una variable. Por ejemplo, si modificas un valor al 40%, el gráfico del modelo predictivo cambia solo [06:30]. Tienes tablas con explicación, fórmulas funcionales y su gráfico correspondiente, algo que ninguna IA resolvía bien antes de las skills.
 </p>
+
+<h3> ¿Qué contexto debo darle a Claude al pasarle un archivo? </h3>
+
+<p align="left"> El objetivo de fondo es ahorrar el tiempo que gastas armando archivos y dedicarlo a acciones de valor: tomar decisiones con los datos, compartir con el equipo y trabajar mejor.
+
+Estos son los tips clave para lograrlo:
+
+* Cuando pases un Excel, Word u otro documento, dale todo el contexto que acompaña a ese archivo para que entienda cómo trabajarlo.
+* Si es un Excel, pídele que describa qué ve antes de cualquier análisis, así confirmas que entiende las variables igual que tú [07:30].
+
+De esa forma, todos los análisis posteriores mantienen el sentido que tú esperas. </p>
