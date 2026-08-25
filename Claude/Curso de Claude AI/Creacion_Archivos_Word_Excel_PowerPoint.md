@@ -29,3 +29,13 @@ El prompt usado fue claro y específico:
 * Que sea persuasiva para lograr aprobación inmediata.
 
 Antes de armar nada, Claude pidió un dato clave: los colores corporativos [02:20]. Puedes pasarle los códigos hex, describir los colores con palabras ("verde limón y magenta"), entregar pantones o incluso una presentación que ya los incluya. Todo es válido y él genera la paleta cromática a partir de ahí. </p>
+
+<h3> ¿Qué elementos del PowerPoint puedo editar después? </h3>
+
+<p> Aquí viene lo interesante: todo el archivo descargado es editable. No son imágenes fijas, sino elementos reales de PowerPoint.
+
+* Los gráficos son gráficos de verdad, editables desde el diseño de gráfico de PowerPoint, cambiando data y colores.
+* Los símbolos se pueden modificar uno por uno.
+* Los títulos y textos son elementos independientes que ajustas a tu gusto.
+
+Además puedes cargar el logo de tu marca y agregar más información. Cada pieza responde como si tú mismo la hubieras creado en el programa. </p>
