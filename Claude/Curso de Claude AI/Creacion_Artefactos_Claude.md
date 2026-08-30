@@ -11,5 +11,12 @@ Un artefacto es una pequeña aplicación que vive dentro de Claude. Puede ser al
 * Desde el chat tradicional, pidiéndole directamente que cree una aplicación para gestionar tareas o clasificar información.
 * Desde el menú Artefactos, ubicado arriba a la izquierda, donde encuentras todos los que ya creaste y el botón Nuevo artefacto en la parte superior derecha.
 
-Al hacer clic en Nuevo artefacto puedes elegir entre un artefacto de chat o uno de cowork. En esta práctica nos centramos en los de chat, aunque cowork llega más adelante en el curso [00:53]. </p>
+Al hacer clic en Nuevo artefacto puedes elegir entre un artefacto de chat o uno de cowork. En esta práctica nos centramos en los de chat, aunque cowork llega más adelante en el curso [00:53]. 
+
+<strong> ¿Qué es un artefacto en Claude? </strong> Es una miniaplicación que vive dentro de Claude. Puede ir desde un documento de texto simple hasta una app interactiva con funciones de inteligencia artificial, todo generado a partir de tu descripción.
+
+
+
+
+</p>
 
