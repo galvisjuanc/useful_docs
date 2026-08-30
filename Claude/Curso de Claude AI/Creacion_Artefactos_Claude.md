@@ -25,3 +25,9 @@ En el ejemplo se dictó la idea de un juego tipo buscaminas donde rescatas a una
 
 Antes de construir, Claude explica cómo lo va a desarrollar: casillas vacías, monedas, ítems, monstruos, progresión del personaje, el dragón, victoria, derrota y estilo visual [04:14]. Y aquí viene lo interesante: si algo no te cuadra, puedes iterar y pedirle otro estilo, otros elementos o cambiar reglas antes de que lo cree. </p>
 
+<h3> Por qué conviene que Claude explique antes de construir </h3>
+
+<p align="left"> Cuando Claude convierte tu descripción en código jugable, primero te muestra su interpretación. Ese paso es clave porque te da la oportunidad de corregir el rumbo. El juego terminado incluía barra de experiencia, poder, oro y vida, funcionando igual que un buscaminas real [06:14].
+
+¿Puedo modificar un artefacto después de crearlo? Sí. Una vez generado, puedes pedirle ajustes, cambiar reglas o iterar cuantas veces quieras hasta que quede como lo imaginabas. </p>
+
