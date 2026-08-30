@@ -29,5 +29,17 @@ Antes de construir, Claude explica cómo lo va a desarrollar: casillas vacías, 
 
 <p align="left"> Cuando Claude convierte tu descripción en código jugable, primero te muestra su interpretación. Ese paso es clave porque te da la oportunidad de corregir el rumbo. El juego terminado incluía barra de experiencia, poder, oro y vida, funcionando igual que un buscaminas real [06:14].
 
-¿Puedo modificar un artefacto después de crearlo? Sí. Una vez generado, puedes pedirle ajustes, cambiar reglas o iterar cuantas veces quieras hasta que quede como lo imaginabas. </p>
+¿Puedo modificar un artefacto después de crearlo? Sí. Una vez generado, puedes pedirle ajustes, cambiar reglas o iterar cuantas veces quieras hasta que quede como lo imaginabas. 
+
+<strong> Cómo crear un clasificador de tareas con la matriz de Eisenhower </strong>
+
+Ahora la parte útil para el trabajo. El tip más valioso es crear primero un documento de requerimiento que describa a fondo la aplicación antes de mandarla a construir [08:04].
+
+En el ejemplo se pidió una miniaplicación tipo artefacto donde cargas diariamente una lista de tareas, ordenada o en un párrafo desordenado, y Claude las clasifica según la matriz de Eisenhower: urgente, importante, delegable o no hacer [08:34].
+
+<strong> ¿Qué es la matriz de Eisenhower? </strong> Es un método para organizar tareas en cuatro categorías: urgente, importante, delegable y no hacer. Ayuda a decidir en qué enfocarte y qué puedes soltar.
+
+El documento de definiciones deja superclaro qué entra al sistema, qué rol cumple la IA, cómo debe separar y justificar cada clasificación, y las reglas de negocio. Con eso listo, Claude hace preguntas útiles como si debe clasificar con criterio genérico o con tu definición personal, y qué tecnología usar: un artefacto React, HTML simple u otra opción [10:59]. En el ejemplo se eligió React.
+
+</p>
 
