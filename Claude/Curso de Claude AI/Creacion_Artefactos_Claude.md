@@ -15,8 +15,13 @@ Al hacer clic en Nuevo artefacto puedes elegir entre un artefacto de chat o uno 
 
 <strong> ¿Qué es un artefacto en Claude? </strong> Es una miniaplicación que vive dentro de Claude. Puede ir desde un documento de texto simple hasta una app interactiva con funciones de inteligencia artificial, todo generado a partir de tu descripción.
 
+Un dato interesante: la investigación profunda que se hace en Claude también es un artefacto, solo que de texto [01:14]. Eso muestra el rango enorme que cubre esta función. </p>
 
+<h3> Cómo funciona crear un juego como primer artefacto </h3>
 
+<p align="left"> Para empezar con algo divertido, puedes pedirle a Claude que cree un juego. Al hacerlo, te pregunta qué tipo de juego tienes en mente, si hay un tema o mundo que quieras usar, e incluso trae referencias de tu memoria como series o mundos que te gustan [01:52].
 
-</p>
+En el ejemplo se dictó la idea de un juego tipo buscaminas donde rescatas a una princesa de un dragón, desbloqueando ítems, objetos y dinero para subir de nivel. El tablero se definió en una sola etapa de 20 por 20 casillas, con una barra de vida que crece para resistir monstruos y, al derrotar al dragón, un mensaje con brillos que dice "Rescataste a la princesa" [02:38].
+
+Antes de construir, Claude explica cómo lo va a desarrollar: casillas vacías, monedas, ítems, monstruos, progresión del personaje, el dragón, victoria, derrota y estilo visual [04:14]. Y aquí viene lo interesante: si algo no te cuadra, puedes iterar y pedirle otro estilo, otros elementos o cambiar reglas antes de que lo cree. </p>
 
