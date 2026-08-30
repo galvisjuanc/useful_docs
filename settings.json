@@ -1,0 +1,7 @@
+{
+    "auto-close-tag.activationOnLanguage": [
+        "html",
+        "markdown",
+        "xml"
+    ]
+}
