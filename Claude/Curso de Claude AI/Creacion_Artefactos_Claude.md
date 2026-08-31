@@ -43,3 +43,12 @@ El documento de definiciones deja superclaro qué entra al sistema, qué rol cum
 
 </p>
 
+<h3> Cómo usa Claude tu propia suscripción dentro del artefacto </h3>
+
+<p align="left"> Aquí hay un detalle técnico importante. Cuando la aplicación clasifica tareas, ocupa una función de IA que corre sobre tu propia suscripción de Claude, el mismo uso que cuando trabajas en el chat [12:24].
+
+La gracia es que si publicas la aplicación, cada persona que la reciba usará su propio Claude para hacerla funcionar. En la prueba, con una lista revuelta de tareas reales, el clasificador separó bien: enviar mails a alumnos como urgente, mandar papers y enviar propuestas de negocio, mientras que jugar Pokémon Champions e ir a McDonald's quedaron en la categoría de no hacer [13:26].
+
+Cada artefacto que creas queda guardado en el menú Artefactos, listo para reutilizarse. Así construyes tu propio menú de aplicaciones personalizadas para distintos dolores de tu rutina.
+
+</p>
