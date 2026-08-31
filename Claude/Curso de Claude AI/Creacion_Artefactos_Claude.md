@@ -51,4 +51,14 @@ La gracia es que si publicas la aplicación, cada persona que la reciba usará s
 
 Cada artefacto que creas queda guardado en el menú Artefactos, listo para reutilizarse. Así construyes tu propio menú de aplicaciones personalizadas para distintos dolores de tu rutina.
 
+<strong> Qué habilidades y conceptos se practican al crear artefactos </strong>
+
+Estas son las ideas centrales que se ponen en juego al construir tus propias miniaplicaciones.
+
+* Documento de requerimiento: escribirlo primero le da a la IA criterios claros antes de programar [08:04].
+* Iteración: revisar la interpretación de Claude y corregir estilo, elementos o reglas antes de crear [04:44].
+* Matriz de Eisenhower: marco para clasificar tareas en urgente, importante, delegable o no hacer [08:34].
+* Artefacto React: tipo de aplicación interactiva que puedes elegir al construir [11:20].
+* Funciones de IA dentro del artefacto: la app usa tu suscripción de Claude para procesar la información [12:24].
+
 </p>
