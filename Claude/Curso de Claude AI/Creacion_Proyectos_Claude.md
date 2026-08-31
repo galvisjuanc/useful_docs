@@ -1,0 +1,15 @@
+<h2> Cómo crear proyectos en Claude </h2>
+
+<p align="left"> Crear proyectos en IA te permite armar un contenedor donde guardas conversaciones, documentos de referencia e instrucciones fijas para que la inteligencia artificial trabaje con contexto y automatice los prompts que usas a diario. Esto sirve para cualquiera que repita tareas con la misma estructura pero con datos que cambian, como profesores, freelancers o creadores de contenido.
+
+La idea central es simple: en lugar de repetir siempre el mismo prompt, dejas las instrucciones cargadas una sola vez y solo cambias lo que entregas en cada conversación. Y aquí viene lo interesante, porque un proyecto combina tres elementos que trabajan juntos. </p>
+
+<h3> Qué es un proyecto en IA y para qué sirve </h3>
+
+<p align="left"> Un proyecto funciona como un contenedor que agrupa todo lo relacionado con un tema. Adentro viven las conversaciones, la información de referencia y las instrucciones que le dicen a la IA cómo operar.
+
+<strong> ¿Qué es un proyecto en una herramienta de IA? </strong> Es un contenedor donde guardas conversaciones relacionadas, documentos de contexto e instrucciones fijas. La IA usa toda esa información cada vez que hablas con el proyecto, sin que tengas que repetirla.
+
+En el ejemplo de la clase se crea un proyecto llamado Resumidor de clases, con el objetivo de resumir el contenido de sesiones para compartir con clientes y alumnos [00:44]. Desde el menú de Proyectos, en la barra izquierda, puedes darle un nombre, describir qué intenta lograr y crearlo [01:24].
+
+Una vez creado, cualquier conversación nueva queda ordenada dentro de ese proyecto. También puedes arrastrar chats existentes o usar los tres puntos para agregar una conversación al proyecto [02:07]. El primer uso, incluso sin configurar nada más, es tener todas tus conversaciones de un mismo tema ordenadas en un solo lugar. </p>
