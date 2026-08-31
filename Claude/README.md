@@ -9,3 +9,5 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Claude/Curso%20de%20Claude%20AI/Creacion_Archivos_Word_Excel_PowerPoint.md"> Creación de archivos: Word, PowerPoint, Excel </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Claude/Curso%20de%20Claude%20AI/Creacion_Artefactos_Claude.md"> Cómo crear artefactos interactivos en Claude </a>
+
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Claude/Curso%20de%20Claude%20AI/Creacion_Proyectos_Claude.md"> Cómo crear proyectos en Claude </a>
