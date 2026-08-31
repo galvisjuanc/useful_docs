@@ -22,4 +22,12 @@ A la derecha del proyecto aparecen tres módulos que le dan su verdadero poder.
 * Instrucciones: aquí defines cómo debe operar la IA. Es ideal cuando usas un prompt con frecuencia y lo único que cambia es lo que entregas cada vez [03:44].
 * Archivos o base de conocimiento: cargas documentos, manuales o estructuras de referencia para que la IA los consulte siempre [08:32].
 
+La diferencia clave entre estos módulos es qué permanece constante y qué cambia. Las instrucciones y los archivos son estables; lo variable es lo que tú entregas en cada conversación.
+
+<strong> Por qué separar lo constante de lo variable en un prompt </strong>
+
+Aquí está la lógica que hace funcionar todo. En las clases online por Zoom, cada transcripción es distinta, así que ese archivo es lo variable que el usuario entrega cada vez [04:20]. Pero lo que quieres hacer con esa transcripción es siempre lo mismo, y eso se convierte en la instrucción fija.
+
+</strong> ¿Cuándo debo poner algo en las instrucciones y no en el prompt?</strong> Pon en las instrucciones lo que se repite igual en cada uso. Deja para el prompt solo la información que cambia, como una transcripción distinta o datos de un Excel.
+
 </p>
