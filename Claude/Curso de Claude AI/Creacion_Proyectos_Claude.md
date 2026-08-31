@@ -12,4 +12,14 @@ La idea central es simple: en lugar de repetir siempre el mismo prompt, dejas la
 
 En el ejemplo de la clase se crea un proyecto llamado Resumidor de clases, con el objetivo de resumir el contenido de sesiones para compartir con clientes y alumnos [00:44]. Desde el menú de Proyectos, en la barra izquierda, puedes darle un nombre, describir qué intenta lograr y crearlo [01:24].
 
-Una vez creado, cualquier conversación nueva queda ordenada dentro de ese proyecto. También puedes arrastrar chats existentes o usar los tres puntos para agregar una conversación al proyecto [02:07]. El primer uso, incluso sin configurar nada más, es tener todas tus conversaciones de un mismo tema ordenadas en un solo lugar. </p>
+Una vez creado, cualquier conversación nueva queda ordenada dentro de ese proyecto. También puedes arrastrar chats existentes o usar los tres puntos para agregar una conversación al proyecto [02:07]. El primer uso, incluso sin configurar nada más, es tener todas tus conversaciones de un mismo tema ordenadas en un solo lugar. 
+
+<strong> Cómo funcionan la memoria, las instrucciones y los archivos </strong>
+
+A la derecha del proyecto aparecen tres módulos que le dan su verdadero poder.
+
+* Memoria: a medida que conversas dentro del proyecto, la IA genera una memoria con decisiones, información clave y aspectos relevantes, de modo que siempre tiene contexto fresco a mano [03:11].
+* Instrucciones: aquí defines cómo debe operar la IA. Es ideal cuando usas un prompt con frecuencia y lo único que cambia es lo que entregas cada vez [03:44].
+* Archivos o base de conocimiento: cargas documentos, manuales o estructuras de referencia para que la IA los consulte siempre [08:32].
+
+</p>
