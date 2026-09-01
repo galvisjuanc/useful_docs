@@ -52,4 +52,12 @@ Otro ejemplo es Wikipediando, un proyecto para escribir artículos de Wikipedia.
 
 Además entrega advertencias útiles, como señalar que la fecha de fundación de Platzi varía entre fuentes y que ciertas afirmaciones son difíciles de verificar, algo importante porque Wikipedia es restrictivo con eso [14:20].
 
+<strong> Cómo aplicar proyectos a tu trabajo diario </Strong>
+
+La flexibilidad es total: puedes crear un proyecto para lo que necesites. Si trabajas con múltiples clientes, arma un proyecto por cliente con su información consistente y sus instrucciones específicas [15:22]. Al cambiar de proyecto, cambias de contexto y la IA trabaja con los datos correctos.
+
+Para los que usas seguido, ve a los tres puntos del proyecto y elige Fijar, así queda siempre visible en la barra izquierda [16:40].
+
+Aquí conectan las clases anteriores: esos manuales, documentos y buenas prácticas que creaste con investigación profunda ahora los conviertes en la base de conocimiento de un proyecto [17:20]. Un manual de cómo realizas una tarea, una lista de precios o un catálogo de productos se transforman en contexto permanente que la IA usa para trabajar más rápido en tu sistema operativo personal.
+
 </p>
