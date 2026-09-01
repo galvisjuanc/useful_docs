@@ -46,4 +46,10 @@ Los archivos convierten un proyecto simple en uno experto. El proyecto Guaripolo
 
 Ese manual, creado con investigación profunda, explica cómo funciona la herramienta, los meta tags, las etiquetas, las secciones de una canción como intro, coro y puente, cómo identificar voces e instrumentos, con ejemplos y recomendaciones [09:00]. Cada vez que pides una letra, la IA no solo sigue las instrucciones, sino que aplica ese conocimiento adicional.
 
+<strong> ¿Para qué sirve cargar un manual en un proyecto de IA? </strong> Le da a la IA conocimiento especializado que consulta en cada tarea. Así aplica buenas prácticas concretas en lugar de responder solo con conocimiento general.
+
+Otro ejemplo es Wikipediando, un proyecto para escribir artículos de Wikipedia. Ahí se cargó el manual de estilo oficial de Wikipedia tal como viene [11:03]. Al pedirle buscar información sobre Freddy Vega y crear un artículo de perfil, la IA busca en Internet y genera el artículo con toda la estructura que pide Wikipedia: nombre, imagen, párrafos y los símbolos de formato del editor [13:44].
+
+Además entrega advertencias útiles, como señalar que la fecha de fundación de Platzi varía entre fuentes y que ciertas afirmaciones son difíciles de verificar, algo importante porque Wikipedia es restrictivo con eso [14:20].
+
 </p>
