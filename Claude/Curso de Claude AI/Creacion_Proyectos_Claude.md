@@ -38,4 +38,8 @@ La instrucción del proyecto Resumidor pide crear un resumen con cinco secciones
 * Siguientes pasos para seguir practicando.
 * Recursos que mencionó el profesor.
 
+Después de guardar esas instrucciones, basta con pegar una transcripción y enviar, sin escribir ningún prompt adicional. La IA lee, reconoce que forma parte del proyecto y entrega el documento con las cinco secciones ya estructuradas [06:32].
+
+
+
 </p>
