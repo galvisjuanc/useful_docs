@@ -30,4 +30,12 @@ Aquí está la lógica que hace funcionar todo. En las clases online por Zoom, c
 
 </strong> ¿Cuándo debo poner algo en las instrucciones y no en el prompt?</strong> Pon en las instrucciones lo que se repite igual en cada uso. Deja para el prompt solo la información que cambia, como una transcripción distinta o datos de un Excel.
 
+La instrucción del proyecto Resumidor pide crear un resumen con cinco secciones fijas [05:02]:
+
+* TLDR de la sesión.
+* Principales insights y tips entregados.
+* Resumen por sección, cada una cerrando con un párrafo de idea fuerza.
+* Siguientes pasos para seguir practicando.
+* Recursos que mencionó el profesor.
+
 </p>
