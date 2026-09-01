@@ -40,6 +40,10 @@ La instrucción del proyecto Resumidor pide crear un resumen con cinco secciones
 
 Después de guardar esas instrucciones, basta con pegar una transcripción y enviar, sin escribir ningún prompt adicional. La IA lee, reconoce que forma parte del proyecto y entrega el documento con las cinco secciones ya estructuradas [06:32].
 
+<strong> Cómo usar archivos como base de conocimiento avanzada </strong>
 
+Los archivos convierten un proyecto simple en uno experto. El proyecto Guaripolo crea letras de canciones para herramientas como Suno o Producer, y no solo tiene instrucciones: incluye un manual completo con reglas y buenas prácticas [08:20].
+
+Ese manual, creado con investigación profunda, explica cómo funciona la herramienta, los meta tags, las etiquetas, las secciones de una canción como intro, coro y puente, cómo identificar voces e instrumentos, con ejemplos y recomendaciones [09:00]. Cada vez que pides una letra, la IA no solo sigue las instrucciones, sino que aplica ese conocimiento adicional.
 
 </p>
