@@ -31,4 +31,6 @@ Claude es más que un chatbot: es un asistente de IA diseñado para ser tu compa
 
 * <strong> Investigación y análisis: </strong> Claude te ayuda a explorar ángulos de investigación, compilar hallazgos y analizar datos para descubrir información significativa. Puedes subir documentos y Claude te ayudará a comprender información compleja; esto es posible gracias a la gran ventana de contexto de Claude, que puede procesar más de 200K tokens (alrededor de 500 páginas de texto o más), con hasta 1M de tokens disponibles en los planes Pro, Max, Team y Enterprise al usar modelos compatibles. Esto permite que Claude considere materiales extensos en una sola conversación.
 
+* <strong> Asistencia en programación:</strong> La programación es una de las mayores fortalezas de Claude. El sólido desempeño de Claude en tareas de programación del mundo real significa que puede ayudarte a escribir, depurar y explicar código en múltiples lenguajes de programación.
+
 </p>
