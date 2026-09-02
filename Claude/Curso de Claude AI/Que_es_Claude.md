@@ -35,4 +35,6 @@ Claude es más que un chatbot: es un asistente de IA diseñado para ser tu compa
 
 * <strong> Resolución de problemas y razonamiento: </strong> Claude maneja tareas cognitivas complejas, problemas matemáticos, pensamiento estratégico y análisis, e investigación. Los modelos recientes Opus y Sonnet de Claude son modelos híbridos que ofrecen dos modos: respuestas casi instantáneas y pensamiento extendido para un razonamiento más profundo. El pensamiento extendido de Anthropic permite que Claude trabaje en los problemas paso a paso, lo que lo hace muy adecuado para tareas que requieren un análisis cuidadoso.
 
+* <strong>Aprender cosas nuevas:</strong> Ya sea que estés aprendiendo una nueva habilidad, explorando dominios desconocidos o resolviendo desafíos complejos, Claude puede adaptarse a tu estilo y ritmo de aprendizaje. El modo de aprendizaje es una nueva experiencia de Claude que guía tu proceso de razonamiento en lugar de proporcionar respuestas, ayudando a desarrollar habilidades de pensamiento crítico.
+
 </p>
