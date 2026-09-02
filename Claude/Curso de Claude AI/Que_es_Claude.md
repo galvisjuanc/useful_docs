@@ -38,3 +38,11 @@ Claude es más que un chatbot: es un asistente de IA diseñado para ser tu compa
 * <strong>Aprender cosas nuevas:</strong> Ya sea que estés aprendiendo una nueva habilidad, explorando dominios desconocidos o resolviendo desafíos complejos, Claude puede adaptarse a tu estilo y ritmo de aprendizaje. El modo de aprendizaje es una nueva experiencia de Claude que guía tu proceso de razonamiento en lugar de proporcionar respuestas, ayudando a desarrollar habilidades de pensamiento crítico.
 
 </p>
+
+<h3> Formas de acceder a Claude </h3>
+
+<p align="left"> Claude es la inteligencia: el asistente de IA con el que estás aprendiendo a trabajar a lo largo de este curso. Esa misma inteligencia está disponible en múltiples interfaces, cada una adecuada para diferentes tipos de tareas.
+
+* Claude.ai (y las aplicaciones móviles y de escritorio asociadas) son la forma principal en que la mayoría de las personas interactúan con Claude. Aquí puedes hacer preguntas, generar ideas, crear y editar documentos, y mucho más. Claude.ai es ideal para conversaciones, asistencia en escritura, investigación, análisis y creación de archivos. Este es nuestro enfoque en este curso.
+
+</p>
