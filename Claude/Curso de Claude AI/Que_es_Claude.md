@@ -33,4 +33,6 @@ Claude es más que un chatbot: es un asistente de IA diseñado para ser tu compa
 
 * <strong> Asistencia en programación:</strong> La programación es una de las mayores fortalezas de Claude. El sólido desempeño de Claude en tareas de programación del mundo real significa que puede ayudarte a escribir, depurar y explicar código en múltiples lenguajes de programación.
 
+* <strong> Resolución de problemas y razonamiento: </strong> Claude maneja tareas cognitivas complejas, problemas matemáticos, pensamiento estratégico y análisis, e investigación. Los modelos recientes Opus y Sonnet de Claude son modelos híbridos que ofrecen dos modos: respuestas casi instantáneas y pensamiento extendido para un razonamiento más profundo. El pensamiento extendido de Anthropic permite que Claude trabaje en los problemas paso a paso, lo que lo hace muy adecuado para tareas que requieren un análisis cuidadoso.
+
 </p>
