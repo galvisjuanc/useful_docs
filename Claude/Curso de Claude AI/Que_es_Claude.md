@@ -21,4 +21,10 @@ Claude es más que un chatbot: es un asistente de IA diseñado para ser tu compa
 
 * <strong> Claude está diseñado para ser dirigible y colaborativo: </strong> Claude puede recibir indicaciones sobre personalidad, tono y comportamiento, y los clientes reportan que Claude tiene muchas menos probabilidades de producir resultados dañinos, es más fácil de conversar y es más dirigible, por lo que puedes obtener el resultado deseado con menos esfuerzo.
 
-* <strong> Puedes acceder a Claude donde sea que trabajes: </strong> Las aplicaciones de Claude están disponibles para todos los tipos de plan: Free, Pro, Max, Team y Enterprise. Tus conversaciones, proyectos, memoria y preferencias se sincronizan en todos los dispositivos cuando has iniciado sesión. Ya sea que estés en tu escritorio o en movimiento, Claude está disponible a través de aplicaciones web, de escritorio y móviles.
+* <strong> Puedes acceder a Claude donde sea que trabajes: </strong> Las aplicaciones de Claude están disponibles para todos los tipos de plan: Free, Pro, Max, Team y Enterprise. Tus conversaciones, proyectos, memoria y preferencias se sincronizan en todos los dispositivos cuando has iniciado sesión. Ya sea que estés en tu escritorio o en movimiento, Claude está disponible a través de aplicaciones web, de escritorio y móviles. </p>
+
+<h3> Comprendiendo las capacidades de Claude </h3>
+
+<p align="left"> Claude puede ayudar con una amplia gama de tareas que van mucho más allá de simples interacciones de preguntas y respuestas, hacia una colaboración similar a la de un asistente que puede tanto automatizar como potenciar tu trabajo. Aquí hay algunas cosas en las que Claude se destaca:
+
+* <strong> Escritura y creación de contenido: </strong> Claude puede colaborar contigo en publicaciones de redes sociales, correos electrónicos profesionales e informes complejos. Debido a que Claude está entrenado para recibir indicaciones sobre personalidad y tono, puedes iterar juntos sobre la estructura y la claridad hasta que tu voz se refleje con claridad. </p>
