@@ -47,5 +47,6 @@ Claude es más que un chatbot: es un asistente de IA diseñado para ser tu compa
 * Claude Code es una herramienta de programación agéntica diseñada para desarrolladores, pero que puede usarse para todo tipo de manipulación de archivos en tu escritorio. Claude Code puede editar archivos directamente, ejecutar comandos y crear commits.
 * Claude Tag lleva a Claude directamente a Slack. Puedes chatear con Claude en el encabezado del asistente de IA desde cualquier canal o conversación, o etiquetando a Claude en los hilos. Cuando conectas Slack con Claude, Claude busca en los canales, mensajes directos y archivos compartidos de tu espacio de trabajo para encontrar el contexto que necesitas para obtener mejores respuestas e investigaciones.
 * Claude Design es un espacio dedicado a convertir ideas en interfaces funcionales. Describe lo que quieres, o comienza a partir de un boceto o captura de pantalla, y Claude construye un prototipo interactivo que puedes refinar y entregar a tu equipo.
+* Claude for Microsoft 365 lleva a Claude a Excel, PowerPoint, Word y Outlook como una barra lateral, para que puedas analizar, redactar y editar dentro del documento que ya tienes abierto, y llevar el contexto de una aplicación a la siguiente.
 
 </p>
