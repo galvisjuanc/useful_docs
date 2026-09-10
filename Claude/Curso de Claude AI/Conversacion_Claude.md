@@ -15,5 +15,13 @@ Objetivos:
 <p align="left"> 
 
 * Claude es un colaborador poderoso e inteligente que amplifica tus capacidades en todo tu trabajo. Claude aporta inteligencia de IA, pero tú aportas el contexto y la experiencia que hacen que el trabajo sea significativo.
-* El mejor enfoque al hablar con Claude es como lo harías con un compañero de trabajo: de forma natural, concisa y conversacional. </p>
+* El mejor enfoque al hablar con Claude es como lo harías con un compañero de trabajo: de forma natural, concisa y conversacional.
+* Antes de tu próxima conversación con Claude, considera: preparar el escenario (tu rol, objetivos y contexto), definir la tarea (qué acción quieres que Claude realice) y especificar reglas (estilo, tono y ejemplos).
+* Cuando subes documentos relevantes o información de contexto a un chat, Claude considera ese contenido en su respuesta; piénsalo como un atajo para que Claude pueda entender cuáles son tus necesidades.
+* El verdadero poder de Claude surge con una comunicación continua y frecuente, no solo con prompts puntuales </p>
 
+<h3> Iniciando tu primera conversación </h3>
+
+<p align="left"> Cuando abres Claude.ai, verás una interfaz limpia con un área de entrada de texto en la parte inferior de la pantalla.
+
+Tus prompts pueden variar desde preguntas simples (como generar ideas para nombres en clave de una nueva función) hasta solicitudes complejas para co-crear archivos. </p>
