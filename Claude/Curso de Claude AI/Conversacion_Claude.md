@@ -35,3 +35,19 @@ Pero quizás te preguntes, ¿qué es un buen prompt? Antes de tu próxima conver
 1. <strong> Preparar el escenario:</strong>  ¿Cuál es tu rol y cuáles son tus objetivos? ¿Hay contexto sobre tu trabajo que Claude debería conocer?
 2. <strong> Definir la tarea:</strong>  ¿Qué acción quieres que Claude realice? ¿Quieres que Claude escriba, analice, construya o haga algo más?
 3. <strong> Especificar reglas:</strong>  ¿Cuál es el estilo o tono que quieres que Claude use? ¿Hay ejemplos que puedas adjuntar para mostrarle a Claude lo que buscas? </p>
+
+<h3> Uniendo todo </h3>
+
+<p align="left"> Aquí hay un ejemplo de prompt que usa los tres elementos: 
+
+    Soy el líder de marketing en una startup independiente de streaming, y estamos preparando un pitch deck para inversores de Serie A. ¿Puedes investigar el estado actual del mercado de streaming de cine independiente e identificar tendencias clave, posicionamiento de la competencia y oportunidades de crecimiento? Usa investigación web actual con citas y estructúralo como un informe profesional de hasta 5 páginas, con un resumen ejecutivo, análisis de mercado, panorama competitivo y oportunidades de crecimiento.
+
+
+En este prompt:
+
+Prompt -> Preparar el escenario. Le decimos a Claude que esto es para un pitch deck de inversores para una nueva app de streaming independiente; ese es el contexto y el objetivo.
+
+Prompt -> Definir la tarea. Proporcionamos la acción específica (investigar el mercado) con detalles relevantes (tendencias, competidores, oportunidades).
+
+Prompt -> Especificar reglas. Pedimos investigación web actual con citas, estructurada como un informe profesional, indicándole a Claude exactamente qué estilo y formato necesitamos.
+</p>
