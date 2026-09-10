@@ -51,3 +51,20 @@ Prompt -> Definir la tarea. Proporcionamos la acción específica (investigar el
 
 Prompt -> Especificar reglas. Pedimos investigación web actual con citas, estructurada como un informe profesional, indicándole a Claude exactamente qué estilo y formato necesitamos.
 </p>
+
+<h3> Agregando contexto </h3>
+
+<p align="left"> Las subidas de archivos, los conectores y las preferencias personalizadas ofrecen formas de darle a Claude aún más contexto sobre tu trabajo.
+
+Claude puede analizar tanto texto como elementos visuales (como imágenes, gráficos y diagramas) en PDFs y otros documentos. Los tipos de archivo admitidos incluyen PDF, DOCX, CSV, TXT y formatos de imagen comunes como PNG y JPEG.
+
+Algunas formas prácticas de usar las subidas de archivos:
+
+* Sube un documento y pídele a Claude que resuma los puntos clave
+* Comparte una imagen y pídele a Claude que describa o analice lo que ve
+* Adjunta una hoja de cálculo y pídele a Claude que identifique tendencias en los datos
+* Sube código y pídele a Claude que explique cómo funciona o encuentre errores
+
+Una vez subido, Claude intentará automáticamente analizar el contenido del archivo. En el chat, el archivo aparece como un adjunto y luego puedes hacerle preguntas a Claude sobre él.
+
+</p>
