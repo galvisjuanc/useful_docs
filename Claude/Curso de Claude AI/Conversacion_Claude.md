@@ -83,4 +83,16 @@ Si la primera respuesta de Claude no es exactamente lo que querías, tienes vari
 
 <strong> Redirige o reinicia: </strong> Si Claude tomó una dirección diferente a la que pretendías, simplemente guíalo de vuelta. "En realidad, estaba preguntando sobre X, no Y. Déjame aclarar...". En el peor caso, reinicia tu conversación en un chat nuevo para refrescar completamente el contexto.
 
-    Consejo profesional: También puedes hacer clic en el ícono de lápiz en cualquiera de tus mensajes para editar y reenviar tu prompt — útil cuando quieres refinar tu solicitud en lugar de agregar un nuevo mensaje. </p>
+    Consejo profesional: También puedes hacer clic en el ícono de lápiz en cualquiera de tus mensajes para editar y reenviar tu prompt — útil cuando quieres refinar tu solicitud en lugar de agregar un nuevo mensaje. 
+    
+</p>
+
+<h3> Personalizando a Claude </h3>
+
+<p align="left"> Hay dos funciones que ayudan a que Claude trabaje mejor para ti con el tiempo, aumentando el poder de tus prompts.
+
+* Memoria guarda automáticamente el contexto clave de tus conversaciones — tu rol, preferencias, decisiones pasadas y estilo de trabajo — para que no tengas que repetirte cada vez que inicias un nuevo chat. Por ejemplo, si le dices a Claude que trabajas en marketing en una empresa B2B, recordará ese contexto en adelante. Puedes revisar, editar o eliminar cualquier cosa que Claude recuerde en cualquier momento en Configuración, y la memoria se sincroniza en todos tus dispositivos.
+
+* Estilos te permiten personalizar cómo se comunica Claude. Elige entre opciones predefinidas — como conciso, formal o explicativo — o crea tu propio estilo personalizado describiendo exactamente cómo quieres que Claude escriba. Una vez configurado, tu estilo se aplica automáticamente en todas las conversaciones.
+
+</p>
