@@ -1,5 +1,7 @@
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Claude/Curso%20de%20Claude%20AI/Que_es_Claude.md"> Qué es Claude </a>
 
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Claude/Curso%20de%20Claude%20AI/Conversacion_Claude.md"> Tu primera conversación con Claude </a>
+
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Claude/Curso%20de%20Claude%20AI/Prompting_ExtendedThinking.md"> Prompting y Extended Thinking </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Claude/Curso%20de%20Claude%20AI/Herramienta_Memoria_Claude.md"> Herramienta de Memoria en Claude </a>
