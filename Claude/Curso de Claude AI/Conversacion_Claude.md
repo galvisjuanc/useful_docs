@@ -25,3 +25,13 @@ Objetivos:
 <p align="left"> Cuando abres Claude.ai, verás una interfaz limpia con un área de entrada de texto en la parte inferior de la pantalla.
 
 Tus prompts pueden variar desde preguntas simples (como generar ideas para nombres en clave de una nueva función) hasta solicitudes complejas para co-crear archivos. </p>
+
+<h3> Escribiendo prompts efectivos </h3>
+
+<p align="left"> Todas las interacciones con Claude comienzan con un prompt, y estos prompts, combinados con otro contexto, influyen en la respuesta de Claude. El mejor enfoque al hablar con Claude es como lo harías con un compañero de trabajo: de forma natural, concisa y conversacional.
+
+Pero quizás te preguntes, ¿qué es un buen prompt? Antes de tu próxima conversación con Claude, considera algunas cosas:
+
+1. <strong> Preparar el escenario:</strong>  ¿Cuál es tu rol y cuáles son tus objetivos? ¿Hay contexto sobre tu trabajo que Claude debería conocer?
+2. <strong> Definir la tarea:</strong>  ¿Qué acción quieres que Claude realice? ¿Quieres que Claude escriba, analice, construya o haga algo más?
+3. <strong> Especificar reglas:</strong>  ¿Cuál es el estilo o tono que quieres que Claude use? ¿Hay ejemplos que puedas adjuntar para mostrarle a Claude lo que buscas? </p>
