@@ -67,4 +67,20 @@ Algunas formas prácticas de usar las subidas de archivos:
 
 Una vez subido, Claude intentará automáticamente analizar el contenido del archivo. En el chat, el archivo aparece como un adjunto y luego puedes hacerle preguntas a Claude sobre él.
 
+    Consejo profesional: Si quieres que Claude considere preferencias específicas en cada respuesta, ve a Configuración > General > '¿Qué preferencias personales debería considerar Claude?' para establecer preferencias que se aplican a cada conversación.
+
 </p>
+
+<h3> Iterando sobre las respuestas de Claude </h3>
+
+<p align="left"> Las conversaciones con Claude están pensadas para ser iterativas. Encadenar prompts pequeños permite un diálogo natural en el que guías la conversación según las respuestas de Claude.
+
+Si la primera respuesta de Claude no es exactamente lo que querías, tienes varias opciones:
+
+<strong> Haz preguntas de seguimiento: </strong> Construye sobre la respuesta de Claude pidiendo más detalle, un ángulo diferente o una aclaración. Por ejemplo: "¿Puedes ampliar el segundo punto?" o "Eso es útil, pero ¿puedes hacerlo más conciso?"
+
+<strong> Proporciona retroalimentación: </strong> Dile a Claude qué te gustó y qué no te gustó de su respuesta. "Esto está bien, pero el tono es demasiado formal. ¿Puedes hacerlo más conversacional?"
+
+<strong> Redirige o reinicia: </strong> Si Claude tomó una dirección diferente a la que pretendías, simplemente guíalo de vuelta. "En realidad, estaba preguntando sobre X, no Y. Déjame aclarar...". En el peor caso, reinicia tu conversación en un chat nuevo para refrescar completamente el contexto.
+
+    Consejo profesional: También puedes hacer clic en el ícono de lápiz en cualquiera de tus mensajes para editar y reenviar tu prompt — útil cuando quieres refinar tu solicitud en lugar de agregar un nuevo mensaje. </p>
