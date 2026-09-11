@@ -9,3 +9,8 @@ Objetivos:
 
 </p>
 
+<h3> Desafíos comunes y cómo solucionarlos </h3>
+
+<p align="left"> A medida que comienzas a trabajar con Claude, es probable que encuentres momentos en los que la respuesta no sea exactamente lo que esperabas. Esto es normal, y es una oportunidad para refinar tu enfoque. Aquí tienes algunos de los desafíos más comunes y cómo abordarlos. 
+
+</p>
