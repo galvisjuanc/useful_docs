@@ -26,8 +26,19 @@ Objetivos:
   </tr>
   <tr>
     <td>La respuesta es demasiado larga (o demasiado corta)</td>
-    <td>34</td>
-    <td>Bogotá</td>
+    <td>Claude está adivinando la longitud apropiada</td>
+    <td>Sé explícito: "Dame un resumen de dos párrafos" o "Mantén esto por debajo de 100 palabras" o "Necesito un análisis exhaustivo; la longitud no es un problema."</td>
   </tr>
+<tr>
+    <td>La respuesta es demasiado larga (o demasiado corta)</td>
+    <td>Claude está adivinando la longitud apropiada</td>
+    <td>Sé explícito: "Dame un resumen de dos párrafos" o "Mantén esto por debajo de 100 palabras" o "Necesito un análisis exhaustivo; la longitud no es un problema."</td>
+  </tr>
+  <tr>
+    <td>La respuesta es demasiado larga (o demasiado corta)</td>
+    <td>Claude está adivinando la longitud apropiada</td>
+    <td>Sé explícito: "Dame un resumen de dos párrafos" o "Mantén esto por debajo de 100 palabras" o "Necesito un análisis exhaustivo; la longitud no es un problema."</td>
+  </tr>
+
 </table>
 </p>
