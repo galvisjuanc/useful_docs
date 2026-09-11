@@ -30,9 +30,9 @@ Objetivos:
     <td>Sé explícito: "Dame un resumen de dos párrafos" o "Mantén esto por debajo de 100 palabras" o "Necesito un análisis exhaustivo; la longitud no es un problema."</td>
   </tr>
 <tr>
-    <td>La respuesta es demasiado larga (o demasiado corta)</td>
-    <td>Claude está adivinando la longitud apropiada</td>
-    <td>Sé explícito: "Dame un resumen de dos párrafos" o "Mantén esto por debajo de 100 palabras" o "Necesito un análisis exhaustivo; la longitud no es un problema."</td>
+    <td>Claude no siguió mi formato</td>
+    <td>Claude entendió qué quieres pero no cómo quieres que se presente</td>
+    <td>Muestra, no solo digas. Proporciona un ejemplo del formato, o describe la estructura explícitamente: "Usa viñetas con encabezados en negrita para cada sección."</td>
   </tr>
   <tr>
     <td>La respuesta es demasiado larga (o demasiado corta)</td>
