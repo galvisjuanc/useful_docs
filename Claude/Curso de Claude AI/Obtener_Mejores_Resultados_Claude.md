@@ -46,3 +46,15 @@ Objetivos:
   </tr>
 </table>
 </p>
+
+<h3> La mentalidad de iteración </h3>
+
+<p align="left"> 
+
+Uno de los cambios más importantes al trabajar con Claude es reconocer que tu primer prompt rara vez produce un resultado perfecto, y eso está bien. Piensa en tu prompt inicial como el comienzo de una conversación, no como una solicitud de una sola vez.
+
+Los usuarios efectivos de Claude:
+
+* Trata los primeros borradores como puntos de partida. Revisa lo que produce Claude, identifica qué funciona y qué no, y luego refina.
+* Da retroalimentación específica. "Hazlo más corto" está bien, pero "Corta los primeros dos párrafos y haz que la conclusión esté más orientada a la acción" es mejor.
+* Sabe cuándo empezar de nuevo. Si una conversación se ha desviado, a veces es más rápido abrir un nuevo chat con un prompt más claro que intentar redirigirla. </p>
