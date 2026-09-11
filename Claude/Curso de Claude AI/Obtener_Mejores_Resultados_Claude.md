@@ -35,10 +35,14 @@ Objetivos:
     <td>Muestra, no solo digas. Proporciona un ejemplo del formato, o describe la estructura explícitamente: "Usa viñetas con encabezados en negrita para cada sección."</td>
   </tr>
   <tr>
-    <td>La respuesta es demasiado larga (o demasiado corta)</td>
-    <td>Claude está adivinando la longitud apropiada</td>
-    <td>Sé explícito: "Dame un resumen de dos párrafos" o "Mantén esto por debajo de 100 palabras" o "Necesito un análisis exhaustivo; la longitud no es un problema."</td>
+    <td>Obtuve información que sonaba convincente pero resultó ser incorrecta</td>
+    <td>Claude ocasionalmente genera información plausible pero incorrecta, especialmente con hechos específicos o temas de nicho</td>
+    <td>Para trabajos de alto riesgo, verifica los hechos clave de forma independiente. Pide a Claude que cite fuentes o indique el nivel de confianza. Habilita la búsqueda web para fundamentar las respuestas en información actual.</td>
   </tr>
-
+  <tr>
+    <td>El tono no es el correcto</td>
+    <td>Claude por defecto es útil y profesional, lo cual puede no coincidir con tus necesidades</td>
+    <td>Describe el tono en lenguaje sencillo: "Haz esto más conversacional" o "Esto debería sonar autoritario y formal." Proporciona un ejemplo de escritura en el estilo que deseas.</td>
+  </tr>
 </table>
 </p>
