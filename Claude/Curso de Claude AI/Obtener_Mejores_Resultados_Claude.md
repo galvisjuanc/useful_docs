@@ -46,3 +46,30 @@ Objetivos:
   </tr>
 </table>
 </p>
+
+<h3> La mentalidad de iteración </h3>
+
+<p align="left"> 
+
+Uno de los cambios más importantes al trabajar con Claude es reconocer que tu primer prompt rara vez produce un resultado perfecto, y eso está bien. Piensa en tu prompt inicial como el comienzo de una conversación, no como una solicitud de una sola vez.
+
+Los usuarios efectivos de Claude:
+
+* Trata los primeros borradores como puntos de partida. Revisa lo que produce Claude, identifica qué funciona y qué no, y luego refina.
+* Da retroalimentación específica. "Hazlo más corto" está bien, pero "Corta los primeros dos párrafos y haz que la conclusión esté más orientada a la acción" es mejor.
+* Sabe cuándo empezar de nuevo. Si una conversación se ha desviado, a veces es más rápido abrir un nuevo chat con un prompt más claro que intentar redirigirla. </p>
+
+<h3> ¿Qué es la Fluidez en IA? </h3>
+
+<p align="left"> La Fluidez en IA es la capacidad de colaborar eficazmente con herramientas de IA, no solo saber qué botones presionar, sino desarrollar el criterio para usar la IA bien en diferentes situaciones.
+
+El Marco 4D para la Fluidez en IA, desarrollado mediante una colaboración de investigación entre el profesor Rick Dakan (Ringling College of Art and Design) y el profesor Joseph Feller (University College Cork), identifica cuatro competencias fundamentales que, combinadas, pueden ayudarte a aprovechar al máximo tus interacciones con la IA:
+
+* Delegación: Decidir qué trabajo debe realizar un humano, qué trabajo debe realizar la IA, y cómo distribuir las tareas entre ambos. Incluye comprender tus objetivos, las capacidades de la IA, y tomar decisiones estratégicas sobre la colaboración.
+* Descripción: Comunicarse eficazmente con los sistemas de IA. Incluye definir claramente los resultados, guiar los procesos de la IA, y especificar los comportamientos e interacciones deseados de la IA.
+* Discernimiento: Evaluar de manera reflexiva y crítica los resultados, procesos, comportamientos e interacciones de la IA. Incluye evaluar la calidad, precisión, idoneidad, y determinar áreas de mejora.
+* Diligencia: Usar la IA de manera responsable y ética. Incluye tomar decisiones reflexivas sobre los sistemas e interacciones de IA, mantener la transparencia, y asumir la responsabilidad del trabajo asistido por IA.
+
+Ya has estado practicando estas habilidades a lo largo de este curso. El marco de prompts de la Lección 2 (establecer el contexto, definir la tarea, especificar reglas) tiene sus raíces en la Descripción. Las técnicas de resolución de problemas mencionadas anteriormente se basan en el Discernimiento y la Diligencia.
+
+Para aprender más, consulta nuestro curso gratuito de Fluidez en IA que explora las cuatro competencias en profundidad, con ejercicios prácticos y aplicaciones del mundo real. </p>
