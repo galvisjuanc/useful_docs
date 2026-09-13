@@ -89,3 +89,14 @@ Tu trabajo es único. Claude podría destacar al redactar textos de marketing, p
 * Generar confianza en los resultados de Claude para tareas recurrentes
 
 </p>
+
+<h3> Un enfoque simple de evaluación </h3>
+<p align="left"> No necesitas infraestructura compleja para evaluar a Claude. Aquí tienes un enfoque práctico:
+
+1. Reúne ejemplos. Recopila de 5 a 10 ejemplos de una tarea que realizas regularmente: correos electrónicos que has escrito, informes que has creado, análisis que has realizado.
+2. Crea prompts de prueba. Escribe prompts que generarían resultados similares. Incluye el contexto que naturalmente tendrías al realizar este trabajo.
+3. Compara los resultados. Ejecuta tus prompts y compara las respuestas de Claude con tus ejemplos. Pregúntate:
+    * ¿Claude captura la información clave?
+    * ¿El tono y el estilo son apropiados?
+    * ¿Qué falta o podría mejorarse?
+4. Refina tu enfoque. Según lo que aprendas, ajusta tus prompts, agrega ejemplos para mostrarle a Claude cómo se ve un buen resultado, o identifica dónde es esencial la revisión humana. </p>
