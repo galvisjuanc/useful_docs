@@ -111,3 +111,13 @@ Tu trabajo es único. Claude podría destacar al redactar textos de marketing, p
 * Observa patrones y refina tu prompt en consecuencia: Tal vez Claude obtiene los números correctos pero pasa por alto los patrones generales
 
 Este tipo de evaluación ligera te ayuda a desarrollar intuición sobre cómo trabajar con Claude en tareas que te importan, y dónde enfocar tu energía de revisión y refinamiento.</p>
+
+<h3> Reflexión de la lección </h3>
+
+<p align="left"> Antes de continuar, considera:
+
+* ¿Cuáles de los desafíos comunes ya has encontrado? ¿Qué técnicas podrías probar la próxima vez?
+* ¿En qué parte de tu trabajo te ayudaría una evaluación simple a comprender si Claude es adecuado para una tarea recurrente?
+* ¿Cómo podría el Marco 4D ayudarte a pensar en tu colaboración con Claude?
+
+</p>
