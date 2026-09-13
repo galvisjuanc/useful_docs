@@ -100,3 +100,14 @@ Tu trabajo es único. Claude podría destacar al redactar textos de marketing, p
     * ¿El tono y el estilo son apropiados?
     * ¿Qué falta o podría mejorarse?
 4. Refina tu enfoque. Según lo que aprendas, ajusta tus prompts, agrega ejemplos para mostrarle a Claude cómo se ve un buen resultado, o identifica dónde es esencial la revisión humana. </p>
+
+<h3> Ejemplo: Usar Claude para análisis de datos </h3>
+
+<p align="left"> El video anterior proviene de nuestro curso de Fluidez en IA para organizaciones sin fines de lucro, pero el ejemplo es relevante para cualquiera que trabaje con datos en IA. Para evaluar cómo Claude podría trabajar con tus datos:
+
+* Encuentra un conjunto de datos que hayas analizado manualmente
+* Crea prompts que le pidan a Claude que realice el análisis en tu nombre
+* Compara los resultados de Claude con tus originales
+* Observa patrones y refina tu prompt en consecuencia: Tal vez Claude obtiene los números correctos pero pasa por alto los patrones generales
+
+Este tipo de evaluación ligera te ayuda a desarrollar intuición sobre cómo trabajar con Claude en tareas que te importan, y dónde enfocar tu energía de revisión y refinamiento.</p>
