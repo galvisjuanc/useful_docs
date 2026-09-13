@@ -78,4 +78,14 @@ Para aprender más, consulta nuestro curso gratuito de Fluidez en IA que explora
 
 <p align="left"> A medida que comienzas a integrar a Claude en más partes de tu trabajo, podrías preguntarte: ¿cómo sé si Claude realmente es bueno en esta tarea en particular?
 
-Aquí es donde el Discernimiento se vuelve esencial. Las evaluaciones (evals, por su abreviatura en inglés) son una forma de desarrollar intuición para evaluar los resultados de Claude en las tareas que te importan. Son formas sistemáticas de probar qué tan bien se desempeña Claude en tipos específicos de tareas que te importan. </p>
+Aquí es donde el Discernimiento se vuelve esencial. Las evaluaciones (evals, por su abreviatura en inglés) son una forma de desarrollar intuición para evaluar los resultados de Claude en las tareas que te importan. Son formas sistemáticas de probar qué tan bien se desempeña Claude en tipos específicos de tareas que te importan. 
+
+<strong> Por qué importan las evaluaciones </strong>
+
+Tu trabajo es único. Claude podría destacar al redactar textos de marketing, pero necesitar más orientación para documentación técnica en tu dominio específico. Ejecutar evaluaciones simples te ayuda a:
+
+* Comprender dónde Claude agrega más valor en tu flujo de trabajo
+* Identificar tareas en las que necesitarás proporcionar más contexto o ejemplos
+* Generar confianza en los resultados de Claude para tareas recurrentes
+
+</p>
