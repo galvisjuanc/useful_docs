@@ -73,3 +73,9 @@ El Marco 4D para la Fluidez en IA, desarrollado mediante una colaboración de in
 Ya has estado practicando estas habilidades a lo largo de este curso. El marco de prompts de la Lección 2 (establecer el contexto, definir la tarea, especificar reglas) tiene sus raíces en la Descripción. Las técnicas de resolución de problemas mencionadas anteriormente se basan en el Discernimiento y la Diligencia.
 
 Para aprender más, consulta nuestro curso gratuito de Fluidez en IA que explora las cuatro competencias en profundidad, con ejercicios prácticos y aplicaciones del mundo real. </p>
+
+<h3> Evaluar a Claude para tus flujos de trabajo </h3>
+
+<p align="left"> A medida que comienzas a integrar a Claude en más partes de tu trabajo, podrías preguntarte: ¿cómo sé si Claude realmente es bueno en esta tarea en particular?
+
+Aquí es donde el Discernimiento se vuelve esencial. Las evaluaciones (evals, por su abreviatura en inglés) son una forma de desarrollar intuición para evaluar los resultados de Claude en las tareas que te importan. Son formas sistemáticas de probar qué tan bien se desempeña Claude en tipos específicos de tareas que te importan. </p>
