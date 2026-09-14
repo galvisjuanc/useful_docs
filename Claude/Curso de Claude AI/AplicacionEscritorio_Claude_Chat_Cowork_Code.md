@@ -22,3 +22,14 @@ Code es para construir software, desde escribir y probar código hasta implement
 Cowork y Code se ejecutan en el mismo motor. Ambos son Claude Code por debajo — local en tu máquina, capaz de trabajo independiente, capaz de poner en marcha subagentes y sostener tareas largas. Esto permite que Claude trabaje en tareas más grandes por sí mismo, como investigación y redacción o construcción de software.
 
 Cada modo está diseñado en torno al trabajo al que sirve, mostrándote lo que importa y dándote control donde lo necesitas.</p>
+
+<h3>Chat</h3>
+
+<p align="left"> Chat destaca cuando necesitas hacer preguntas, generar ideas, redactar borradores o trabajar problemas de ida y vuelta.
+
+Si has usado claude.ai, esto funciona de la misma manera, con algunas cosas que provienen de ejecutarse de forma nativa en tu computadora:
+
+* Entrada rápida. Pulsa dos veces la tecla Option en Mac para abrir Claude sobre lo que estés trabajando. Responde en una ventana compacta que permanece encima mientras cambias entre aplicaciones. Nunca tienes que dejar lo que estás haciendo para hacer una pregunta.
+* Capturas de pantalla y compartir ventanas. Captura una captura de pantalla o comparte una ventana para que Claude vea exactamente lo que estás mirando. Más rápido que describir lo que hay en tu pantalla, y más preciso. (Mac)
+* Dictado. Habla sobre un problema en lugar de escribir. Útil cuando estás pensando en voz alta, lejos de tu teclado, o trabajando en algo donde hablar es más rápido que escribir. (Mac)
+* Conectores de escritorio. Conecta herramientas y servicios locales a través de conectores para que Claude pueda trabajar con otras herramientas en tu máquina.</p>
