@@ -40,3 +40,12 @@ Pruébalo cuando:
 * Estás entre reuniones y quieres pensar cómo estructurar una presentación. Abre la entrada rápida, cambia a voz, y habla sobre ello. Claude redacta un esquema a partir de lo que dijiste.
 * Has estado anotando ideas para el lanzamiento de un producto en Apple Notes durante semanas. Agregas el conector de Notes desde Configuración y le preguntas a Claude: "Reúne todo lo que hay en mis notas sobre el lanzamiento de Osprey, averigua dónde dejé las cosas a medio terminar, y revisa mis otras herramientas conectadas para encontrar cualquier cosa que llene los vacíos". Claude lee tus notas en tu máquina, junta lo que tienes, y da seguimiento donde te quedaste.
 </p>
+
+<h3>Cowork</h3>
+
+<p align="left"> Claude Cowork está construido para trabajo que requiere un esfuerzo real: extraer información de muchas fuentes, darle sentido, y producir algo terminado.
+
+En Cowork, Claude puede realizar múltiples tareas, abordando diferentes partes de un proyecto a la vez, por lo que tiene el alcance para extraer de más fuentes y la resistencia para llevar las cosas a término. Informes de investigación exhaustivos, análisis financiero entre múltiples fuentes, revisión de contratos de principio a fin, presentaciones de diapositivas pulidas a partir de material disperso en varias fuentes.
+
+Antes de comenzar, Claude a menudo hace un breve conjunto de preguntas para precisar lo que necesitas: alcance, formato, restricciones. Construye un plan que puedes revisar en la barra lateral. Mientras trabaja, ves la tarea tomar forma: fuentes de las que está extrayendo, archivos que van tomando forma, progreso a través del plan. Puedes ejecutar varias tareas a la vez, cada una en su propia conversación, y cambiar entre ellas desde la barra lateral.
+</p>
