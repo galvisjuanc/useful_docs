@@ -32,4 +32,11 @@ Si has usado claude.ai, esto funciona de la misma manera, con algunas cosas que 
 * Entrada rápida. Pulsa dos veces la tecla Option en Mac para abrir Claude sobre lo que estés trabajando. Responde en una ventana compacta que permanece encima mientras cambias entre aplicaciones. Nunca tienes que dejar lo que estás haciendo para hacer una pregunta.
 * Capturas de pantalla y compartir ventanas. Captura una captura de pantalla o comparte una ventana para que Claude vea exactamente lo que estás mirando. Más rápido que describir lo que hay en tu pantalla, y más preciso. (Mac)
 * Dictado. Habla sobre un problema en lugar de escribir. Útil cuando estás pensando en voz alta, lejos de tu teclado, o trabajando en algo donde hablar es más rápido que escribir. (Mac)
-* Conectores de escritorio. Conecta herramientas y servicios locales a través de conectores para que Claude pueda trabajar con otras herramientas en tu máquina.</p>
+* Conectores de escritorio. Conecta herramientas y servicios locales a través de conectores para que Claude pueda trabajar con otras herramientas en tu máquina.
+
+Pruébalo cuando:
+
+* Estás mirando un panel desconocido. Pulsa dos veces Option, arrastra el cursor sobre la ventana para capturarla, y pregunta "¿qué significan estas métricas?". Claude responde en la superposición mientras el panel permanece visible.
+* Estás entre reuniones y quieres pensar cómo estructurar una presentación. Abre la entrada rápida, cambia a voz, y habla sobre ello. Claude redacta un esquema a partir de lo que dijiste.
+* Has estado anotando ideas para el lanzamiento de un producto en Apple Notes durante semanas. Agregas el conector de Notes desde Configuración y le preguntas a Claude: "Reúne todo lo que hay en mis notas sobre el lanzamiento de Osprey, averigua dónde dejé las cosas a medio terminar, y revisa mis otras herramientas conectadas para encontrar cualquier cosa que llene los vacíos". Claude lee tus notas en tu máquina, junta lo que tienes, y da seguimiento donde te quedaste.
+</p>
