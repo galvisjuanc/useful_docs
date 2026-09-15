@@ -68,3 +68,9 @@ Pruébalo cuando:
 
 Cowork está disponible para usuarios Pro, Max, Team y Enterprise, con nuevas capacidades que se agregan regularmente.
 </p>
+
+<h3>Code</h3>
+
+<p align="left"> La pestaña Code te da acceso al poder de Claude Code, ejecutándose directamente dentro de la aplicación de escritorio. Esto te da un entorno de desarrollo completo para construir software.
+
+A través de Code, Claude trabaja directamente en tu base de código: leyendo lo que hay allí, escribiendo y modificando código, ejecutando comandos. Las diferencias visuales muestran lo que cambió, una terminal integrada muestra los comandos mientras se ejecutan, y git rastrea cada versión para que siempre puedas revertir. </p>
