@@ -63,4 +63,8 @@ Pruébalo cuando:
 
 * Quieres consultar todas tus herramientas como lo harías con una base de datos. Pregunta "revisa lo que decidimos sobre precios el trimestre pasado en notas de reuniones, Slack y correo electrónico, y luego actualiza nuestra presentación del Q3 con los hallazgos" y Cowork encuentra la respuesta en notas de reuniones, presentaciones de diapositivas, correo electrónico e hilos de Slack.
 * Estás investigando un nuevo mercado, evaluando competidores, evaluando herramientas. Para cualquier investigación que pueda abarcar múltiples pestañas con información difícil de extraer, Cowork visita los sitios, lee los informes, extrae los precios, y entrega un informe estructurado con fuentes, sin que abras una sola pestaña del navegador.
+* Necesitas trabajar con una carpeta de más de 50 documentos de proyecto, incluyendo contratos, informes financieros y transcripciones de reuniones. Puedes pedirle a Cowork que encuentre los documentos más relevantes para tu iniciativa, y produzca un memo resumen. Cowork lee cada página, hace referencias cruzadas en todo el conjunto, y extrae los patrones que solo surgen al leerlos todos. Revisa cincuenta como revisarías cinco.
+* Sigues haciendo el mismo trabajo cada mañana — revisando mensajes, reuniendo una actualización de estado, preparándote para las reuniones del día. Configúralo una vez como una tarea programada y Claude lo maneja de forma repetida, así comienzas el día con respuestas en lugar de tareas administrativas.
+
+Cowork está disponible para usuarios Pro, Max, Team y Enterprise, con nuevas capacidades que se agregan regularmente.
 </p>
