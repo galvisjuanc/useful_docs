@@ -73,4 +73,13 @@ Cowork está disponible para usuarios Pro, Max, Team y Enterprise, con nuevas ca
 
 <p align="left"> La pestaña Code te da acceso al poder de Claude Code, ejecutándose directamente dentro de la aplicación de escritorio. Esto te da un entorno de desarrollo completo para construir software.
 
-A través de Code, Claude trabaja directamente en tu base de código: leyendo lo que hay allí, escribiendo y modificando código, ejecutando comandos. Las diferencias visuales muestran lo que cambió, una terminal integrada muestra los comandos mientras se ejecutan, y git rastrea cada versión para que siempre puedas revertir. </p>
+A través de Code, Claude trabaja directamente en tu base de código: leyendo lo que hay allí, escribiendo y modificando código, ejecutando comandos. Las diferencias visuales muestran lo que cambió, una terminal integrada muestra los comandos mientras se ejecutan, y git rastrea cada versión para que siempre puedas revertir. 
+
+Mientras que Cowork se ejecuta en un espacio de trabajo contenido limitado a las carpetas que compartes, Code se ejecuta directamente en tu proyecto con acceso completo a tu sistema de archivos, terminal y herramientas de desarrollo.
+
+Tú eliges dónde sucede el trabajo:
+
+* <strong> Local: </strong> Seleccionas una carpeta en tu computadora y Claude trabaja directamente con esos archivos. Debido a que se ejecuta en tu máquina, Claude puede leer tu proyecto, acceder a herramientas locales, y ejecutar un servidor de desarrollo que puedes previsualizar en tu navegador.
+* <strong> Remoto:</strong> Conectas un repositorio de GitHub y Claude trabaja en un entorno en la nube. Las sesiones continúan incluso si cierras la aplicación, así puedes comenzar una gran refactorización y revisar más tarde. Bueno para bases de código más grandes o cuando quieres mantener el desarrollo fuera de tu máquina local.
+
+</p>
