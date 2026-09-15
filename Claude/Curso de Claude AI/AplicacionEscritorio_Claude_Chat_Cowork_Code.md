@@ -82,4 +82,14 @@ Tú eliges dónde sucede el trabajo:
 * <strong> Local: </strong> Seleccionas una carpeta en tu computadora y Claude trabaja directamente con esos archivos. Debido a que se ejecuta en tu máquina, Claude puede leer tu proyecto, acceder a herramientas locales, y ejecutar un servidor de desarrollo que puedes previsualizar en tu navegador.
 * <strong> Remoto:</strong> Conectas un repositorio de GitHub y Claude trabaja en un entorno en la nube. Las sesiones continúan incluso si cierras la aplicación, así puedes comenzar una gran refactorización y revisar más tarde. Bueno para bases de código más grandes o cuando quieres mantener el desarrollo fuera de tu máquina local.
 
+Tres modos de interacción te permiten controlar cuánto hace Claude por sí mismo:
+
+* <strong> Ask:</strong> Claude propone cada cambio y espera tu aprobación. Revisas una diferencia visual y aceptas o rechazas antes de que se modifique algo.
+* <strong> Code: </strong> Claude aplica cambios de archivos automáticamente pero verifica antes de ejecutar comandos de terminal.
+* <strong> Plan: </strong> Claude describe su enfoque completo antes de tocar nada. Un visor de planes dedicado te permite revisar y volver a visitar la estrategia mientras avanza el trabajo.
+
+Puedes ejecutar múltiples sesiones a través de proyectos y filtrarlas por estado (Activo o Archivado) y entorno (Local o Nube) desde la barra lateral.
+
+La pestaña Code está disponible para usuarios Pro, Max, Team y Enterprise.
+
 </p>
