@@ -36,3 +36,17 @@ Los proyectos son particularmente valiosos cuando estás trabajando en algo cont
 * Requisitos consistentes sobre cómo debe responder Claude (usar siempre lenguaje formal, citar siempre las fuentes, seguir siempre nuestra plantilla)
 * Necesidades de colaboración en equipo donde varias personas deben trabajar desde la misma base
 </p>
+
+<h3> Creando tu primer proyecto </h3>
+
+<p align="left"> 
+Configurar un proyecto toma solo unos minutos. Así es como empezar:
+
+<strong> Paso 1: Configura tu proyecto </strong>
+
+1. Pasa el cursor sobre la barra lateral izquierda y haz clic en "Proyectos", o navega directamente a claude.ai/projects
+2. Haz clic en "+ Nuevo proyecto" en la esquina superior derecha
+3. Dale a tu proyecto un nombre descriptivo (por ejemplo, "Campaña de marketing Q4" o "Documentación del producto")
+4. Agrega una breve descripción de en qué estás trabajando. Aunque Claude no ve esta descripción directamente, te ayuda a ti y a tus compañeros de equipo a entender el propósito del proyecto.
+5. Elige tu configuración de visibilidad: mantenla privada o compártela con tu organización (para usuarios de Claude for Work)
+</p>
