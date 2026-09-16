@@ -22,3 +22,17 @@ Objetivos:
 * Para los usuarios de Claude for Work, los proyectos permiten la colaboración. Comparte proyectos con compañeros de equipo para que todos se beneficien del mismo contexto, instrucciones y conocimiento acumulado.
 
 </p>
+
+<h3> ¿Qué son los Proyectos? </h3>
+
+<p align="left"> 
+Los proyectos son ideales para almacenar conocimiento que Claude debe referenciar, organizar chats relacionados en torno a un tema específico o área de trabajo, y colaborar con miembros del equipo que necesitan acceso al mismo contexto compartido.
+
+<strong> Cuándo usar Proyectos </strong>
+
+Los proyectos son particularmente valiosos cuando estás trabajando en algo continuo, no solo en una pregunta puntual. Considera crear un proyecto cuando tengas un flujo de trabajo con:
+
+* Materiales de referencia que usarás repetidamente (notas de reuniones, resultados de encuestas, informes, datos históricos, etc.)
+* Requisitos consistentes sobre cómo debe responder Claude (usar siempre lenguaje formal, citar siempre las fuentes, seguir siempre nuestra plantilla)
+* Necesidades de colaboración en equipo donde varias personas deben trabajar desde la misma base
+</p>
