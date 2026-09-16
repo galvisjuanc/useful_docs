@@ -93,3 +93,38 @@ Puedes ejecutar múltiples sesiones a través de proyectos y filtrarlas por esta
 La pestaña Code está disponible para usuarios Pro, Max, Team y Enterprise.
 
 </p>
+
+<h3> Comparando los tres modos </h3>
+
+<p align="left"> 
+
+<table>
+  <tr>
+    <th></th>
+    <th>Chat</th>
+    <th>Cowork</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td><strong> Optimizado para </strong></td>
+    <td>Intercambios más rápidos: explorar ideas, redacción iterativa, respuestas rápidas, aprender a través del diálogo</td>
+    <td>Trabajo complejo o sostenido: investigación, análisis, organización de archivos, producción de documentos y entregables terminados</td>
+    <td>Construcción de software: escribir, probar, ejecutar e implementar código</td>
+  </tr>
+  <tr>
+    <td><strong> Características clave </strong> </td>
+    <td>Entrada rápida, dictado</td>
+    <td>Trabajar desde carpetas locales, plugins, subagentes, tareas programadas</td>
+    <td>Modos Ask/Code/Plan, diferencias visuales, integración con git, entornos locales y remotos</td>
+  </tr>
+  <tr>
+    <td>Herramientas y extensiones</td>
+    <td>Conectores, Skills, Claude en Chrome</td>
+    <td>Conectores (locales y remotos), Skills, Claude en Chrome, Plugins, Uso de la computadora</td>
+    <td>Conectores, Skills, Claude en Chrome, Plugins, Hooks</td>
+  </tr>
+  
+</table>
+</p>
+
+</p>
