@@ -49,4 +49,15 @@ Configurar un proyecto toma solo unos minutos. Así es como empezar:
 3. Dale a tu proyecto un nombre descriptivo (por ejemplo, "Campaña de marketing Q4" o "Documentación del producto")
 4. Agrega una breve descripción de en qué estás trabajando. Aunque Claude no ve esta descripción directamente, te ayuda a ti y a tus compañeros de equipo a entender el propósito del proyecto.
 5. Elige tu configuración de visibilidad: mantenla privada o compártela con tu organización (para usuarios de Claude for Work)
+
+<strong> Paso 2: Agrega instrucciones del proyecto </strong>
+
+Las instrucciones del proyecto le indican a Claude cómo comportarse en todas las conversaciones de este proyecto. Haz clic en "Instrucciones" para abrir el panel de instrucciones.
+
+Las buenas instrucciones de proyecto típicamente incluyen:
+
+* Contexto sobre en qué estás trabajando: "Este proyecto es para crear contenido de marketing para nuestro producto de software B2B."
+* Instrucciones de proceso: "Primero considera una estructura de blog que atraiga a esta audiencia, luego escribe el borrador."
+* Preferencias de tono y estilo: "Usa un tono profesional pero conversacional. Evita la jerga cuando sea posible."
+* Requisitos específicos: "Incluye siempre una llamada a la acción al final del texto de marketing."
 </p>
