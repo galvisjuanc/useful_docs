@@ -64,4 +64,17 @@ Las buenas instrucciones de proyecto típicamente incluyen:
 Una vez que hayas escrito tus instrucciones, haz clic en "Guardar instrucciones." Estas se aplicarán a cada chat en este proyecto y funcionarán junto con cualquier preferencia de usuario y estilo que hayas configurado.
 
 También puedes usar las instrucciones del proyecto para automatizar flujos de trabajo; por ejemplo, "Cuando suba una transcripción de reunión, crea un resumen estructurado usando esta plantilla." Piensa en las instrucciones como programar el comportamiento de Claude para este proyecto.
+
+<strong> Paso 3: Construye tu base de conocimiento </strong>
+
+La base de conocimientos de tu proyecto es donde subes documentos que Claude debe referenciar. Encontrarás el menú de archivos en el lado derecho de la página principal de tu proyecto.
+
+Haz clic en el botón "+" para agregar contenido. Puedes subir varios tipos de archivos, incluyendo PDF, DOCX, CSV, TXT, HTML y más. También puedes conectarte a Google Drive para vincular documentos directamente.
+
+Qué subir:
+
+* Documentos de referencia (guías de marca, guías de estilo, plantillas)
+* Materiales de contexto (informes de investigación, notas de reuniones, documentos de requisitos)
+* Ejemplos de trabajo que quieres que Claude emule
+* Documentación técnica o especificaciones
 </p>
