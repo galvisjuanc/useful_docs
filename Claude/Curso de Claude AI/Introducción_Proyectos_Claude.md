@@ -107,4 +107,15 @@ Al compartir un proyecto, puedes elegir entre tres niveles de permiso:
 2. Puede editar: Los miembros tienen poder de colaboración completo. Pueden modificar instrucciones, actualizar el conocimiento, gestionar a otros miembros y contribuir activamente al proyecto.
 3. Propietario: Los creadores del proyecto controlan todo, incluyendo quién ve el proyecto. Pueden compartirlo con personas específicas o hacer que los proyectos sean visibles para toda la organización.
 
+<strong> Compartiendo tu proyecto </strong>
+
+Para compartir un proyecto:
+
+* Abre el proyecto que quieres compartir
+* Haz clic en el botón "Compartir proyecto" a la derecha del nombre del proyecto
+* Agrega miembros individuales usando su nombre o correo electrónico, o copia y pega una lista de direcciones de correo electrónico para compartir en masa (en este caso, el proyecto aparecerá en su sección "Compartido contigo")
+* O, comparte con "Todos en [tu organización]" para hacer que tu proyecto sea descubrible dentro de la pestaña Team
+
+Los miembros del equipo recibirán notificaciones por correo electrónico cuando compartas un proyecto con ellos, y podrán encontrar los proyectos compartidos en su pestaña "Compartido conmigo".
+
 </p>
