@@ -77,4 +77,16 @@ Qué subir:
 * Materiales de contexto (informes de investigación, notas de reuniones, documentos de requisitos)
 * Ejemplos de trabajo que quieres que Claude emule
 * Documentación técnica o especificaciones
+
+        Consejo profesional
+
+            Nombra tus archivos de manera descriptiva. Claude usa los nombres de archivo para entender y recuperar la información correcta, así que "Guia-de-Marca-Q4-2024.pdf" es más útil que "documento1.pdf."
 </p>
+
+<h3> Cómo manejan los proyectos las bases de conocimiento grandes </h3>
+
+<p align="left"> Quizás te preguntes qué sucede cuando subes mucho contenido. Los proyectos escalan automáticamente para manejar grandes cantidades a través de un proceso llamado Generación Aumentada por Recuperación (RAG). A un nivel general, esto significa que Claude puede encontrar y usar automáticamente las partes más relevantes de tus documentos subidos al responder, sin que necesites indicarle qué archivo revisar.
+
+Cuando el conocimiento de tu proyecto se acerca al límite de la ventana de contexto, Claude habilita sin problemas el modo RAG. En lugar de cargar todo el contenido del proyecto en memoria a la vez, Claude busca y recupera de manera inteligente solo la información más relevante necesaria para responder tus preguntas. Esto expande la capacidad de tu proyecto hasta 10 veces mientras mantiene la calidad de respuesta.
+
+Verás un indicador visual cuando tu proyecto tenga RAG habilitado, pero la experiencia debería sentirse igual: aún puedes subir documentos, chatear con Claude y obtener respuestas conscientes del contexto. </p>
