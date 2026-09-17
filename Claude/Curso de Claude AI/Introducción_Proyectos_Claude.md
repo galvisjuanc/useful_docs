@@ -90,3 +90,7 @@ Qué subir:
 Cuando el conocimiento de tu proyecto se acerca al límite de la ventana de contexto, Claude habilita sin problemas el modo RAG. En lugar de cargar todo el contenido del proyecto en memoria a la vez, Claude busca y recupera de manera inteligente solo la información más relevante necesaria para responder tus preguntas. Esto expande la capacidad de tu proyecto hasta 10 veces mientras mantiene la calidad de respuesta.
 
 Verás un indicador visual cuando tu proyecto tenga RAG habilitado, pero la experiencia debería sentirse igual: aún puedes subir documentos, chatear con Claude y obtener respuestas conscientes del contexto. </p>
+
+<h3> Trabajando dentro de tu proyecto </h3>
+
+<p align="left"> Una vez que tu proyecto esté configurado, puedes empezar a chatear con Claude. Cada conversación dentro del proyecto tiene acceso automáticamente a tu base de conocimientos y sigue las instrucciones de tu proyecto. </p>
