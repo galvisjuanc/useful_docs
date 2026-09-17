@@ -131,3 +131,15 @@ Los miembros del equipo recibirán notificaciones por correo electrónico cuando
 * Generador de descripciones de puesto: Reúne descripciones de puestos anteriores, estatutos de equipo y documentos internos de solicitud de personal. Trabaja con Claude para redactar descripciones de puesto que reflejen el trabajo real y la cultura de tu equipo.
 
 </p>
+
+<h3> Mejores prácticas para proyectos </h3>
+
+<p align="left"> Para aprovechar al máximo los proyectos:
+
+* Empieza enfocado, luego expande. Comienza con un caso de uso específico en lugar de intentar crear un proyecto para todo. Siempre puedes agregar más contenido a medida que avanzas.
+* Mantén tu base de conocimientos actualizada. Los documentos desactualizados pueden llevar a respuestas desactualizadas. Revisa y actualiza el conocimiento de tu proyecto periódicamente.
+* Escribe instrucciones claras. Sé específico sobre lo que quieres. Las instrucciones vagas llevan a resultados inconsistentes.
+* Nombra tus documentos de manera descriptiva. (por ejemplo, 'Informe-Ventas-Q4-2025.pdf' en lugar de 'informe.pdf') y agrupa los archivos relacionados. Claude usa los nombres de archivo y la proximidad para entender las relaciones entre documentos.
+* Referencia documentos por nombre. Al hacer preguntas, puedes mencionar documentos específicos para ayudar a Claude a enfocar su búsqueda: "Según nuestro informe del Q3, ¿cuáles fueron las principales preocupaciones de los clientes?"
+
+</p>
