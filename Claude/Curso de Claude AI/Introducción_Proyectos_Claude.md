@@ -60,4 +60,8 @@ Las buenas instrucciones de proyecto típicamente incluyen:
 * Instrucciones de proceso: "Primero considera una estructura de blog que atraiga a esta audiencia, luego escribe el borrador."
 * Preferencias de tono y estilo: "Usa un tono profesional pero conversacional. Evita la jerga cuando sea posible."
 * Requisitos específicos: "Incluye siempre una llamada a la acción al final del texto de marketing."
+
+Una vez que hayas escrito tus instrucciones, haz clic en "Guardar instrucciones." Estas se aplicarán a cada chat en este proyecto y funcionarán junto con cualquier preferencia de usuario y estilo que hayas configurado.
+
+También puedes usar las instrucciones del proyecto para automatizar flujos de trabajo; por ejemplo, "Cuando suba una transcripción de reunión, crea un resumen estructurado usando esta plantilla." Piensa en las instrucciones como programar el comportamiento de Claude para este proyecto.
 </p>
