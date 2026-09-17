@@ -94,3 +94,17 @@ Verás un indicador visual cuando tu proyecto tenga RAG habilitado, pero la expe
 <h3> Trabajando dentro de tu proyecto </h3>
 
 <p align="left"> Una vez que tu proyecto esté configurado, puedes empezar a chatear con Claude. Cada conversación dentro del proyecto tiene acceso automáticamente a tu base de conocimientos y sigue las instrucciones de tu proyecto. </p>
+
+<h3> Funciones de colaboración </h3>
+
+<p align="left"> Para usuarios en planes de Claude for Work (Team y Enterprise), los proyectos se vuelven aún más poderosos gracias a las funciones de colaboración.
+
+<strong> Niveles de permiso </strong>
+
+Al compartir un proyecto, puedes elegir entre tres niveles de permiso:
+
+1. Puede ver: Los miembros pueden ver el contenido del proyecto, acceder al conocimiento y chatear, pero no pueden hacer cambios. Piensa en esto como acceso de solo lectura con derechos de discusión.
+2. Puede editar: Los miembros tienen poder de colaboración completo. Pueden modificar instrucciones, actualizar el conocimiento, gestionar a otros miembros y contribuir activamente al proyecto.
+3. Propietario: Los creadores del proyecto controlan todo, incluyendo quién ve el proyecto. Pueden compartirlo con personas específicas o hacer que los proyectos sean visibles para toda la organización.
+
+</p>
