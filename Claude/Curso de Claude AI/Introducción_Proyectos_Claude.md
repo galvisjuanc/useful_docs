@@ -119,3 +119,15 @@ Para compartir un proyecto:
 Los miembros del equipo recibirán notificaciones por correo electrónico cuando compartas un proyecto con ellos, y podrán encontrar los proyectos compartidos en su pestaña "Compartido conmigo".
 
 </p>
+
+<h3> Proyectos de ejemplo para inspirarte </h3>
+
+<p align="left"> ¿No estás seguro de por dónde empezar? Aquí hay algunos tipos de proyectos comunes en diferentes funciones:
+
+* Lanzamiento de producto Q4: Sube las especificaciones de tu producto, análisis competitivo y notas de lluvia de ideas de mensajería. Claude tendrá este contexto presente para cualquier consulta o borrador de documento.
+* Apoyo a la investigación: Centraliza tu revisión competitiva, datos de investigación de usuarios y comentarios de clientes. Claude puede ayudarte a sintetizar fuentes, redactar informes y mantener consistencia en las recomendaciones.
+* Centro de cuentas de clientes: Mantén las guías de marca de tu cliente, entregables pasados e historial de comunicación en un solo lugar. Configura instrucciones para que Claude coincida con su tono y referencie su contexto específico al crear propuestas o informes.
+* Espacio de trabajo para planificación de eventos: Sube contratos de lugares, biografías de ponentes y datos de asistentes. Claude puede ayudar a generar documentos de guion del evento, comunicaciones para asistentes e informes posteriores al evento que se mantengan consistentes con el tema de tu evento.
+* Generador de descripciones de puesto: Reúne descripciones de puestos anteriores, estatutos de equipo y documentos internos de solicitud de personal. Trabaja con Claude para redactar descripciones de puesto que reflejen el trabajo real y la cultura de tu equipo.
+
+</p>
