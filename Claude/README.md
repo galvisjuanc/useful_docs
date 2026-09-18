@@ -8,6 +8,8 @@
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Claude/Curso%20de%20Claude%20AI/Introducción_Proyectos_Claude.md"> Introducción a los proyectos </a>
 
+<a href="https://github.com/galvisjuanc/useful_docs/blob/main/Claude/Curso%20de%20Claude%20AI/Creando_Artifacts_Claude.md"> Creando con Artifacts </a>
+
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Claude/Curso%20de%20Claude%20AI/Prompting_ExtendedThinking.md"> Prompting y Extended Thinking </a>
 
 <a href="https://github.com/galvisjuanc/useful_docs/blob/main/Claude/Curso%20de%20Claude%20AI/Herramienta_Memoria_Claude.md"> Herramienta de Memoria en Claude </a>
