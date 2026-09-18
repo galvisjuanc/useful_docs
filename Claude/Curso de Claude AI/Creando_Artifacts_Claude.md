@@ -79,3 +79,17 @@ Cuando Claude genera un artifact, aparece en una ventana dedicada a la derecha d
 Para publicar, haz clic en el botón "Compartir" o "Publicar" en la esquina superior derecha del artifact. Puedes dejar de publicarlo en cualquier momento volviendo a ese artifact y eliminando el acceso público. Nota: Cuando publicas un artifact, es accesible públicamente a través de su enlace; cualquiera puede verlo, incluso sin una cuenta de Claude. Los artifacts publicados no están indexados por los motores de búsqueda, por lo que no aparecerán en los resultados de Google.
 
 </p>
+
+<h3>Consejos para aprovechar al máximo los artifacts </h3>
+
+<p align="left"> 
+
+<strong> Sé específico sobre lo que quieres. </strong>"Crea un rastreador de presupuesto" está bien, pero "Crea un rastreador de presupuesto mensual donde pueda ingresar gastos por categoría, ver un desglose en gráfico circular y recibir una advertencia cuando me exceda del presupuesto" es mejor.
+
+<strong>Describe al usuario final.</strong> Decirle a Claude quién usará el artifact le ayuda a tomar decisiones de diseño apropiadas. "Este diagrama de flujo es para nuevos empleados" lleva a resultados diferentes que "Este diagrama de flujo es para el equipo de ingeniería".
+
+<strong>Itera de forma incremental.</strong> Pídele a Claude que agregue una función o haga un cambio a la vez. Esto facilita identificar qué está funcionando y detectar problemas a tiempo.
+
+<strong>Solicita artifacts cuando sea necesario.</strong> Si pides algo sustancial y Claude responde en el chat en lugar de crear un artifact, simplemente di "Por favor, crea eso como un artifact".
+
+</p>
