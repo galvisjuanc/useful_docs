@@ -52,5 +52,30 @@ Por ejemplo, podrías decir:
     
     “Escribe una plantilla de resumen de proyecto que pueda reutilizar para nuevas iniciativas”
 
+Si Claude no crea automáticamente un artifact cuando lo esperas, puedes pedirlo explícitamente: "Crea esto como un artifact" o "Muéstrame esto en un artifact".
+
+Cuando Claude genera un artifact, aparece en una ventana dedicada a la derecha de tu conversación. Desde aquí, puedes:
+
+* Ver diferentes formatos: Alternar entre una vista previa (cómo se ve) y el código subyacente
+* Copiar contenido: Haz clic en el icono de copiar para obtener el contenido y usarlo en otro lugar
+* Descargar archivos: Guarda el artifact como un archivo en tu computadora
+* Ver código: Ve exactamente lo que Claude generó internamente
+
+</p>
+
+<h3> Compartir y publicar artifacts </h3>
+
+<p align="left"> Una vez que has creado algo útil, tienes varias opciones para compartirlo.
+
+<strong> Copiar o descargar: </strong> Para uso personal o para compartir a través de otros canales, usa los botones de copiar o descargar en la esquina inferior derecha de la ventana del artifact.
+
+<strong> Compartir dentro de tu organización (Claude for Work): </strong> Los usuarios de Team y Enterprise pueden compartir artifacts internamente con colegas. El artifact compartido permanece dentro de tu organización y requiere autenticación de equipo para acceder.
+
+<strong> Publicar públicamente: </strong> Para usuarios de los planes gratuito, Pro y Max, puedes publicar artifacts para hacerlos accesibles a cualquier persona con el enlace. Cuando publicas:
+
+* Solo la versión seleccionada se hace pública (tu chat permanece privado)
+* Cualquiera puede ver e interactuar con el artifact sin una cuenta de Claude
+
+Para publicar, haz clic en el botón "Compartir" o "Publicar" en la esquina superior derecha del artifact. Puedes dejar de publicarlo en cualquier momento volviendo a ese artifact y eliminando el acceso público. Nota: Cuando publicas un artifact, es accesible públicamente a través de su enlace; cualquiera puede verlo, incluso sin una cuenta de Claude. Los artifacts publicados no están indexados por los motores de búsqueda, por lo que no aparecerán en los resultados de Google.
 
 </p>
