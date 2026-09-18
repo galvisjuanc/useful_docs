@@ -62,3 +62,20 @@ Cuando Claude genera un artifact, aparece en una ventana dedicada a la derecha d
 * Ver código: Ve exactamente lo que Claude generó internamente
 
 </p>
+
+<h3> Compartir y publicar artifacts </h3>
+
+<p align="left"> Una vez que has creado algo útil, tienes varias opciones para compartirlo.
+
+<strong> Copiar o descargar: </strong> Para uso personal o para compartir a través de otros canales, usa los botones de copiar o descargar en la esquina inferior derecha de la ventana del artifact.
+
+<strong> Compartir dentro de tu organización (Claude for Work): </strong> Los usuarios de Team y Enterprise pueden compartir artifacts internamente con colegas. El artifact compartido permanece dentro de tu organización y requiere autenticación de equipo para acceder.
+
+<strong> Publicar públicamente: </strong> Para usuarios de los planes gratuito, Pro y Max, puedes publicar artifacts para hacerlos accesibles a cualquier persona con el enlace. Cuando publicas:
+
+* Solo la versión seleccionada se hace pública (tu chat permanece privado)
+* Cualquiera puede ver e interactuar con el artifact sin una cuenta de Claude
+
+Para publicar, haz clic en el botón "Compartir" o "Publicar" en la esquina superior derecha del artifact. Puedes dejar de publicarlo en cualquier momento volviendo a ese artifact y eliminando el acceso público. Nota: Cuando publicas un artifact, es accesible públicamente a través de su enlace; cualquiera puede verlo, incluso sin una cuenta de Claude. Los artifacts publicados no están indexados por los motores de búsqueda, por lo que no aparecerán en los resultados de Google.
+
+</p>
