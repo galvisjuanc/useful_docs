@@ -52,5 +52,13 @@ Por ejemplo, podrías decir:
     
     “Escribe una plantilla de resumen de proyecto que pueda reutilizar para nuevas iniciativas”
 
+Si Claude no crea automáticamente un artifact cuando lo esperas, puedes pedirlo explícitamente: "Crea esto como un artifact" o "Muéstrame esto en un artifact".
+
+Cuando Claude genera un artifact, aparece en una ventana dedicada a la derecha de tu conversación. Desde aquí, puedes:
+
+* Ver diferentes formatos: Alternar entre una vista previa (cómo se ve) y el código subyacente
+* Copiar contenido: Haz clic en el icono de copiar para obtener el contenido y usarlo en otro lugar
+* Descargar archivos: Guarda el artifact como un archivo en tu computadora
+* Ver código: Ve exactamente lo que Claude generó internamente
 
 </p>
