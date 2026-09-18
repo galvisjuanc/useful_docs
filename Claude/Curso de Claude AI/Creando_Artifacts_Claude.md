@@ -30,5 +30,9 @@ Claude crea automáticamente un artifact cuando el contenido cumple con ciertos 
 * Fragmentos de código: Código funcional en cualquier lenguaje de programación: Python, JavaScript, C++ y más. Puedes ver el código, copiarlo o descargarlo para usarlo en tus propios proyectos.
 * Páginas HTML: Páginas web completas con HTML, CSS y JavaScript en un solo archivo. Perfectas para landing pages, formularios, demostraciones interactivas o prototipos rápidos.
 * Imágenes SVG: Gráficos vectoriales escalables para logotipos, iconos, ilustraciones y otros elementos visuales. Estos se renderizan directamente en la ventana del artifact para que puedas ver exactamente lo que obtienes.
+* Diagramas Mermaid: Diagramas de flujo, diagramas de secuencia, diagramas de Gantt, organigramas y más. Describe las relaciones que quieres visualizar, y Claude creará un diagrama que puedes refinar.
+* Componentes React: Elementos de interfaz de usuario interactivos con funcionalidad real: calculadoras, paneles de control, juegos, visualizaciones de datos. No son solo maquetas; incluyen lógica real y responden a la entrada del usuario.
+
+Los documentos de Word, las hojas de cálculo de Excel, las presentaciones de PowerPoint y los PDF funcionan de manera diferente. Claude los crea a través de una capacidad de creación de archivos separada, no como artifacts, y te los devuelve como archivos que puedes descargar.
 
 </p>
