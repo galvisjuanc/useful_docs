@@ -36,3 +36,21 @@ Claude crea automáticamente un artifact cuando el contenido cumple con ciertos 
 Los documentos de Word, las hojas de cálculo de Excel, las presentaciones de PowerPoint y los PDF funcionan de manera diferente. Claude los crea a través de una capacidad de creación de archivos separada, no como artifacts, y te los devuelve como archivos que puedes descargar.
 
 </p>
+
+<h3> Creando tu primer artifact </h3>
+
+<p align="left"> Crear un artifact es tan simple como tener una conversación. Solo describe lo que quieres, y Claude determinará si presentarlo como un artifact.
+
+Por ejemplo, podrías decir:
+
+    “Crea un diagrama de flujo que muestre nuestro proceso de incorporación de clientes”
+    Nota: Claude ahora puede generar diagramas visuales como diagramas de flujo en HTML usando Imagine, además de artifacts basados en código.
+
+    “Crea un panel interactivo que me permita ingresar gastos mensuales y ver un desglose”
+
+    “Diseña una landing page para una aplicación de productividad con una sección hero y una lista de funciones”
+    
+    “Escribe una plantilla de resumen de proyecto que pueda reutilizar para nuevas iniciativas”
+
+
+</p>
