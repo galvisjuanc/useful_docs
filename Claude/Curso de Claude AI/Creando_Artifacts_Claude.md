@@ -13,6 +13,11 @@ Objetivos:
 
 <p align="left"> Los artifacts son resultados independientes e interactivos que Claude crea en una ventana dedicada junto a tu conversación. En lugar de obtener un bloque largo de código o texto enterrado en el chat, ves tu contenido renderizado y listo para usar, ya sea un sitio web funcional, un gráfico interactivo o un documento que puedes descargar de inmediato.
 
+Claude crea automáticamente un artifact cuando el contenido cumple con ciertos criterios:
 
+* Es significativo y autónomo, generalmente más de 15 líneas
+* Es algo que probablemente querrás editar, iterar o reutilizar
+* Representa contenido complejo que se sostiene por sí mismo sin necesitar la conversación circundante
+* Es contenido que querrás referenciar o usar más adelante
 
 </p>
