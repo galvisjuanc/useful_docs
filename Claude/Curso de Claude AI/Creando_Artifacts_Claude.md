@@ -28,5 +28,7 @@ Claude crea automáticamente un artifact cuando el contenido cumple con ciertos 
 
 * Documentos (markdown y texto sin formato): Ideales para cualquier contenido con mucho texto que quieras exportar o seguir editando, como notas de reuniones, informes, planes de proyecto, publicaciones de blog y otro contenido escrito.
 * Fragmentos de código: Código funcional en cualquier lenguaje de programación: Python, JavaScript, C++ y más. Puedes ver el código, copiarlo o descargarlo para usarlo en tus propios proyectos.
+* Páginas HTML: Páginas web completas con HTML, CSS y JavaScript en un solo archivo. Perfectas para landing pages, formularios, demostraciones interactivas o prototipos rápidos.
+* Imágenes SVG: Gráficos vectoriales escalables para logotipos, iconos, ilustraciones y otros elementos visuales. Estos se renderizan directamente en la ventana del artifact para que puedas ver exactamente lo que obtienes.
 
 </p>
