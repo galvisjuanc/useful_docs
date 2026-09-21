@@ -24,3 +24,20 @@ Ya has visto las Skills en acción si has usado Claude para crear hojas de cálc
 * Las Skills personalizadas son las que tú o tu organización crean para flujos de trabajo especializados y tareas específicas de un dominio. Por ejemplo, podrías crear una skill que aplique las pautas de marca de tu empresa a las presentaciones, estructure las notas de reuniones en un formato específico o ejecute los flujos de trabajo de análisis de datos de tu organización.
 
 </p>
+
+<h3> Habilitar las Skills </h3>
+
+<p align="left"> Las Skills actualmente están disponibles como una función en vista previa para usuarios de los planes Pro, Max, Team y Enterprise. Para usar las Skills, necesitarás tener habilitada la ejecución de código y creación de archivos, ya que las Skills requieren el entorno informático seguro y aislado (sandbox) de Claude para funcionar.
+
+Así es como puedes habilitar las Skills:
+
+1. Navega a Configuración > Capacidades
+2. Asegúrate de que Ejecución de código y creación de archivos esté activado
+3. Desplázate hasta la sección Skills
+4. Activa o desactiva skills individuales según sea necesario
+
+Para los planes Enterprise, los propietarios de la organización deben primero habilitar tanto la ejecución de código como las Skills en la configuración de administración antes de que los miembros individuales puedan acceder a ellas.
+
+Para los planes Team, esta función está habilitada de forma predeterminada a nivel de organización.
+
+Una vez habilitada, verás las Skills disponibles listadas en tu configuración, incluyendo las Skills integradas de Anthropic y cualquier Skill personalizada que hayas subido. </p>
