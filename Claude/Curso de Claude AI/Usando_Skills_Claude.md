@@ -41,3 +41,18 @@ Para los planes Enterprise, los propietarios de la organización deben primero h
 Para los planes Team, esta función está habilitada de forma predeterminada a nivel de organización.
 
 Una vez habilitada, verás las Skills disponibles listadas en tu configuración, incluyendo las Skills integradas de Anthropic y cualquier Skill personalizada que hayas subido. </p>
+
+<h3> Usar las Skills en la práctica </h3>
+
+<p align="left"> Lo bueno de las Skills es que normalmente no necesitas pensar en ellas: Claude se encarga de seleccionar la skill automáticamente según tu solicitud. Aquí hay algunos ejemplos de prompts que invocarían Skills:
+
+    “Crea una hoja de cálculo de Excel que rastree los gastos mensuales con fórmulas para totales”
+
+    “Convierte este documento de notas de reunión en una presentación de PowerPoint”
+
+    “Genera un informe en PDF que resuma estos datos”
+    
+    “Crea un modelo financiero en Excel con análisis de escenarios”
+
+
+Cuando Claude usa una Skill, la verás mencionada en la cadena de pensamiento de Claude mientras trabaja. El resultado será un archivo descargable que puedes guardar en tu computadora o directamente en Google Drive.
