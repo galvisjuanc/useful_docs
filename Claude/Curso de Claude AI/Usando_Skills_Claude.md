@@ -16,3 +16,11 @@ Ya has visto las Skills en acción si has usado Claude para crear hojas de cálc
 
 </p>
 
+<h3> Tipos de Skills </h3>
+
+<p align="left"> Hay dos categorías de Skills que encontrarás:
+
+* Las Skills de Anthropic son creadas y mantenidas por Anthropic. Estas incluyen capacidades mejoradas de creación de documentos para archivos de Excel, Word, PowerPoint y PDF. Las Skills de Anthropic están disponibles para todos los usuarios de pago y Claude las invoca automáticamente cuando es relevante; no necesitas hacer nada especial para usarlas.
+* Las Skills personalizadas son las que tú o tu organización crean para flujos de trabajo especializados y tareas específicas de un dominio. Por ejemplo, podrías crear una skill que aplique las pautas de marca de tu empresa a las presentaciones, estructure las notas de reuniones en un formato específico o ejecute los flujos de trabajo de análisis de datos de tu organización.
+
+</p>
