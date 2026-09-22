@@ -94,3 +94,11 @@ Así es como puedes crear una Skill a través de una conversación:
 Tu Skill personalizada aparecerá en tu lista de Skills junto a las Skills integradas de Anthropic. A partir de ese momento, Claude la invocará automáticamente cada vez que trabajes en tareas relevantes, sin necesidad de activación manual. Puedes mejorar tus skills con iteración: pídele a Claude que edite una skill y actualizará los archivos por ti.
 
 </p>
+
+<h3> Skills vs Projects </h3>
+
+<p align="left"> Quizás te preguntes: si tanto las skills como los projects pueden usarse para darle más contexto a Claude, ¿cuándo debería usar cada uno? Piénsalo de esta manera: los projects almacenan conocimiento, las skills realizan tareas.
+
+Projects son centros de conocimiento. Contienen los materiales de referencia que Claude necesita para entender tu trabajo: especificaciones del proyecto, notas de reuniones, documentos de investigación. Cuando subes archivos a un project, Claude se basa en esa información en cada conversación dentro de ese project.
+
+</p>
