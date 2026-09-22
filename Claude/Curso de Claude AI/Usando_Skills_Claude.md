@@ -89,4 +89,8 @@ Así es como puedes crear una Skill a través de una conversación:
 3. <strong> Sube materiales de referencia</strong> si los tienes. Plantillas, guías de estilo, recursos de marca o ejemplos de trabajo del que estés orgulloso ayudan a Claude a entender exactamente lo que buscas.
 4. <strong> Guarda tu skill. </strong> Al terminar, Claude genera un archivo que contiene tu skill correctamente estructurada. Todo lo que tienes que hacer es guardarlo y la skill estará lista para que Claude la use.
 
+<strong> Ve tus skills.</strong> Encuentra la pestaña Personalizar en la barra lateral izquierda. Allí puedes ver todas las skills que están disponibles para ti e incluso editar las skills que usas manualmente o conversando con Claude.
+
+Tu Skill personalizada aparecerá en tu lista de Skills junto a las Skills integradas de Anthropic. A partir de ese momento, Claude la invocará automáticamente cada vez que trabajes en tareas relevantes, sin necesidad de activación manual. Puedes mejorar tus skills con iteración: pídele a Claude que edite una skill y actualizará los archivos por ti.
+
 </p>
