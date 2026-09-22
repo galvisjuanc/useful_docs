@@ -82,4 +82,11 @@ Debido a que las Skills pueden incluir código ejecutable, es importante usarlas
 
 La forma más fácil de crear una Skill personalizada es a través de una conversación con el propio Claude. No necesitas escribir código ni crear archivos manualmente: Claude se encarga de la estructura técnica por ti.
 
+Así es como puedes crear una Skill a través de una conversación:
+
+1. <strong> Inicia un nuevo chat </strong> y dile a Claude qué quieres crear. Por ejemplo: "Quiero crear una skill para escribir revisiones comerciales trimestrales" o "Necesito una skill que aplique nuestras pautas de marca a las presentaciones".
+2. <strong> Responde las preguntas de Claude. </strong> Claude te entrevistará sobre tu flujo de trabajo, preguntando cosas como: ¿Qué debería hacer esta skill? ¿Qué hace que un resultado sea bueno para este tipo de trabajo? ¿Puedes dar ejemplos de cuándo usarías esta skill?
+3. <strong> Sube materiales de referencia</strong> si los tienes. Plantillas, guías de estilo, recursos de marca o ejemplos de trabajo del que estés orgulloso ayudan a Claude a entender exactamente lo que buscas.
+4. <strong> Guarda tu skill. </strong> Al terminar, Claude genera un archivo que contiene tu skill correctamente estructurada. Todo lo que tienes que hacer es guardarlo y la skill estará lista para que Claude la use.
+
 </p>
