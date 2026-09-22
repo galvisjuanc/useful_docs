@@ -75,3 +75,11 @@ Debido a que las Skills pueden incluir código ejecutable, es importante usarlas
 * Si estás instalando una Skill personalizada de una fuente externa, revisa su contenido antes de usarla para entender qué hace.
 
 </p>
+
+<h3> Crear skills personalizadas </h3>
+
+<p align="left"> Si bien las Skills integradas de Anthropic cubren tareas comunes de creación de documentos, el verdadero poder de las Skills proviene de crear las tuyas propias. Las Skills personalizadas te permiten enseñarle a Claude tus flujos de trabajo específicos, pautas de marca y formas de trabajar, para que Claude pueda aplicar ese conocimiento automáticamente cuando sea relevante.
+
+La forma más fácil de crear una Skill personalizada es a través de una conversación con el propio Claude. No necesitas escribir código ni crear archivos manualmente: Claude se encarga de la estructura técnica por ti.
+
+</p>
