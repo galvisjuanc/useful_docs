@@ -55,4 +55,12 @@ Una vez habilitada, verás las Skills disponibles listadas en tu configuración,
     “Crea un modelo financiero en Excel con análisis de escenarios”
 
 
-Cuando Claude usa una Skill, la verás mencionada en la cadena de pensamiento de Claude mientras trabaja. El resultado será un archivo descargable que puedes guardar en tu computadora o directamente en Google Drive.
+Cuando Claude usa una Skill, la verás mencionada en la cadena de pensamiento de Claude mientras trabaja. El resultado será un archivo descargable que puedes guardar en tu computadora o directamente en Google Drive. </p>
+
+<h3> Ejecución de Archivos </h3>
+
+<p align="left"> Claude trabaja contigo en diapositivas, hojas de cálculo y revisiones de contratos
+
+Esta misma capacidad significa que Claude puede trabajar con tus archivos reales (dentro de un entorno contenido) para crear versiones actualizadas de tus archivos (nota: en el Chat, Claude crea una nueva versión del documento en lugar de editar el original directamente). Sube diapositivas, hojas de cálculo, contratos (o cualquier archivo .xlsx, .pptx, .docx o .pdf) y observa cómo Claude crea diapositivas, realiza análisis y agrega ediciones sugeridas. Cuando Claude termine, puedes descargar estos archivos o abrirlos en Drive.
+
+</p>
