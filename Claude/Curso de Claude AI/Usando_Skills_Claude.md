@@ -99,6 +99,10 @@ Tu Skill personalizada aparecerá en tu lista de Skills junto a las Skills integ
 
 <p align="left"> Quizás te preguntes: si tanto las skills como los projects pueden usarse para darle más contexto a Claude, ¿cuándo debería usar cada uno? Piénsalo de esta manera: los projects almacenan conocimiento, las skills realizan tareas.
 
-Projects son centros de conocimiento. Contienen los materiales de referencia que Claude necesita para entender tu trabajo: especificaciones del proyecto, notas de reuniones, documentos de investigación. Cuando subes archivos a un project, Claude se basa en esa información en cada conversación dentro de ese project.
+<strong> Projects </strong> son centros de conocimiento. Contienen los materiales de referencia que Claude necesita para entender tu trabajo: especificaciones del proyecto, notas de reuniones, documentos de investigación. Cuando subes archivos a un project, Claude se basa en esa información en cada conversación dentro de ese project.
+
+<strong> Skills </Strong> son máquinas de procedimientos. Codifican cómo Claude debe ejecutar una tarea: los pasos específicos, el orden de las operaciones y la metodología que quieres que se siga cada vez. Las Skills destacan cuando tienes flujos de trabajo repetibles que quieres que Claude ejecute de manera consistente.
+
+Las dos funciones se complementan entre sí. Una skill puede hacer referencia al conocimiento almacenado en un project: tu skill de "preparación de llamadas con clientes" podría extraer información de los perfiles de clientes subidos a la base de conocimiento de un project. El project proporciona el qué (información), la skill proporciona el cómo (proceso).
 
 </p>
