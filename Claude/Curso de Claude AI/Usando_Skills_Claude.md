@@ -63,4 +63,15 @@ Cuando Claude usa una Skill, la verás mencionada en la cadena de pensamiento de
 
 Esta misma capacidad significa que Claude puede trabajar con tus archivos reales (dentro de un entorno contenido) para crear versiones actualizadas de tus archivos (nota: en el Chat, Claude crea una nueva versión del documento en lugar de editar el original directamente). Sube diapositivas, hojas de cálculo, contratos (o cualquier archivo .xlsx, .pptx, .docx o .pdf) y observa cómo Claude crea diapositivas, realiza análisis y agrega ediciones sugeridas. Cuando Claude termine, puedes descargar estos archivos o abrirlos en Drive.
 
+Nota: Para usar estas capacidades necesitarás darle a Claude acceso a fuentes de datos externas. Simplemente activa la opción Permitir acceso limitado a la red cuando se te solicite.
+
+<strong> Consideraciones de seguridad </strong>
+
+Debido a que las Skills pueden incluir código ejecutable, es importante usarlas con cuidado:
+
+* Instala solo Skills personalizadas de fuentes confiables
+* Las Skills integradas de Anthropic son probadas y mantenidas por Anthropic
+* Las Skills personalizadas que subes son privadas para tu cuenta individual
+* Si estás instalando una Skill personalizada de una fuente externa, revisa su contenido antes de usarla para entender qué hace.
+
 </p>
