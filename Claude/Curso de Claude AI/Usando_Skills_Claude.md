@@ -105,4 +105,28 @@ Tu Skill personalizada aparecerá en tu lista de Skills junto a las Skills integ
 
 Las dos funciones se complementan entre sí. Una skill puede hacer referencia al conocimiento almacenado en un project: tu skill de "preparación de llamadas con clientes" podría extraer información de los perfiles de clientes subidos a la base de conocimiento de un project. El project proporciona el qué (información), la skill proporciona el cómo (proceso).
 
+<table>
+  <tr>
+    <th></th>
+    <th>Projects</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td><strong> Propósito </strong></td>
+    <td> Almacena el conocimiento que Claude referencia</td>
+    <td>Define los procesos que Claude ejecuta</td>
+  </tr>
+  <tr>
+    <td><strong> Ideal para </strong> </td>
+    <td>Contexto a largo plazo, materiales de referencia, colaboración en equipo</td>
+    <td>Flujos de trabajo repetibles, tareas de varios pasos, metodología consistente</td>
+  </tr>
+  <tr>
+    <td><strong>Ejemplo</strong></td>
+    <td>Centro de clientes, asistente de investigación, generador de retroalimentación</td>
+    <td>Pautas de proceso (como de marca o legales), redacción de blogs, creación de PDF</td>
+  </tr>
+  
+</table>
+
 </p>
