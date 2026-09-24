@@ -126,7 +126,11 @@ Las dos funciones se complementan entre sí. Una skill puede hacer referencia al
     <td>Centro de clientes, asistente de investigación, generador de retroalimentación</td>
     <td>Pautas de proceso (como de marca o legales), redacción de blogs, creación de PDF</td>
   </tr>
-  
+  <tr>
+    <td><strong>Persistencia</strong></td>
+    <td>Conocimiento disponible en todos los chats del project</td>
+    <td>Instrucciones aplicadas cuando se invoca la skill</td>
+  </tr>
 </table>
 
 </p>
