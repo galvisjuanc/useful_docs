@@ -73,3 +73,20 @@ Para explorar los conectores disponibles, también puedes hacer clic en el botó
 Una vez conectado, Claude puede buscar, leer y, en algunos casos, realizar acciones dentro de ese servicio—dependiendo de los permisos que hayas otorgado.
 
 </p>
+
+<h3> Extensiones de escritorio </h3>
+
+<p align="left"> Las extensiones de escritorio requieren la aplicación Claude Desktop en lugar de la interfaz web. Estas extensiones permiten que Claude interactúe con aplicaciones locales, tu sistema de archivos y funciones nativas en macOS o Windows.
+
+Algunas extensiones de escritorio incluyen:
+
+* Acceso a archivos locales para leer y organizar documentos
+* Control del navegador para tareas web automatizadas
+* Integración con aplicaciones nativas (como Figma para trabajo de diseño)
+
+Para instalar una extensión de escritorio:
+
+* Descarga e instala la aplicación Claude Desktop
+* Abre la aplicación y navega a Configuración > Extensiones
+* Explora las extensiones disponibles y haz clic en Instalar
+* Sigue los pasos de configuración adicionales específicos de esa extensión </p>
