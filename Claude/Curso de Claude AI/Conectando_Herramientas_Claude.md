@@ -20,3 +20,35 @@ Objetivos:
 * Hay dos tipos de conectores: conectores web y extensiones de escritorio. Los conectores web vinculan a Claude con servicios en la nube como Google Drive, Notion, Slack y Asana. Las extensiones de escritorio se ejecutan localmente en tu computadora a través de la aplicación Claude Desktop, dando a Claude acceso a archivos locales y aplicaciones nativas.
 
 </p>
+
+<h3> Encontrar y conectar herramientas </h3>
+
+<p align="left"> 
+A continuación hay una solicitud que Claude ya puede manejar — todo lo que necesita está en las palabras que escribiste. Nada más está conectado todavía. Activa una fuente y observa cómo crece la solicitud: cada conexión te permite pedir algo que vive fuera de tu mensaje.
+
+<strong> Tu solicitud a Claude </strong>
+    
+    Redacta una breve actualización de estado sobre el proyecto de presupuesto para mi gerente.
+
+
+Una oración—eso es una solicitud completa. Claude la redacta solo a partir de tus palabras.
+
+Activa o desactiva una fuente
+
+    Almacenamiento en la nube
+    no conectado
+
+    Correo electrónico
+    no conectado
+
+    Chat del equipo
+    no conectado
+
+La misma solicitud por debajo todo el tiempo. Lo que cambia es lo que puedes pedirle que use como referencia.
+
+Qué te permite pedir cada conexión
+Ahora mismo: solo lo que está en tu mensaje. Activa una fuente para agregarle algo.
+
+Desactivar todo
+
+</p>
