@@ -90,3 +90,33 @@ Para instalar una extensión de escritorio:
 * Abre la aplicación y navega a Configuración > Extensiones
 * Explora las extensiones disponibles y haz clic en Instalar
 * Sigue los pasos de configuración adicionales específicos de esa extensión </p>
+
+<h3> Usar conectores en tu trabajo </h3>
+
+<p align="left"> Una vez que hayas conectado tus herramientas, Claude las considera al responder a tus solicitudes. Aquí hay algunas formas prácticas de usar herramientas conectadas:
+
+<strong> Gestión de proyectos (Asana, Linear, Jira) </strong>
+
+    “¿Cuáles son mis tareas de mayor prioridad que vencen esta semana?”
+    “Crea una nueva tarea para revisar la propuesta de presupuesto del Q4”
+    “Resume el estado de nuestro proyecto de lanzamiento de producto”
+
+<strong> Comunicación (Slack, Gmail) </strong>
+
+    “Encuentra el hilo de correo donde discutimos el contrato del proveedor”
+    “Redacta una respuesta al último mensaje en el canal #marketing”
+    “¿Qué decidió el equipo sobre el cronograma en la discusión de ayer?”
+
+<strong> Documentación (Notion, Google Drive, Confluence) </strong>
+
+    “Busca en nuestra documentación las pautas de voz de marca”
+    “Resume las notas de la reunión de la revisión de producto de la semana pasada”
+    “¿Qué dice nuestra guía de estilo sobre el uso de contracciones?”
+
+<strong> Herramientas de negocio (Stripe, PayPal, HubSpot) </strong>
+
+    “Muéstrame las tendencias de ingresos del último trimestre”
+    “¿Cuál es el estado de la oportunidad de Acme Corp?”
+    “Lista las transacciones recientes de más de $1,000”
+
+</p>
