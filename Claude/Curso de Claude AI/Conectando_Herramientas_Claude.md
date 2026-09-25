@@ -120,3 +120,11 @@ Para instalar una extensión de escritorio:
     “Lista las transacciones recientes de más de $1,000”
 
 </p>
+
+<h3> Seguridad y permisos </h3>
+
+<p align="left"> Cuando conectas a Claude con servicios externos, le estás otorgando acceso para leer—y a veces modificar—datos dentro de esos servicios. Aquí hay algunas consideraciones importantes:
+
+* Acceso delimitado: Los permisos son específicos a lo que el conector necesita y puedes activar o desactivar permisos individuales dentro del menú de cada aplicación.
+* Claude ve lo que tú ves: Claude solo puede acceder a los datos a los que tú tienes acceso. Conectar tu correo de trabajo no le da a Claude acceso a la bandeja de entrada de tu CEO—solo a la tuya.
+* Revocable en cualquier momento: Puedes desconectar un servicio a través de la configuración de Claude o a través de la configuración de seguridad del servicio de terceros. Al igual que con las Skills, también puedes encontrar o crear conectores personalizados. Ejerce la misma precaución — instala solo conectores de fuentes confiables. </p>
