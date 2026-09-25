@@ -59,3 +59,17 @@ El directorio lista conectores en lugar de aplicaciones individuales, por lo que
 Para explorar los conectores disponibles, también puedes hacer clic en el botón + en la parte inferior izquierda de la ventana de chat, y luego seleccionar Conectores.
 
 </p>
+
+<h3> Configurar un conector web </h3>
+
+<p align="left"> Así es como se conecta un servicio en la nube:
+
+1. Encuentra el conector: Navega a claude.ai/directory, o haz clic en + > Conectores en cualquier chat
+2. Haz clic en Conectar: Selecciona el conector que quieres agregar
+3. Autentícate: Serás redirigido a la página de inicio de sesión del servicio. Inicia sesión con tus credenciales existentes
+4. Otorga permisos: Revisa los permisos específicos que Claude está solicitando, y luego autoriza el acceso
+5. Prueba la conexión: Regresa a Claude e intenta una solicitud simple, como "¿Puedes acceder a mi [nombre de herramienta]?"
+
+Una vez conectado, Claude puede buscar, leer y, en algunos casos, realizar acciones dentro de ese servicio—dependiendo de los permisos que hayas otorgado.
+
+</p>
