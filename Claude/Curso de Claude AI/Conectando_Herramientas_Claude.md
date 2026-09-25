@@ -49,6 +49,13 @@ La misma solicitud por debajo todo el tiempo. Lo que cambia es lo que puedes ped
 Qué te permite pedir cada conexión
 Ahora mismo: solo lo que está en tu mensaje. Activa una fuente para agregarle algo.
 
-Desactivar todo
+Anthropic mantiene un directorio de conectores recomendados en claude.ai/directory. El directorio está organizado en dos pestañas:
+
+* Web: Servicios en la nube y aplicaciones (Gmail, Notion, Slack, Asana, Linear, Stripe, y muchos más)
+* Extensiones de escritorio: Herramientas locales que se ejecutan en tu computadora a través de la aplicación Claude Desktop
+
+El directorio lista conectores en lugar de aplicaciones individuales, por lo que una entrada puede cubrir varias herramientas relacionadas. El conector Atlassian Rovo, por ejemplo, alcanza tanto a Jira como a Confluence, así que busca Atlassian en lugar de cualquiera de las dos aplicaciones por nombre. Si una herramienta que necesitas no tiene su propia entrada, puedes agregarla como un conector personalizado en su lugar.
+
+Para explorar los conectores disponibles, también puedes hacer clic en el botón + en la parte inferior izquierda de la ventana de chat, y luego seleccionar Conectores.
 
 </p>
