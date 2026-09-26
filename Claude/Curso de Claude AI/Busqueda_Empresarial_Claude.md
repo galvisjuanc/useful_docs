@@ -60,7 +60,9 @@ A diferencia de los chats regulares con conectores habilitados, la Búsqueda emp
     “Encuentra discusiones y documentos relacionados con la campaña de marketing”
 
     “¿Cuáles fueron las decisiones clave de las reuniones de liderazgo de la semana pasada?”
-    
+
     “Resume las contribuciones del equipo a la iniciativa de Infraestructura”
+
+Cuando haces una pregunta, Claude busca en todas tus herramientas conectadas —como documentos de SharePoint, conversaciones de Slack, hilos de Gmail y archivos de Google Drive— y sintetiza la información en una respuesta unificada. Además, siempre cita sus fuentes para que puedas obtener el contexto completo.
 
 </p>
