@@ -36,7 +36,31 @@ A diferencia de los chats regulares con conectores habilitados, la Búsqueda emp
     “¿Cuál es la política de trabajo remoto de nuestra empresa?”
 
     “¿Cómo presento un informe de gastos?”
-    
+
     “¿Cuál es el proceso para solicitar tiempo libre?”
+
+<strong> Investigación y análisis </strong>
+
+    “¿Cuáles son las principales razones que citan los clientes para elegir a la competencia?”
+
+    “Resume las discusiones sobre la hoja de ruta del producto del Q4”
+
+    “Encuentra información sobre nuestro proceso de incorporación de clientes”
+
+<strong> Incorporación de nuevos miembros del equipo </strong>
+
+    “¿Cómo funciona nuestro sistema de autenticación?”
+
+    “¿Con quién debería hablar para aprender sobre el sistema de facturación?”
+
+    “¿Qué herramientas usa el equipo de ingeniería para el despliegue?”
+
+<strong> Seguimiento de rendimiento y proyectos </strong>
+
+    “Encuentra discusiones y documentos relacionados con la campaña de marketing”
+
+    “¿Cuáles fueron las decisiones clave de las reuniones de liderazgo de la semana pasada?”
+    
+    “Resume las contribuciones del equipo a la iniciativa de Infraestructura”
 
 </p>
