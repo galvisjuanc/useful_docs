@@ -21,3 +21,15 @@ Objetivos:
 * <strong> Las citas facilitan la verificación.</strong>  Investigación ofrece respuestas exhaustivas con citas fáciles de comprobar, para que puedas confiar en los hallazgos de Claude y verificar las fuentes tú mismo rápidamente.
 
 </p>
+
+<h3> ¿Qué es Investigación? </h3>
+
+<p align="left"> 
+
+Investigación es una función avanzada que transforma a Claude de un asistente conversacional en un investigador sistemático. Cuando activas Investigación, Claude no solo responde tu pregunta, sino que la explora desde múltiples ángulos, sintetizando información de toda la web y de tus integraciones conectadas.
+
+Piénsalo como tener un asistente de investigación experto que recopila información, cruza referencias entre fuentes y compila un informe integral mientras tú te concentras en tu propio trabajo.
+
+Investigación es particularmente valiosa cuando necesitas más que una respuesta rápida. Está diseñada para situaciones en las que una comprensión exhaustiva requiere reunir información de múltiples fuentes, comparar diferentes perspectivas y sintetizar los hallazgos en conclusiones prácticas.
+
+</p>
