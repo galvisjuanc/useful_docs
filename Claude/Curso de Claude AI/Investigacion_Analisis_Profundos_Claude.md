@@ -39,7 +39,7 @@ Investigación es particularmente valiosa cuando necesitas más que una respuest
 <p align="left"> 
 Comprender cuándo usar Investigación frente a otras capacidades de Claude te ayuda a obtener los mejores resultados para tus necesidades específicas.
 
-Usa Investigación cuando necesites:
+<strong> Usa Investigación cuando necesites: </strong>
 
 * Informes integrales que sintetizan información de múltiples fuentes
 * Análisis en profundidad en toda la web y en tus integraciones conectadas (como Google Workspace)
@@ -47,5 +47,13 @@ Usa Investigación cuando necesites:
 * Análisis comparativo, como evaluar competidores u opciones de proveedores
 * Informes con citas que puedes verificar
 
+<strong> Investigación es ideal para tareas como: </strong>
+
+
+Análisis de mercado e investigación competitiva
+Planificar proyectos complejos, como retiros de equipo o lanzamientos de productos
+Sintetizar información de tu correo electrónico, calendario y documentos
+Crear documentación técnica que se basa en múltiples fuentes
+Preparar informes que requieren información actual y verificada
 
 </p>
