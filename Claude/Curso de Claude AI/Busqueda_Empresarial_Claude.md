@@ -82,4 +82,16 @@ El proyecto de Búsqueda empresarial está habilitado de forma predeterminada pa
 5. Personaliza el nombre del proyecto. Lo que ingreses aparecerá como "Preguntar a [Nombre]" en la barra lateral de todos.
 6. Agrega una descripción, luego haz clic en "Finalizar configuración."
 
-Una vez completada la configuración, el proyecto queda disponible para todos los miembros de tu organización. </p>
+Una vez completada la configuración, el proyecto queda disponible para todos los miembros de tu organización. 
+
+<strong> Para usuarios </strong>
+
+Después de que un administrador haya configurado la Búsqueda empresarial, verás el proyecto "Preguntar a {Nombre de la organización}" destacado en tu barra lateral. Así es como puedes comenzar:
+
+1. Haz clic en el proyecto en tu barra lateral.
+2. Sigue el flujo de incorporación guiado para conectarte a los servicios recomendados.
+3. Autentícate con cada servicio que quieras buscar (Slack, Google, Microsoft 365, etc.).
+4. Comienza a hacerle preguntas a Claude sobre el conocimiento de tu organización.
+
+Cuantos más conectores habilites, más completos serán tus resultados de búsqueda. Siempre puedes agregar más conectores más adelante haciendo clic en "Conectar" en la sección de Instrucciones del proyecto.
+</p>
