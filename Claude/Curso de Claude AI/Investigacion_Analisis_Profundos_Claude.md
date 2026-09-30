@@ -67,4 +67,10 @@ Comprender cuándo usar Investigación frente a otras capacidades de Claude te a
 * Estás trabajando en problemas matemáticos, depuración de código o análisis lógico
 * La respuesta surge de razonar sobre un problema en lugar de recopilar información
 
+<strong> Considera usar la búsqueda empresarial en su lugar cuando: </strong>
+
+* Necesitas respuestas que se basen en el conocimiento interno de tu organización: documentos, hilos de Slack, correos electrónicos, notas de reuniones
+* Estás en proceso de incorporación y quieres encontrar rápidamente cómo tu empresa maneja algo (como políticas, procesos o decisiones pasadas)
+* Estás haciendo una pregunta específica de tu empresa, no de la web pública
+
 </p>
