@@ -49,11 +49,16 @@ Comprender cuándo usar Investigación frente a otras capacidades de Claude te a
 
 <strong> Investigación es ideal para tareas como: </strong>
 
+* Análisis de mercado e investigación competitiva
+* Planificar proyectos complejos, como retiros de equipo o lanzamientos de productos
+* Sintetizar información de tu correo electrónico, calendario y documentos
+* Crear documentación técnica que se basa en múltiples fuentes
+* Preparar informes que requieren información actual y verificada
 
-Análisis de mercado e investigación competitiva
-Planificar proyectos complejos, como retiros de equipo o lanzamientos de productos
-Sintetizar información de tu correo electrónico, calendario y documentos
-Crear documentación técnica que se basa en múltiples fuentes
-Preparar informes que requieren información actual y verificada
+<strong> Considera usar la búsqueda web en su lugar cuando: </strong>
+
+* Necesitas un dato rápido y específico (como el precio de las acciones de hoy o la dirección de una empresa)
+* La respuesta requiere solo una o dos fuentes
+* La velocidad importa más que la exhaustividad
 
 </p>
