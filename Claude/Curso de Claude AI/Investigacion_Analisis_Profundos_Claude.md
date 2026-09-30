@@ -61,4 +61,10 @@ Comprender cuándo usar Investigación frente a otras capacidades de Claude te a
 * La respuesta requiere solo una o dos fuentes
 * La velocidad importa más que la exhaustividad
 
+<strong>Considera activar Pensamiento en su lugar cuando: </strong>
+
+* Necesitas un razonamiento profundo sobre un problema complejo que no requiere información externa
+* Estás trabajando en problemas matemáticos, depuración de código o análisis lógico
+* La respuesta surge de razonar sobre un problema en lugar de recopilar información
+
 </p>
