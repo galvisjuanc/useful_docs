@@ -80,6 +80,9 @@ Comprender cuándo usar Investigación frente a otras capacidades de Claude te a
 <p align="left"> 
 Cuando activas Investigación, estás activando un proceso agéntico de múltiples pasos que va mucho más allá de una simple búsqueda web. Claude decide de forma autónoma qué buscar a continuación según lo que ya ha encontrado, siguiendo pistas y llenando vacíos sin que necesites dirigir cada paso.
 
-
+1. Claude planifica su enfoque. Claude piensa detenidamente su enfoque antes de buscar: desglosa tu solicitud, identifica qué información necesita y planifica cómo investigar los diferentes ángulos de tu pregunta.
+2. Claude realiza múltiples búsquedas. En lugar de ejecutar una sola búsqueda, Claude realiza muchas búsquedas que se construyen unas sobre otras. Determina qué investigar a continuación según lo que encuentra, siguiendo pistas prometedoras y llenando vacíos.
+3. Claude sintetiza los hallazgos. Después de recopilar información de múltiples fuentes —incluyendo la web y cualquier integración conectada como Gmail, Google Calendar o Google Drive—, Claude compila todo en un informe integral y bien organizado.
+4. Claude proporciona citas. Cada afirmación en los informes de Investigación enlaza de vuelta a su fuente, lo que facilita verificar la información y profundizar cuando sea necesario.
 
 </p>
