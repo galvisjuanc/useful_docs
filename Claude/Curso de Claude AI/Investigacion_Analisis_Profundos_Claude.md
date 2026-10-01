@@ -102,3 +102,13 @@ Así es como puedes activar y usar Investigación:
         La búsqueda web debe estar activada para que Investigación funcione. Si aún no has activado la búsqueda web, puedes hacerlo desde el mismo menú +.
 
 </p>
+
+<h3> Consejos para indicaciones efectivas de Investigación </h3>
+
+<p align="left"> Dado que una ejecución de Investigación tarda minutos en lugar de segundos, invertir tiempo en elaborar tu indicación vale la pena. Aquí tienes algunas estrategias:
+
+* Sé específico sobre tus objetivos. En lugar de "Cuéntame sobre el mercado de vehículos eléctricos", prueba con "Analiza el mercado de baterías para vehículos eléctricos: identifica actores clave, tendencias tecnológicas y desafíos en la cadena de suministro que podrían afectar las decisiones de inversión".
+* Especifica las secciones o la estructura que deseas. Claude organizará sus hallazgos en torno a la estructura que proporciones. Por ejemplo: "Compara opciones de sedes para un retiro de equipo, incluyendo: ubicación y accesibilidad, espacio para reuniones y comodidades, opciones de catering y consideraciones de precio".
+* Incluye restricciones relevantes. Los rangos de presupuesto, los plazos, los requisitos geográficos y otros parámetros ayudan a Claude a enfocar su investigación en opciones relevantes.
+* Pide a Claude que te ayude a refinar tu indicación. Si no estás seguro de cómo plantear tu pregunta de investigación, incluso puedes pedirle a Claude que te ayude a escribir una mejor indicación de Investigación antes de activar la función.
+</p>
