@@ -86,3 +86,15 @@ Cuando activas Investigación, estás activando un proceso agéntico de múltipl
 4. Claude proporciona citas. Cada afirmación en los informes de Investigación enlaza de vuelta a su fuente, lo que facilita verificar la información y profundizar cuando sea necesario.
 
 </p>
+
+<h3> Usando Investigación en la práctica </h3>
+
+<p align="left"> 
+Así es como puedes activar y usar Investigación:
+
+1. Haz clic en el botón + en la parte inferior izquierda de tu interfaz de chat
+2. Selecciona Investigación en el menú; aparece resaltado una vez activo
+3. Ingresa tu indicación y envíala
+4. Claude trabajará en segundo plano, y verás indicadores de progreso mientras busca y analiza
+
+</p>
