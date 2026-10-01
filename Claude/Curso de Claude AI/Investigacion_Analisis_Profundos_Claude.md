@@ -74,3 +74,12 @@ Comprender cuándo usar Investigación frente a otras capacidades de Claude te a
 * Estás haciendo una pregunta específica de tu empresa, no de la web pública
 
 </p>
+
+<h3> Cómo funciona Investigación </h3>
+
+<p align="left"> 
+Cuando activas Investigación, estás activando un proceso agéntico de múltiples pasos que va mucho más allá de una simple búsqueda web. Claude decide de forma autónoma qué buscar a continuación según lo que ya ha encontrado, siguiendo pistas y llenando vacíos sin que necesites dirigir cada paso.
+
+
+
+</p>
