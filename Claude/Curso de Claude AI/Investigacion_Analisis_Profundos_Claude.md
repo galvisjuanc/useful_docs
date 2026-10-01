@@ -97,4 +97,8 @@ Así es como puedes activar y usar Investigación:
 3. Ingresa tu indicación y envíala
 4. Claude trabajará en segundo plano, y verás indicadores de progreso mientras busca y analiza
 
+        Importante
+
+        La búsqueda web debe estar activada para que Investigación funcione. Si aún no has activado la búsqueda web, puedes hacerlo desde el mismo menú +.
+
 </p>
