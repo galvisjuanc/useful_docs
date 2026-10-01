@@ -112,3 +112,18 @@ Así es como puedes activar y usar Investigación:
 * Incluye restricciones relevantes. Los rangos de presupuesto, los plazos, los requisitos geográficos y otros parámetros ayudan a Claude a enfocar su investigación en opciones relevantes.
 * Pide a Claude que te ayude a refinar tu indicación. Si no estás seguro de cómo plantear tu pregunta de investigación, incluso puedes pedirle a Claude que te ayude a escribir una mejor indicación de Investigación antes de activar la función.
 </p>
+
+<h3> Trabajando con integraciones conectadas </h3>
+
+<p align="left"> Cuando tienes Google Workspace u otras integraciones conectadas, Investigación se vuelve aún más potente. Claude puede extraer contexto de tus correos electrónicos, calendario y documentos junto con la investigación web.
+
+Por ejemplo, podrías pedirle a Claude que:
+
+    “Resume lo que se ha discutido sobre el Proyecto X en mis correos electrónicos y Slack, y luego investiga las mejores prácticas de la industria para iniciativas similares”
+
+    “Revisa mis compromisos de calendario para la próxima semana e investiga cada empresa con la que me voy a reunir”
+
+    “Encuentra todos los documentos internos sobre nuestra estrategia de precios y compáralos con cómo se están posicionando los competidores”
+
+Cuando uses Investigación con integraciones, puedes guiar a Claude diciendo cosas como "Extrae contexto relevante de mi Google Drive" o "Incluye información de mis correos electrónicos recientes sobre este tema".
+</p>
