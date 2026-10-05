@@ -12,4 +12,14 @@ Cada caso de uso a continuación enlaza a una guía detallada en nuestra Galerí
 
 </p>
 
-<h3> </h3>
+<h3> Uso profesional general</h3>
+
+<p align="left"> Estos casos de uso se aplican a muchos roles e industrias.
+
+* Genera informes de estado de proyectos – Mantén informados a los interesados con actualizaciones claras y consistentes --> https://academy.claude.com/es/courses/claude-101/claude-in-action-use-cases-by-role#:~:text=Estos%20casos%20de%20uso,est%C3%A1ndares%20de%20tu%20marca
+
+* Analiza patrones en los comentarios de los usuarios – Extrae información de los comentarios de clientes y respuestas de encuestas --> https://academy.claude.com/es/courses/claude-101/claude-in-action-use-cases-by-role#:~:text=Estos%20casos%20de%20uso,est%C3%A1ndares%20de%20tu%20marca
+
+* Empaqueta las pautas de tu marca en una skill – Crea una skill de Claude reutilizable que aplique los estándares de tu marca --> https://academy.claude.com/es/courses/claude-101/claude-in-action-use-cases-by-role#:~:text=Estos%20casos%20de%20uso,est%C3%A1ndares%20de%20tu%20marca
+
+</p>
