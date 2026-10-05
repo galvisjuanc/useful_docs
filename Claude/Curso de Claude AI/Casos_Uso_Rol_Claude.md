@@ -30,7 +30,9 @@ Cada caso de uso a continuación enlaza a una guía detallada en nuestra Galerí
 
 * Construye una biblioteca de battle cards – Crea recursos de inteligencia competitiva que ayuden a tu equipo a ganar negociaciones --> https://academy.claude.com/es/courses/claude-101/claude-in-action-use-cases-by-role#:~:text=Los%20profesionales%20de,claros%20y%20accionables
 
+
 * Prepárate para negociaciones de ventas – Investiga prospectos y organiza tus puntos de conversación antes de reuniones importantes --> https://academy.claude.com/es/courses/claude-101/claude-in-action-use-cases-by-role#:~:text=Los%20profesionales%20de,claros%20y%20accionables
+
 
 * Crea informes de ventas – Convierte los datos de tu pipeline en informes claros y accionables --> https://academy.claude.com/es/use-cases/create-sales-reports
 
