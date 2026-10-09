@@ -62,3 +62,9 @@ Cada caso de uso a continuación enlaza a una guía detallada en nuestra Galerí
 <p align="left"> Los equipos de RR. HH. pueden usar Claude para crear mejores experiencias de incorporación y documentación.
 
 * Crea guías de incorporación para nuevas contrataciones – Desarrolla materiales de incorporación integrales adaptados a diferentes roles --> https://academy.claude.com/es/use-cases/create-new-hire-onboarding-guides </p>
+
+<h3> Legal </h3>
+
+<p align="left"> Los profesionales legales pueden usar Claude para rastrear cronologías complejas y gestionar procesos de descubrimiento.
+
+* Rastrea cronologías de descubrimiento y analiza patrones – Organiza cronologías de casos e identifica patrones clave en documentos legales --> https://academy.claude.com/es/use-cases/track-discovery-timelines-and-analyze-patterns </p>
