@@ -46,3 +46,13 @@ Cada caso de uso a continuación enlaza a una guía detallada en nuestra Galerí
 
 * Adapta contenido entre plataformas – Reutiliza contenido de manera eficiente para diferentes canales y audiencias --> https://academy.claude.com/es/use-cases/adapt-content-across-platforms
 </p>
+
+<h3> Finanzas </h3>
+
+<p align="left"> Los profesionales de finanzas pueden usar Claude para construir modelos, redactar documentos y dar sentido a hojas de cálculo complejas.
+
+* Construye modelos financieros – Crea y refina proyecciones financieras con la ayuda de Claude --> https://academy.claude.com/es/use-cases/build-financial-models
+
+* Redacta memorandos de inversión – Estructura y redacta análisis de inversión de manera más eficiente --> https://academy.claude.com/es/use-cases/draft-investment-memos
+
+* Comprende y amplía una hoja de cálculo heredada – Descifra hojas de cálculo complejas y añade nueva funcionalidad --> https://academy.claude.com/es/use-cases/understand-and-extend-an-inherited-spreadsheet </p>
