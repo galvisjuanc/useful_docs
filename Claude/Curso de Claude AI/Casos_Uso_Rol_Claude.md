@@ -56,3 +56,9 @@ Cada caso de uso a continuación enlaza a una guía detallada en nuestra Galerí
 * Redacta memorandos de inversión – Estructura y redacta análisis de inversión de manera más eficiente --> https://academy.claude.com/es/use-cases/draft-investment-memos
 
 * Comprende y amplía una hoja de cálculo heredada – Descifra hojas de cálculo complejas y añade nueva funcionalidad --> https://academy.claude.com/es/use-cases/understand-and-extend-an-inherited-spreadsheet </p>
+
+<h3> RR. HH. </h3>
+
+<p align="left"> Los equipos de RR. HH. pueden usar Claude para crear mejores experiencias de incorporación y documentación.
+
+* Crea guías de incorporación para nuevas contrataciones – Desarrolla materiales de incorporación integrales adaptados a diferentes roles --> https://academy.claude.com/es/use-cases/create-new-hire-onboarding-guides </p>
