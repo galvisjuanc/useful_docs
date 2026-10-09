@@ -40,13 +40,9 @@ Cada caso de uso a continuación enlaza a una guía detallada en nuestra Galerí
 
 <h3> Marketing </h3>
 
-<p align="left"> Los profesionales de ventas pueden usar Claude para acelerar la preparación de negociaciones, crear materiales convincentes y mantenerse al tanto de la inteligencia competitiva.
+<p align="left"> Los profesionales de marketing pueden aprovechar Claude para analizar datos de rendimiento y reutilizar contenido de manera eficiente en distintos canales.
 
-* Construye una biblioteca de battle cards – Crea recursos de inteligencia competitiva que ayuden a tu equipo a ganar negociaciones --> https://academy.claude.com/es/courses/claude-101/claude-in-action-use-cases-by-role#:~:text=Los%20profesionales%20de,claros%20y%20accionables
+* Analiza el rendimiento de campañas – Extrae información de las métricas de campañas para orientar tu estrategia --> https://academy.claude.com/es/courses/claude-101/claude-in-action-use-cases-by-role#:~:text=Los%20profesionales%20de%20marketing,diferentes%20canales%20y%20audiencias
 
-
-* Prepárate para negociaciones de ventas – Investiga prospectos y organiza tus puntos de conversación antes de reuniones importantes --> https://academy.claude.com/es/courses/claude-101/claude-in-action-use-cases-by-role#:~:text=Los%20profesionales%20de,claros%20y%20accionables
-
-
-* Crea informes de ventas – Convierte los datos de tu pipeline en informes claros y accionables --> https://academy.claude.com/es/use-cases/create-sales-reports
+* Adapta contenido entre plataformas – Reutiliza contenido de manera eficiente para diferentes canales y audiencias --> https://academy.claude.com/es/use-cases/adapt-content-across-platforms
 </p>
