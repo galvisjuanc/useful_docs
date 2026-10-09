@@ -37,3 +37,16 @@ Cada caso de uso a continuación enlaza a una guía detallada en nuestra Galerí
 * Crea informes de ventas – Convierte los datos de tu pipeline en informes claros y accionables --> https://academy.claude.com/es/use-cases/create-sales-reports
 
 </p>
+
+<h3> Marketing </h3>
+
+<p align="left"> Los profesionales de ventas pueden usar Claude para acelerar la preparación de negociaciones, crear materiales convincentes y mantenerse al tanto de la inteligencia competitiva.
+
+* Construye una biblioteca de battle cards – Crea recursos de inteligencia competitiva que ayuden a tu equipo a ganar negociaciones --> https://academy.claude.com/es/courses/claude-101/claude-in-action-use-cases-by-role#:~:text=Los%20profesionales%20de,claros%20y%20accionables
+
+
+* Prepárate para negociaciones de ventas – Investiga prospectos y organiza tus puntos de conversación antes de reuniones importantes --> https://academy.claude.com/es/courses/claude-101/claude-in-action-use-cases-by-role#:~:text=Los%20profesionales%20de,claros%20y%20accionables
+
+
+* Crea informes de ventas – Convierte los datos de tu pipeline en informes claros y accionables --> https://academy.claude.com/es/use-cases/create-sales-reports
+</p>
