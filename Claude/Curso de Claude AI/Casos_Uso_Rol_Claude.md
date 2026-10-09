@@ -68,3 +68,10 @@ Cada caso de uso a continuación enlaza a una guía detallada en nuestra Galerí
 <p align="left"> Los profesionales legales pueden usar Claude para rastrear cronologías complejas y gestionar procesos de descubrimiento.
 
 * Rastrea cronologías de descubrimiento y analiza patrones – Organiza cronologías de casos e identifica patrones clave en documentos legales --> https://academy.claude.com/es/use-cases/track-discovery-timelines-and-analyze-patterns </p>
+
+<p align="left"> Investigación
+Los investigadores pueden usar Claude para planificar revisiones de literatura y verificar análisis de datos.
+
+* Planifica tu revisión de literatura – Organiza tu enfoque para revisar fuentes académicas --> https://academy.claude.com/es/use-cases/plan-your-literature-review
+
+* Verifica estadísticas a partir de datos sin procesar – Verifica cálculos y análisis estadísticos --> https://academy.claude.com/es/use-cases/verify-statistics-from-raw-data</p>
