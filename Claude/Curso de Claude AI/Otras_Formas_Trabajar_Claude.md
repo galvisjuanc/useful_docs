@@ -96,5 +96,6 @@ Claude for PowerPoint lleva a Claude a Microsoft PowerPoint como una barra later
 * Quieres convertir un esquema, documento o conjunto de notas en un primer borrador de presentación sin construir cada diapositiva a mano
 * Necesitas reescribir o ajustar el texto de las diapositivas — acortando viñetas, añadiendo notas del orador, o ajustando el tono para una audiencia específica
 * Estás reestructurando una presentación existente y quieres ayuda para reordenar secciones, dividir diapositivas densas o fusionar las que se superponen
-
+* Quieres aplicar un formato consistente en toda la presentación — títulos, estilos de viñetas y diseños — sin corregir manualmente cada diapositiva
+* Te gustaría obtener sugerencias visuales rápidas para una diapositiva, como qué diseño o tipo de gráfico se ajusta mejor al punto que estás planteando
 </p>
