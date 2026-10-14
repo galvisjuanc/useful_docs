@@ -39,4 +39,7 @@ Claude Tag lleva a Claude directamente a Slack, permitiéndote obtener ayuda en 
 
 <strong> Cuándo usar Claude Tag: </strong>
 
+* Quieres redactar respuestas a mensajes, resumir hilos extensos o desglosar discusiones complejas sin salir de Slack
+* Necesitas prepararte para reuniones haciendo que Claude reúna conversaciones relevantes y documentos compartidos de tu espacio de trabajo
+* Te estás incorporando a un nuevo equipo y quieres ayuda para entender proyectos en curso revisando el historial de canales
 </p>
