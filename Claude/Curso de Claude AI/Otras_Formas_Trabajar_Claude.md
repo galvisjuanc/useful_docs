@@ -65,3 +65,17 @@ Claude Design convierte ideas en interfaces funcionales. Describe lo que quieres
 
         Claude Design dentro de tus conversaciones está en beta y disponible en planes de pago (Pro, Max, Team y Enterprise). En Pro y Max está activado por defecto. En Team está activado por defecto, y un administrador puede desactivarlo. En Enterprise, un administrador lo activa en la configuración de la organización > Artifacts. El espacio independiente claude.ai/design tiene su propia configuración separada. La lección "Crear con artifacts" cubre cómo encaja junto a Claude Slides y Claude Docs.
 </p>
+
+<h3> Claude for Excel </h3>
+
+<p align="left"> 
+
+<strong> Descripcion </strong> 
+
+Claude for Excel lleva a Claude directamente a Microsoft Excel a través de una barra lateral, permitiéndote analizar, comprender y modificar hojas de cálculo mediante conversación.
+
+<strong> Cuándo usar Claude for Excel: </strong>
+
+* Estás trabajando con un libro complejo de varias pestañas y quieres entender cómo funcionan fórmulas específicas o flujos de cálculo entre hojas
+* Necesitas actualizar supuestos o entradas en tu modelo mientras preservas las dependencias y relaciones de las fórmulas
+</p>
