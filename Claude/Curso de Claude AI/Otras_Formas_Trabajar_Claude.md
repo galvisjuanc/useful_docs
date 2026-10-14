@@ -78,4 +78,7 @@ Claude for Excel lleva a Claude directamente a Microsoft Excel a través de una 
 
 * Estás trabajando con un libro complejo de varias pestañas y quieres entender cómo funcionan fórmulas específicas o flujos de cálculo entre hojas
 * Necesitas actualizar supuestos o entradas en tu modelo mientras preservas las dependencias y relaciones de las fórmulas
+* Estás depurando errores de hojas de cálculo como #REF!, #VALUE! o referencias circulares y quieres que Claude las rastree hasta su origen y sugiera soluciones
+* Quieres crear nuevas hojas de cálculo o completar plantillas existentes con datos manteniendo una estructura de fórmulas adecuada
+* Necesitas construir rápidamente tablas dinámicas o gráficos para visualizar tus datos
 </p>
