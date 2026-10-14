@@ -99,3 +99,19 @@ Claude for PowerPoint lleva a Claude a Microsoft PowerPoint como una barra later
 * Quieres aplicar un formato consistente en toda la presentación — títulos, estilos de viñetas y diseños — sin corregir manualmente cada diapositiva
 * Te gustaría obtener sugerencias visuales rápidas para una diapositiva, como qué diseño o tipo de gráfico se ajusta mejor al punto que estás planteando
 </p>
+
+<h3> Claude for Word </h3>
+
+<p align="left"> 
+
+<strong> Descripcion </strong> 
+
+Claude for Word lleva a Claude a Microsoft Word como una barra lateral, para que puedas redactar, revisar y reestructurar el documento que tienes abierto — trabajando con cambios rastreados y comentarios, y extrayendo contexto de fuentes conectadas para fundamentar lo que escribes.
+
+<strong> Cuándo usar Claude for Word: </strong>
+
+* Quieres convertir un esquema o notas preliminares en un primer borrador estructurado en la plantilla de tu equipo
+* Necesitas revisar una sección — ajustar la redacción, adaptar el tono para un lector específico, o reestructurarla — sin salir del documento
+* Estás respondiendo a comentarios de revisores y cambios rastreados y quieres ayuda para trabajarlos directamente en el documento
+* Quieres que el borrador se fundamente en material de origen que has conectado, para que las afirmaciones del documento se puedan rastrear hasta su procedencia
+</p>
