@@ -10,3 +10,15 @@ Como mencionamos al inicio de este curso, Claude es una inteligencia. Claude.ai 
 
 Claude también está disponible en varias herramientas especializadas diseñadas para encontrarte donde ya trabajas. Esta lección presenta formas adicionales de trabajar con Claude, cada una adaptada a flujos de trabajo y casos de uso específicos.
 </p>
+
+<h3> Claude Code </h3>
+
+<p align="left"> 
+
+<strong> Descripcion </strong> 
+
+Claude Code es una herramienta de codificación agéntica que funciona donde tú trabajas — en tu terminal, IDE, navegador, o incluso en Slack. Comprende tu base de código, ejecuta comandos y gestiona flujos de trabajo de desarrollo completos mediante lenguaje natural.
+
+
+
+</p>
