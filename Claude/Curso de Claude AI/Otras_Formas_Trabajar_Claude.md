@@ -58,5 +58,10 @@ Claude Design convierte ideas en interfaces funcionales. Describe lo que quieres
 
 * Quieres pasar de un brief escrito, boceto o captura de pantalla de referencia a un prototipo de interfaz 
 * Estás explorando direcciones de diseño y quieres generar y comparar varias variaciones rápidamente
+* Necesitas iterar sobre el diseño, el texto o las interacciones sin editar el marcado — en el lienzo, con un comentario, o simplemente preguntando (la lección "Crear con artifacts" cubre la mecánica)
+* Quieres un prototipo que use el sistema de diseño de tu equipo, para que lo que entregues coincida con lo que construirá ingeniería
 
+        Disponibilidad
+
+        Claude Design dentro de tus conversaciones está en beta y disponible en planes de pago (Pro, Max, Team y Enterprise). En Pro y Max está activado por defecto. En Team está activado por defecto, y un administrador puede desactivarlo. En Enterprise, un administrador lo activa en la configuración de la organización > Artifacts. El espacio independiente claude.ai/design tiene su propia configuración separada. La lección "Crear con artifacts" cubre cómo encaja junto a Claude Slides y Claude Docs.
 </p>
