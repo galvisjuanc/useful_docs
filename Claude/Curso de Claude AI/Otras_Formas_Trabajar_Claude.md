@@ -28,3 +28,15 @@ Claude Code es una herramienta de codificación agéntica que funciona donde tú
 * Prefieres trabajar en tu terminal junto a tu IDE y herramientas de desarrollo existentes en lugar de cambiar a una interfaz separada
 
 </p>
+
+<h3> Claude Tag </h3>
+
+<p align="left"> 
+
+<strong> Descripcion </strong> 
+
+Claude Tag lleva a Claude directamente a Slack, permitiéndote obtener ayuda en canales e hilos o traer contexto de Slack a tus conversaciones con Claude — solo etiqueta a Claude en cualquier hilo.
+
+<strong> Cuándo usar Claude Tag: </strong>
+
+</p>
