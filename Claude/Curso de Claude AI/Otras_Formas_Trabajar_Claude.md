@@ -82,3 +82,16 @@ Claude for Excel lleva a Claude directamente a Microsoft Excel a través de una 
 * Quieres crear nuevas hojas de cálculo o completar plantillas existentes con datos manteniendo una estructura de fórmulas adecuada
 * Necesitas construir rápidamente tablas dinámicas o gráficos para visualizar tus datos
 </p>
+
+<h3> Claude for PowerPoint </h3>
+
+<p align="left"> 
+
+<strong> Descripcion </strong> 
+
+Claude for PowerPoint lleva a Claude a Microsoft PowerPoint como una barra lateral, para que puedas redactar, editar y reestructurar presentaciones mediante conversación mientras mantienes intactos tu plantilla y estilo de marca existentes.
+
+<strong> Cuándo usar Claude for Powerpoint: </strong>
+
+* 
+</p>
