@@ -56,5 +56,7 @@ Claude Design convierte ideas en interfaces funcionales. Describe lo que quieres
 
 <strong> Cuándo usar Claude Design: </strong>
 
-* 
+* Quieres pasar de un brief escrito, boceto o captura de pantalla de referencia a un prototipo de interfaz 
+* Estás explorando direcciones de diseño y quieres generar y comparar varias variaciones rápidamente
+
 </p>
