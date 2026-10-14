@@ -45,3 +45,16 @@ Claude Tag lleva a Claude directamente a Slack, permitiéndote obtener ayuda en 
 * Quieres transferir tareas de codificación directamente desde un informe de error o una discusión de funcionalidad—solo etiqueta a Claude y puede iniciar una sesión de Claude Code usando el contexto circundante
 * Necesitas obtener respuestas rápidamente sobre tendencias de la industria, conceptos técnicos o información de la empresa durante una conversación
 </p>
+
+<h3> Claude Design </h3>
+
+<p align="left"> 
+
+<strong> Descripcion </strong> 
+
+Claude Design convierte ideas en interfaces funcionales. Describe lo que quieres en lenguaje sencillo — o parte de un boceto o captura de pantalla — y Claude construye un prototipo interactivo como un artefacto que puedes editar directamente, compartir con tu equipo o entregar a Claude Code para que lo construya. Funciona dentro de cualquier conversación con Claude y en la pestaña de Artifacts, y también está disponible como un espacio dedicado en claude.ai/design.
+
+<strong> Cuándo usar Claude Design: </strong>
+
+* 
+</p>
