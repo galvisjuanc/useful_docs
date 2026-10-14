@@ -19,6 +19,10 @@ Claude también está disponible en varias herramientas especializadas diseñada
 
 Claude Code es una herramienta de codificación agéntica que funciona donde tú trabajas — en tu terminal, IDE, navegador, o incluso en Slack. Comprende tu base de código, ejecuta comandos y gestiona flujos de trabajo de desarrollo completos mediante lenguaje natural.
 
+<strong> Cuándo usar Claude Code: </strong>
 
+* Quieres construir funcionalidades describiendo lo que necesitas en lenguaje sencillo, y que Claude escriba el código, ejecute pruebas y cree commits
+* Necesitas depurar problemas pegando mensajes de error y haciendo que Claude analice tu base de código para identificar y solucionar problemas
+* Estás navegando por una base de código desconocida y quieres hacer preguntas sobre cómo funcionan juntas las diferentes partes
 
 </p>
