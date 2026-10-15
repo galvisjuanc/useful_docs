@@ -167,6 +167,36 @@ Cada una de estas herramientas extiende las capacidades de Claude a los entornos
     <td>Claude.ai</td>
     <td>Tareas generales, investigación, escritura, análisis, creación de archivos</td>
     <td>Aplicaciones web, de escritorio y móviles</td>
-  </tr>  
+  </tr>
+  <tr>
+        <td>Claude Code	</td>
+        <td>Desarrollo de software, navegación de bases de código, flujos de trabajo de git	</td>
+        <td>Terminal/línea de comandos, IDE, o tu navegador</td>
+  </tr>
+<tr>
+        <td>Claude Cowork</td>	
+        <td>Tareas complejas de varios pasos: informes de investigación, creación de documentos, organización de archivos, análisis de datos	</td>
+        <td>Escritorio (además de web y móvil, en beta, en planes elegibles)</td>
+</tr>
+<tr>
+        <td>Claude Tag	</td>
+        <td>Colaboración en equipo, preparación de reuniones, respuestas rápidas en contexto	</td>
+        <td>Espacio de trabajo de Slack </td>
+</tr>
+<tr>
+        <td>Claude Design	</td>
+        <td>Prototipos de interfaz de usuario, exploración de diseño, maquetas conscientes del sistema de diseño</td>
+        <td>Cualquier conversación con Claude (planes de pago), además de claude.ai/design</td>
+</tr>
+<tr>
+        <td>Claude for Microsoft 365	</td>
+        <td>Edición en el lugar y transporte de contexto entre documentos	</td>
+        <td>Barras laterales de Excel, PowerPoint, Word y Outlook</td>
+</tr>
+<tr>
+        <td>Claude in Chrome	</td>
+        <td>Investigación web, gestión de correo electrónico, automatización del navegador	</td>
+        <td>Barra lateral del navegador Chrome</td>
+</tr>
 </table>
 </p>
