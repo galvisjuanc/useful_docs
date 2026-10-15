@@ -115,3 +115,16 @@ Claude for Word lleva a Claude a Microsoft Word como una barra lateral, para que
 * Estás respondiendo a comentarios de revisores y cambios rastreados y quieres ayuda para trabajarlos directamente en el documento
 * Quieres que el borrador se fundamente en material de origen que has conectado, para que las afirmaciones del documento se puedan rastrear hasta su procedencia
 </p>
+
+<h3> Claude for Outlook </h3>
+
+<p align="left"> 
+
+<strong> Descripcion </strong> 
+
+Claude for Outlook lleva a Claude a tu bandeja de entrada como una barra lateral, para que puedas clasificar correos, redactar respuestas con contexto de hilos relacionados y tu calendario, y convertir una larga cadena de correos en un resumen claro o un conjunto de próximos pasos.
+
+        Disponibilidad
+
+        Claude for Outlook está actualmente en beta y se instala por separado de los demás complementos de Microsoft 365. Consulta Claude for Outlook para la configuración.
+</p>
