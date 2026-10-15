@@ -128,3 +128,13 @@ Claude for Outlook lleva a Claude a tu bandeja de entrada como una barra lateral
 
         Claude for Outlook está actualmente en beta y se instala por separado de los demás complementos de Microsoft 365. Consulta Claude for Outlook para la configuración.
 </p>
+
+<h3> Claude in Chrome </h3>
+
+<p align="left"> 
+
+<strong> Descripcion </strong> 
+
+Claude in Chrome es una extensión de navegador que añade a Claude como una barra lateral en Google Chrome. Puede observar en qué estás trabajando y realizar acciones directamente dentro de tu navegador.
+       
+</p>
