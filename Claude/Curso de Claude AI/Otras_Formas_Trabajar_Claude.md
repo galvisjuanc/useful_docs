@@ -143,4 +143,6 @@ Claude in Chrome es una extensión de navegador que añade a Claude como una bar
 * Quieres resumir artículos, trabajos de investigación o páginas web mientras navegas
 * Necesitas ayuda para redactar respuestas de correo electrónico o gestionar tu bandeja de entrada
 * Estás completando formularios repetitivos y quieres automatizar el proceso
+* Quieres probar funcionalidades de un sitio web o navegar por flujos de trabajo de varios pasos sin hacer clic manualmente en cada paso
+* Necesitas un asistente de navegación que mantenga el contexto mientras te mueves entre pestañas y tareas. Esto lo hace excelente para extraer contexto de herramientas internas especializadas, CRMs o paneles de control.
 </p>
