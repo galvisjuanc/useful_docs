@@ -150,3 +150,23 @@ Claude in Chrome es una extensión de navegador que añade a Claude como una bar
 
         Claude in Chrome está disponible de forma general en todos los planes de pago (Pro, Max, Team y Enterprise); no está disponible en el plan gratuito. En los planes Team y Enterprise, los administradores pueden activarlo o desactivarlo para toda la organización y limitar a qué sitios puede acceder. Anthropic recomienda usarlo para tareas de bajo riesgo en sitios web de confianza. La extensión solicita permiso antes de realizar acciones de alto riesgo como realizar compras o compartir datos personales, y ciertas categorías de sitios web (servicios financieros, contenido para adultos) están bloqueadas por defecto.
 </p>
+
+<h3> Resumen </h3>
+
+<p align="left"> 
+
+Cada una de estas herramientas extiende las capacidades de Claude a los entornos específicos donde trabajas:
+
+<table>
+  <tr>
+    <th>Herramienta</th>
+    <th>Ideal para</th>
+    <th>Donde funciona</th>
+  </tr>
+  <tr>
+    <td>Claude.ai</td>
+    <td>Tareas generales, investigación, escritura, análisis, creación de archivos</td>
+    <td>Aplicaciones web, de escritorio y móviles</td>
+  </tr>  
+</table>
+</p>
