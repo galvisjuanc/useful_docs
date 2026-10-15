@@ -137,4 +137,10 @@ Claude for Outlook lleva a Claude a tu bandeja de entrada como una barra lateral
 
 Claude in Chrome es una extensión de navegador que añade a Claude como una barra lateral en Google Chrome. Puede observar en qué estás trabajando y realizar acciones directamente dentro de tu navegador.
        
+
+<strong> Cuando usar Claude in Chrome: </strong>
+
+* Quieres resumir artículos, trabajos de investigación o páginas web mientras navegas
+* Necesitas ayuda para redactar respuestas de correo electrónico o gestionar tu bandeja de entrada
+* Estás completando formularios repetitivos y quieres automatizar el proceso
 </p>
