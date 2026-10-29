@@ -8,3 +8,7 @@
 
 
 El diferenciador clave es que Claude Code funciona como un Agente de IA. </p>
+
+<h3> ¿Qué es un Agente? </h3>
+
+<p align="left"> Un Agente de IA es software que puede interactuar con su entorno y realizar acciones para completar un objetivo definido. En esencia, esto funciona al tener un modelo de lenguaje grande operando en un bucle en tiempo real. Los Agentes de IA pueden tener acceso a herramientas, servicios externos o incluso a otros Agentes de IA para ayudar a alcanzar sus objetivos. </p>
