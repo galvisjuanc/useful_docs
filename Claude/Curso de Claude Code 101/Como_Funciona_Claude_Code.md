@@ -13,3 +13,11 @@
 5. Si lo logran, Claude termina y espera el siguiente prompt. Si no lo logran, vuelve al inicio del bucle e intenta de nuevo hasta que los resultados sean completos y verificables.
 
 A lo largo de este bucle, puedes agregar contexto, interrumpir o guiar al modelo para ayudar a orientarlo hacia tu objetivo. </p>
+
+<h3> Contexto </h3>
+
+<p align="left"> Claude tiene una ventana de contexto que determina cuánto de tu conversación, contenido de archivos, salidas de comandos y más puede almacenar y referenciar. Una vez que alcanzas ese límite, Claude Code compacta tu conversación — determinando automáticamente qué puede eliminar o resumir para reducir la ventana de contexto a un tamaño utilizable. </p>
+
+<h3> Herramientas </h3>
+
+<p align="left"> Las herramientas son la columna vertebral de cómo funcionan los agentes. La mayoría de los asistentes de IA simplemente reciben texto y devuelven texto. Las herramientas permiten que Claude Code determine cuándo ejecutar código para acercarse a completar una tarea. Esto podría ser una herramienta de lectura de archivos, una herramienta de búsqueda web, o cualquier otro número de capacidades. Claude Code usa comprensión semántica para determinar cuándo llamar a una herramienta y cómo usar la salida. </p>
